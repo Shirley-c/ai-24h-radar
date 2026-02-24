@@ -28,7 +28,11 @@ const TZ = "Asia/Shanghai";
 const NEWS_QUERIES = [
   { title: "技术突破", query: "AI breakthrough" },
   { title: "产品范式", query: "AI product launch" },
-  { title: "国内外大厂动作", query: "OpenAI Google Microsoft Meta Baidu Alibaba AI" },
+  {
+    title: "国内外大厂动作",
+    query:
+      "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance) AI",
+  },
   { title: "代理式 AI", query: "AI agents agentic" },
   { title: "推理成本和 Token 经济", query: "LLM inference cost token economics" },
   { title: "AI-UX", query: "AI UX design" },
