@@ -1,0 +1,15 @@
+name: Refresh AI 24h Radar
+
+on:
+  schedule:
+    # 10:00 Asia/Shanghai = 02:00 UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping homepage to warm ISR cache
+        run: |
+          curl -L --fail --silent --show-error https://ai-24h-radar.vercel.app > /dev/null
