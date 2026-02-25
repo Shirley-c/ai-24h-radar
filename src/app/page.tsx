@@ -77,8 +77,8 @@ function toLocal(ts: string) {
   return d.toLocaleString("zh-CN", { hour12: false, timeZone: TZ });
 }
 
-async function fetchGoogleNews(query: string): Promise<NewsItem[]> {
-  const url = `https://news.google.com/rss/search?q=${encodeURIComponent(`${query} when:1d`)}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`;
+async function fetchGoogleNews(query: string, days: number): Promise<NewsItem[]> {
+  const url = `https://news.google.com/rss/search?q=${encodeURIComponent(`${query} when:${days}d`)}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`;
 
   try {
     const res = await fetch(url, { next: { revalidate: 1800 } });
@@ -96,7 +96,7 @@ async function fetchGoogleNews(query: string): Promise<NewsItem[]> {
       const source = findAll("source", block)[0] || "Google News";
 
       const ts = Date.parse(pubDate);
-      if (!Number.isNaN(ts) && now - ts > ONE_DAY_MS) continue;
+      if (!Number.isNaN(ts) && now - ts > ONE_DAY_MS * days) continue;
 
       items.push({ title, link, source, publishedAt: pubDate });
       if (items.length >= 6) break;
@@ -108,18 +108,19 @@ async function fetchGoogleNews(query: string): Promise<NewsItem[]> {
   }
 }
 
-async function fetchNewsSections(): Promise<NewsSection[]> {
+async function fetchNewsSections(days: number): Promise<NewsSection[]> {
   return Promise.all(
     NEWS_QUERIES.map(async ({ title, query }) => ({
       title,
       query,
-      items: await fetchGoogleNews(query),
+      items: await fetchGoogleNews(query, days),
     })),
   );
 }
 
-async function fetchStock(symbol: string, name: string, currency: string): Promise<StockItem> {
-  const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?range=2d&interval=1d`;
+async function fetchStock(symbol: string, name: string, currency: string, days: number): Promise<StockItem> {
+  const rangeDays = Math.max(days + 2, 3);
+  const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?range=${rangeDays}d&interval=1d`;
 
   try {
     const res = await fetch(url, { next: { revalidate: 900 } });
@@ -132,8 +133,9 @@ async function fetchStock(symbol: string, name: string, currency: string): Promi
 
     if (closes.length < 2) return { symbol, name, currency, price: null, previousClose: null, changePct: null };
 
-    const previousClose = closes[closes.length - 2];
     const price = closes[closes.length - 1];
+    const baseIndex = Math.max(0, closes.length - 1 - days);
+    const previousClose = closes[baseIndex];
     const changePct = ((price - previousClose) / previousClose) * 100;
 
     return { symbol, name, currency, price, previousClose, changePct };
@@ -142,8 +144,8 @@ async function fetchStock(symbol: string, name: string, currency: string): Promi
   }
 }
 
-async function fetchStocks(): Promise<StockItem[]> {
-  return Promise.all(STOCKS.map((s) => fetchStock(s.symbol, s.name, s.currency)));
+async function fetchStocks(days: number): Promise<StockItem[]> {
+  return Promise.all(STOCKS.map((s) => fetchStock(s.symbol, s.name, s.currency, days)));
 }
 
 function pctClass(pct: number | null) {
@@ -170,12 +172,12 @@ function signalScore(items: NewsItem[]) {
   return Math.min(100, items.length * 12 + uniqueSources * 8);
 }
 
-function buildBrief(sections: NewsSection[], stocks: StockItem[]) {
+function buildBrief(sections: NewsSection[], stocks: StockItem[], days: number) {
   const lines: string[] = [];
-  lines.push(`# AI 24h 简报`);
+  lines.push(`# AI ${days}天简报`);
   lines.push(`- 时间：${new Date().toLocaleString("zh-CN", { hour12: false, timeZone: TZ })}`);
   lines.push("");
-  lines.push("## 股票 24h 涨跌");
+  lines.push(`## 股票 ${days}天涨跌`);
   for (const s of stocks) {
     lines.push(`- ${s.name} (${s.symbol})：${fmtPrice(s.price, s.currency)} / ${fmtPct(s.changePct)}`);
   }
@@ -194,10 +196,20 @@ function buildBrief(sections: NewsSection[], stocks: StockItem[]) {
   return lines.join("\n");
 }
 
-export default async function Home() {
-  const [sections, stocks] = await Promise.all([fetchNewsSections(), fetchStocks()]);
+const DAY_OPTIONS = [1, 3, 7, 14, 30] as const;
+
+export default async function Home({
+  searchParams,
+}: {
+  searchParams?: Promise<{ days?: string }>;
+}) {
+  const params = (await searchParams) || {};
+  const parsedDays = Number(params.days || "1");
+  const days = DAY_OPTIONS.includes(parsedDays as (typeof DAY_OPTIONS)[number]) ? parsedDays : 1;
+
+  const [sections, stocks] = await Promise.all([fetchNewsSections(days), fetchStocks(days)]);
   const now = new Date().toLocaleString("zh-CN", { hour12: false, timeZone: TZ });
-  const brief = buildBrief(sections, stocks);
+  const brief = buildBrief(sections, stocks, days);
 
   return (
     <main className="min-h-screen bg-slate-50 px-4 py-8 text-slate-900 dark:bg-slate-950 dark:text-slate-100 md:px-10">
@@ -205,13 +217,36 @@ export default async function Home() {
         <header className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-900">
           <h1 className="text-2xl font-bold md:text-3xl">AI 24h Radar</h1>
           <p className="mt-2 text-sm text-slate-600 dark:text-slate-300">
-            统一口径：过去 24 小时，时区 Asia/Shanghai。
+            统一口径：过去 {days} 天，时区 Asia/Shanghai。
           </p>
           <p className="mt-1 text-xs text-slate-400">更新时间：{now}</p>
+          <form className="mt-4 flex items-center gap-2" method="get">
+            <label htmlFor="days" className="text-sm text-slate-600 dark:text-slate-300">
+              时间范围
+            </label>
+            <select
+              id="days"
+              name="days"
+              defaultValue={String(days)}
+              className="rounded-lg border border-slate-300 bg-white px-2 py-1 text-sm dark:border-slate-700 dark:bg-slate-900"
+            >
+              {DAY_OPTIONS.map((d) => (
+                <option key={d} value={d}>
+                  过去 {d} 天
+                </option>
+              ))}
+            </select>
+            <button
+              type="submit"
+              className="rounded-lg border border-slate-300 px-3 py-1 text-sm hover:bg-slate-100 dark:border-slate-700 dark:hover:bg-slate-800"
+            >
+              应用
+            </button>
+          </form>
         </header>
 
         <section className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-900">
-          <h2 className="text-xl font-semibold">AI 概念股 24h 涨跌幅</h2>
+          <h2 className="text-xl font-semibold">AI 概念股 {days}天 涨跌幅</h2>
           <div className="mt-4 grid gap-3 md:grid-cols-2 lg:grid-cols-3">
             {stocks.map((s) => (
               <div key={s.symbol} className="rounded-xl border border-slate-200 p-4 dark:border-slate-800">
@@ -244,7 +279,7 @@ export default async function Home() {
               ) : (
                 <>
                   <p className="mt-3 rounded-lg bg-slate-50 p-2 text-xs text-slate-600 dark:bg-slate-800 dark:text-slate-300">
-                    摘要：近24小时捕获 {section.items.length} 条动态，来源 {new Set(section.items.map((i) => i.source)).size} 家。
+                    摘要：近{days}天捕获 {section.items.length} 条动态，来源 {new Set(section.items.map((i) => i.source)).size} 家。
                   </p>
                   <ul className="mt-3 space-y-3">
                     {section.items.map((item) => (
