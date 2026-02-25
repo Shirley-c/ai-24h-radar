@@ -212,10 +212,10 @@ export default async function Home({
   const brief = buildBrief(sections, stocks, days);
 
   return (
-    <main className="min-h-screen bg-slate-50 px-4 py-8 text-slate-900 dark:bg-slate-950 dark:text-slate-100 md:px-10">
+    <main className="min-h-screen px-4 py-8 text-slate-900 dark:text-slate-100 md:px-10">
       <div className="mx-auto max-w-6xl space-y-6">
-        <header className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-900">
-          <h1 className="text-2xl font-bold md:text-3xl">AI 24h Radar</h1>
+        <header className="glass-card rounded-3xl p-6">
+          <h1 className="bg-gradient-to-r from-sky-500 via-violet-500 to-emerald-500 bg-clip-text text-2xl font-bold text-transparent md:text-3xl">AI 24h Radar</h1>
           <p className="mt-2 text-sm text-slate-600 dark:text-slate-300">
             统一口径：过去 {days} 天，时区 Asia/Shanghai。
           </p>
@@ -228,7 +228,7 @@ export default async function Home({
               id="days"
               name="days"
               defaultValue={String(days)}
-              className="rounded-lg border border-slate-300 bg-white px-2 py-1 text-sm dark:border-slate-700 dark:bg-slate-900"
+              className="rounded-xl border border-slate-300/70 bg-white/80 px-2 py-1 text-sm shadow-sm dark:border-slate-700 dark:bg-slate-900/80"
             >
               {DAY_OPTIONS.map((d) => (
                 <option key={d} value={d}>
@@ -238,18 +238,18 @@ export default async function Home({
             </select>
             <button
               type="submit"
-              className="rounded-lg border border-slate-300 px-3 py-1 text-sm hover:bg-slate-100 dark:border-slate-700 dark:hover:bg-slate-800"
+              className="rounded-xl border border-slate-300/70 bg-white/80 px-3 py-1 text-sm transition hover:-translate-y-0.5 hover:bg-slate-100 dark:border-slate-700 dark:bg-slate-900/80 dark:hover:bg-slate-800"
             >
               应用
             </button>
           </form>
         </header>
 
-        <section className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-900">
+        <section className="glass-card rounded-3xl p-6">
           <h2 className="text-xl font-semibold">AI 概念股 {days}天 涨跌幅</h2>
           <div className="mt-4 grid gap-3 md:grid-cols-2 lg:grid-cols-3">
             {stocks.map((s) => (
-              <div key={s.symbol} className="rounded-xl border border-slate-200 p-4 dark:border-slate-800">
+              <div key={s.symbol} className="rounded-2xl border border-slate-200/70 bg-white/70 p-4 transition hover:-translate-y-0.5 hover:shadow-md dark:border-slate-800 dark:bg-slate-900/60">
                 <div className="flex items-center justify-between">
                   <div>
                     <p className="text-sm font-medium">{s.name}</p>
@@ -265,10 +265,10 @@ export default async function Home({
 
         <section className="grid gap-4 md:grid-cols-2">
           {sections.map((section) => (
-            <article key={section.title} className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm dark:border-slate-800 dark:bg-slate-900">
+            <article key={section.title} className="glass-card rounded-3xl p-5 transition hover:-translate-y-0.5">
               <div className="flex items-center justify-between gap-2">
                 <h3 className="text-lg font-semibold">{section.title}</h3>
-                <span className="rounded-full bg-slate-100 px-2 py-1 text-xs text-slate-600 dark:bg-slate-800 dark:text-slate-300">
+                <span className="rounded-full border border-slate-200/70 bg-slate-100/80 px-2 py-1 text-xs text-slate-600 dark:border-slate-700 dark:bg-slate-800/80 dark:text-slate-300">
                   信号强度 {signalScore(section.items)}
                 </span>
               </div>
@@ -278,7 +278,7 @@ export default async function Home({
                 <p className="mt-3 text-sm text-slate-500">暂无可用数据（稍后自动重试）。</p>
               ) : (
                 <>
-                  <p className="mt-3 rounded-lg bg-slate-50 p-2 text-xs text-slate-600 dark:bg-slate-800 dark:text-slate-300">
+                  <p className="mt-3 rounded-xl border border-slate-200/70 bg-slate-50/80 p-2 text-xs text-slate-600 dark:border-slate-700 dark:bg-slate-800/70 dark:text-slate-300">
                     摘要：近{days}天捕获 {section.items.length} 条动态，来源 {new Set(section.items.map((i) => i.source)).size} 家。
                   </p>
                   <ul className="mt-3 space-y-3">
