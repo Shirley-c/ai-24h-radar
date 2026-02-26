@@ -201,9 +201,9 @@ const DAY_OPTIONS = [1, 3, 7, 14, 30] as const;
 export default async function Home({
   searchParams,
 }: {
-  searchParams?: Promise<{ days?: string }>;
+  searchParams?: { days?: string };
 }) {
-  const params = (await searchParams) || {};
+  const params = searchParams || {};
   const parsedDays = Number(params.days || "1");
   const days = DAY_OPTIONS.includes(parsedDays as (typeof DAY_OPTIONS)[number]) ? parsedDays : 1;
 
