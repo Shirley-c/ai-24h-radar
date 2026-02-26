@@ -272,7 +272,6 @@ export default async function Home({
                   信号强度 {signalScore(section.items)}
                 </span>
               </div>
-              <p className="mt-1 text-xs text-slate-400">查询词：{section.query}</p>
 
               {section.items.length === 0 ? (
                 <p className="mt-3 text-sm text-slate-500">暂无可用数据（稍后自动重试）。</p>
