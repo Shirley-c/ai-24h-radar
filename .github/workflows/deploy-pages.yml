@@ -30,6 +30,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Refresh snapshot data
+        run: npm run update:snapshot
+
       - name: Build static site
         run: npm run build
 

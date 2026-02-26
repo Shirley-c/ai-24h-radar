@@ -1,4 +1,5 @@
 import BriefCard from "@/components/BriefCard";
+import snapshot from "@/data/snapshot.json";
 
 type NewsItem = {
   title: string;
@@ -22,130 +23,13 @@ type StockItem = {
   currency: string;
 };
 
-const ONE_DAY_MS = 24 * 60 * 60 * 1000;
 const TZ = "Asia/Shanghai";
-
-const NEWS_QUERIES = [
-  { title: "技术突破", query: "AI breakthrough" },
-  { title: "产品范式", query: "AI product launch" },
-  {
-    title: "国外大厂动作",
-    query:
-      "(Microsoft OR Google OR Alphabet OR Amazon OR Meta OR Apple OR IBM OR Oracle OR Salesforce OR NVIDIA OR AMD OR Intel OR Qualcomm OR Arm OR OpenAI OR Anthropic OR Cohere OR xAI OR Hugging Face OR Mistral AI OR Databricks OR Snowflake OR Palantir OR ServiceNow) AI",
-  },
-  {
-    title: "国内大厂动作",
-    query:
-      "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
-  },
-  { title: "代理式 AI", query: "AI agents agentic" },
-  { title: "推理成本和 Token 经济", query: "LLM inference cost token economics" },
-  { title: "AI-UX", query: "AI UX design" },
-  { title: "商业 ROI", query: "AI ROI enterprise" },
-] as const;
-
-const STOCKS = [
-  { symbol: "NVDA", name: "NVIDIA", currency: "USD" },
-  { symbol: "MSFT", name: "Microsoft", currency: "USD" },
-  { symbol: "GOOGL", name: "Alphabet", currency: "USD" },
-  { symbol: "002230.SZ", name: "科大讯飞", currency: "CNY" },
-  { symbol: "300308.SZ", name: "中际旭创", currency: "CNY" },
-  { symbol: "688111.SS", name: "金山办公", currency: "CNY" },
-  { symbol: "600570.SS", name: "恒生电子", currency: "CNY" },
-  { symbol: "002415.SZ", name: "海康威视", currency: "CNY" },
-] as const;
-
-export const revalidate = 1800;
-
-function stripCData(input: string) {
-  return input.replace("<![CDATA[", "").replace("]]>", "").trim();
-}
-
-function findAll(tag: string, xml: string) {
-  const regex = new RegExp(`<${tag}>([\\s\\S]*?)<\\/${tag}>`, "g");
-  const results: string[] = [];
-  let match: RegExpExecArray | null;
-
-  while ((match = regex.exec(xml)) !== null) results.push(stripCData(match[1]));
-
-  return results;
-}
+const DAY_OPTIONS = [1, 3, 7, 14, 30] as const;
 
 function toLocal(ts: string) {
   const d = new Date(ts);
   if (Number.isNaN(d.getTime())) return ts;
   return d.toLocaleString("zh-CN", { hour12: false, timeZone: TZ });
-}
-
-async function fetchGoogleNews(query: string, days: number): Promise<NewsItem[]> {
-  const url = `https://news.google.com/rss/search?q=${encodeURIComponent(`${query} when:${days}d`)}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`;
-
-  try {
-    const res = await fetch(url, { next: { revalidate: 1800 } });
-    if (!res.ok) return [];
-
-    const xml = await res.text();
-    const blocks = xml.match(/<item>[\s\S]*?<\/item>/g) || [];
-    const now = Date.now();
-    const items: NewsItem[] = [];
-
-    for (const block of blocks) {
-      const title = findAll("title", block)[0] || "(无标题)";
-      const link = findAll("link", block)[0] || "#";
-      const pubDate = findAll("pubDate", block)[0] || "";
-      const source = findAll("source", block)[0] || "Google News";
-
-      const ts = Date.parse(pubDate);
-      if (!Number.isNaN(ts) && now - ts > ONE_DAY_MS * days) continue;
-
-      items.push({ title, link, source, publishedAt: pubDate });
-      if (items.length >= 6) break;
-    }
-
-    return items;
-  } catch {
-    return [];
-  }
-}
-
-async function fetchNewsSections(days: number): Promise<NewsSection[]> {
-  return Promise.all(
-    NEWS_QUERIES.map(async ({ title, query }) => ({
-      title,
-      query,
-      items: await fetchGoogleNews(query, days),
-    })),
-  );
-}
-
-async function fetchStock(symbol: string, name: string, currency: string, days: number): Promise<StockItem> {
-  const rangeDays = Math.max(days + 2, 3);
-  const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?range=${rangeDays}d&interval=1d`;
-
-  try {
-    const res = await fetch(url, { next: { revalidate: 900 } });
-    if (!res.ok) return { symbol, name, currency, price: null, previousClose: null, changePct: null };
-
-    const json = await res.json();
-    const result = json?.chart?.result?.[0];
-    const closes =
-      result?.indicators?.quote?.[0]?.close?.filter((n: number | null) => typeof n === "number") || [];
-
-    if (closes.length < 2) return { symbol, name, currency, price: null, previousClose: null, changePct: null };
-
-    const price = closes[closes.length - 1];
-    const baseIndex = Math.max(0, closes.length - 1 - days);
-    const previousClose = closes[baseIndex];
-    const changePct = ((price - previousClose) / previousClose) * 100;
-
-    return { symbol, name, currency, price, previousClose, changePct };
-  } catch {
-    return { symbol, name, currency, price: null, previousClose: null, changePct: null };
-  }
-}
-
-async function fetchStocks(days: number): Promise<StockItem[]> {
-  return Promise.all(STOCKS.map((s) => fetchStock(s.symbol, s.name, s.currency, days)));
 }
 
 function pctClass(pct: number | null) {
@@ -172,10 +56,10 @@ function signalScore(items: NewsItem[]) {
   return Math.min(100, items.length * 12 + uniqueSources * 8);
 }
 
-function buildBrief(sections: NewsSection[], stocks: StockItem[], days: number) {
+function buildBrief(sections: NewsSection[], stocks: StockItem[], days: number, updatedAt: string) {
   const lines: string[] = [];
   lines.push(`# AI ${days}天简报`);
-  lines.push(`- 时间：${new Date().toLocaleString("zh-CN", { hour12: false, timeZone: TZ })}`);
+  lines.push(`- 更新时间：${updatedAt}`);
   lines.push("");
   lines.push(`## 股票 ${days}天涨跌`);
   for (const s of stocks) {
@@ -196,7 +80,14 @@ function buildBrief(sections: NewsSection[], stocks: StockItem[], days: number) 
   return lines.join("\n");
 }
 
-const DAY_OPTIONS = [1, 3, 7, 14, 30] as const;
+type SnapshotShape = {
+  generatedAt: string;
+  timezone: string;
+  dayOptions: number[];
+  byDays: Record<string, { sections: NewsSection[]; stocks: StockItem[] }>;
+};
+
+const data = snapshot as SnapshotShape;
 
 export default async function Home({
   searchParams,
@@ -207,9 +98,12 @@ export default async function Home({
   const parsedDays = Number(params.days || "1");
   const days = DAY_OPTIONS.includes(parsedDays as (typeof DAY_OPTIONS)[number]) ? parsedDays : 1;
 
-  const [sections, stocks] = await Promise.all([fetchNewsSections(days), fetchStocks(days)]);
-  const now = new Date().toLocaleString("zh-CN", { hour12: false, timeZone: TZ });
-  const brief = buildBrief(sections, stocks, days);
+  const byDay = data.byDays[String(days)] ?? { sections: [], stocks: [] };
+  const sections = byDay.sections || [];
+  const stocks = byDay.stocks || [];
+
+  const generatedAtText = toLocal(data.generatedAt);
+  const brief = buildBrief(sections, stocks, days, generatedAtText);
 
   return (
     <main className="min-h-screen bg-slate-50 px-4 py-8 text-slate-900 dark:bg-slate-950 dark:text-slate-100 md:px-10">
@@ -217,9 +111,9 @@ export default async function Home({
         <header className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-900">
           <h1 className="text-2xl font-bold md:text-3xl">AI 24h Radar</h1>
           <p className="mt-2 text-sm text-slate-600 dark:text-slate-300">
-            统一口径：过去 {days} 天，时区 Asia/Shanghai。
+            统一口径：过去 {days} 天，时区 {data.timezone || TZ}。
           </p>
-          <p className="mt-1 text-xs text-slate-400">更新时间：{now}</p>
+          <p className="mt-1 text-xs text-slate-400">更新时间：{generatedAtText}</p>
           <form className="mt-4 flex items-center gap-2" method="get">
             <label htmlFor="days" className="text-sm text-slate-600 dark:text-slate-300">
               时间范围
@@ -274,7 +168,7 @@ export default async function Home({
               </div>
 
               {section.items.length === 0 ? (
-                <p className="mt-3 text-sm text-slate-500">暂无可用数据（稍后自动重试）。</p>
+                <p className="mt-3 text-sm text-slate-500">暂无可用数据（下次数据任务会自动刷新）。</p>
               ) : (
                 <>
                   <p className="mt-3 rounded-lg bg-slate-50 p-2 text-xs text-slate-600 dark:bg-slate-800 dark:text-slate-300">
