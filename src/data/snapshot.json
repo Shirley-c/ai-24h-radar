@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-26T19:04:36.078Z",
+  "generatedAt": "2026-02-26T20:45:34.010Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -49,22 +49,22 @@
               "publishedAt": "Thu, 26 Feb 2026 15:22:18 GMT"
             },
             {
-              "title": "百度2025年营收1291亿元，四季度AI业务收入占比43% - 同花顺财经",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Xcy1RNWZLNVlGWk55WWxrbUpjckUwdjlfWk1xZkdlZU9iTFM4OXZBT1R5Z3BHMzdweXpmMzlSWkxpZlVIUnpZT19EOXZCc0FPMFhhQXRkQllHQVFHZ2c?oc=5",
+              "title": "华为在马德里举办全球创新产品发布会，专业跑表领衔， 多款新品重磅发布 - 美通社",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1neXpXdXBQTW16TUxJdTVjMXpidWF3NV9CZmtQRlFvM2FPTHRpbExYU2FaZ3dWVmhTYjloUi04VDIyVkRkcXRqZkFfME9uWXJFY2k3ZktKOA?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 12:52:08 GMT"
-            },
-            {
-              "title": "【网通社快报】小米汽车立项曾陷路线之争，最终选择正面硬刚特斯拉、BBA - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11UXVvT0JwQ2ZKUTdpRy1XdjlEY3V2Rm1BdloxS1hYdDdQY1YxRVhmdkNPT0xtTjExTmRoRUZKRE8yT1VtT1BBQkNfclE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 13:08:08 GMT"
+              "publishedAt": "Thu, 26 Feb 2026 16:49:00 GMT"
             },
             {
               "title": "200亿补贴！京东正式上线“百亿超市”频道 - thepaper.cn",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IX084ME1XNFFtaWhCVjNfbEFpSlloVENRR2hYTzZ3SUZKUndJeUtYNTdTcTdpM2w5TzJIUE14QzRvOHl1S3lwWVN4LUlXaE9OS0NsdDBwZExHTWhWYkE?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 13:50:00 GMT"
+            },
+            {
+              "title": "观点直击｜首度“亮相”AI业务的百度 仍有旧疾与新忧 - 观点网",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IbFFiT3RpUDMyZmxKV1hrWUk4b21oNWJBQ1ZPLUV4UVU3QmJHclAxU3pkbGhRd2J3V0FBZjJESmkzQnNQZ0hWVXFYYUpDMGZqT0ExNzRwMUEzdmlMdGZ2MFRR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 16:58:23 GMT"
             }
           ]
         },
@@ -118,7 +118,14 @@
         {
           "title": "AI-UX",
           "query": "AI UX design",
-          "items": []
+          "items": [
+            {
+              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36 Kr",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMzUzdWNndmliZFZzODRjYVlSMnVIaXY5QmZ0Qm9ZcGJPb0xJbWg3V09fcWNfUnFzZ0Vqc1JhR0tRX0swV0NKQ2tfbDhkUQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 08:39:53 GMT"
+            }
+          ]
         },
         {
           "title": "商业 ROI",
@@ -138,25 +145,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 185.93899536132812,
+          "price": 184.9250030517578,
           "previousClose": 195.55999755859375,
-          "changePct": -4.919718918682732
+          "changePct": -5.438225935572267
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 401.2300109863281,
+          "price": 401.7950134277344,
           "previousClose": 400.6000061035156,
-          "changePct": 0.15726532032296223
+          "changePct": 0.298304369948002
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 307.1050109863281,
+          "price": 307.30999755859375,
           "previousClose": 312.8999938964844,
-          "changePct": -1.8520239767321263
+          "changePct": -1.786512127494622
         },
         {
           "symbol": "002230.SZ",
@@ -284,22 +291,22 @@
               "publishedAt": "Thu, 26 Feb 2026 15:22:18 GMT"
             },
             {
-              "title": "百度2025年营收1291亿元，四季度AI业务收入占比43% - 同花顺财经",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Xcy1RNWZLNVlGWk55WWxrbUpjckUwdjlfWk1xZkdlZU9iTFM4OXZBT1R5Z3BHMzdweXpmMzlSWkxpZlVIUnpZT19EOXZCc0FPMFhhQXRkQllHQVFHZ2c?oc=5",
+              "title": "华为在马德里举办全球创新产品发布会，专业跑表领衔， 多款新品重磅发布 - 美通社",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1neXpXdXBQTW16TUxJdTVjMXpidWF3NV9CZmtQRlFvM2FPTHRpbExYU2FaZ3dWVmhTYjloUi04VDIyVkRkcXRqZkFfME9uWXJFY2k3ZktKOA?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 12:52:08 GMT"
-            },
-            {
-              "title": "【网通社快报】小米汽车立项曾陷路线之争，最终选择正面硬刚特斯拉、BBA - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11UXVvT0JwQ2ZKUTdpRy1XdjlEY3V2Rm1BdloxS1hYdDdQY1YxRVhmdkNPT0xtTjExTmRoRUZKRE8yT1VtT1BBQkNfclE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 13:08:08 GMT"
+              "publishedAt": "Thu, 26 Feb 2026 16:49:00 GMT"
             },
             {
               "title": "200亿补贴！京东正式上线“百亿超市”频道 - thepaper.cn",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IX084ME1XNFFtaWhCVjNfbEFpSlloVENRR2hYTzZ3SUZKUndJeUtYNTdTcTdpM2w5TzJIUE14QzRvOHl1S3lwWVN4LUlXaE9OS0NsdDBwZExHTWhWYkE?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 13:50:00 GMT"
+            },
+            {
+              "title": "观点直击｜首度“亮相”AI业务的百度 仍有旧疾与新忧 - 观点网",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IbFFiT3RpUDMyZmxKV1hrWUk4b21oNWJBQ1ZPLUV4UVU3QmJHclAxU3pkbGhRd2J3V0FBZjJESmkzQnNQZ0hWVXFYYUpDMGZqT0ExNzRwMUEzdmlMdGZ2MFRR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 16:58:23 GMT"
             }
           ]
         },
@@ -373,25 +380,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 185.93899536132812,
+          "price": 184.95989990234375,
           "previousClose": 191.5500030517578,
-          "changePct": -2.9292652576536704
+          "changePct": -3.440408793746342
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 401.2250061035156,
+          "price": 401.81500244140625,
           "previousClose": 384.4700012207031,
-          "changePct": 4.357948560255647
+          "changePct": 4.511405614386624
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 307.1300048828125,
+          "price": 307.30999755859375,
           "previousClose": 311.489990234375,
-          "changePct": -1.399719248853521
+          "changePct": -1.3419348315610689
         },
         {
           "symbol": "002230.SZ",
@@ -526,22 +533,22 @@
               "publishedAt": "Thu, 26 Feb 2026 15:22:18 GMT"
             },
             {
-              "title": "百度2025年营收1291亿元，四季度AI业务收入占比43% - 同花顺财经",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Xcy1RNWZLNVlGWk55WWxrbUpjckUwdjlfWk1xZkdlZU9iTFM4OXZBT1R5Z3BHMzdweXpmMzlSWkxpZlVIUnpZT19EOXZCc0FPMFhhQXRkQllHQVFHZ2c?oc=5",
+              "title": "华为在马德里举办全球创新产品发布会，专业跑表领衔， 多款新品重磅发布 - 美通社",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1neXpXdXBQTW16TUxJdTVjMXpidWF3NV9CZmtQRlFvM2FPTHRpbExYU2FaZ3dWVmhTYjloUi04VDIyVkRkcXRqZkFfME9uWXJFY2k3ZktKOA?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 12:52:08 GMT"
-            },
-            {
-              "title": "【网通社快报】小米汽车立项曾陷路线之争，最终选择正面硬刚特斯拉、BBA - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11UXVvT0JwQ2ZKUTdpRy1XdjlEY3V2Rm1BdloxS1hYdDdQY1YxRVhmdkNPT0xtTjExTmRoRUZKRE8yT1VtT1BBQkNfclE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 13:08:08 GMT"
+              "publishedAt": "Thu, 26 Feb 2026 16:49:00 GMT"
             },
             {
               "title": "200亿补贴！京东正式上线“百亿超市”频道 - thepaper.cn",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IX084ME1XNFFtaWhCVjNfbEFpSlloVENRR2hYTzZ3SUZKUndJeUtYNTdTcTdpM2w5TzJIUE14QzRvOHl1S3lwWVN4LUlXaE9OS0NsdDBwZExHTWhWYkE?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 13:50:00 GMT"
+            },
+            {
+              "title": "观点直击｜首度“亮相”AI业务的百度 仍有旧疾与新忧 - 观点网",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IbFFiT3RpUDMyZmxKV1hrWUk4b21oNWJBQ1ZPLUV4UVU3QmJHclAxU3pkbGhRd2J3V0FBZjJESmkzQnNQZ0hWVXFYYUpDMGZqT0ExNzRwMUEzdmlMdGZ2MFRR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 16:58:23 GMT"
             }
           ]
         },
@@ -550,16 +557,16 @@
           "query": "AI agents agentic",
           "items": [
             {
-              "title": "Agentic Commerce如何能让AI开始赚钱？ - BlockBeats",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EeWtZRHY5TzdjRzVya2JPZmlUdFN6bVQ2WEEwaUdRSjQwaVc3VnNMVlZiRzhXeVNfZ1QwRFZXLWt6ZzNya21NY3pSY1RsVGViTTdR?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 25 Feb 2026 06:56:01 GMT"
-            },
-            {
               "title": "华为加入Agentic AI 基金会成为金牌会员，推动智能体AI 系统开放互操作-飞象网 - 飞象网",
               "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5od0JOcFVxRnRNT1N6Ry01VXBjUDV2V3diMm9IZHI4X2MxQ1dMdkFRZEE4R3VOVVU2QlNNSDN5VG1mYlhTTGNkekY1aw?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 02:42:25 GMT"
+            },
+            {
+              "title": "Agentic Commerce如何能让AI开始赚钱？ - BlockBeats",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EeWtZRHY5TzdjRzVya2JPZmlUdFN6bVQ2WEEwaUdRSjQwaVc3VnNMVlZiRzhXeVNfZ1QwRFZXLWt6ZzNya21NY3pSY1RsVGViTTdR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Wed, 25 Feb 2026 06:56:01 GMT"
             },
             {
               "title": "华为加入 Agentic AI 基金会成为金牌会员，推动智能体 AI 系统开放互操作 - 17173",
@@ -595,7 +602,14 @@
         {
           "title": "AI-UX",
           "query": "AI UX design",
-          "items": []
+          "items": [
+            {
+              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36 Kr",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMzUzdWNndmliZFZzODRjYVlSMnVIaXY5QmZ0Qm9ZcGJPb0xJbWg3V09fcWNfUnFzZ0Vqc1JhR0tRX0swV0NKQ2tfbDhkUQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 08:39:53 GMT"
+            }
+          ]
         },
         {
           "title": "商业 ROI",
@@ -615,25 +629,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 185.92999267578125,
+          "price": 184.95989990234375,
           "previousClose": 184.97000122070312,
-          "changePct": 0.5189984585298668
+          "changePct": -0.005461057627026923
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 401.2001037597656,
+          "price": 401.81500244140625,
           "previousClose": 396.8599853515625,
-          "changePct": 1.0936145160511426
+          "changePct": 1.248555478692138
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 307.1300048828125,
+          "price": 307.3399963378906,
           "previousClose": 302.0199890136719,
-          "changePct": 1.691946246945034
+          "changePct": 1.7614752393020991
         },
         {
           "symbol": "002230.SZ",
@@ -768,22 +782,22 @@
               "publishedAt": "Thu, 26 Feb 2026 15:22:18 GMT"
             },
             {
-              "title": "百度2025年营收1291亿元，四季度AI业务收入占比43% - 同花顺财经",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Xcy1RNWZLNVlGWk55WWxrbUpjckUwdjlfWk1xZkdlZU9iTFM4OXZBT1R5Z3BHMzdweXpmMzlSWkxpZlVIUnpZT19EOXZCc0FPMFhhQXRkQllHQVFHZ2c?oc=5",
+              "title": "华为在马德里举办全球创新产品发布会，专业跑表领衔， 多款新品重磅发布 - 美通社",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1neXpXdXBQTW16TUxJdTVjMXpidWF3NV9CZmtQRlFvM2FPTHRpbExYU2FaZ3dWVmhTYjloUi04VDIyVkRkcXRqZkFfME9uWXJFY2k3ZktKOA?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 12:52:08 GMT"
-            },
-            {
-              "title": "【网通社快报】小米汽车立项曾陷路线之争，最终选择正面硬刚特斯拉、BBA - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11UXVvT0JwQ2ZKUTdpRy1XdjlEY3V2Rm1BdloxS1hYdDdQY1YxRVhmdkNPT0xtTjExTmRoRUZKRE8yT1VtT1BBQkNfclE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 13:08:08 GMT"
+              "publishedAt": "Thu, 26 Feb 2026 16:49:00 GMT"
             },
             {
               "title": "200亿补贴！京东正式上线“百亿超市”频道 - thepaper.cn",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IX084ME1XNFFtaWhCVjNfbEFpSlloVENRR2hYTzZ3SUZKUndJeUtYNTdTcTdpM2w5TzJIUE14QzRvOHl1S3lwWVN4LUlXaE9OS0NsdDBwZExHTWhWYkE?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 13:50:00 GMT"
+            },
+            {
+              "title": "观点直击｜首度“亮相”AI业务的百度 仍有旧疾与新忧 - 观点网",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IbFFiT3RpUDMyZmxKV1hrWUk4b21oNWJBQ1ZPLUV4UVU3QmJHclAxU3pkbGhRd2J3V0FBZjJESmkzQnNQZ0hWVXFYYUpDMGZqT0ExNzRwMUEzdmlMdGZ2MFRR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 16:58:23 GMT"
             }
           ]
         },
@@ -792,16 +806,16 @@
           "query": "AI agents agentic",
           "items": [
             {
+              "title": "华为加入Agentic AI 基金会成为金牌会员，推动智能体AI 系统开放互操作-飞象网 - 飞象网",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5od0JOcFVxRnRNT1N6Ry01VXBjUDV2V3diMm9IZHI4X2MxQ1dMdkFRZEE4R3VOVVU2QlNNSDN5VG1mYlhTTGNkekY1aw?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 02:42:25 GMT"
+            },
+            {
               "title": "Agentic Commerce如何能让AI开始赚钱？ - BlockBeats",
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EeWtZRHY5TzdjRzVya2JPZmlUdFN6bVQ2WEEwaUdRSjQwaVc3VnNMVlZiRzhXeVNfZ1QwRFZXLWt6ZzNya21NY3pSY1RsVGViTTdR?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 25 Feb 2026 06:56:01 GMT"
-            },
-            {
-              "title": "华为加入 Agentic AI 基金会成为金牌会员，推动智能体 AI 系统开放互操作 - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONWN5bThZaDAwUFFad1VRaVRfdFdYRWRXaVN3WjAwclJlYUkybktLODVRMHU0cnBBOHI5Vkk0ZndDUU9HSjN0Y3ozaFhYakdoMGtjcmg1bzFSVkx0ZER2RVAzWHEySkxjY0J6Xy1DdjZCeHhidnFBakJrRkhJcjYyTk4wVjVYbEJzNl9tY1llbnFwN3k0M00yWmNNZzlhNkRXQ0JKQkxqUW5MRGFRSGQ4c3QySVRTbEtUMWpCVjVXaG16TzZKTldBYXpINUk4YTBsWTFnZEJWdlVYdk1ic2VEMFFJSkN4bzYzcHNNbkdiQ0FuTkRUeVVFS2NRX1V0Q3p6UHM3cndGdEhWNEN3cF9QNDRFQVN0cVBIUnNzOGZ5bEw4V21VMjh3YzVn?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT"
             },
             {
               "title": "华为加入 Agentic AI 基金会成为金牌会员，推动智能体 AI 系统开放互操作 - 17173",
@@ -857,25 +871,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 185.93899536132812,
+          "price": 184.95989990234375,
           "previousClose": 171.8800048828125,
-          "changePct": 8.179538095836698
+          "changePct": 7.609899143561871
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 401.2001037597656,
+          "price": 401.8699951171875,
           "previousClose": 393.6700134277344,
-          "changePct": 1.9127924594677166
+          "changePct": 2.0829581654073297
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 307.1300048828125,
+          "price": 307.3500061035156,
           "previousClose": 331.25,
-          "changePct": -7.28150795990566
+          "changePct": -7.215092497051886
         },
         {
           "symbol": "002230.SZ",
@@ -1022,22 +1036,22 @@
               "publishedAt": "Thu, 26 Feb 2026 15:22:18 GMT"
             },
             {
-              "title": "百度2025年营收1291亿元，四季度AI业务收入占比43% - 同花顺财经",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Xcy1RNWZLNVlGWk55WWxrbUpjckUwdjlfWk1xZkdlZU9iTFM4OXZBT1R5Z3BHMzdweXpmMzlSWkxpZlVIUnpZT19EOXZCc0FPMFhhQXRkQllHQVFHZ2c?oc=5",
+              "title": "华为在马德里举办全球创新产品发布会，专业跑表领衔， 多款新品重磅发布 - 美通社",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1neXpXdXBQTW16TUxJdTVjMXpidWF3NV9CZmtQRlFvM2FPTHRpbExYU2FaZ3dWVmhTYjloUi04VDIyVkRkcXRqZkFfME9uWXJFY2k3ZktKOA?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 12:52:08 GMT"
-            },
-            {
-              "title": "【网通社快报】小米汽车立项曾陷路线之争，最终选择正面硬刚特斯拉、BBA - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11UXVvT0JwQ2ZKUTdpRy1XdjlEY3V2Rm1BdloxS1hYdDdQY1YxRVhmdkNPT0xtTjExTmRoRUZKRE8yT1VtT1BBQkNfclE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 13:08:08 GMT"
+              "publishedAt": "Thu, 26 Feb 2026 16:49:00 GMT"
             },
             {
               "title": "200亿补贴！京东正式上线“百亿超市”频道 - thepaper.cn",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IX084ME1XNFFtaWhCVjNfbEFpSlloVENRR2hYTzZ3SUZKUndJeUtYNTdTcTdpM2w5TzJIUE14QzRvOHl1S3lwWVN4LUlXaE9OS0NsdDBwZExHTWhWYkE?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 13:50:00 GMT"
+            },
+            {
+              "title": "观点直击｜首度“亮相”AI业务的百度 仍有旧疾与新忧 - 观点网",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IbFFiT3RpUDMyZmxKV1hrWUk4b21oNWJBQ1ZPLUV4UVU3QmJHclAxU3pkbGhRd2J3V0FBZjJESmkzQnNQZ0hWVXFYYUpDMGZqT0ExNzRwMUEzdmlMdGZ2MFRR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 16:58:23 GMT"
             }
           ]
         },
@@ -1052,22 +1066,22 @@
               "publishedAt": "Mon, 09 Feb 2026 08:00:00 GMT"
             },
             {
-              "title": "Agentic Commerce如何能让AI开始赚钱？ - BlockBeats",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EeWtZRHY5TzdjRzVya2JPZmlUdFN6bVQ2WEEwaUdRSjQwaVc3VnNMVlZiRzhXeVNfZ1QwRFZXLWt6ZzNya21NY3pSY1RsVGViTTdR?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 25 Feb 2026 06:56:01 GMT"
-            },
-            {
               "title": "2026 年将引领潮流的 AI Agent 工作流模式 - 51CTO",
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00VjQ2Q3ozNkhlck1CWjZsS0lYcS1wSmlXR293QWJDMWJUZzhralhjcmtkV2VWb1YzMnJ5dWFDM0VsZHk0aHZuekE4TTdITmU3bm44?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Feb 2026 08:00:00 GMT"
             },
             {
-              "title": "华为加入Agentic AI 基金会成为金牌会员，推动智能体AI 系统开放互操作-飞象网 - 飞象网",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5od0JOcFVxRnRNT1N6Ry01VXBjUDV2V3diMm9IZHI4X2MxQ1dMdkFRZEE4R3VOVVU2QlNNSDN5VG1mYlhTTGNkekY1aw?oc=5",
+              "title": "华为加入 Agentic AI 基金会成为金牌会员，推动智能体 AI 系统开放互操作 - 手机新浪网",
+              "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONWN5bThZaDAwUFFad1VRaVRfdFdYRWRXaVN3WjAwclJlYUkybktLODVRMHU0cnBBOHI5Vkk0ZndDUU9HSjN0Y3ozaFhYakdoMGtjcmg1bzFSVkx0ZER2RVAzWHEySkxjY0J6Xy1DdjZCeHhidnFBakJrRkhJcjYyTk4wVjVYbEJzNl9tY1llbnFwN3k0M00yWmNNZzlhNkRXQ0JKQkxqUW5MRGFRSGQ4c3QySVRTbEtUMWpCVjVXaG16TzZKTldBYXpINUk4YTBsWTFnZEJWdlVYdk1ic2VEMFFJSkN4bzYzcHNNbkdiQ0FuTkRUeVVFS2NRX1V0Q3p6UHM3cndGdEhWNEN3cF9QNDRFQVN0cVBIUnNzOGZ5bEw4V21VMjh3YzVn?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 02:42:25 GMT"
+              "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT"
+            },
+            {
+              "title": "Agentic Commerce如何能让AI开始赚钱？ - BlockBeats",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EeWtZRHY5TzdjRzVya2JPZmlUdFN6bVQ2WEEwaUdRSjQwaVc3VnNMVlZiRzhXeVNfZ1QwRFZXLWt6ZzNya21NY3pSY1RsVGViTTdR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Wed, 25 Feb 2026 06:56:01 GMT"
             },
             {
               "title": "硬刚OpenAI！中国团队杀入Agentic AI全球前二，一战封神- 智源社区 - 智源社区",
@@ -1111,7 +1125,7 @@
               "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT"
             },
             {
-              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36Kr",
+              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36 Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMzUzdWNndmliZFZzODRjYVlSMnVIaXY5QmZ0Qm9ZcGJPb0xJbWg3V09fcWNfUnFzZ0Vqc1JhR0tRX0swV0NKQ2tfbDhkUQ?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 08:39:53 GMT"
@@ -1136,25 +1150,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 185.94000244140625,
+          "price": 184.9600067138672,
           "previousClose": 185.80999755859375,
-          "changePct": 0.06996657043252151
+          "changePct": -0.45745162041591675
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 401.2001037597656,
+          "price": 401.8699951171875,
           "previousClose": 470.6700134277344,
-          "changePct": -14.759790869624842
+          "changePct": -14.617463689581378
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 307.1300048828125,
+          "price": 307.3399963378906,
           "previousClose": 335.9700012207031,
-          "changePct": -8.584098649612843
+          "changePct": -8.5215956123431
         },
         {
           "symbol": "002230.SZ",
