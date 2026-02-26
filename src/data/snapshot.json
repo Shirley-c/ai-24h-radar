@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-26T13:13:47.744Z",
+  "generatedAt": "2026-02-26T14:53:51.930Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -14,14 +14,7 @@
         {
           "title": "技术突破",
           "query": "AI breakthrough",
-          "items": [
-            {
-              "title": "中国科学家用天文AI模型绘制“极致深空图” - TV BRICS",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVXp0RjNHclZ6a0NWUlRFV2JIVDQ2UDg4OVRnbWZsM2pHSVN1Q2ZxTjczanNQUkR2MU1NNmtPSU1LcGlyVXB4el9ELWZ0Ynd0c1VUMU02R2otcTJBRGJPYjRZdXFRdHZPMW1QdjdMNm9laFRLaEtYMUM5dkZDTVQxenVONDNNUEZJTzVqMGNaSzFfaFVzcC1xejV3MWc4LXVvS19nOHh6WQ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 25 Feb 2026 14:05:03 GMT"
-            }
-          ]
+          "items": []
         },
         {
           "title": "产品范式",
@@ -44,34 +37,34 @@
               "publishedAt": "Thu, 26 Feb 2026 12:52:08 GMT"
             },
             {
+              "title": "未来3年投入超200亿元商品补贴 京东“百亿超市”频道正式上线 - 经济参考报",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeHh1czdVZHdxWGltMFBVT3IxbjNLNEtBSjY4eEFMMlhQOVlxUEtsRHJOYjZ6by1pY05lZlhvNDFCczRlSEJRdVVVYUI5RElMWUZWbEh5WU9SeW5QYVlGSGEzS0diZ3JjUGhEaTZQd0Y5d3VEOVJTRTJjcUR5S1NHbg?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:44:35 GMT"
+            },
+            {
+              "title": "【网通社快报】小米汽车立项曾陷路线之争，最终选择正面硬刚特斯拉、BBA - 凤凰网汽车",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11UXVvT0JwQ2ZKUTdpRy1XdjlEY3V2Rm1BdloxS1hYdDdQY1YxRVhmdkNPT0xtTjExTmRoRUZKRE8yT1VtT1BBQkNfclE?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:08:08 GMT"
+            },
+            {
               "title": "拼多多“千亿扶持”推动包裹入村 中转费由平台承担 - chinanews.com.cn",
               "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkdTNWUC1IOEdXZkZtbTlzQTZNRmZGZVkxSDlQck9xZVBvS3FCdl85OUl0R3BsVTVRZnFLd0p1V09wTlJBcGdBM0xzRWdQejN6NXZpTG5RcmpUYmlpSk9kcXZMUFJXX01y?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 05:56:25 GMT"
             },
             {
+              "title": "200亿补贴！京东正式上线“百亿超市”频道 - thepaper.cn",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IX084ME1XNFFtaWhCVjNfbEFpSlloVENRR2hYTzZ3SUZKUndJeUtYNTdTcTdpM2w5TzJIUE14QzRvOHl1S3lwWVN4LUlXaE9OS0NsdDBwZExHTWhWYkE?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:50:00 GMT"
+            },
+            {
               "title": "小米集团-W获南向资金连续5天净买入 - 东方财富网",
               "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RT085ck1nLWN1akpKamQzMGxUaS1LaDFOcEkxLWpzR2VnQ1NaZ1V4Z2tGWllwa0xmX1BrcTkxRzg4QkMzTGl5Mk54eURMRUozR3d6Rk5XT213cTRJSVFkXw?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 12:23:14 GMT"
-            },
-            {
-              "title": "小米智能室外摄像机 4 4G 双摄版上架：内置中国电信 / 联通双不限 SIM 卡且流量免费，499 元 - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QbWxZYjJYS2dOZUI5WFRwV2JkM28wamszUUh4ZHRNM3pteExVY3czd2d5cnJHSzJtVTNMQzFpM0RyMzhNRm1sY25EY3lGdFFiUW1wRnhTWndzYy1NaTBaV0NLSE9VTVBtSDZ4V2dDY2E1aW1a?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 13:05:45 GMT"
-            },
-            {
-              "title": "刚刚，华为祭出AI编程利器，集成智谱、DeepSeek模型，同任务Tokens暴降30% - 智东西",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA1azlMOTRWTTJ2VWRvN29Gdy1YN0g0Y0ROVGZmSFBNQkJ4MHlxR1hHZElyLWxLREtvWDJoYXR4UU1rdjFKUFE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 09:51:40 GMT"
-            },
-            {
-              "title": "狂砸200亿！京东百亿超市意欲何为？ - 雷科技",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vdTJtTE5JdGNaMHluMTF5QmdmaTVGZ28yYUdZRlA0QmNlYmRaLWtBMVBrYkl0V0NiWGoxUjg4cEdiUUFURnRYUkZQbWhnQQ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 11:19:10 GMT"
             }
           ]
         },
@@ -79,6 +72,12 @@
           "title": "代理式 AI",
           "query": "AI agents agentic",
           "items": [
+            {
+              "title": "黄仁勋能否玩转“Agent经济学”？｜AGI焦点 - 搜狐网",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTUxOQlBGUjJCalpvOGZWUENGaXZaYkVzTWxLOUoyZEt2QTNVT3pmamtQWlQ1T1dFT0FRVUNkVUVTSWU4NHZhQkZ0blp1djJta1Y2SFFzS3htOG4yTF83bnhjaHZpUlBDSFE3SjJxMWxpUUlnVEVaZlZKRmhXZDFVV0toRVB6azg?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 14:01:41 GMT"
+            },
             {
               "title": "华为加入Agentic AI 基金会成为金牌会员，推动智能体AI 系统开放互操作-飞象网 - 飞象网",
               "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5od0JOcFVxRnRNT1N6Ry01VXBjUDV2V3diMm9IZHI4X2MxQ1dMdkFRZEE4R3VOVVU2QlNNSDN5VG1mYlhTTGNkekY1aw?oc=5",
@@ -108,12 +107,6 @@
               "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWt1VHpvN2V4cWZqb0l0ZXo5amhHMVI0dTc4a0xsLWV2SXRPM0R3VEhiUkx5UGh3YklMZV9yN1luWnR1MlluSk52TUw3WmJyQ2gxMXlUV0VhY1FUYUxtNkx0NFdLR1BERGpsSHAwc0NtcTAxRWxwbzhsMTRCd3VweVo2NlBYQm9TcWlKV05iVWk3N2xISjI4cGlDRjBvUjFibDVn?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 25 Feb 2026 22:46:43 GMT"
-            },
-            {
-              "title": "黄仁勋反驳“AI 吞噬软件”：传统软件模式要退场了，实时生成接管，算力需求翻几百倍 - InfoQ 官网",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41T3pEWUw3YVQ1MVZ3eXAxeVZLMkNzQVRlcW1kclFuRDJpNjBjM3lJTHU1dkZiRlFManlBcWlKOUszNGY5OTU3X3pRNlR1ZzVJN3o1Z3JLc2ZoZw?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 08:11:17 GMT"
             }
           ]
         },
@@ -130,7 +123,14 @@
         {
           "title": "商业 ROI",
           "query": "AI ROI enterprise",
-          "items": []
+          "items": [
+            {
+              "title": "Datatonic与JOTO PR Disruptors合作，推动企业AI从实验走向投资回报率。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkJQSXBaLTJlQTNMU3d4ZE5hU1ZCM2JmeXU2SzNGRERvTVphTjdjNV80XzRRUHVUY0xMcG4yRjZYRE1PMTR5b1F6WDlxVGlKbkVEQm5pMkVDX1JWRjRqN1gxcGtRaExNdk85SHJpZUI2UEdRY0liTmF5dmlEcWg4b2s4blVFdDlGYkFTMEJPT3czd1N1b1ZkWG5UODExTkQ0akNBWWtR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:06:00 GMT"
+            }
+          ]
         }
       ],
       "stocks": [
@@ -138,25 +138,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 195.55999755859375,
-          "previousClose": 192.85000610351562,
-          "changePct": 1.4052327556699633
+          "price": 188.72000122070312,
+          "previousClose": 195.55999755859375,
+          "changePct": -3.4976459517704908
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 400.6000061035156,
-          "previousClose": 389,
-          "changePct": 2.982006710415328
+          "price": 404.57000732421875,
+          "previousClose": 400.6000061035156,
+          "changePct": 0.9910137694000112
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 312.8999938964844,
-          "previousClose": 310.8999938964844,
-          "changePct": 0.643293676186404
+          "price": 307.05999755859375,
+          "previousClose": 312.8999938964844,
+          "changePct": -1.866409859957572
         },
         {
           "symbol": "002230.SZ",
@@ -272,34 +272,34 @@
               "publishedAt": "Thu, 26 Feb 2026 12:52:08 GMT"
             },
             {
+              "title": "未来3年投入超200亿元商品补贴 京东“百亿超市”频道正式上线 - 经济参考报",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeHh1czdVZHdxWGltMFBVT3IxbjNLNEtBSjY4eEFMMlhQOVlxUEtsRHJOYjZ6by1pY05lZlhvNDFCczRlSEJRdVVVYUI5RElMWUZWbEh5WU9SeW5QYVlGSGEzS0diZ3JjUGhEaTZQd0Y5d3VEOVJTRTJjcUR5S1NHbg?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:44:35 GMT"
+            },
+            {
+              "title": "【网通社快报】小米汽车立项曾陷路线之争，最终选择正面硬刚特斯拉、BBA - 凤凰网汽车",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11UXVvT0JwQ2ZKUTdpRy1XdjlEY3V2Rm1BdloxS1hYdDdQY1YxRVhmdkNPT0xtTjExTmRoRUZKRE8yT1VtT1BBQkNfclE?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:08:08 GMT"
+            },
+            {
               "title": "拼多多“千亿扶持”推动包裹入村 中转费由平台承担 - chinanews.com.cn",
               "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkdTNWUC1IOEdXZkZtbTlzQTZNRmZGZVkxSDlQck9xZVBvS3FCdl85OUl0R3BsVTVRZnFLd0p1V09wTlJBcGdBM0xzRWdQejN6NXZpTG5RcmpUYmlpSk9kcXZMUFJXX01y?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 05:56:25 GMT"
             },
             {
+              "title": "200亿补贴！京东正式上线“百亿超市”频道 - thepaper.cn",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IX084ME1XNFFtaWhCVjNfbEFpSlloVENRR2hYTzZ3SUZKUndJeUtYNTdTcTdpM2w5TzJIUE14QzRvOHl1S3lwWVN4LUlXaE9OS0NsdDBwZExHTWhWYkE?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:50:00 GMT"
+            },
+            {
               "title": "小米集团-W获南向资金连续5天净买入 - 东方财富网",
               "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RT085ck1nLWN1akpKamQzMGxUaS1LaDFOcEkxLWpzR2VnQ1NaZ1V4Z2tGWllwa0xmX1BrcTkxRzg4QkMzTGl5Mk54eURMRUozR3d6Rk5XT213cTRJSVFkXw?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 12:23:14 GMT"
-            },
-            {
-              "title": "小米智能室外摄像机 4 4G 双摄版上架：内置中国电信 / 联通双不限 SIM 卡且流量免费，499 元 - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QbWxZYjJYS2dOZUI5WFRwV2JkM28wamszUUh4ZHRNM3pteExVY3czd2d5cnJHSzJtVTNMQzFpM0RyMzhNRm1sY25EY3lGdFFiUW1wRnhTWndzYy1NaTBaV0NLSE9VTVBtSDZ4V2dDY2E1aW1a?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 13:05:45 GMT"
-            },
-            {
-              "title": "刚刚，华为祭出AI编程利器，集成智谱、DeepSeek模型，同任务Tokens暴降30% - 智东西",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA1azlMOTRWTTJ2VWRvN29Gdy1YN0g0Y0ROVGZmSFBNQkJ4MHlxR1hHZElyLWxLREtvWDJoYXR4UU1rdjFKUFE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 09:51:40 GMT"
-            },
-            {
-              "title": "狂砸200亿！京东百亿超市意欲何为？ - 雷科技",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vdTJtTE5JdGNaMHluMTF5QmdmaTVGZ28yYUdZRlA0QmNlYmRaLWtBMVBrYkl0V0NiWGoxUjg4cEdiUUFURnRYUkZQbWhnQQ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 11:19:10 GMT"
             }
           ]
         },
@@ -312,6 +312,12 @@
               "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5od0JOcFVxRnRNT1N6Ry01VXBjUDV2V3diMm9IZHI4X2MxQ1dMdkFRZEE4R3VOVVU2QlNNSDN5VG1mYlhTTGNkekY1aw?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 02:42:25 GMT"
+            },
+            {
+              "title": "黄仁勋能否玩转“Agent经济学”？｜AGI焦点 - 搜狐网",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTUxOQlBGUjJCalpvOGZWUENGaXZaYkVzTWxLOUoyZEt2QTNVT3pmamtQWlQ1T1dFT0FRVUNkVUVTSWU4NHZhQkZ0blp1djJta1Y2SFFzS3htOG4yTF83bnhjaHZpUlBDSFE3SjJxMWxpUUlnVEVaZlZKRmhXZDFVV0toRVB6azg?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 14:01:41 GMT"
             },
             {
               "title": "GitHub 发布 Agentic Workflows，解锁 AI 驱动的代码库自动化潜力 - InfoQ 官网",
@@ -336,12 +342,6 @@
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tYXRUeHMwUzNvbmNBMEZTNmV1bGVsSkZMTkoxaDhFMTNUb0VwYVdYcUZKem84ekFibnp4X25aYlRORWNfU3VhRUY0U1R6aGw3ZTBsVWVobUREcUtDQlJwZF83MGo?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 25 Feb 2026 08:02:25 GMT"
-            },
-            {
-              "title": "Nvidia Says Agentic AI Has Reached Inflection Point -- Market Talk - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWt1VHpvN2V4cWZqb0l0ZXo5amhHMVI0dTc4a0xsLWV2SXRPM0R3VEhiUkx5UGh3YklMZV9yN1luWnR1MlluSk52TUw3WmJyQ2gxMXlUV0VhY1FUYUxtNkx0NFdLR1BERGpsSHAwc0NtcTAxRWxwbzhsMTRCd3VweVo2NlBYQm9TcWlKV05iVWk3N2xISjI4cGlDRjBvUjFibDVn?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 25 Feb 2026 22:46:43 GMT"
             }
           ]
         },
@@ -358,7 +358,14 @@
         {
           "title": "商业 ROI",
           "query": "AI ROI enterprise",
-          "items": []
+          "items": [
+            {
+              "title": "Datatonic与JOTO PR Disruptors合作，推动企业AI从实验走向投资回报率。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkJQSXBaLTJlQTNMU3d4ZE5hU1ZCM2JmeXU2SzNGRERvTVphTjdjNV80XzRRUHVUY0xMcG4yRjZYRE1PMTR5b1F6WDlxVGlKbkVEQm5pMkVDX1JWRjRqN1gxcGtRaExNdk85SHJpZUI2UEdRY0liTmF5dmlEcWg4b2s4blVFdDlGYkFTMEJPT3czd1N1b1ZkWG5UODExTkQ0akNBWWtR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:06:00 GMT"
+            }
+          ]
         }
       ],
       "stocks": [
@@ -366,25 +373,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 195.55999755859375,
-          "previousClose": 189.82000732421875,
-          "changePct": 3.023912134072838
+          "price": 188.88499450683594,
+          "previousClose": 191.5500030517578,
+          "changePct": -1.39128608846943
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 400.6000061035156,
-          "previousClose": 397.2300109863281,
-          "changePct": 0.8483737441739991
+          "price": 404.57000732421875,
+          "previousClose": 384.4700012207031,
+          "changePct": 5.227977745909313
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 312.8999938964844,
-          "previousClose": 314.9800109863281,
-          "changePct": -0.6603647905561963
+          "price": 307.1000061035156,
+          "previousClose": 311.489990234375,
+          "changePct": -1.4093499850689297
         },
         {
           "symbol": "002230.SZ",
@@ -507,34 +514,34 @@
               "publishedAt": "Thu, 26 Feb 2026 12:52:08 GMT"
             },
             {
+              "title": "未来3年投入超200亿元商品补贴 京东“百亿超市”频道正式上线 - 经济参考报",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeHh1czdVZHdxWGltMFBVT3IxbjNLNEtBSjY4eEFMMlhQOVlxUEtsRHJOYjZ6by1pY05lZlhvNDFCczRlSEJRdVVVYUI5RElMWUZWbEh5WU9SeW5QYVlGSGEzS0diZ3JjUGhEaTZQd0Y5d3VEOVJTRTJjcUR5S1NHbg?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:44:35 GMT"
+            },
+            {
+              "title": "【网通社快报】小米汽车立项曾陷路线之争，最终选择正面硬刚特斯拉、BBA - 凤凰网汽车",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11UXVvT0JwQ2ZKUTdpRy1XdjlEY3V2Rm1BdloxS1hYdDdQY1YxRVhmdkNPT0xtTjExTmRoRUZKRE8yT1VtT1BBQkNfclE?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:08:08 GMT"
+            },
+            {
               "title": "拼多多“千亿扶持”推动包裹入村 中转费由平台承担 - chinanews.com.cn",
               "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkdTNWUC1IOEdXZkZtbTlzQTZNRmZGZVkxSDlQck9xZVBvS3FCdl85OUl0R3BsVTVRZnFLd0p1V09wTlJBcGdBM0xzRWdQejN6NXZpTG5RcmpUYmlpSk9kcXZMUFJXX01y?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 05:56:25 GMT"
             },
             {
+              "title": "200亿补贴！京东正式上线“百亿超市”频道 - thepaper.cn",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IX084ME1XNFFtaWhCVjNfbEFpSlloVENRR2hYTzZ3SUZKUndJeUtYNTdTcTdpM2w5TzJIUE14QzRvOHl1S3lwWVN4LUlXaE9OS0NsdDBwZExHTWhWYkE?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:50:00 GMT"
+            },
+            {
               "title": "小米集团-W获南向资金连续5天净买入 - 东方财富网",
               "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RT085ck1nLWN1akpKamQzMGxUaS1LaDFOcEkxLWpzR2VnQ1NaZ1V4Z2tGWllwa0xmX1BrcTkxRzg4QkMzTGl5Mk54eURMRUozR3d6Rk5XT213cTRJSVFkXw?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 12:23:14 GMT"
-            },
-            {
-              "title": "小米智能室外摄像机 4 4G 双摄版上架：内置中国电信 / 联通双不限 SIM 卡且流量免费，499 元 - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QbWxZYjJYS2dOZUI5WFRwV2JkM28wamszUUh4ZHRNM3pteExVY3czd2d5cnJHSzJtVTNMQzFpM0RyMzhNRm1sY25EY3lGdFFiUW1wRnhTWndzYy1NaTBaV0NLSE9VTVBtSDZ4V2dDY2E1aW1a?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 13:05:45 GMT"
-            },
-            {
-              "title": "刚刚，华为祭出AI编程利器，集成智谱、DeepSeek模型，同任务Tokens暴降30% - 智东西",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA1azlMOTRWTTJ2VWRvN29Gdy1YN0g0Y0ROVGZmSFBNQkJ4MHlxR1hHZElyLWxLREtvWDJoYXR4UU1rdjFKUFE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 09:51:40 GMT"
-            },
-            {
-              "title": "狂砸200亿！京东百亿超市意欲何为？ - 雷科技",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vdTJtTE5JdGNaMHluMTF5QmdmaTVGZ28yYUdZRlA0QmNlYmRaLWtBMVBrYkl0V0NiWGoxUjg4cEdiUUFURnRYUkZQbWhnQQ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 11:19:10 GMT"
             }
           ]
         },
@@ -573,10 +580,10 @@
               "publishedAt": "Thu, 26 Feb 2026 00:04:29 GMT"
             },
             {
-              "title": "Circle 已加入 Agentic AI 基金会 - Bitget",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52ems1R1VzZU5BX2VmQmZCTjZVWHk0T29XRXNVVzQtblp5RFh3VV84YWZxRnJzXzF5Y01ZVG9VeEQzbDRFaTZ0Ym95d1dVcXpYZVZMOVQ5MjZHWlZabWppMURvb0I1Tl93eXpZ0gFrQVVfeXFMTnZ6azVHVXNlTkFfZWZCZkJONlVYeTRPb1dFc1VXNC1uWnlEWHdVXzhhZnFGcnNfMXljTVlUb1V4RDNsNEVpNnRib3l3V1VxelhlVkw5VDkyNkdaVlptamkxRG9vQjVOX3d5elk?oc=5",
+              "title": "黄仁勋能否玩转“Agent经济学”？｜AGI焦点 - 搜狐网",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTUxOQlBGUjJCalpvOGZWUENGaXZaYkVzTWxLOUoyZEt2QTNVT3pmamtQWlQ1T1dFT0FRVUNkVUVTSWU4NHZhQkZ0blp1djJta1Y2SFFzS3htOG4yTF83bnhjaHZpUlBDSFE3SjJxMWxpUUlnVEVaZlZKRmhXZDFVV0toRVB6azg?oc=5",
               "source": "Google News",
-              "publishedAt": "Tue, 24 Feb 2026 17:16:00 GMT"
+              "publishedAt": "Thu, 26 Feb 2026 14:01:41 GMT"
             }
           ]
         },
@@ -593,7 +600,14 @@
         {
           "title": "商业 ROI",
           "query": "AI ROI enterprise",
-          "items": []
+          "items": [
+            {
+              "title": "Datatonic与JOTO PR Disruptors合作，推动企业AI从实验走向投资回报率。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkJQSXBaLTJlQTNMU3d4ZE5hU1ZCM2JmeXU2SzNGRERvTVphTjdjNV80XzRRUHVUY0xMcG4yRjZYRE1PMTR5b1F6WDlxVGlKbkVEQm5pMkVDX1JWRjRqN1gxcGtRaExNdk85SHJpZUI2UEdRY0liTmF5dmlEcWg4b2s4blVFdDlGYkFTMEJPT3czd1N1b1ZkWG5UODExTkQ0akNBWWtR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:06:00 GMT"
+            }
+          ]
         }
       ],
       "stocks": [
@@ -601,25 +615,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 195.55999755859375,
-          "previousClose": 182.80999755859375,
-          "changePct": 6.974454444655525
+          "price": 188.88499450683594,
+          "previousClose": 184.97000122070312,
+          "changePct": 2.1165557983975507
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 400.6000061035156,
-          "previousClose": 401.32000732421875,
-          "changePct": -0.17940825465037177
+          "price": 404.6099853515625,
+          "previousClose": 396.8599853515625,
+          "changePct": 1.9528297853296
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 312.8999938964844,
-          "previousClose": 305.7200012207031,
-          "changePct": 2.3485518275259727
+          "price": 307.0899963378906,
+          "previousClose": 302.0199890136719,
+          "changePct": 1.6786992611900402
         },
         {
           "symbol": "002230.SZ",
@@ -742,34 +756,34 @@
               "publishedAt": "Thu, 26 Feb 2026 12:52:08 GMT"
             },
             {
+              "title": "未来3年投入超200亿元商品补贴 京东“百亿超市”频道正式上线 - 经济参考报",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeHh1czdVZHdxWGltMFBVT3IxbjNLNEtBSjY4eEFMMlhQOVlxUEtsRHJOYjZ6by1pY05lZlhvNDFCczRlSEJRdVVVYUI5RElMWUZWbEh5WU9SeW5QYVlGSGEzS0diZ3JjUGhEaTZQd0Y5d3VEOVJTRTJjcUR5S1NHbg?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:44:35 GMT"
+            },
+            {
+              "title": "【网通社快报】小米汽车立项曾陷路线之争，最终选择正面硬刚特斯拉、BBA - 凤凰网汽车",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11UXVvT0JwQ2ZKUTdpRy1XdjlEY3V2Rm1BdloxS1hYdDdQY1YxRVhmdkNPT0xtTjExTmRoRUZKRE8yT1VtT1BBQkNfclE?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:08:08 GMT"
+            },
+            {
               "title": "拼多多“千亿扶持”推动包裹入村 中转费由平台承担 - chinanews.com.cn",
               "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkdTNWUC1IOEdXZkZtbTlzQTZNRmZGZVkxSDlQck9xZVBvS3FCdl85OUl0R3BsVTVRZnFLd0p1V09wTlJBcGdBM0xzRWdQejN6NXZpTG5RcmpUYmlpSk9kcXZMUFJXX01y?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 05:56:25 GMT"
             },
             {
+              "title": "200亿补贴！京东正式上线“百亿超市”频道 - thepaper.cn",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IX084ME1XNFFtaWhCVjNfbEFpSlloVENRR2hYTzZ3SUZKUndJeUtYNTdTcTdpM2w5TzJIUE14QzRvOHl1S3lwWVN4LUlXaE9OS0NsdDBwZExHTWhWYkE?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:50:00 GMT"
+            },
+            {
               "title": "小米集团-W获南向资金连续5天净买入 - 东方财富网",
               "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RT085ck1nLWN1akpKamQzMGxUaS1LaDFOcEkxLWpzR2VnQ1NaZ1V4Z2tGWllwa0xmX1BrcTkxRzg4QkMzTGl5Mk54eURMRUozR3d6Rk5XT213cTRJSVFkXw?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 12:23:14 GMT"
-            },
-            {
-              "title": "小米智能室外摄像机 4 4G 双摄版上架：内置中国电信 / 联通双不限 SIM 卡且流量免费，499 元 - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QbWxZYjJYS2dOZUI5WFRwV2JkM28wamszUUh4ZHRNM3pteExVY3czd2d5cnJHSzJtVTNMQzFpM0RyMzhNRm1sY25EY3lGdFFiUW1wRnhTWndzYy1NaTBaV0NLSE9VTVBtSDZ4V2dDY2E1aW1a?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 13:05:45 GMT"
-            },
-            {
-              "title": "刚刚，华为祭出AI编程利器，集成智谱、DeepSeek模型，同任务Tokens暴降30% - 智东西",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA1azlMOTRWTTJ2VWRvN29Gdy1YN0g0Y0ROVGZmSFBNQkJ4MHlxR1hHZElyLWxLREtvWDJoYXR4UU1rdjFKUFE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 09:51:40 GMT"
-            },
-            {
-              "title": "狂砸200亿！京东百亿超市意欲何为？ - 雷科技",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vdTJtTE5JdGNaMHluMTF5QmdmaTVGZ28yYUdZRlA0QmNlYmRaLWtBMVBrYkl0V0NiWGoxUjg4cEdiUUFURnRYUkZQbWhnQQ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 11:19:10 GMT"
             }
           ]
         },
@@ -802,16 +816,16 @@
               "publishedAt": "Tue, 24 Feb 2026 09:25:00 GMT"
             },
             {
-              "title": "Base 正在孵化 “链上 AI 社会”：Agentic Economy 已经启动？ - Bitget",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SaG9TUlltRGJaTXFFS3E4b1lGcmdDSVJWY3N1TkxoWjQ0Yk9Gc3FfVERiRVVDRUZUUHBJMHZQb19uX0E2VFJQZzNldnRXeFIxWlFvSzZ1QmtYRzc5NmZNNThDR0Vad9IBa0FVX3lxTE45eFgycXFfMTYtamNqcUxVenhXT09wVUYtcVV4UGtUdVNqRGozNm1DZWs0Zndjb2lmaC0yY19uYm9DSmg3Sms3dTZQY0dGTzZoR3l0eHlYdFZJbktTeVBVYmtOdTYxMnF2MjJ3?oc=5",
-              "source": "Google News",
-              "publishedAt": "Sun, 15 Feb 2026 15:03:42 GMT"
-            },
-            {
               "title": "GitHub 发布 Agentic Workflows，解锁 AI 驱动的代码库自动化潜力 - InfoQ 官网",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HRFB4MkhNeHFPM19qWGNaa1JUWWR2WTAzNm1hbkwxYm1XajhUVXJNN0FOaU4wLWM4UU5MYm9fWS1DZGRrQXE2WmstVlpjM04zel9JXzY2ZF9vSGNvYkE?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 00:04:29 GMT"
+            },
+            {
+              "title": "Base 正在孵化 “链上 AI 社会”：Agentic Economy 已经启动？ - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SaG9TUlltRGJaTXFFS3E4b1lGcmdDSVJWY3N1TkxoWjQ0Yk9Gc3FfVERiRVVDRUZUUHBJMHZQb19uX0E2VFJQZzNldnRXeFIxWlFvSzZ1QmtYRzc5NmZNNThDR0Vad9IBa0FVX3lxTE45eFgycXFfMTYtamNqcUxVenhXT09wVUYtcVV4UGtUdVNqRGozNm1DZWs0Zndjb2lmaC0yY19uYm9DSmg3Sms3dTZQY0dGTzZoR3l0eHlYdFZJbktTeVBVYmtOdTYxMnF2MjJ3?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sun, 15 Feb 2026 15:03:42 GMT"
             }
           ]
         },
@@ -828,7 +842,14 @@
         {
           "title": "商业 ROI",
           "query": "AI ROI enterprise",
-          "items": []
+          "items": [
+            {
+              "title": "Datatonic与JOTO PR Disruptors合作，推动企业AI从实验走向投资回报率。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkJQSXBaLTJlQTNMU3d4ZE5hU1ZCM2JmeXU2SzNGRERvTVphTjdjNV80XzRRUHVUY0xMcG4yRjZYRE1PMTR5b1F6WDlxVGlKbkVEQm5pMkVDX1JWRjRqN1gxcGtRaExNdk85SHJpZUI2UEdRY0liTmF5dmlEcWg4b2s4blVFdDlGYkFTMEJPT3czd1N1b1ZkWG5UODExTkQ0akNBWWtR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:06:00 GMT"
+            }
+          ]
         }
       ],
       "stocks": [
@@ -836,25 +857,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 195.55999755859375,
-          "previousClose": 174.19000244140625,
-          "changePct": 12.268209895901405
+          "price": 188.8699951171875,
+          "previousClose": 171.8800048828125,
+          "changePct": 9.884797388712402
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 400.6000061035156,
-          "previousClose": 414.19000244140625,
-          "changePct": -3.2811019719900516
+          "price": 404.6099853515625,
+          "previousClose": 393.6700134277344,
+          "changePct": 2.7789700893325384
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 312.8999938964844,
-          "previousClose": 333.0400085449219,
-          "changePct": -6.047325886289403
+          "price": 307.0899963378906,
+          "previousClose": 331.25,
+          "changePct": -7.293586011202831
         },
         {
           "symbol": "002230.SZ",
@@ -989,34 +1010,34 @@
               "publishedAt": "Thu, 26 Feb 2026 12:52:08 GMT"
             },
             {
+              "title": "未来3年投入超200亿元商品补贴 京东“百亿超市”频道正式上线 - 经济参考报",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeHh1czdVZHdxWGltMFBVT3IxbjNLNEtBSjY4eEFMMlhQOVlxUEtsRHJOYjZ6by1pY05lZlhvNDFCczRlSEJRdVVVYUI5RElMWUZWbEh5WU9SeW5QYVlGSGEzS0diZ3JjUGhEaTZQd0Y5d3VEOVJTRTJjcUR5S1NHbg?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:44:35 GMT"
+            },
+            {
+              "title": "【网通社快报】小米汽车立项曾陷路线之争，最终选择正面硬刚特斯拉、BBA - 凤凰网汽车",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11UXVvT0JwQ2ZKUTdpRy1XdjlEY3V2Rm1BdloxS1hYdDdQY1YxRVhmdkNPT0xtTjExTmRoRUZKRE8yT1VtT1BBQkNfclE?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:08:08 GMT"
+            },
+            {
               "title": "拼多多“千亿扶持”推动包裹入村 中转费由平台承担 - chinanews.com.cn",
               "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkdTNWUC1IOEdXZkZtbTlzQTZNRmZGZVkxSDlQck9xZVBvS3FCdl85OUl0R3BsVTVRZnFLd0p1V09wTlJBcGdBM0xzRWdQejN6NXZpTG5RcmpUYmlpSk9kcXZMUFJXX01y?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 05:56:25 GMT"
             },
             {
+              "title": "200亿补贴！京东正式上线“百亿超市”频道 - thepaper.cn",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IX084ME1XNFFtaWhCVjNfbEFpSlloVENRR2hYTzZ3SUZKUndJeUtYNTdTcTdpM2w5TzJIUE14QzRvOHl1S3lwWVN4LUlXaE9OS0NsdDBwZExHTWhWYkE?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:50:00 GMT"
+            },
+            {
               "title": "小米集团-W获南向资金连续5天净买入 - 东方财富网",
               "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RT085ck1nLWN1akpKamQzMGxUaS1LaDFOcEkxLWpzR2VnQ1NaZ1V4Z2tGWllwa0xmX1BrcTkxRzg4QkMzTGl5Mk54eURMRUozR3d6Rk5XT213cTRJSVFkXw?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 12:23:14 GMT"
-            },
-            {
-              "title": "小米智能室外摄像机 4 4G 双摄版上架：内置中国电信 / 联通双不限 SIM 卡且流量免费，499 元 - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QbWxZYjJYS2dOZUI5WFRwV2JkM28wamszUUh4ZHRNM3pteExVY3czd2d5cnJHSzJtVTNMQzFpM0RyMzhNRm1sY25EY3lGdFFiUW1wRnhTWndzYy1NaTBaV0NLSE9VTVBtSDZ4V2dDY2E1aW1a?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 13:05:45 GMT"
-            },
-            {
-              "title": "刚刚，华为祭出AI编程利器，集成智谱、DeepSeek模型，同任务Tokens暴降30% - 智东西",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA1azlMOTRWTTJ2VWRvN29Gdy1YN0g0Y0ROVGZmSFBNQkJ4MHlxR1hHZElyLWxLREtvWDJoYXR4UU1rdjFKUFE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 09:51:40 GMT"
-            },
-            {
-              "title": "狂砸200亿！京东百亿超市意欲何为？ - 雷科技",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vdTJtTE5JdGNaMHluMTF5QmdmaTVGZ28yYUdZRlA0QmNlYmRaLWtBMVBrYkl0V0NiWGoxUjg4cEdiUUFURnRYUkZQbWhnQQ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 11:19:10 GMT"
             }
           ]
         },
@@ -1037,6 +1058,12 @@
               "publishedAt": "Wed, 25 Feb 2026 06:56:01 GMT"
             },
             {
+              "title": "2026 年将引领潮流的 AI Agent 工作流模式 - 51CTO",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00VjQ2Q3ozNkhlck1CWjZsS0lYcS1wSmlXR293QWJDMWJUZzhralhjcmtkV2VWb1YzMnJ5dWFDM0VsZHk0aHZuekE4TTdITmU3bm44?oc=5",
+              "source": "Google News",
+              "publishedAt": "Mon, 02 Feb 2026 08:00:00 GMT"
+            },
+            {
               "title": "华为加入Agentic AI 基金会成为金牌会员，推动智能体AI 系统开放互操作-飞象网 - 飞象网",
               "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5od0JOcFVxRnRNT1N6Ry01VXBjUDV2V3diMm9IZHI4X2MxQ1dMdkFRZEE4R3VOVVU2QlNNSDN5VG1mYlhTTGNkekY1aw?oc=5",
               "source": "Google News",
@@ -1047,12 +1074,6 @@
               "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6SDJJVjlicGhiUkxkNjZfSllKZFhxbHdLWGFlWmhHbkZiMDEtbnFHZHM1VGhWUHp1Z1ViUU04TmZNR3pvVjRzeQ?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 12 Feb 2026 02:40:00 GMT"
-            },
-            {
-              "title": "拆解Agentic AI企业架构：基础、工作流、自治，你的公司在哪一层？ - 51CTO",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aT1hQaGc1M055RVhDUHRRZEp5S20ybkNBcklYNHlyUkFGNnhVTVRDd1pLeUlmSVY2VHpnMW0tYzhiSHBUdVM5T0xFNkRtdw?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT"
             },
             {
               "title": "英伟达红队发布AI Agent安全实践指南 - 安全内参",
@@ -1094,7 +1115,14 @@
         {
           "title": "商业 ROI",
           "query": "AI ROI enterprise",
-          "items": []
+          "items": [
+            {
+              "title": "Datatonic与JOTO PR Disruptors合作，推动企业AI从实验走向投资回报率。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkJQSXBaLTJlQTNMU3d4ZE5hU1ZCM2JmeXU2SzNGRERvTVphTjdjNV80XzRRUHVUY0xMcG4yRjZYRE1PMTR5b1F6WDlxVGlKbkVEQm5pMkVDX1JWRjRqN1gxcGtRaExNdk85SHJpZUI2UEdRY0liTmF5dmlEcWg4b2s4blVFdDlGYkFTMEJPT3czd1N1b1ZkWG5UODExTkQ0akNBWWtR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 13:06:00 GMT"
+            }
+          ]
         }
       ],
       "stocks": [
@@ -1102,25 +1130,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 195.55999755859375,
-          "previousClose": 184.94000244140625,
-          "changePct": 5.742400225474306
+          "price": 188.87989807128906,
+          "previousClose": 185.80999755859375,
+          "changePct": 1.6521718707451374
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 400.6000061035156,
-          "previousClose": 477.17999267578125,
-          "changePct": -16.048448750511152
+          "price": 404.614990234375,
+          "previousClose": 470.6700134277344,
+          "changePct": -14.034253576577449
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 312.8999938964844,
-          "previousClose": 331.8599853515625,
-          "changePct": -5.713250253715428
+          "price": 307.0899963378906,
+          "previousClose": 335.9700012207031,
+          "changePct": -8.596007017853015
         },
         {
           "symbol": "002230.SZ",
