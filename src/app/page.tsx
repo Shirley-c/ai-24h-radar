@@ -50,8 +50,8 @@ const STOCKS = [
   { symbol: "GOOGL", name: "Alphabet", currency: "USD" },
   { symbol: "002230.SZ", name: "科大讯飞", currency: "CNY" },
   { symbol: "300308.SZ", name: "中际旭创", currency: "CNY" },
-  { symbol: "688111.SH", name: "金山办公", currency: "CNY" },
-  { symbol: "600570.SH", name: "恒生电子", currency: "CNY" },
+  { symbol: "688111.SS", name: "金山办公", currency: "CNY" },
+  { symbol: "600570.SS", name: "恒生电子", currency: "CNY" },
   { symbol: "002415.SZ", name: "海康威视", currency: "CNY" },
 ] as const;
 
