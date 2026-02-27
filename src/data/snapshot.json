@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T10:46:32.613Z",
+  "generatedAt": "2026-02-27T13:12:35.040Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -20,12 +20,6 @@
               "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRnRJcjZXYlhFdzAxZlJhZWpsaDhPblJZMmE4ODlTUHJyM0ctaDFzRHJwNXBQdWx6X05WS18yTTNDMXZza09YczEycWJ1MF9IQWlTZ3pGaFc0ZW9IY0NHTHpLU1o2MTRtUk8xTjJ3eHNsTk9pRm9JLXFER2dJWGlZMWdlRmNqNE1DQTZ3OWdoTjZmWlFnblEyLXptZ1RVS0JMWUFHRVNwUFRtY1dlVXdSOE1CTkUyRTZueUtnYUQzZkpRMXp5SF9VRUVuQ3hLRE5PWlJz?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 03:03:35 GMT"
-            },
-            {
-              "title": "Microsoft Copilot Tasks 重磅发布：2026自动化工作流与生产力新突破| AI快讯详情 - blockchain.news",
-              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaDVKUkc3ekNTcUVUSzUtT1ZHYTFOZ01rUHczdHJod2lNS1hUWkJxR19NNjhtTXJDYzdmVm12dmQ5LVk2MWpSVEtrMDgzT3ZUTXVWaHJxT2ZHdjRsZ3phZ2h1ekM5d0NGWGxJY2tSMnBZVmVxMmwyR2hOQnZmRnNpOHA5SHVRRTY5TUZJODE2LVRrNFR5dV9OVUE4TXJyZ05VT2o5UVlvVEgtVDU1WFpmM2pHV2FCWTdFOVhlenlMSWdNQWh5R1E?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 12:02:00 GMT"
             }
           ]
         },
@@ -44,10 +38,16 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "时隔4年，华为在欧洲发布Mate80 Pro-观察者网 - guancha.cn",
+              "title": "时隔4年，华为在欧洲发布Mate80 Pro - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QeGV4cUVnNFFWcmpJaEFQZVlxMHdZYzc4blc1WVRHeE1SQnNTY3I1bkZIbzVDcldKbVZRVVpraGIwdnJud25ldVZ3ZXQ3R2RTU0Y5ZmtYbXdERHpub2Nhek44ZDE?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 03:05:00 GMT"
+            },
+            {
+              "title": "省政府与科大讯飞签署战略合作框架协议刘捷见证签约--新蓝网 - 新蓝网",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQQmJhWU0tOUktTDBUY2dwdFVrZ045eElEc0dhSjRSdDNzcmJzZjAyUEpFR3J3Y3dkVHRWb1FBbWg1RXNZUElmSTE0UkJORFE?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 10:43:00 GMT"
             },
             {
               "title": "登机口自动取餐！南京机场美团“小黄蜂+小美”正式上岗 - 美团",
@@ -62,22 +62,16 @@
               "publishedAt": "Fri, 27 Feb 2026 09:46:00 GMT"
             },
             {
-              "title": "全球AI叙事分化，百度率先进入“价值兑换期” - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OcHlNdDMxeEhiejE0cnprbUcteTJIOGswSkhaUmozd3p1aVpLY3diSlZZU19sN2pweHllbnZWeTI2TEZWTEt0Nm1SamdYci1MekRvemJVZjRBWHljNHhpeTQ2Zw?oc=5",
+              "title": "美团、淘宝、京东，最新发声 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS29rbWFDbXA2eVFmMjBsR1hSQWllMTBNbWNmYlFORXFmRjlITnJ5VW5qZEV0T1BZYUpTWEEwaWNXTHhGYTBQRG9KNGItNGh2Ny1pRXhZWTFDQy1LZEFSb2JTQWVYR19XcnNfNWlvTHltTXRuRkk5UFd3OTVLVE0yYWFUbXk1S29JdEF0eTZTeFZoN3ZJRGtuTg?oc=5",
               "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 07:02:46 GMT"
+              "publishedAt": "Fri, 27 Feb 2026 10:56:49 GMT"
             },
             {
-              "title": "昆仑芯分拆进展、春节AI入口大战、大模型竞争态势，百度财报会回应多个热点 - thepaper.cn",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDU2h4Nk9ob1JvRXFMbTRjcFZFX1FYaXYtOTVZNThJbkFkOEdDX0x1VTBtWHV0Tnh5NU91UlhZdVhpakcyczA5N0JSSGJidEhyQ2NHU3B1RTZqMDJOM2RnOQ?oc=5",
+              "title": "浙江省政府与科大讯飞签署战略合作框架协议 - 东方财富网",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FVy1uZG5OS25iTkRIOXNjZDNMOV85SUIzNGh0a201R2xTSUdJZ2dZQmc3U2JkSlJkbzdsMmY4amV4UDFSMG44aXVpdUc5RDNlcGZoM1FtdXljd1ZtaFp1Tw?oc=5",
               "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 02:46:00 GMT"
-            },
-            {
-              "title": "华为在马德里举办全球创新产品发布会，专业跑表领衔，多款新品重磅发布 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTllacDh4dnJHWXdlT01TYXdaUWxyM3czaTdaN2pPVVc5S1QzMkxPcE15WVo4bkVMOXZUcUFjM3ZpYnhNTjVubGRxLUNwVWtCM3dwT2xkb3U1WV9aRWtQMFlqMjNqdHctYXliNHl5M01EMDdoTEFtYTY5eTRWd1MxNmR6dW5fTENwOVNEMnNKWWMxd1NhV080M3JkejVYOUFnak84SHBiOA?oc=5",
-              "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 07:05:04 GMT"
+              "publishedAt": "Fri, 27 Feb 2026 12:54:05 GMT"
             }
           ]
         },
@@ -98,16 +92,16 @@
               "publishedAt": "Thu, 26 Feb 2026 23:40:34 GMT"
             },
             {
+              "title": "Token太贵，中国开源模型一夜之间霸榜了 - article.9466.com",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZSjF6ZDBwYXdVbXdrbWsyQS1LcmQzbzRMcXV0S1BFOVpTVGtfcF8ydkdvOU5uMHN3c1FYLXZYREl6TjNrMEpKV0FTSXpXdDg?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 12:16:00 GMT"
+            },
+            {
               "title": "黄仁勋反驳“AI 吞噬软件”：传统软件模式要退场了，实时生成接管，算力需求翻几百倍 - InfoQ 官网",
               "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41T3pEWUw3YVQ1MVZ3eXAxeVZLMkNzQVRlcW1kclFuRDJpNjBjM3lJTHU1dkZiRlFManlBcWlKOUszNGY5OTU3X3pRNlR1ZzVJN3o1Z3JLc2ZoZw?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 13:17:59 GMT"
-            },
-            {
-              "title": "春节狂飙，中国AI快进到“半人马时代” - 风闻",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EVk5sN2JGSlFSdlpvWGpNT2FCYUpxY01GMllQLWdnTVJmLVlmaVVZemsxcS1IX0hSdzNGa0gzRkozRWZOZ0E5bUpGVlB0d2J5Zkw3Q1RYa2h2Zy1jbHVtSDd4S3dsRUxvOC02ZGtn?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 16:13:54 GMT"
             },
             {
               "title": "DeepSeek联合清北重磅硬核论文：发力智能体底层基建，击穿Agent推理I/O瓶颈！ - 华尔街见闻",
@@ -143,14 +137,7 @@
         {
           "title": "商业 ROI",
           "query": "AI ROI enterprise",
-          "items": [
-            {
-              "title": "Datatonic与JOTO PR Disruptors合作，推动企业AI从实验走向投资回报率。 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkJQSXBaLTJlQTNMU3d4ZE5hU1ZCM2JmeXU2SzNGRERvTVphTjdjNV80XzRRUHVUY0xMcG4yRjZYRE1PMTR5b1F6WDlxVGlKbkVEQm5pMkVDX1JWRjRqN1gxcGtRaExNdk85SHJpZUI2UEdRY0liTmF5dmlEcWg4b2s4blVFdDlGYkFTMEJPT3czd1N1b1ZkWG5UODExTkQ0akNBWWtR?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 13:06:00 GMT"
-            }
-          ]
+          "items": []
         }
       ],
       "stocks": [
@@ -279,10 +266,16 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "时隔4年，华为在欧洲发布Mate80 Pro-观察者网 - guancha.cn",
+              "title": "时隔4年，华为在欧洲发布Mate80 Pro - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QeGV4cUVnNFFWcmpJaEFQZVlxMHdZYzc4blc1WVRHeE1SQnNTY3I1bkZIbzVDcldKbVZRVVpraGIwdnJud25ldVZ3ZXQ3R2RTU0Y5ZmtYbXdERHpub2Nhek44ZDE?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 03:05:00 GMT"
+            },
+            {
+              "title": "省政府与科大讯飞签署战略合作框架协议刘捷见证签约--新蓝网 - 新蓝网",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQQmJhWU0tOUktTDBUY2dwdFVrZ045eElEc0dhSjRSdDNzcmJzZjAyUEpFR3J3Y3dkVHRWb1FBbWg1RXNZUElmSTE0UkJORFE?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 10:43:00 GMT"
             },
             {
               "title": "登机口自动取餐！南京机场美团“小黄蜂+小美”正式上岗 - 美团",
@@ -297,22 +290,16 @@
               "publishedAt": "Fri, 27 Feb 2026 09:46:00 GMT"
             },
             {
-              "title": "全球AI叙事分化，百度率先进入“价值兑换期” - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OcHlNdDMxeEhiejE0cnprbUcteTJIOGswSkhaUmozd3p1aVpLY3diSlZZU19sN2pweHllbnZWeTI2TEZWTEt0Nm1SamdYci1MekRvemJVZjRBWHljNHhpeTQ2Zw?oc=5",
+              "title": "美团、淘宝、京东，最新发声 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS29rbWFDbXA2eVFmMjBsR1hSQWllMTBNbWNmYlFORXFmRjlITnJ5VW5qZEV0T1BZYUpTWEEwaWNXTHhGYTBQRG9KNGItNGh2Ny1pRXhZWTFDQy1LZEFSb2JTQWVYR19XcnNfNWlvTHltTXRuRkk5UFd3OTVLVE0yYWFUbXk1S29JdEF0eTZTeFZoN3ZJRGtuTg?oc=5",
               "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 07:02:46 GMT"
+              "publishedAt": "Fri, 27 Feb 2026 10:56:49 GMT"
             },
             {
-              "title": "昆仑芯分拆进展、春节AI入口大战、大模型竞争态势，百度财报会回应多个热点 - thepaper.cn",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDU2h4Nk9ob1JvRXFMbTRjcFZFX1FYaXYtOTVZNThJbkFkOEdDX0x1VTBtWHV0Tnh5NU91UlhZdVhpakcyczA5N0JSSGJidEhyQ2NHU3B1RTZqMDJOM2RnOQ?oc=5",
+              "title": "浙江省政府与科大讯飞签署战略合作框架协议 - 东方财富网",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FVy1uZG5OS25iTkRIOXNjZDNMOV85SUIzNGh0a201R2xTSUdJZ2dZQmc3U2JkSlJkbzdsMmY4amV4UDFSMG44aXVpdUc5RDNlcGZoM1FtdXljd1ZtaFp1Tw?oc=5",
               "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 02:46:00 GMT"
-            },
-            {
-              "title": "华为在马德里举办全球创新产品发布会，专业跑表领衔，多款新品重磅发布 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTllacDh4dnJHWXdlT01TYXdaUWxyM3czaTdaN2pPVVc5S1QzMkxPcE15WVo4bkVMOXZUcUFjM3ZpYnhNTjVubGRxLUNwVWtCM3dwT2xkb3U1WV9aRWtQMFlqMjNqdHctYXliNHl5M01EMDdoTEFtYTY5eTRWd1MxNmR6dW5fTENwOVNEMnNKWWMxd1NhV080M3JkejVYOUFnak84SHBiOA?oc=5",
-              "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 07:05:04 GMT"
+              "publishedAt": "Fri, 27 Feb 2026 12:54:05 GMT"
             }
           ]
         },
@@ -351,7 +338,7 @@
               "publishedAt": "Wed, 25 Feb 2026 08:02:25 GMT"
             },
             {
-              "title": "Agent Native的Infra增长潜力究竟有多大？ - 36Kr",
+              "title": "Agent Native的Infra增长潜力究竟有多大？ - 36 Kr",
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IaVZVSFlWTUxybkZDWVg5X1l5cndfanBaQmZveWtEdFExSVN2OExHeTlqVkhJNF9mY1dJdmF6WEp5endXWjBKSGt4Yl9qaHdBX3dN?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 07:24:00 GMT"
@@ -374,7 +361,7 @@
               "publishedAt": "Fri, 27 Feb 2026 01:59:46 GMT"
             },
             {
-              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36 Kr",
+              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMzUzdWNndmliZFZzODRjYVlSMnVIaXY5QmZ0Qm9ZcGJPb0xJbWg3V09fcWNfUnFzZ0Vqc1JhR0tRX0swV0NKQ2tfbDhkUQ?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 08:39:53 GMT"
@@ -520,10 +507,16 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "时隔4年，华为在欧洲发布Mate80 Pro-观察者网 - guancha.cn",
+              "title": "时隔4年，华为在欧洲发布Mate80 Pro - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QeGV4cUVnNFFWcmpJaEFQZVlxMHdZYzc4blc1WVRHeE1SQnNTY3I1bkZIbzVDcldKbVZRVVpraGIwdnJud25ldVZ3ZXQ3R2RTU0Y5ZmtYbXdERHpub2Nhek44ZDE?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 03:05:00 GMT"
+            },
+            {
+              "title": "省政府与科大讯飞签署战略合作框架协议刘捷见证签约--新蓝网 - 新蓝网",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQQmJhWU0tOUktTDBUY2dwdFVrZ045eElEc0dhSjRSdDNzcmJzZjAyUEpFR3J3Y3dkVHRWb1FBbWg1RXNZUElmSTE0UkJORFE?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 10:43:00 GMT"
             },
             {
               "title": "登机口自动取餐！南京机场美团“小黄蜂+小美”正式上岗 - 美团",
@@ -538,22 +531,16 @@
               "publishedAt": "Fri, 27 Feb 2026 09:46:00 GMT"
             },
             {
-              "title": "全球AI叙事分化，百度率先进入“价值兑换期” - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OcHlNdDMxeEhiejE0cnprbUcteTJIOGswSkhaUmozd3p1aVpLY3diSlZZU19sN2pweHllbnZWeTI2TEZWTEt0Nm1SamdYci1MekRvemJVZjRBWHljNHhpeTQ2Zw?oc=5",
+              "title": "美团、淘宝、京东，最新发声 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS29rbWFDbXA2eVFmMjBsR1hSQWllMTBNbWNmYlFORXFmRjlITnJ5VW5qZEV0T1BZYUpTWEEwaWNXTHhGYTBQRG9KNGItNGh2Ny1pRXhZWTFDQy1LZEFSb2JTQWVYR19XcnNfNWlvTHltTXRuRkk5UFd3OTVLVE0yYWFUbXk1S29JdEF0eTZTeFZoN3ZJRGtuTg?oc=5",
               "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 07:02:46 GMT"
+              "publishedAt": "Fri, 27 Feb 2026 10:56:49 GMT"
             },
             {
-              "title": "昆仑芯分拆进展、春节AI入口大战、大模型竞争态势，百度财报会回应多个热点 - thepaper.cn",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDU2h4Nk9ob1JvRXFMbTRjcFZFX1FYaXYtOTVZNThJbkFkOEdDX0x1VTBtWHV0Tnh5NU91UlhZdVhpakcyczA5N0JSSGJidEhyQ2NHU3B1RTZqMDJOM2RnOQ?oc=5",
+              "title": "浙江省政府与科大讯飞签署战略合作框架协议 - 东方财富网",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FVy1uZG5OS25iTkRIOXNjZDNMOV85SUIzNGh0a201R2xTSUdJZ2dZQmc3U2JkSlJkbzdsMmY4amV4UDFSMG44aXVpdUc5RDNlcGZoM1FtdXljd1ZtaFp1Tw?oc=5",
               "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 02:46:00 GMT"
-            },
-            {
-              "title": "华为在马德里举办全球创新产品发布会，专业跑表领衔，多款新品重磅发布 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTllacDh4dnJHWXdlT01TYXdaUWxyM3czaTdaN2pPVVc5S1QzMkxPcE15WVo4bkVMOXZUcUFjM3ZpYnhNTjVubGRxLUNwVWtCM3dwT2xkb3U1WV9aRWtQMFlqMjNqdHctYXliNHl5M01EMDdoTEFtYTY5eTRWd1MxNmR6dW5fTENwOVNEMnNKWWMxd1NhV080M3JkejVYOUFnak84SHBiOA?oc=5",
-              "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 07:05:04 GMT"
+              "publishedAt": "Fri, 27 Feb 2026 12:54:05 GMT"
             }
           ]
         },
@@ -586,7 +573,7 @@
               "publishedAt": "Thu, 26 Feb 2026 00:04:29 GMT"
             },
             {
-              "title": "Agent Native的Infra增长潜力究竟有多大？ - 36Kr",
+              "title": "Agent Native的Infra增长潜力究竟有多大？ - 36 Kr",
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IaVZVSFlWTUxybkZDWVg5X1l5cndfanBaQmZveWtEdFExSVN2OExHeTlqVkhJNF9mY1dJdmF6WEp5endXWjBKSGt4Yl9qaHdBX3dN?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 07:24:00 GMT"
@@ -615,7 +602,7 @@
               "publishedAt": "Fri, 27 Feb 2026 01:59:46 GMT"
             },
             {
-              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36 Kr",
+              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMzUzdWNndmliZFZzODRjYVlSMnVIaXY5QmZ0Qm9ZcGJPb0xJbWg3V09fcWNfUnFzZ0Vqc1JhR0tRX0swV0NKQ2tfbDhkUQ?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 08:39:53 GMT"
@@ -761,10 +748,16 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "时隔4年，华为在欧洲发布Mate80 Pro-观察者网 - guancha.cn",
+              "title": "时隔4年，华为在欧洲发布Mate80 Pro - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QeGV4cUVnNFFWcmpJaEFQZVlxMHdZYzc4blc1WVRHeE1SQnNTY3I1bkZIbzVDcldKbVZRVVpraGIwdnJud25ldVZ3ZXQ3R2RTU0Y5ZmtYbXdERHpub2Nhek44ZDE?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 03:05:00 GMT"
+            },
+            {
+              "title": "省政府与科大讯飞签署战略合作框架协议刘捷见证签约--新蓝网 - 新蓝网",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQQmJhWU0tOUktTDBUY2dwdFVrZ045eElEc0dhSjRSdDNzcmJzZjAyUEpFR3J3Y3dkVHRWb1FBbWg1RXNZUElmSTE0UkJORFE?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 10:43:00 GMT"
             },
             {
               "title": "登机口自动取餐！南京机场美团“小黄蜂+小美”正式上岗 - 美团",
@@ -779,22 +772,16 @@
               "publishedAt": "Fri, 27 Feb 2026 09:46:00 GMT"
             },
             {
-              "title": "全球AI叙事分化，百度率先进入“价值兑换期” - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OcHlNdDMxeEhiejE0cnprbUcteTJIOGswSkhaUmozd3p1aVpLY3diSlZZU19sN2pweHllbnZWeTI2TEZWTEt0Nm1SamdYci1MekRvemJVZjRBWHljNHhpeTQ2Zw?oc=5",
+              "title": "美团、淘宝、京东，最新发声 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS29rbWFDbXA2eVFmMjBsR1hSQWllMTBNbWNmYlFORXFmRjlITnJ5VW5qZEV0T1BZYUpTWEEwaWNXTHhGYTBQRG9KNGItNGh2Ny1pRXhZWTFDQy1LZEFSb2JTQWVYR19XcnNfNWlvTHltTXRuRkk5UFd3OTVLVE0yYWFUbXk1S29JdEF0eTZTeFZoN3ZJRGtuTg?oc=5",
               "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 07:02:46 GMT"
+              "publishedAt": "Fri, 27 Feb 2026 10:56:49 GMT"
             },
             {
-              "title": "昆仑芯分拆进展、春节AI入口大战、大模型竞争态势，百度财报会回应多个热点 - thepaper.cn",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDU2h4Nk9ob1JvRXFMbTRjcFZFX1FYaXYtOTVZNThJbkFkOEdDX0x1VTBtWHV0Tnh5NU91UlhZdVhpakcyczA5N0JSSGJidEhyQ2NHU3B1RTZqMDJOM2RnOQ?oc=5",
+              "title": "浙江省政府与科大讯飞签署战略合作框架协议 - 东方财富网",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FVy1uZG5OS25iTkRIOXNjZDNMOV85SUIzNGh0a201R2xTSUdJZ2dZQmc3U2JkSlJkbzdsMmY4amV4UDFSMG44aXVpdUc5RDNlcGZoM1FtdXljd1ZtaFp1Tw?oc=5",
               "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 02:46:00 GMT"
-            },
-            {
-              "title": "华为在马德里举办全球创新产品发布会，专业跑表领衔，多款新品重磅发布 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTllacDh4dnJHWXdlT01TYXdaUWxyM3czaTdaN2pPVVc5S1QzMkxPcE15WVo4bkVMOXZUcUFjM3ZpYnhNTjVubGRxLUNwVWtCM3dwT2xkb3U1WV9aRWtQMFlqMjNqdHctYXliNHl5M01EMDdoTEFtYTY5eTRWd1MxNmR6dW5fTENwOVNEMnNKWWMxd1NhV080M3JkejVYOUFnak84SHBiOA?oc=5",
-              "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 07:05:04 GMT"
+              "publishedAt": "Fri, 27 Feb 2026 12:54:05 GMT"
             }
           ]
         },
@@ -827,7 +814,7 @@
               "publishedAt": "Thu, 26 Feb 2026 00:04:29 GMT"
             },
             {
-              "title": "Agent Native的Infra增长潜力究竟有多大？ - 36Kr",
+              "title": "Agent Native的Infra增长潜力究竟有多大？ - 36 Kr",
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IaVZVSFlWTUxybkZDWVg5X1l5cndfanBaQmZveWtEdFExSVN2OExHeTlqVkhJNF9mY1dJdmF6WEp5endXWjBKSGt4Yl9qaHdBX3dN?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 07:24:00 GMT"
@@ -856,7 +843,7 @@
               "publishedAt": "Fri, 27 Feb 2026 01:59:46 GMT"
             },
             {
-              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36 Kr",
+              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMzUzdWNndmliZFZzODRjYVlSMnVIaXY5QmZ0Qm9ZcGJPb0xJbWg3V09fcWNfUnFzZ0Vqc1JhR0tRX0swV0NKQ2tfbDhkUQ?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 08:39:53 GMT"
@@ -1022,10 +1009,16 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "时隔4年，华为在欧洲发布Mate80 Pro-观察者网 - guancha.cn",
+              "title": "时隔4年，华为在欧洲发布Mate80 Pro - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QeGV4cUVnNFFWcmpJaEFQZVlxMHdZYzc4blc1WVRHeE1SQnNTY3I1bkZIbzVDcldKbVZRVVpraGIwdnJud25ldVZ3ZXQ3R2RTU0Y5ZmtYbXdERHpub2Nhek44ZDE?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 03:05:00 GMT"
+            },
+            {
+              "title": "省政府与科大讯飞签署战略合作框架协议刘捷见证签约--新蓝网 - 新蓝网",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQQmJhWU0tOUktTDBUY2dwdFVrZ045eElEc0dhSjRSdDNzcmJzZjAyUEpFR3J3Y3dkVHRWb1FBbWg1RXNZUElmSTE0UkJORFE?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 10:43:00 GMT"
             },
             {
               "title": "登机口自动取餐！南京机场美团“小黄蜂+小美”正式上岗 - 美团",
@@ -1040,22 +1033,16 @@
               "publishedAt": "Fri, 27 Feb 2026 09:46:00 GMT"
             },
             {
-              "title": "全球AI叙事分化，百度率先进入“价值兑换期” - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OcHlNdDMxeEhiejE0cnprbUcteTJIOGswSkhaUmozd3p1aVpLY3diSlZZU19sN2pweHllbnZWeTI2TEZWTEt0Nm1SamdYci1MekRvemJVZjRBWHljNHhpeTQ2Zw?oc=5",
+              "title": "美团、淘宝、京东，最新发声 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS29rbWFDbXA2eVFmMjBsR1hSQWllMTBNbWNmYlFORXFmRjlITnJ5VW5qZEV0T1BZYUpTWEEwaWNXTHhGYTBQRG9KNGItNGh2Ny1pRXhZWTFDQy1LZEFSb2JTQWVYR19XcnNfNWlvTHltTXRuRkk5UFd3OTVLVE0yYWFUbXk1S29JdEF0eTZTeFZoN3ZJRGtuTg?oc=5",
               "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 07:02:46 GMT"
+              "publishedAt": "Fri, 27 Feb 2026 10:56:49 GMT"
             },
             {
-              "title": "昆仑芯分拆进展、春节AI入口大战、大模型竞争态势，百度财报会回应多个热点 - thepaper.cn",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDU2h4Nk9ob1JvRXFMbTRjcFZFX1FYaXYtOTVZNThJbkFkOEdDX0x1VTBtWHV0Tnh5NU91UlhZdVhpakcyczA5N0JSSGJidEhyQ2NHU3B1RTZqMDJOM2RnOQ?oc=5",
+              "title": "浙江省政府与科大讯飞签署战略合作框架协议 - 东方财富网",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FVy1uZG5OS25iTkRIOXNjZDNMOV85SUIzNGh0a201R2xTSUdJZ2dZQmc3U2JkSlJkbzdsMmY4amV4UDFSMG44aXVpdUc5RDNlcGZoM1FtdXljd1ZtaFp1Tw?oc=5",
               "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 02:46:00 GMT"
-            },
-            {
-              "title": "华为在马德里举办全球创新产品发布会，专业跑表领衔，多款新品重磅发布 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTllacDh4dnJHWXdlT01TYXdaUWxyM3czaTdaN2pPVVc5S1QzMkxPcE15WVo4bkVMOXZUcUFjM3ZpYnhNTjVubGRxLUNwVWtCM3dwT2xkb3U1WV9aRWtQMFlqMjNqdHctYXliNHl5M01EMDdoTEFtYTY5eTRWd1MxNmR6dW5fTENwOVNEMnNKWWMxd1NhV080M3JkejVYOUFnak84SHBiOA?oc=5",
-              "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 07:05:04 GMT"
+              "publishedAt": "Fri, 27 Feb 2026 12:54:05 GMT"
             }
           ]
         },
@@ -1129,7 +1116,7 @@
               "publishedAt": "Fri, 27 Feb 2026 01:59:46 GMT"
             },
             {
-              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36 Kr",
+              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMzUzdWNndmliZFZzODRjYVlSMnVIaXY5QmZ0Qm9ZcGJPb0xJbWg3V09fcWNfUnFzZ0Vqc1JhR0tRX0swV0NKQ2tfbDhkUQ?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 08:39:53 GMT"
