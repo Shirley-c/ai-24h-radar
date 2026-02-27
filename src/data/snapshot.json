@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T20:35:38.061Z",
+  "generatedAt": "2026-02-27T22:30:38.978Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -56,7 +56,7 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "时隔4年，华为在欧洲发布Mate80 Pro - 观察者",
+              "title": "时隔4年，华为在欧洲发布Mate80 Pro-观察者网 - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QeGV4cUVnNFFWcmpJaEFQZVlxMHdZYzc4blc1WVRHeE1SQnNTY3I1bkZIbzVDcldKbVZRVVpraGIwdnJud25ldVZ3ZXQ3R2RTU0Y5ZmtYbXdERHpub2Nhek44ZDE?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 03:05:00 GMT"
@@ -74,6 +74,12 @@
               "publishedAt": "Fri, 27 Feb 2026 10:43:00 GMT"
             },
             {
+              "title": "新一代SU7增加外侧机械门把手，将成立小米汽车安全顾问委员会 - 新京报",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42Y0E1d3FKeV9EZEE3ajdfUWpYX3NRQWJkYkJBMlMxR003N3lZRlVHT2twZkxzcGhwcUZxUEppVDJRVkhENUhLR25iRjR4ZzRGUmxKV3p5dm84cGp2ODVvRlFKYTM?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 14:35:19 GMT"
+            },
+            {
               "title": "三大指数全红，腾讯、美团、百度等齐涨，碧桂园涨超7%，南向资金净流入超140亿港元！后市怎么走？ - 证券时报",
               "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRbmM3NkY5cWJicDJNQ29Sc2tnYkt3S0NqZG1YZjU3bkVldFBTSnc0WmNTUEtIOUZ6UXhxNWdCZjgyVlNrTHhvZllBSFJ1alVFbThfdGphMmVFbElZ?oc=5",
               "source": "Google News",
@@ -84,12 +90,6 @@
               "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IQzRGam1RVVhIWlAtYTdpUTJPWmxSTnd0VmE1dXVJVVQ5Zmk4eUVqdVQ5UDhxZml6am5VVlNCUU55RFdjS29Ja1hMUHNVS1dZVlhPbXFWcXl1QQ?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 08:30:12 GMT"
-            },
-            {
-              "title": "小米回应事故调查过程：原则上车企不能自行披露事故信息 - 东方财富网",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpM3ljTkJ3LVBmYWFRbHp1TWg4SWNiSTdxaU9qSU5HaG9MMmVDOUtEOXNfN1d6SktXLWNSQWlRRDYtUHR4enppUjZUaTVlcFpnTXN3TnRLb0V1WXVBYmhQUw?oc=5",
-              "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 12:48:37 GMT"
             }
           ]
         },
@@ -97,6 +97,12 @@
           "title": "代理式 AI",
           "query": "AI agents agentic",
           "items": [
+            {
+              "title": "Accelerating IC design and verification with agentic AI - Siemens",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOQXFSbmp3cjEtQU40ZHZTaFY5dkN2X3JkeWZ1U0FVamxCWFkzRG1qckljWHQzSzRXYzAzNXdLY0VFWnNaejBXUTV6azYyVE9PS2tsWWlhNl96T2xmbnRJSU5sZGVqRXBMZENhbDlR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 20:28:49 GMT"
+            },
             {
               "title": "黄仁勋一锤定音：Agentic AI拐点已至，英伟达Q4财报再创历史 - 品玩",
               "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCNnpQVWJWRlZBbDB5UkdaS1pYR19idDlXblJERm91S2dYejN6cEVCeWtVV0FzLTFsbkswT2hmRF9zSkRIcWJmNQ?oc=5",
@@ -114,12 +120,6 @@
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NdktETjNqQ25rUmFUR3pYMVk3YVZlUzlMcTFNdG51cUNaNENHU3h1aWpYYlB1REVCMWtIS21aQkJmQXN5aG9aYWMxV1h2QQ?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 01:13:06 GMT"
-            },
-            {
-              "title": "DeepSeek联合清北重磅硬核论文：发力智能体底层基建，击穿Agent推理I/O瓶颈！ - 华尔街见闻",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DZWQwM2UtWUo5UnVLSUd3c0RTY2RJUlNhX2xRVGFQYWRON1FZeDY1d2VIM1RVeEw4MnNlNWhEcFRUY0lFOXJUZ0JFNUFfX2trVnFZ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 21:04:32 GMT"
             },
             {
               "title": "DeepSeek DualPath：Agentic推理吞吐提升1.96x的存储I/O优化 - 51CTO",
@@ -163,25 +163,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 178.30499267578125,
+          "price": 177.19000244140625,
           "previousClose": 184.88999938964844,
-          "changePct": -3.561580797017336
+          "changePct": -4.164636796831149
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 393.44000244140625,
+          "price": 392.739990234375,
           "previousClose": 401.7200012207031,
-          "changePct": -2.061136800292869
+          "changePct": -2.2353905603506528
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 307.6700134277344,
+          "price": 311.760009765625,
           "previousClose": 307.3800048828125,
-          "changePct": 0.09434853936983953
+          "changePct": 1.4249478864060663
         },
         {
           "symbol": "002230.SZ",
@@ -284,7 +284,7 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "时隔4年，华为在欧洲发布Mate80 Pro - 观察者",
+              "title": "时隔4年，华为在欧洲发布Mate80 Pro-观察者网 - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QeGV4cUVnNFFWcmpJaEFQZVlxMHdZYzc4blc1WVRHeE1SQnNTY3I1bkZIbzVDcldKbVZRVVpraGIwdnJud25ldVZ3ZXQ3R2RTU0Y5ZmtYbXdERHpub2Nhek44ZDE?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 03:05:00 GMT"
@@ -302,6 +302,12 @@
               "publishedAt": "Fri, 27 Feb 2026 10:43:00 GMT"
             },
             {
+              "title": "新一代SU7增加外侧机械门把手，将成立小米汽车安全顾问委员会 - 新京报",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42Y0E1d3FKeV9EZEE3ajdfUWpYX3NRQWJkYkJBMlMxR003N3lZRlVHT2twZkxzcGhwcUZxUEppVDJRVkhENUhLR25iRjR4ZzRGUmxKV3p5dm84cGp2ODVvRlFKYTM?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 14:35:19 GMT"
+            },
+            {
               "title": "三大指数全红，腾讯、美团、百度等齐涨，碧桂园涨超7%，南向资金净流入超140亿港元！后市怎么走？ - 证券时报",
               "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRbmM3NkY5cWJicDJNQ29Sc2tnYkt3S0NqZG1YZjU3bkVldFBTSnc0WmNTUEtIOUZ6UXhxNWdCZjgyVlNrTHhvZllBSFJ1alVFbThfdGphMmVFbElZ?oc=5",
               "source": "Google News",
@@ -312,12 +318,6 @@
               "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IQzRGam1RVVhIWlAtYTdpUTJPWmxSTnd0VmE1dXVJVVQ5Zmk4eUVqdVQ5UDhxZml6am5VVlNCUU55RFdjS29Ja1hMUHNVS1dZVlhPbXFWcXl1QQ?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 08:30:12 GMT"
-            },
-            {
-              "title": "小米回应事故调查过程：原则上车企不能自行披露事故信息 - 东方财富网",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpM3ljTkJ3LVBmYWFRbHp1TWg4SWNiSTdxaU9qSU5HaG9MMmVDOUtEOXNfN1d6SktXLWNSQWlRRDYtUHR4enppUjZUaTVlcFpnTXN3TnRLb0V1WXVBYmhQUw?oc=5",
-              "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 12:48:37 GMT"
             }
           ]
         },
@@ -325,6 +325,12 @@
           "title": "代理式 AI",
           "query": "AI agents agentic",
           "items": [
+            {
+              "title": "Accelerating IC design and verification with agentic AI - Siemens",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOQXFSbmp3cjEtQU40ZHZTaFY5dkN2X3JkeWZ1U0FVamxCWFkzRG1qckljWHQzSzRXYzAzNXdLY0VFWnNaejBXUTV6azYyVE9PS2tsWWlhNl96T2xmbnRJSU5sZGVqRXBMZENhbDlR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 20:28:49 GMT"
+            },
             {
               "title": "黄仁勋一锤定音：Agentic AI拐点已至，英伟达Q4财报再创历史 - 品玩",
               "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCNnpQVWJWRlZBbDB5UkdaS1pYR19idDlXblJERm91S2dYejN6cEVCeWtVV0FzLTFsbkswT2hmRF9zSkRIcWJmNQ?oc=5",
@@ -342,12 +348,6 @@
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EeWtZRHY5TzdjRzVya2JPZmlUdFN6bVQ2WEEwaUdRSjQwaVc3VnNMVlZiRzhXeVNfZ1QwRFZXLWt6ZzNya21NY3pSY1RsVGViTTdR?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 25 Feb 2026 06:56:01 GMT"
-            },
-            {
-              "title": "Notion Custom Agents发布：当Agent数量超过员工，谁来管？ - 51CTO",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42cDdqUFByU0Z5MWlyOXJoal95X0FtUF8wdDR0Y3VUX2hBendhdFBTN2NUUkNfMmt6MjNiaVBpMEg4cHRaQk53SE1GODlVZw?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 23:40:34 GMT"
             },
             {
               "title": "华为加入 Agentic AI 基金会成为金牌会员，推动智能体 AI 系统开放互操作 - 17173",
@@ -379,7 +379,7 @@
               "publishedAt": "Fri, 27 Feb 2026 01:59:46 GMT"
             },
             {
-              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 让一部分人先看到未来",
+              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMzUzdWNndmliZFZzODRjYVlSMnVIaXY5QmZ0Qm9ZcGJPb0xJbWg3V09fcWNfUnFzZ0Vqc1JhR0tRX0swV0NKQ2tfbDhkUQ?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 08:39:53 GMT"
@@ -404,25 +404,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 178.3000030517578,
+          "price": 177.19000244140625,
           "previousClose": 192.85000610351562,
-          "changePct": -7.54472522233048
+          "changePct": -8.120302393821856
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 393.44000244140625,
+          "price": 392.739990234375,
           "previousClose": 389,
-          "changePct": 1.1413888024180592
+          "changePct": 0.9614370782455013
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 307.6600036621094,
+          "price": 311.760009765625,
           "previousClose": 310.8999938964844,
-          "changePct": -1.0421326143395713
+          "changePct": 0.27662138501905903
         },
         {
           "symbol": "002230.SZ",
@@ -525,7 +525,7 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "时隔4年，华为在欧洲发布Mate80 Pro - 观察者",
+              "title": "时隔4年，华为在欧洲发布Mate80 Pro-观察者网 - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QeGV4cUVnNFFWcmpJaEFQZVlxMHdZYzc4blc1WVRHeE1SQnNTY3I1bkZIbzVDcldKbVZRVVpraGIwdnJud25ldVZ3ZXQ3R2RTU0Y5ZmtYbXdERHpub2Nhek44ZDE?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 03:05:00 GMT"
@@ -543,6 +543,12 @@
               "publishedAt": "Fri, 27 Feb 2026 10:43:00 GMT"
             },
             {
+              "title": "新一代SU7增加外侧机械门把手，将成立小米汽车安全顾问委员会 - 新京报",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42Y0E1d3FKeV9EZEE3ajdfUWpYX3NRQWJkYkJBMlMxR003N3lZRlVHT2twZkxzcGhwcUZxUEppVDJRVkhENUhLR25iRjR4ZzRGUmxKV3p5dm84cGp2ODVvRlFKYTM?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 14:35:19 GMT"
+            },
+            {
               "title": "三大指数全红，腾讯、美团、百度等齐涨，碧桂园涨超7%，南向资金净流入超140亿港元！后市怎么走？ - 证券时报",
               "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRbmM3NkY5cWJicDJNQ29Sc2tnYkt3S0NqZG1YZjU3bkVldFBTSnc0WmNTUEtIOUZ6UXhxNWdCZjgyVlNrTHhvZllBSFJ1alVFbThfdGphMmVFbElZ?oc=5",
               "source": "Google News",
@@ -553,12 +559,6 @@
               "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IQzRGam1RVVhIWlAtYTdpUTJPWmxSTnd0VmE1dXVJVVQ5Zmk4eUVqdVQ5UDhxZml6am5VVlNCUU55RFdjS29Ja1hMUHNVS1dZVlhPbXFWcXl1QQ?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 08:30:12 GMT"
-            },
-            {
-              "title": "小米回应事故调查过程：原则上车企不能自行披露事故信息 - 东方财富网",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpM3ljTkJ3LVBmYWFRbHp1TWg4SWNiSTdxaU9qSU5HaG9MMmVDOUtEOXNfN1d6SktXLWNSQWlRRDYtUHR4enppUjZUaTVlcFpnTXN3TnRLb0V1WXVBYmhQUw?oc=5",
-              "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 12:48:37 GMT"
             }
           ]
         },
@@ -571,6 +571,12 @@
               "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONWN5bThZaDAwUFFad1VRaVRfdFdYRWRXaVN3WjAwclJlYUkybktLODVRMHU0cnBBOHI5Vkk0ZndDUU9HSjN0Y3ozaFhYakdoMGtjcmg1bzFSVkx0ZER2RVAzWHEySkxjY0J6Xy1DdjZCeHhidnFBakJrRkhJcjYyTk4wVjVYbEJzNl9tY1llbnFwN3k0M00yWmNNZzlhNkRXQ0JKQkxqUW5MRGFRSGQ4c3QySVRTbEtUMWpCVjVXaG16TzZKTldBYXpINUk4YTBsWTFnZEJWdlVYdk1ic2VEMFFJSkN4bzYzcHNNbkdiQ0FuTkRUeVVFS2NRX1V0Q3p6UHM3cndGdEhWNEN3cF9QNDRFQVN0cVBIUnNzOGZ5bEw4V21VMjh3YzVn?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT"
+            },
+            {
+              "title": "Accelerating IC design and verification with agentic AI - Siemens",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOQXFSbmp3cjEtQU40ZHZTaFY5dkN2X3JkeWZ1U0FVamxCWFkzRG1qckljWHQzSzRXYzAzNXdLY0VFWnNaejBXUTV6azYyVE9PS2tsWWlhNl96T2xmbnRJSU5sZGVqRXBMZENhbDlR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 20:28:49 GMT"
             },
             {
               "title": "Agentic Commerce如何能让AI开始赚钱？ - BlockBeats",
@@ -595,12 +601,6 @@
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IaVZVSFlWTUxybkZDWVg5X1l5cndfanBaQmZveWtEdFExSVN2OExHeTlqVkhJNF9mY1dJdmF6WEp5endXWjBKSGt4Yl9qaHdBX3dN?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 07:24:00 GMT"
-            },
-            {
-              "title": "GitHub 发布 Agentic Workflows，解锁 AI 驱动的代码库自动化潜力 - InfoQ 官网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HRFB4MkhNeHFPM19qWGNaa1JUWWR2WTAzNm1hbkwxYm1XajhUVXJNN0FOaU4wLWM4UU5MYm9fWS1DZGRrQXE2WmstVlpjM04zel9JXzY2ZF9vSGNvYkE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 00:04:29 GMT"
             }
           ]
         },
@@ -620,7 +620,7 @@
               "publishedAt": "Fri, 27 Feb 2026 01:59:46 GMT"
             },
             {
-              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 让一部分人先看到未来",
+              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMzUzdWNndmliZFZzODRjYVlSMnVIaXY5QmZ0Qm9ZcGJPb0xJbWg3V09fcWNfUnFzZ0Vqc1JhR0tRX0swV0NKQ2tfbDhkUQ?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 08:39:53 GMT"
@@ -645,25 +645,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 178.28500366210938,
+          "price": 177.19000244140625,
           "previousClose": 187.97999572753906,
-          "changePct": -5.1574594562081755
+          "changePct": -5.73996889635639
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 393.44000244140625,
+          "price": 392.739990234375,
           "previousClose": 399.6000061035156,
-          "changePct": -1.5415424344397126
+          "changePct": -1.7167206617518298
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 307.6199951171875,
+          "price": 311.760009765625,
           "previousClose": 303.3299865722656,
-          "changePct": 1.4143041357039783
+          "changePct": 2.779159188519925
         },
         {
           "symbol": "002230.SZ",
@@ -766,7 +766,7 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "时隔4年，华为在欧洲发布Mate80 Pro - 观察者",
+              "title": "时隔4年，华为在欧洲发布Mate80 Pro-观察者网 - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QeGV4cUVnNFFWcmpJaEFQZVlxMHdZYzc4blc1WVRHeE1SQnNTY3I1bkZIbzVDcldKbVZRVVpraGIwdnJud25ldVZ3ZXQ3R2RTU0Y5ZmtYbXdERHpub2Nhek44ZDE?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 03:05:00 GMT"
@@ -784,6 +784,12 @@
               "publishedAt": "Fri, 27 Feb 2026 10:43:00 GMT"
             },
             {
+              "title": "新一代SU7增加外侧机械门把手，将成立小米汽车安全顾问委员会 - 新京报",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42Y0E1d3FKeV9EZEE3ajdfUWpYX3NRQWJkYkJBMlMxR003N3lZRlVHT2twZkxzcGhwcUZxUEppVDJRVkhENUhLR25iRjR4ZzRGUmxKV3p5dm84cGp2ODVvRlFKYTM?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 14:35:19 GMT"
+            },
+            {
               "title": "三大指数全红，腾讯、美团、百度等齐涨，碧桂园涨超7%，南向资金净流入超140亿港元！后市怎么走？ - 证券时报",
               "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRbmM3NkY5cWJicDJNQ29Sc2tnYkt3S0NqZG1YZjU3bkVldFBTSnc0WmNTUEtIOUZ6UXhxNWdCZjgyVlNrTHhvZllBSFJ1alVFbThfdGphMmVFbElZ?oc=5",
               "source": "Google News",
@@ -794,12 +800,6 @@
               "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IQzRGam1RVVhIWlAtYTdpUTJPWmxSTnd0VmE1dXVJVVQ5Zmk4eUVqdVQ5UDhxZml6am5VVlNCUU55RFdjS29Ja1hMUHNVS1dZVlhPbXFWcXl1QQ?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 08:30:12 GMT"
-            },
-            {
-              "title": "小米回应事故调查过程：原则上车企不能自行披露事故信息 - 东方财富网",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpM3ljTkJ3LVBmYWFRbHp1TWg4SWNiSTdxaU9qSU5HaG9MMmVDOUtEOXNfN1d6SktXLWNSQWlRRDYtUHR4enppUjZUaTVlcFpnTXN3TnRLb0V1WXVBYmhQUw?oc=5",
-              "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 12:48:37 GMT"
             }
           ]
         },
@@ -812,6 +812,12 @@
               "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONWN5bThZaDAwUFFad1VRaVRfdFdYRWRXaVN3WjAwclJlYUkybktLODVRMHU0cnBBOHI5Vkk0ZndDUU9HSjN0Y3ozaFhYakdoMGtjcmg1bzFSVkx0ZER2RVAzWHEySkxjY0J6Xy1DdjZCeHhidnFBakJrRkhJcjYyTk4wVjVYbEJzNl9tY1llbnFwN3k0M00yWmNNZzlhNkRXQ0JKQkxqUW5MRGFRSGQ4c3QySVRTbEtUMWpCVjVXaG16TzZKTldBYXpINUk4YTBsWTFnZEJWdlVYdk1ic2VEMFFJSkN4bzYzcHNNbkdiQ0FuTkRUeVVFS2NRX1V0Q3p6UHM3cndGdEhWNEN3cF9QNDRFQVN0cVBIUnNzOGZ5bEw4V21VMjh3YzVn?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT"
+            },
+            {
+              "title": "Accelerating IC design and verification with agentic AI - Siemens",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOQXFSbmp3cjEtQU40ZHZTaFY5dkN2X3JkeWZ1U0FVamxCWFkzRG1qckljWHQzSzRXYzAzNXdLY0VFWnNaejBXUTV6azYyVE9PS2tsWWlhNl96T2xmbnRJSU5sZGVqRXBMZENhbDlR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 20:28:49 GMT"
             },
             {
               "title": "Agentic Commerce如何能让AI开始赚钱？ - BlockBeats",
@@ -836,12 +842,6 @@
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IaVZVSFlWTUxybkZDWVg5X1l5cndfanBaQmZveWtEdFExSVN2OExHeTlqVkhJNF9mY1dJdmF6WEp5endXWjBKSGt4Yl9qaHdBX3dN?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 07:24:00 GMT"
-            },
-            {
-              "title": "GitHub 发布 Agentic Workflows，解锁 AI 驱动的代码库自动化潜力 - InfoQ 官网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HRFB4MkhNeHFPM19qWGNaa1JUWWR2WTAzNm1hbkwxYm1XajhUVXJNN0FOaU4wLWM4UU5MYm9fWS1DZGRrQXE2WmstVlpjM04zel9JXzY2ZF9vSGNvYkE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 00:04:29 GMT"
             }
           ]
         },
@@ -861,7 +861,7 @@
               "publishedAt": "Fri, 27 Feb 2026 01:59:46 GMT"
             },
             {
-              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 让一部分人先看到未来",
+              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMzUzdWNndmliZFZzODRjYVlSMnVIaXY5QmZ0Qm9ZcGJPb0xJbWg3V09fcWNfUnFzZ0Vqc1JhR0tRX0swV0NKQ2tfbDhkUQ?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 08:39:53 GMT"
@@ -886,25 +886,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 178.28500366210938,
+          "price": 177.19000244140625,
           "previousClose": 185.41000366210938,
-          "changePct": -3.842834722653141
+          "changePct": -4.433418401567604
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 393.4599914550781,
+          "price": 392.739990234375,
           "previousClose": 401.1400146484375,
-          "changePct": -1.9145492628278964
+          "changePct": -2.094038018477003
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 307.6199951171875,
+          "price": 311.760009765625,
           "previousClose": 322.8599853515625,
-          "changePct": -4.720309399066645
+          "changePct": -3.438015266540611
         },
         {
           "symbol": "002230.SZ",
@@ -1027,7 +1027,7 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "时隔4年，华为在欧洲发布Mate80 Pro - 观察者",
+              "title": "时隔4年，华为在欧洲发布Mate80 Pro-观察者网 - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QeGV4cUVnNFFWcmpJaEFQZVlxMHdZYzc4blc1WVRHeE1SQnNTY3I1bkZIbzVDcldKbVZRVVpraGIwdnJud25ldVZ3ZXQ3R2RTU0Y5ZmtYbXdERHpub2Nhek44ZDE?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 03:05:00 GMT"
@@ -1045,6 +1045,12 @@
               "publishedAt": "Fri, 27 Feb 2026 10:43:00 GMT"
             },
             {
+              "title": "新一代SU7增加外侧机械门把手，将成立小米汽车安全顾问委员会 - 新京报",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42Y0E1d3FKeV9EZEE3ajdfUWpYX3NRQWJkYkJBMlMxR003N3lZRlVHT2twZkxzcGhwcUZxUEppVDJRVkhENUhLR25iRjR4ZzRGUmxKV3p5dm84cGp2ODVvRlFKYTM?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 14:35:19 GMT"
+            },
+            {
               "title": "三大指数全红，腾讯、美团、百度等齐涨，碧桂园涨超7%，南向资金净流入超140亿港元！后市怎么走？ - 证券时报",
               "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRbmM3NkY5cWJicDJNQ29Sc2tnYkt3S0NqZG1YZjU3bkVldFBTSnc0WmNTUEtIOUZ6UXhxNWdCZjgyVlNrTHhvZllBSFJ1alVFbThfdGphMmVFbElZ?oc=5",
               "source": "Google News",
@@ -1055,12 +1061,6 @@
               "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IQzRGam1RVVhIWlAtYTdpUTJPWmxSTnd0VmE1dXVJVVQ5Zmk4eUVqdVQ5UDhxZml6am5VVlNCUU55RFdjS29Ja1hMUHNVS1dZVlhPbXFWcXl1QQ?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 08:30:12 GMT"
-            },
-            {
-              "title": "小米回应事故调查过程：原则上车企不能自行披露事故信息 - 东方财富网",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpM3ljTkJ3LVBmYWFRbHp1TWg4SWNiSTdxaU9qSU5HaG9MMmVDOUtEOXNfN1d6SktXLWNSQWlRRDYtUHR4enppUjZUaTVlcFpnTXN3TnRLb0V1WXVBYmhQUw?oc=5",
-              "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 12:48:37 GMT"
             }
           ]
         },
@@ -1087,22 +1087,22 @@
               "publishedAt": "Mon, 02 Feb 2026 08:00:00 GMT"
             },
             {
+              "title": "Accelerating IC design and verification with agentic AI - Siemens",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOQXFSbmp3cjEtQU40ZHZTaFY5dkN2X3JkeWZ1U0FVamxCWFkzRG1qckljWHQzSzRXYzAzNXdLY0VFWnNaejBXUTV6azYyVE9PS2tsWWlhNl96T2xmbnRJSU5sZGVqRXBMZENhbDlR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 20:28:49 GMT"
+            },
+            {
               "title": "Agentic Commerce如何能让AI开始赚钱？ - BlockBeats",
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EeWtZRHY5TzdjRzVya2JPZmlUdFN6bVQ2WEEwaUdRSjQwaVc3VnNMVlZiRzhXeVNfZ1QwRFZXLWt6ZzNya21NY3pSY1RsVGViTTdR?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 25 Feb 2026 06:56:01 GMT"
             },
             {
-              "title": "硬刚OpenAI！中国团队杀入Agentic AI全球前二，一战封神- 智源社区 - 智源社区",
+              "title": "硬刚OpenAI！中国团队杀入Agentic AI全球前二，一战封神 - 智源社区",
               "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6SDJJVjlicGhiUkxkNjZfSllKZFhxbHdLWGFlWmhHbkZiMDEtbnFHZHM1VGhWUHp1Z1ViUU04TmZNR3pvVjRzeQ?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 12 Feb 2026 02:40:00 GMT"
-            },
-            {
-              "title": "英伟达红队发布AI Agent安全实践指南 - 安全内参",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYaHNMV1N3UTNXR2JVS2Vhb0lpelB6YU1PdUVSdmdXTkdVZjAzTGRjMHlHSGh3NWV0VWtrTXZuSUFwTllaMjlWX242MzNMUQ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 09 Feb 2026 08:00:00 GMT"
             }
           ]
         },
@@ -1134,7 +1134,7 @@
               "publishedAt": "Fri, 27 Feb 2026 01:59:46 GMT"
             },
             {
-              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 让一部分人先看到未来",
+              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMzUzdWNndmliZFZzODRjYVlSMnVIaXY5QmZ0Qm9ZcGJPb0xJbWg3V09fcWNfUnFzZ0Vqc1JhR0tRX0swV0NKQ2tfbDhkUQ?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 08:39:53 GMT"
@@ -1165,25 +1165,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 178.30499267578125,
+          "price": 177.19000244140625,
           "previousClose": 183.13999938964844,
-          "changePct": -2.6400604619312205
+          "changePct": -3.2488789822385997
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 393.4599914550781,
+          "price": 392.739990234375,
           "previousClose": 459.3800048828125,
-          "changePct": -14.349778555240016
+          "changePct": -14.506511807242747
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 307.6199951171875,
+          "price": 311.760009765625,
           "previousClose": 335.8399963378906,
-          "changePct": -8.402811317419982
+          "changePct": -7.170077070879493
         },
         {
           "symbol": "002230.SZ",
