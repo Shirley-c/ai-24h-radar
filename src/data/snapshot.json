@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-01T18:42:25.483Z",
+  "generatedAt": "2026-03-01T20:34:48.780Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -31,6 +31,18 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
+              "title": "华为发布AI-Native新代际运维方案，定义智能运维新范式- 华为 - Huawei",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MbXV4YUtocHZMWWRGcEFBS2R0aW1tell6aDlLX3B6eG8ybEZ6OUlydU1hZnlPcjd1TVRLblRZLVJaeV9uQkE5aVNKWEx4OE9OWWl0cWk1QzBFT3J0RVVfNjFHUTZVLWVJ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sun, 01 Mar 2026 17:57:49 GMT"
+            },
+            {
+              "title": "华为将发布U6GHz全系列产品 着眼向6G平滑演进 - chinanews.com.cn",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aYXI2TDIxUVZzNWthVy1xdWtwTkRldUV3VUhueEg3LS12bEpGSGJEZXNweGkzV2VmS2pMYnp0T1VtMDY3T3RSdFBNZTRHbkprcGpGRzJPQUxVSUpYdVlpaG5QNUdzejRt?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sun, 01 Mar 2026 14:05:33 GMT"
+            },
+            {
               "title": "华为首次在海外展示多个型号超节点产品和解决方案 - DoNews",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TUFgyMllyclFiMzlRa29ta2RNeUNyWUw2aFNCY1g1WFAtZkU2MTMzS1ZVWmRIREtuc1VYQ09md29TN3ZnYTg5dm1nQVViTzA1QTU5eXpUYzN1OVdpdEE?oc=5",
               "source": "Google News",
@@ -43,28 +55,16 @@
               "publishedAt": "Sun, 01 Mar 2026 14:38:03 GMT"
             },
             {
-              "title": "华为将发布U6GHz全系列产品 着眼向6G平滑演进 - chinanews.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aYXI2TDIxUVZzNWthVy1xdWtwTkRldUV3VUhueEg3LS12bEpGSGJEZXNweGkzV2VmS2pMYnp0T1VtMDY3T3RSdFBNZTRHbkprcGpGRzJPQUxVSUpYdVlpaG5QNUdzejRt?oc=5",
-              "source": "Google News",
-              "publishedAt": "Sun, 01 Mar 2026 14:05:33 GMT"
-            },
-            {
               "title": "小米官宣概念超跑 Vision Gran Turismo - 手机新浪网",
               "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13TFpFZzctSTB3Yk9lMkRjSHphLXE0eTZ0NUpvLVd6dl9JVFpYS0pmdW16VmJQVlRueUl5US1iRTFfYzlSV2NBMWtzSFNxOEwtWFRtMVZHci1aSUZtTHREekpkXzViZEQ4b2xpMFI3TDdVU2Qt?oc=5",
               "source": "Google News",
               "publishedAt": "Sun, 01 Mar 2026 15:33:42 GMT"
             },
             {
-              "title": "比亚迪2月新能源汽车销量约19.02万辆 - 同花顺财经",
+              "title": "比亚迪2月新能源汽车销量约19.02万辆 - 同花顺",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KQWhGUTBnUWdSS0RSRXZZTG5hMjIwWjh4VkRzUldVcWdyNUZEdmNHR2tIZ0l4RUZtSVBqSEFfblRJVzFWYmpVbklmMTZmVTlxLV9nQmhWck95LVc3WVE?oc=5",
               "source": "Google News",
               "publishedAt": "Sun, 01 Mar 2026 16:09:39 GMT"
-            },
-            {
-              "title": "【网通社快报】长城汽车2月新能源车销量12744台，海外销售超4.2万辆 - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rb1RGbW1SWHBQUExKUVRUTEd0WV9BRnBsWDMzaWw2dHhVS01KWUZwcFQ3aDh4VXZDOE9nTFhoakV6SHhULS1nQ2t5Ums?oc=5",
-              "source": "Google News",
-              "publishedAt": "Sun, 01 Mar 2026 14:09:39 GMT"
             }
           ]
         },
@@ -72,6 +72,12 @@
           "title": "代理式 AI",
           "query": "AI agents agentic",
           "items": [
+            {
+              "title": "AIOps 的进化：从监控到智能代理——Agentic DevOps 的崛起 - 51CTO",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xcWZmRDhYV0NrUHRRbW1KY1JKaXE3MGlXS1NpVi1Kem1UQm5iYlJEX3FfSGVuTDUyVU1lTzVUaTFYdkl6T1NSXzVteVZucnphd1FN?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sun, 01 Mar 2026 19:00:00 GMT"
+            },
             {
               "title": "MWC 2026 | 华为发布面向5G-A的承载网架构，筑就Agentic MBB时代新底座-AI云资讯 - icloudnews.net",
               "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95ZDJJODhvYkdtdXctV1VPaXFITWR3elc3QlNYTGQxM0FNeU1rY2JOdGEzQVM4VEtteFZFd29Ub2tXLXNYTUMxUzZacGxobllNUmc?oc=5",
@@ -222,7 +228,14 @@
         {
           "title": "产品范式",
           "query": "AI product launch",
-          "items": []
+          "items": [
+            {
+              "title": "Global Humanoid Robot Leader AgiBot Taps Minth Group to Drive European Rollout - Yicai Global",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGJDSjNOUXB3LVowdFB0VDZCZjdmazNzVVhpdlJBcUlmMGl1NHBIbS1WaEhOT0RUeno1ZWJxa1gwVVJJMHRuS28yeDRQTmttTTh6dmZ1YmhjaGZvY1R3bnBsSDFYTVcya29MOVkyYW9rUGpjak52OVVkLWlTZUcxNHJ5SGQtRUdSTHdmY2lBUmxBdUFjYkd1SDBqbFRHZVUtV2RSLUFzT09lOWMyY2tiWA?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sat, 28 Feb 2026 20:29:47 GMT"
+            }
+          ]
         },
         {
           "title": "国外大厂动作",
@@ -233,6 +246,12 @@
           "title": "国内大厂动作",
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
+            {
+              "title": "华为将发布U6GHz全系列产品 着眼向6G平滑演进 - chinanews.com.cn",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aYXI2TDIxUVZzNWthVy1xdWtwTkRldUV3VUhueEg3LS12bEpGSGJEZXNweGkzV2VmS2pMYnp0T1VtMDY3T3RSdFBNZTRHbkprcGpGRzJPQUxVSUpYdVlpaG5QNUdzejRt?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sun, 01 Mar 2026 14:05:33 GMT"
+            },
             {
               "title": "华为首次在海外展示多个型号超节点产品和解决方案 - DoNews",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TUFgyMllyclFiMzlRa29ta2RNeUNyWUw2aFNCY1g1WFAtZkU2MTMzS1ZVWmRIREtuc1VYQ09md29TN3ZnYTg5dm1nQVViTzA1QTU5eXpUYzN1OVdpdEE?oc=5",
@@ -246,10 +265,10 @@
               "publishedAt": "Sun, 01 Mar 2026 14:38:03 GMT"
             },
             {
-              "title": "华为将发布U6GHz全系列产品 着眼向6G平滑演进 - chinanews.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aYXI2TDIxUVZzNWthVy1xdWtwTkRldUV3VUhueEg3LS12bEpGSGJEZXNweGkzV2VmS2pMYnp0T1VtMDY3T3RSdFBNZTRHbkprcGpGRzJPQUxVSUpYdVlpaG5QNUdzejRt?oc=5",
+              "title": "比亚迪2月新能源汽车销量约19.02万辆 - 同花顺",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KQWhGUTBnUWdSS0RSRXZZTG5hMjIwWjh4VkRzUldVcWdyNUZEdmNHR2tIZ0l4RUZtSVBqSEFfblRJVzFWYmpVbklmMTZmVTlxLV9nQmhWck95LVc3WVE?oc=5",
               "source": "Google News",
-              "publishedAt": "Sun, 01 Mar 2026 14:05:33 GMT"
+              "publishedAt": "Sun, 01 Mar 2026 16:09:39 GMT"
             },
             {
               "title": "小米官宣概念超跑 Vision Gran Turismo - 手机新浪网",
@@ -258,16 +277,10 @@
               "publishedAt": "Sun, 01 Mar 2026 15:33:42 GMT"
             },
             {
-              "title": "比亚迪2月新能源汽车销量约19.02万辆 - 同花顺财经",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KQWhGUTBnUWdSS0RSRXZZTG5hMjIwWjh4VkRzUldVcWdyNUZEdmNHR2tIZ0l4RUZtSVBqSEFfblRJVzFWYmpVbklmMTZmVTlxLV9nQmhWck95LVc3WVE?oc=5",
+              "title": "时隔4年，华为在欧洲发布Mate80 Pro-观察者网 - 观察者",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QeGV4cUVnNFFWcmpJaEFQZVlxMHdZYzc4blc1WVRHeE1SQnNTY3I1bkZIbzVDcldKbVZRVVpraGIwdnJud25ldVZ3ZXQ3R2RTU0Y5ZmtYbXdERHpub2Nhek44ZDE?oc=5",
               "source": "Google News",
-              "publishedAt": "Sun, 01 Mar 2026 16:09:39 GMT"
-            },
-            {
-              "title": "【网通社快报】长城汽车2月新能源车销量12744台，海外销售超4.2万辆 - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rb1RGbW1SWHBQUExKUVRUTEd0WV9BRnBsWDMzaWw2dHhVS01KWUZwcFQ3aDh4VXZDOE9nTFhoakV6SHhULS1nQ2t5Ums?oc=5",
-              "source": "Google News",
-              "publishedAt": "Sun, 01 Mar 2026 14:09:39 GMT"
+              "publishedAt": "Fri, 27 Feb 2026 03:05:00 GMT"
             }
           ]
         },
@@ -275,6 +288,12 @@
           "title": "代理式 AI",
           "query": "AI agents agentic",
           "items": [
+            {
+              "title": "AIOps 的进化：从监控到智能代理——Agentic DevOps 的崛起 - 51CTO",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xcWZmRDhYV0NrUHRRbW1KY1JKaXE3MGlXS1NpVi1Kem1UQm5iYlJEX3FfSGVuTDUyVU1lTzVUaTFYdkl6T1NSXzVteVZucnphd1FN?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sun, 01 Mar 2026 19:00:00 GMT"
+            },
             {
               "title": "一切皆可Agent Skills，无处不在的AI Agent会替代业务流程吗？ - 凤凰网科技",
               "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54U3VmTjFqZ0ozb05uTzE4SnFZOUdTMWYzVmRtVzA0aVlob3BCYmdjRWJLMDgyRkNtZll5X2NQZkdBLXFqd25IUXlPUDc?oc=5",
@@ -304,12 +323,6 @@
               "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yS3QybG9ib1hnM1hqOERkZXdPWVRUcTRNTHFZOHZ0cHQyX1F2ckZCYURlWVdQTGphVk8ybFF2RFBfT196VHpMd01wZ3l3SENBQWtEVzZxRkVrbEZ1bWVBLTZ4blZydmlRTlgxeGxR?oc=5",
               "source": "Google News",
               "publishedAt": "Sat, 28 Feb 2026 07:08:52 GMT"
-            },
-            {
-              "title": "MWC 2026 | 华为发布面向5G-A的承载网架构，筑就Agentic MBB时代新底座-AI云资讯 - icloudnews.net",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95ZDJJODhvYkdtdXctV1VPaXFITWR3elc3QlNYTGQxM0FNeU1rY2JOdGEzQVM4VEtteFZFd29Ub2tXLXNYTUMxUzZacGxobllNUmc?oc=5",
-              "source": "Google News",
-              "publishedAt": "Sun, 01 Mar 2026 14:12:01 GMT"
             }
           ]
         },
@@ -450,7 +463,14 @@
         {
           "title": "产品范式",
           "query": "AI product launch",
-          "items": []
+          "items": [
+            {
+              "title": "Global Humanoid Robot Leader AgiBot Taps Minth Group to Drive European Rollout - Yicai Global",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGJDSjNOUXB3LVowdFB0VDZCZjdmazNzVVhpdlJBcUlmMGl1NHBIbS1WaEhOT0RUeno1ZWJxa1gwVVJJMHRuS28yeDRQTmttTTh6dmZ1YmhjaGZvY1R3bnBsSDFYTVcya29MOVkyYW9rUGpjak52OVVkLWlTZUcxNHJ5SGQtRUdSTHdmY2lBUmxBdUFjYkd1SDBqbFRHZVUtV2RSLUFzT09lOWMyY2tiWA?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sat, 28 Feb 2026 20:29:47 GMT"
+            }
+          ]
         },
         {
           "title": "国外大厂动作",
@@ -461,6 +481,18 @@
           "title": "国内大厂动作",
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
+            {
+              "title": "华为发布AI-Native新代际运维方案，定义智能运维新范式- 华为 - Huawei",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MbXV4YUtocHZMWWRGcEFBS2R0aW1tell6aDlLX3B6eG8ybEZ6OUlydU1hZnlPcjd1TVRLblRZLVJaeV9uQkE5aVNKWEx4OE9OWWl0cWk1QzBFT3J0RVVfNjFHUTZVLWVJ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sun, 01 Mar 2026 17:57:49 GMT"
+            },
+            {
+              "title": "华为将发布U6GHz全系列产品 着眼向6G平滑演进 - chinanews.com.cn",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aYXI2TDIxUVZzNWthVy1xdWtwTkRldUV3VUhueEg3LS12bEpGSGJEZXNweGkzV2VmS2pMYnp0T1VtMDY3T3RSdFBNZTRHbkprcGpGRzJPQUxVSUpYdVlpaG5QNUdzejRt?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sun, 01 Mar 2026 14:05:33 GMT"
+            },
             {
               "title": "华为首次在海外展示多个型号超节点产品和解决方案 - DoNews",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TUFgyMllyclFiMzlRa29ta2RNeUNyWUw2aFNCY1g1WFAtZkU2MTMzS1ZVWmRIREtuc1VYQ09md29TN3ZnYTg5dm1nQVViTzA1QTU5eXpUYzN1OVdpdEE?oc=5",
@@ -474,28 +506,16 @@
               "publishedAt": "Sun, 01 Mar 2026 14:38:03 GMT"
             },
             {
-              "title": "华为将发布U6GHz全系列产品 着眼向6G平滑演进 - chinanews.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aYXI2TDIxUVZzNWthVy1xdWtwTkRldUV3VUhueEg3LS12bEpGSGJEZXNweGkzV2VmS2pMYnp0T1VtMDY3T3RSdFBNZTRHbkprcGpGRzJPQUxVSUpYdVlpaG5QNUdzejRt?oc=5",
-              "source": "Google News",
-              "publishedAt": "Sun, 01 Mar 2026 14:05:33 GMT"
-            },
-            {
               "title": "小米官宣概念超跑 Vision Gran Turismo - 手机新浪网",
               "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13TFpFZzctSTB3Yk9lMkRjSHphLXE0eTZ0NUpvLVd6dl9JVFpYS0pmdW16VmJQVlRueUl5US1iRTFfYzlSV2NBMWtzSFNxOEwtWFRtMVZHci1aSUZtTHREekpkXzViZEQ4b2xpMFI3TDdVU2Qt?oc=5",
               "source": "Google News",
               "publishedAt": "Sun, 01 Mar 2026 15:33:42 GMT"
             },
             {
-              "title": "比亚迪2月新能源汽车销量约19.02万辆 - 同花顺财经",
+              "title": "比亚迪2月新能源汽车销量约19.02万辆 - 同花顺",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KQWhGUTBnUWdSS0RSRXZZTG5hMjIwWjh4VkRzUldVcWdyNUZEdmNHR2tIZ0l4RUZtSVBqSEFfblRJVzFWYmpVbklmMTZmVTlxLV9nQmhWck95LVc3WVE?oc=5",
               "source": "Google News",
               "publishedAt": "Sun, 01 Mar 2026 16:09:39 GMT"
-            },
-            {
-              "title": "【网通社快报】长城汽车2月新能源车销量12744台，海外销售超4.2万辆 - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rb1RGbW1SWHBQUExKUVRUTEd0WV9BRnBsWDMzaWw2dHhVS01KWUZwcFQ3aDh4VXZDOE9nTFhoakV6SHhULS1nQ2t5Ums?oc=5",
-              "source": "Google News",
-              "publishedAt": "Sun, 01 Mar 2026 14:09:39 GMT"
             }
           ]
         },
@@ -684,7 +704,14 @@
         {
           "title": "产品范式",
           "query": "AI product launch",
-          "items": []
+          "items": [
+            {
+              "title": "Global Humanoid Robot Leader AgiBot Taps Minth Group to Drive European Rollout - Yicai Global",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGJDSjNOUXB3LVowdFB0VDZCZjdmazNzVVhpdlJBcUlmMGl1NHBIbS1WaEhOT0RUeno1ZWJxa1gwVVJJMHRuS28yeDRQTmttTTh6dmZ1YmhjaGZvY1R3bnBsSDFYTVcya29MOVkyYW9rUGpjak52OVVkLWlTZUcxNHJ5SGQtRUdSTHdmY2lBUmxBdUFjYkd1SDBqbFRHZVUtV2RSLUFzT09lOWMyY2tiWA?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sat, 28 Feb 2026 20:29:47 GMT"
+            }
+          ]
         },
         {
           "title": "国外大厂动作",
@@ -695,6 +722,18 @@
           "title": "国内大厂动作",
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
+            {
+              "title": "华为发布AI-Native新代际运维方案，定义智能运维新范式- 华为 - Huawei",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MbXV4YUtocHZMWWRGcEFBS2R0aW1tell6aDlLX3B6eG8ybEZ6OUlydU1hZnlPcjd1TVRLblRZLVJaeV9uQkE5aVNKWEx4OE9OWWl0cWk1QzBFT3J0RVVfNjFHUTZVLWVJ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sun, 01 Mar 2026 17:57:49 GMT"
+            },
+            {
+              "title": "华为将发布U6GHz全系列产品 着眼向6G平滑演进 - chinanews.com.cn",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aYXI2TDIxUVZzNWthVy1xdWtwTkRldUV3VUhueEg3LS12bEpGSGJEZXNweGkzV2VmS2pMYnp0T1VtMDY3T3RSdFBNZTRHbkprcGpGRzJPQUxVSUpYdVlpaG5QNUdzejRt?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sun, 01 Mar 2026 14:05:33 GMT"
+            },
             {
               "title": "华为首次在海外展示多个型号超节点产品和解决方案 - DoNews",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TUFgyMllyclFiMzlRa29ta2RNeUNyWUw2aFNCY1g1WFAtZkU2MTMzS1ZVWmRIREtuc1VYQ09md29TN3ZnYTg5dm1nQVViTzA1QTU5eXpUYzN1OVdpdEE?oc=5",
@@ -708,28 +747,16 @@
               "publishedAt": "Sun, 01 Mar 2026 14:38:03 GMT"
             },
             {
-              "title": "华为将发布U6GHz全系列产品 着眼向6G平滑演进 - chinanews.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aYXI2TDIxUVZzNWthVy1xdWtwTkRldUV3VUhueEg3LS12bEpGSGJEZXNweGkzV2VmS2pMYnp0T1VtMDY3T3RSdFBNZTRHbkprcGpGRzJPQUxVSUpYdVlpaG5QNUdzejRt?oc=5",
-              "source": "Google News",
-              "publishedAt": "Sun, 01 Mar 2026 14:05:33 GMT"
-            },
-            {
               "title": "小米官宣概念超跑 Vision Gran Turismo - 手机新浪网",
               "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13TFpFZzctSTB3Yk9lMkRjSHphLXE0eTZ0NUpvLVd6dl9JVFpYS0pmdW16VmJQVlRueUl5US1iRTFfYzlSV2NBMWtzSFNxOEwtWFRtMVZHci1aSUZtTHREekpkXzViZEQ4b2xpMFI3TDdVU2Qt?oc=5",
               "source": "Google News",
               "publishedAt": "Sun, 01 Mar 2026 15:33:42 GMT"
             },
             {
-              "title": "比亚迪2月新能源汽车销量约19.02万辆 - 同花顺财经",
+              "title": "比亚迪2月新能源汽车销量约19.02万辆 - 同花顺",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KQWhGUTBnUWdSS0RSRXZZTG5hMjIwWjh4VkRzUldVcWdyNUZEdmNHR2tIZ0l4RUZtSVBqSEFfblRJVzFWYmpVbklmMTZmVTlxLV9nQmhWck95LVc3WVE?oc=5",
               "source": "Google News",
               "publishedAt": "Sun, 01 Mar 2026 16:09:39 GMT"
-            },
-            {
-              "title": "【网通社快报】长城汽车2月新能源车销量12744台，海外销售超4.2万辆 - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rb1RGbW1SWHBQUExKUVRUTEd0WV9BRnBsWDMzaWw2dHhVS01KWUZwcFQ3aDh4VXZDOE9nTFhoakV6SHhULS1nQ2t5Ums?oc=5",
-              "source": "Google News",
-              "publishedAt": "Sun, 01 Mar 2026 14:09:39 GMT"
             }
           ]
         },
@@ -739,7 +766,7 @@
           "items": [
             {
               "title": "华为加入 Agentic AI 基金会成为金牌会员，推动智能体 AI 系统开放互操作 - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxORWs5RHFTSHRxVE1yT0g2ZVE0RF8yNHNKYld0VjFEb1RSMDg5OXIwQUw4YUtaaWlkM2FubVRONnpaVzd3YUx5clhScXZpcVBWSjh3aWRib3dCUWtQSGRCcENsYVV3RUhoWEh1RElFQXdvY2hTQU14V0JTZk1DMVo4ZHZ5Q3FORmJvTnBrSU5ESUgwQnhBcnpvWF92cFRRWTlaVWlXMTk5Z2VmazY3OWxGOWF6WkNubGwtS0lPVTk5UktjVlNBdXJfWEYyZndUOVE1S0d6OEVVaDlPRG5BWWhXMEZxaGJpVEtSYy1ZOE8zLTJ0OXk4WXBLQU1NSmNnMTFPMC12ZllkdjdjTEl4aVMtcmVqUFJnNmhvcXdmSnNqVVM2amM2WEtTRURVVEdmQ2R0X3hieUZOVS1ZV0VIQWF0cGMyNUtpS1RaX090SXZQN3FvUEtpZzJGQWxpRGtDcVJBcjVxQ0dVejBzYTF2VEVrQWtwdTZIQQ?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQaGNLbWVnZTJmZkQxam1mT2IzUmVaNl9OZEw2MW5NWDB3SDU4Vmhoc2hPWVZBeGhScE1lc3ZWY1pOSElyNHFmR2hNZ0FTOFJwS1hCNmJBZzRxOVBpbzgtQncxUHZvbGVBVmV3YXh1eF9nNVgzcHlYTWlkb3BVVjlZdW9RaDl4ejg2WWVjQUlTTVc3dGwxOUJNU2pQWXV5aDgyaFE2dXM0VlFEMjdtSGlzOVd3UHZZbjJVUzlUS1dBVmFPenRRNlExUEVDN3V1SHNZSDBtclc5dXVXNVBRenRZbHZaWUh3czA5VkVFUU94cjFaNDJTc095M0JFSUJoUXB5Z3lKMGxDMldyM0NQQjNJWFllUU5hNlRlZ3pzelR1RHYyWDV2ZndraFlQa2dxa0xXVWRsOVhjUldhdlVHdkJHVkszRk84N3pKVTJ0OHJSQWhTenRDeFU1R2psVjZxSkdhbnU1Nw?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT"
             },
@@ -926,6 +953,12 @@
               "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT"
             },
             {
+              "title": "Global Humanoid Robot Leader AgiBot Taps Minth Group to Drive European Rollout - Yicai Global",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGJDSjNOUXB3LVowdFB0VDZCZjdmazNzVVhpdlJBcUlmMGl1NHBIbS1WaEhOT0RUeno1ZWJxa1gwVVJJMHRuS28yeDRQTmttTTh6dmZ1YmhjaGZvY1R3bnBsSDFYTVcya29MOVkyYW9rUGpjak52OVVkLWlTZUcxNHJ5SGQtRUdSTHdmY2lBUmxBdUFjYkd1SDBqbFRHZVUtV2RSLUFzT09lOWMyY2tiWA?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sat, 28 Feb 2026 20:29:47 GMT"
+            },
+            {
               "title": "Anthropic reinforces its commitment to an ad-free approach and targets OpenAI in its forthcoming Super Bowl commercial - Bitget",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRNkFrRUlBMmtQRnhpRTFSdjZpWXJVLTlpdnFsTlBjOUxRLXUxMWotSF9fdHZJcU1Bb2VESmZkQ2tRODBPZ3MtNEMzblo3REJ6MHN2Nk5COHBCckpTTnfSAWNBVV95cUxPU3k3NmJzS190YURTeHMzNWxIeW1hSmk5SVJuZGVkMEIzTmdibEpZRE1lS2VJXzNzVlBEZFdiTmN4eHVkdTFWMjlLcWJmb0JaMGdHdGYtNGwtV2F6dlpkYjBaZzg?oc=5",
               "source": "Google News",
@@ -950,6 +983,18 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
+              "title": "华为发布AI-Native新代际运维方案，定义智能运维新范式- 华为 - Huawei",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MbXV4YUtocHZMWWRGcEFBS2R0aW1tell6aDlLX3B6eG8ybEZ6OUlydU1hZnlPcjd1TVRLblRZLVJaeV9uQkE5aVNKWEx4OE9OWWl0cWk1QzBFT3J0RVVfNjFHUTZVLWVJ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sun, 01 Mar 2026 17:57:49 GMT"
+            },
+            {
+              "title": "华为将发布U6GHz全系列产品 着眼向6G平滑演进 - chinanews.com.cn",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aYXI2TDIxUVZzNWthVy1xdWtwTkRldUV3VUhueEg3LS12bEpGSGJEZXNweGkzV2VmS2pMYnp0T1VtMDY3T3RSdFBNZTRHbkprcGpGRzJPQUxVSUpYdVlpaG5QNUdzejRt?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sun, 01 Mar 2026 14:05:33 GMT"
+            },
+            {
               "title": "华为首次在海外展示多个型号超节点产品和解决方案 - DoNews",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TUFgyMllyclFiMzlRa29ta2RNeUNyWUw2aFNCY1g1WFAtZkU2MTMzS1ZVWmRIREtuc1VYQ09md29TN3ZnYTg5dm1nQVViTzA1QTU5eXpUYzN1OVdpdEE?oc=5",
               "source": "Google News",
@@ -962,28 +1007,16 @@
               "publishedAt": "Sun, 01 Mar 2026 14:38:03 GMT"
             },
             {
-              "title": "华为将发布U6GHz全系列产品 着眼向6G平滑演进 - chinanews.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aYXI2TDIxUVZzNWthVy1xdWtwTkRldUV3VUhueEg3LS12bEpGSGJEZXNweGkzV2VmS2pMYnp0T1VtMDY3T3RSdFBNZTRHbkprcGpGRzJPQUxVSUpYdVlpaG5QNUdzejRt?oc=5",
-              "source": "Google News",
-              "publishedAt": "Sun, 01 Mar 2026 14:05:33 GMT"
-            },
-            {
               "title": "小米官宣概念超跑 Vision Gran Turismo - 手机新浪网",
               "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13TFpFZzctSTB3Yk9lMkRjSHphLXE0eTZ0NUpvLVd6dl9JVFpYS0pmdW16VmJQVlRueUl5US1iRTFfYzlSV2NBMWtzSFNxOEwtWFRtMVZHci1aSUZtTHREekpkXzViZEQ4b2xpMFI3TDdVU2Qt?oc=5",
               "source": "Google News",
               "publishedAt": "Sun, 01 Mar 2026 15:33:42 GMT"
             },
             {
-              "title": "比亚迪2月新能源汽车销量约19.02万辆 - 同花顺财经",
+              "title": "比亚迪2月新能源汽车销量约19.02万辆 - 同花顺",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KQWhGUTBnUWdSS0RSRXZZTG5hMjIwWjh4VkRzUldVcWdyNUZEdmNHR2tIZ0l4RUZtSVBqSEFfblRJVzFWYmpVbklmMTZmVTlxLV9nQmhWck95LVc3WVE?oc=5",
               "source": "Google News",
               "publishedAt": "Sun, 01 Mar 2026 16:09:39 GMT"
-            },
-            {
-              "title": "【网通社快报】长城汽车2月新能源车销量12744台，海外销售超4.2万辆 - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rb1RGbW1SWHBQUExKUVRUTEd0WV9BRnBsWDMzaWw2dHhVS01KWUZwcFQ3aDh4VXZDOE9nTFhoakV6SHhULS1nQ2t5Ums?oc=5",
-              "source": "Google News",
-              "publishedAt": "Sun, 01 Mar 2026 14:09:39 GMT"
             }
           ]
         },
@@ -1005,7 +1038,7 @@
             },
             {
               "title": "华为加入 Agentic AI 基金会成为金牌会员，推动智能体 AI 系统开放互操作 - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxORWs5RHFTSHRxVE1yT0g2ZVE0RF8yNHNKYld0VjFEb1RSMDg5OXIwQUw4YUtaaWlkM2FubVRONnpaVzd3YUx5clhScXZpcVBWSjh3aWRib3dCUWtQSGRCcENsYVV3RUhoWEh1RElFQXdvY2hTQU14V0JTZk1DMVo4ZHZ5Q3FORmJvTnBrSU5ESUgwQnhBcnpvWF92cFRRWTlaVWlXMTk5Z2VmazY3OWxGOWF6WkNubGwtS0lPVTk5UktjVlNBdXJfWEYyZndUOVE1S0d6OEVVaDlPRG5BWWhXMEZxaGJpVEtSYy1ZOE8zLTJ0OXk4WXBLQU1NSmNnMTFPMC12ZllkdjdjTEl4aVMtcmVqUFJnNmhvcXdmSnNqVVM2amM2WEtTRURVVEdmQ2R0X3hieUZOVS1ZV0VIQWF0cGMyNUtpS1RaX090SXZQN3FvUEtpZzJGQWxpRGtDcVJBcjVxQ0dVejBzYTF2VEVrQWtwdTZIQQ?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQaGNLbWVnZTJmZkQxam1mT2IzUmVaNl9OZEw2MW5NWDB3SDU4Vmhoc2hPWVZBeGhScE1lc3ZWY1pOSElyNHFmR2hNZ0FTOFJwS1hCNmJBZzRxOVBpbzgtQncxUHZvbGVBVmV3YXh1eF9nNVgzcHlYTWlkb3BVVjlZdW9RaDl4ejg2WWVjQUlTTVc3dGwxOUJNU2pQWXV5aDgyaFE2dXM0VlFEMjdtSGlzOVd3UHZZbjJVUzlUS1dBVmFPenRRNlExUEVDN3V1SHNZSDBtclc5dXVXNVBRenRZbHZaWUh3czA5VkVFUU94cjFaNDJTc095M0JFSUJoUXB5Z3lKMGxDMldyM0NQQjNJWFllUU5hNlRlZ3pzelR1RHYyWDV2ZndraFlQa2dxa0xXVWRsOVhjUldhdlVHdkJHVkszRk84N3pKVTJ0OHJSQWhTenRDeFU1R2psVjZxSkdhbnU1Nw?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT"
             },
@@ -1055,12 +1088,6 @@
               "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sQy1Pbmlma1BKY3FjMkZ2UXByYzZBT19JeXlYRTJMdE03amppRUxGdE5nRnRQR2hpX0JYLVItR0JTeFd0TTVEOFhSVkVkZDNzM0Z4eE5DNUxDNTFxekZ0VndhRVBwLXY0d0l5cg?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 01:59:46 GMT"
-            },
-            {
-              "title": "网页发布隐藏手机型号_新浪新闻 - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QWHJKMS1QMW10WGt2VEJLOGwwU01DbDVOYWpVbWU5ODRpU3p4cWFYdndtZ0Z5YVhiMmdkR0ZPT0p2ckp5blJsRkVvQ1poSXUxcE5CcVdlYldmdG02SDEySXF5NA?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT"
             },
             {
               "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36 Kr",
