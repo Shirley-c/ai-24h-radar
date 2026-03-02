@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T13:13:29.798Z",
+  "generatedAt": "2026-03-02T14:50:42.808Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -26,7 +26,14 @@
         {
           "title": "产品范式",
           "query": "AI product launch",
-          "items": []
+          "items": [
+            {
+              "title": "Simplilearn 推出了‘应用代理人工智能：系统、设计与影响’项目，旨在培养下一代微软人工智能产品与系统领导者。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjVIb3hndnd6SUk0YjViVExEVDBkZW5haEJub3V5dk5kQWpHSmJUdkgtUXMzQWJtV2xsYlFyTFVpQ2cxZlNDckstaVBZNjd0TkVSdFFjemJtYm1ka3dEUDJ6R2FXZWhsS0pOaF9KOG1xR0xhaHo4Z1NBNlFId0Mwb2ZORjdBLUIzREJ5UjNuNU1lNGdxd2ViUkNvUHY0c3JpSDhlQ1NCR1p1R2hXbDFF?oc=5",
+              "source": "Google News",
+              "publishedAt": "Mon, 02 Mar 2026 14:00:00 GMT"
+            }
+          ]
         },
         {
           "title": "国外大厂动作",
@@ -38,19 +45,25 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
+              "title": "汽车图谱㉕｜2月出海销量高增：比亚迪、奇瑞超10万辆 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEpOaTNsRklOa0w0RWhaYzBPcE9BSmdVVHNIaXNud0Q0WE9VRjdTUHk3SWZkSWFCLVF2SmNJYWs1cGYzcjFuQnROUm1ScFB3d3o2b0VZbWhOd0dEdl9tSjFlSDFoNk9STVdNVzlrOTVHdFU0eHBCU0RrSDlveWs0X3R4MHlISXVFbExBZU9NWmY3Mlc4LTk5cGthSjdpZ3VFT0R5VXprRQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Mon, 02 Mar 2026 13:33:04 GMT"
+            },
+            {
               "title": "冰雪竹马 舞动长城 - 北京市人民政府网站",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LaURKV3VDVC1IWVo1THI1MUp3RVV1bEVxdUJ3djh3WUF4NjhCUXd6N0EyNmlUY01jSEJRbFFZMXd3N1MzeDVwRlZfZDByUVBKODk5MHRlZ0djb2ZuZWNjRVhlbjloUTk5UF9yN0RNZzN3b0VoZ21sX2hfcHFtLUk?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 01:58:00 GMT"
             },
             {
-              "title": "汽车图谱㉕｜2月出海销量高增：比亚迪、奇瑞超10万辆 - 新京报",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RVZIRUJlSDZfUHczdDJvMFMycDRISDhJLWVXTzItcmZpTkxlbDFIazRsLUNBV1hlM3NwYTVMZEc1QVVrdnBURGNuWHR1dkYtZHpfWWRSM05DX2IwY0E0VXBrU1I?oc=5",
+              "title": "主力复盘：33.98亿爆拉比亚迪 16.48亿出逃天孚通信 - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMFJFQm0tWDZKb3pjT2NrUU1rSktHbmI1LS1qNW81SXR1NUJGSmVCTExTOUZLOEhUUi1UblNIY2tLSVE3YUZpRzgzR3l0QUIzOTdwXzM4OTRtWG83aG54a2xqSzVDcFQ4RzJ0bVVfR1VOVHNhTzNBbkpVUHZua3pweXd3c1NhT2VRQVRpOE0tNA?oc=5",
               "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 12:36:00 GMT"
+              "publishedAt": "Mon, 02 Mar 2026 13:35:00 GMT"
             },
             {
-              "title": "奇瑞2月销量超16万辆，成首个累计出口破600万辆中国车企-观察者网 - guancha.cn",
+              "title": "奇瑞2月销量超16万辆，成首个累计出口破600万辆中国车企-观察者网 - 观察",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pZWZCVmFOdllPOFRLbXgtZl9Oc0RuX2QtMzkyR2VMTzY5eUpBLVJqd2d2cTJkTWhCVllaaUhldWVSUzF2eTN3VEVSX2JleURFb0x6QUpGX2VZOFFHYUY3OENn?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 01:09:00 GMT"
@@ -66,12 +79,6 @@
               "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckNYb1dIWER5QnRnc2RyUVNPbUxqLTNqb1FlV0J3ODdwcXRGeUQ4Z0M0QllwZDVNTy15RW1UZjhCYWpwNG4zVGlaRVhFS1ZxbU90dHdKQmJ4SzlUbDNSc2xNUzZfb2lZUUZ6dHhsZW5GTW90YllMTjBiTXJEOTc0cQ?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 10:13:32 GMT"
-            },
-            {
-              "title": "奇瑞QQ复活后硬仗才刚开始，能从网红到长红吗？ - 维科号",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaaHBDLTJWZG5FdFUxNHpnSFFRUVhNWFZXWDU0dUtseGY2bktILWhfZnNBUnBnSmJiYWRvVE0wczFpMzBINGJGeFhYVTJyeFQ4?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 09:44:00 GMT"
             }
           ]
         },
@@ -80,10 +87,10 @@
           "query": "AI agents agentic",
           "items": [
             {
-              "title": "蚂蚁阿福：从 0 到生产的医疗 Agent 工程化落地｜QCon 北京 - InfoQ 官网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ubTE3Tk4yTUQ3cXFpdGJ1dkhrLUJzcGhnakw1ZC1jMXE2WGVvTWNOaWY3U2w3dUluazVXcy1xQVBWTThSeFNfMWVTS01oclc0UjNvMHJpYnFwWUtYMmc?oc=5",
+              "title": "Simplilearn 推出了‘应用代理人工智能：系统、设计与影响’项目，旨在培养下一代微软人工智能产品与系统领导者。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjVIb3hndnd6SUk0YjViVExEVDBkZW5haEJub3V5dk5kQWpHSmJUdkgtUXMzQWJtV2xsYlFyTFVpQ2cxZlNDckstaVBZNjd0TkVSdFFjemJtYm1ka3dEUDJ6R2FXZWhsS0pOaF9KOG1xR0xhaHo4Z1NBNlFId0Mwb2ZORjdBLUIzREJ5UjNuNU1lNGdxd2ViUkNvUHY0c3JpSDhlQ1NCR1p1R2hXbDFF?oc=5",
               "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 07:20:51 GMT"
+              "publishedAt": "Mon, 02 Mar 2026 14:00:00 GMT"
             },
             {
               "title": "OpenClaw创始人：Vibe Coding已经是贬义词了！Meta软件工程师爆料：硅谷Agentic Engineering五大支柱！要给Agent写代码，而不是写给人！ - 51CTO",
@@ -104,16 +111,16 @@
               "publishedAt": "Mon, 02 Mar 2026 01:39:07 GMT"
             },
             {
-              "title": "MWC 2026 | 华为发布面向5G-A的承载网架构，筑就Agentic MBB时代新底座-AI云资讯 - icloudnews.net",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95ZDJJODhvYkdtdXctV1VPaXFITWR3elc3QlNYTGQxM0FNeU1rY2JOdGEzQVM4VEtteFZFd29Ub2tXLXNYTUMxUzZacGxobllNUmc?oc=5",
-              "source": "Google News",
-              "publishedAt": "Sun, 01 Mar 2026 14:12:01 GMT"
-            },
-            {
               "title": "从雪崩到单机5万并发： 大模型异构网关底层重构与压测复盘 - 51CTO",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UNl8xT1EtQjFJeFVrN1ByRlAtV0tZQ01taS1oNGxnaXQ2T29VcF9neVZWb2w0ZnkySHJTZGJPQU9mWDNMOWpWckQyWlFnQQ?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 09:36:32 GMT"
+            },
+            {
+              "title": "作为企业的人工智能转换解决方案,提出了企业AI运营体系。 - 매일경제",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41elN0WkxOeVhZMjgzNk9SMGU1RmtjT2JJVmFaaW9zVHNOclZfUE1PNDU5VEc5bEc2WkVIUUh1TXRsMmprSWkwcFNURQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Mon, 02 Mar 2026 02:28:07 GMT"
             }
           ]
         },
@@ -138,25 +145,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 177.19000244140625,
-          "previousClose": 184.88999938964844,
-          "changePct": -4.164636796831149
+          "price": 179.67999267578125,
+          "previousClose": 177.19000244140625,
+          "changePct": 1.4052656470832194
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 392.739990234375,
-          "previousClose": 401.7200012207031,
-          "changePct": -2.2353905603506528
+          "price": 395.8349914550781,
+          "previousClose": 392.739990234375,
+          "changePct": 0.7880534953560814
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 311.760009765625,
-          "previousClose": 307.3800048828125,
-          "changePct": 1.4249478864060663
+          "price": 305.82000732421875,
+          "previousClose": 311.760009765625,
+          "changePct": -1.9053125017130408
         },
         {
           "symbol": "002230.SZ",
@@ -213,6 +220,12 @@
               "publishedAt": "Mon, 02 Mar 2026 07:37:59 GMT"
             },
             {
+              "title": "New Devices May Overcome AI's Persistent Memory Wall - ekhbary.com",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQck1pYVdyNmkwNlNwblF2VENuOEthQ29GbzlWRzBRTXlrMlNFSnVXVGY1RGZVQjZWS2tQQ3lHazVyemo5NWdkc3lsTXlDbndTcnJWVUpKb09sTjM1SUN1NGxGZ0VwYXFZZDUyUEgyOUdyRkNFUlhlT2ZXYjVWdmlFOTR2TlNNeDEtbGV2U2phbkNFSGI5dzctVzQ5VQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 17:05:24 GMT"
+            },
+            {
               "title": "小鹏VLA 2.0升级：更强感知与温暖交互，守护每一次出行| AI快讯详情 - blockchain.news",
               "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX2FWN2x3cmhkc1YzUVRIMmhVczNlcWZ5X1Eyb1g1X244TEVDTXRWcUV4X0taa3BJNVlhQng0bVNRZ3NMLUVUSmVLQm5vbkk1NmNwY1piaWw1dU5Ga043SjZHTldoZDlQN2NUMUdRVUxlUW15eG9BUVdndmdjenpxV2lWaV8wM1hXbmNCVWlPMUUzWVNpMTdiaGt1MHZVTFc2dzVrVmF3NjJWWWhSX2VTSTZEbEVZLTkzNXFN?oc=5",
               "source": "Google News",
@@ -224,6 +237,12 @@
           "title": "产品范式",
           "query": "AI product launch",
           "items": [
+            {
+              "title": "Simplilearn 推出了‘应用代理人工智能：系统、设计与影响’项目，旨在培养下一代微软人工智能产品与系统领导者。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjVIb3hndnd6SUk0YjViVExEVDBkZW5haEJub3V5dk5kQWpHSmJUdkgtUXMzQWJtV2xsYlFyTFVpQ2cxZlNDckstaVBZNjd0TkVSdFFjemJtYm1ka3dEUDJ6R2FXZWhsS0pOaF9KOG1xR0xhaHo4Z1NBNlFId0Mwb2ZORjdBLUIzREJ5UjNuNU1lNGdxd2ViUkNvUHY0c3JpSDhlQ1NCR1p1R2hXbDFF?oc=5",
+              "source": "Google News",
+              "publishedAt": "Mon, 02 Mar 2026 14:00:00 GMT"
+            },
             {
               "title": "Global Humanoid Robot Leader AgiBot Taps Minth Group to Drive European Rollout - Yicai Global",
               "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGJDSjNOUXB3LVowdFB0VDZCZjdmazNzVVhpdlJBcUlmMGl1NHBIbS1WaEhOT0RUeno1ZWJxa1gwVVJJMHRuS28yeDRQTmttTTh6dmZ1YmhjaGZvY1R3bnBsSDFYTVcya29MOVkyYW9rUGpjak52OVVkLWlTZUcxNHJ5SGQtRUdSTHdmY2lBUmxBdUFjYkd1SDBqbFRHZVUtV2RSLUFzT09lOWMyY2tiWA?oc=5",
@@ -242,19 +261,25 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
+              "title": "汽车图谱㉕｜2月出海销量高增：比亚迪、奇瑞超10万辆 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEpOaTNsRklOa0w0RWhaYzBPcE9BSmdVVHNIaXNud0Q0WE9VRjdTUHk3SWZkSWFCLVF2SmNJYWs1cGYzcjFuQnROUm1ScFB3d3o2b0VZbWhOd0dEdl9tSjFlSDFoNk9STVdNVzlrOTVHdFU0eHBCU0RrSDlveWs0X3R4MHlISXVFbExBZU9NWmY3Mlc4LTk5cGthSjdpZ3VFT0R5VXprRQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Mon, 02 Mar 2026 13:33:04 GMT"
+            },
+            {
               "title": "冰雪竹马 舞动长城 - 北京市人民政府网站",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LaURKV3VDVC1IWVo1THI1MUp3RVV1bEVxdUJ3djh3WUF4NjhCUXd6N0EyNmlUY01jSEJRbFFZMXd3N1MzeDVwRlZfZDByUVBKODk5MHRlZ0djb2ZuZWNjRVhlbjloUTk5UF9yN0RNZzN3b0VoZ21sX2hfcHFtLUk?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 01:58:00 GMT"
             },
             {
-              "title": "汽车图谱㉕｜2月出海销量高增：比亚迪、奇瑞超10万辆 - 新京报",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RVZIRUJlSDZfUHczdDJvMFMycDRISDhJLWVXTzItcmZpTkxlbDFIazRsLUNBV1hlM3NwYTVMZEc1QVVrdnBURGNuWHR1dkYtZHpfWWRSM05DX2IwY0E0VXBrU1I?oc=5",
+              "title": "主力复盘：33.98亿爆拉比亚迪 16.48亿出逃天孚通信 - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMFJFQm0tWDZKb3pjT2NrUU1rSktHbmI1LS1qNW81SXR1NUJGSmVCTExTOUZLOEhUUi1UblNIY2tLSVE3YUZpRzgzR3l0QUIzOTdwXzM4OTRtWG83aG54a2xqSzVDcFQ4RzJ0bVVfR1VOVHNhTzNBbkpVUHZua3pweXd3c1NhT2VRQVRpOE0tNA?oc=5",
               "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 12:36:00 GMT"
+              "publishedAt": "Mon, 02 Mar 2026 13:35:00 GMT"
             },
             {
-              "title": "奇瑞2月销量超16万辆，成首个累计出口破600万辆中国车企-观察者网 - guancha.cn",
+              "title": "奇瑞2月销量超16万辆，成首个累计出口破600万辆中国车企-观察者网 - 观察",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pZWZCVmFOdllPOFRLbXgtZl9Oc0RuX2QtMzkyR2VMTzY5eUpBLVJqd2d2cTJkTWhCVllaaUhldWVSUzF2eTN3VEVSX2JleURFb0x6QUpGX2VZOFFHYUY3OENn?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 01:09:00 GMT"
@@ -270,12 +295,6 @@
               "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckNYb1dIWER5QnRnc2RyUVNPbUxqLTNqb1FlV0J3ODdwcXRGeUQ4Z0M0QllwZDVNTy15RW1UZjhCYWpwNG4zVGlaRVhFS1ZxbU90dHdKQmJ4SzlUbDNSc2xNUzZfb2lZUUZ6dHhsZW5GTW90YllMTjBiTXJEOTc0cQ?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 10:13:32 GMT"
-            },
-            {
-              "title": "奇瑞QQ复活后硬仗才刚开始，能从网红到长红吗？ - 维科号",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaaHBDLTJWZG5FdFUxNHpnSFFRUVhNWFZXWDU0dUtseGY2bktILWhfZnNBUnBnSmJiYWRvVE0wczFpMzBINGJGeFhYVTJyeFQ4?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 09:44:00 GMT"
             }
           ]
         },
@@ -284,16 +303,16 @@
           "query": "AI agents agentic",
           "items": [
             {
-              "title": "蚂蚁阿福：从 0 到生产的医疗 Agent 工程化落地｜QCon 北京 - InfoQ 官网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ubTE3Tk4yTUQ3cXFpdGJ1dkhrLUJzcGhnakw1ZC1jMXE2WGVvTWNOaWY3U2w3dUluazVXcy1xQVBWTThSeFNfMWVTS01oclc0UjNvMHJpYnFwWUtYMmc?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 07:20:51 GMT"
-            },
-            {
               "title": "三星发布2030愿景：以Agentic AI为核心大脑的AI工厂 - SOHU",
               "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOXRPclFaT1dUcWFSNldoSFJpTVpyQVhMQmdSZXh6NmVqVnc3WnprTXF2dEV3aW9PUjZCcjZnZmdBWlZkUWdsOHFTakhqWW05bmxuUmtKRFAybUJYT2hZYW1qS3hXM0JLeTFsR2RNaWIyYzN1LW9rWXRxNFNrLUkyUnc2cmllVGx2YVFZ?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 04:09:19 GMT"
+            },
+            {
+              "title": "Simplilearn 推出了‘应用代理人工智能：系统、设计与影响’项目，旨在培养下一代微软人工智能产品与系统领导者。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjVIb3hndnd6SUk0YjViVExEVDBkZW5haEJub3V5dk5kQWpHSmJUdkgtUXMzQWJtV2xsYlFyTFVpQ2cxZlNDckstaVBZNjd0TkVSdFFjemJtYm1ka3dEUDJ6R2FXZWhsS0pOaF9KOG1xR0xhaHo4Z1NBNlFId0Mwb2ZORjdBLUIzREJ5UjNuNU1lNGdxd2ViUkNvUHY0c3JpSDhlQ1NCR1p1R2hXbDFF?oc=5",
+              "source": "Google News",
+              "publishedAt": "Mon, 02 Mar 2026 14:00:00 GMT"
             },
             {
               "title": "OpenClaw创始人：Vibe Coding已经是贬义词了！Meta软件工程师爆料：硅谷Agentic Engineering五大支柱！要给Agent写代码，而不是写给人！ - 51CTO",
@@ -308,16 +327,16 @@
               "publishedAt": "Fri, 27 Feb 2026 20:28:49 GMT"
             },
             {
-              "title": "DeepSeek发布节后首篇论文，Agentic LLM 推理新突破 - 51CTO",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlOHpJWmw0eTEyMXQ0SU56THhlbER6cVYzeFp4TFhWcG4tdEk2ZTMtRE5sUHhFalY1UkRnUWxJX3hXWjdMY2VZOVFqNUxuUQ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 01:39:07 GMT"
-            },
-            {
               "title": "一切皆可Agent Skills，无处不在的AI Agent会替代业务流程吗？ - 凤凰网科技",
               "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54U3VmTjFqZ0ozb05uTzE4SnFZOUdTMWYzVmRtVzA0aVlob3BCYmdjRWJLMDgyRkNtZll5X2NQZkdBLXFqd25IUXlPUDc?oc=5",
               "source": "Google News",
               "publishedAt": "Sat, 28 Feb 2026 18:20:18 GMT"
+            },
+            {
+              "title": "DeepSeek发布节后首篇论文，Agentic LLM 推理新突破 - 51CTO",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlOHpJWmw0eTEyMXQ0SU56THhlbER6cVYzeFp4TFhWcG4tdEk2ZTMtRE5sUHhFalY1UkRnUWxJX3hXWjdMY2VZOVFqNUxuUQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Mon, 02 Mar 2026 01:39:07 GMT"
             }
           ]
         },
@@ -342,25 +361,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 177.19000244140625,
-          "previousClose": 192.85000610351562,
-          "changePct": -8.120302393821856
+          "price": 179.625,
+          "previousClose": 195.55999755859375,
+          "changePct": -8.14839320798176
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 392.739990234375,
-          "previousClose": 389,
-          "changePct": 0.9614370782455013
+          "price": 395.9100036621094,
+          "previousClose": 400.6000061035156,
+          "changePct": -1.1707444757737588
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 311.760009765625,
-          "previousClose": 310.8999938964844,
-          "changePct": 0.27662138501905903
+          "price": 305.7699890136719,
+          "previousClose": 312.8999938964844,
+          "changePct": -2.2786848903459216
         },
         {
           "symbol": "002230.SZ",
@@ -441,10 +460,10 @@
               "publishedAt": "Tue, 24 Feb 2026 09:12:00 GMT"
             },
             {
-              "title": "提示工程最新分析：专家式上下文框架显著提升大模型任务表现| AI快讯详情 - blockchain.news",
-              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV3plR2pabzFkYVFxc0l3V0NUT1pONHJ6d2YzVzJmdUJsWXZVZW9kb2pudFhrWXRrTDlpRlo1MWlnYjFFOUtqZTBKb25ndEliU3kwRFhOb3RBMlBiLVRtcjl6dXJDNlNMeGItWUNydWJiQlZhbTFkMUp4YUVRQjBrdnE1QXE2X2dUMzNzcGxHQWJwemNRdzBnWll3ai03TGYzTWRtd1NBYzNNUU4yYmNqaXhjYkozZzJ5MjNKNXVXaklHeWx3U0dKcU9R?oc=5",
+              "title": "New Devices May Overcome AI's Persistent Memory Wall - ekhbary.com",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQck1pYVdyNmkwNlNwblF2VENuOEthQ29GbzlWRzBRTXlrMlNFSnVXVGY1RGZVQjZWS2tQQ3lHazVyemo5NWdkc3lsTXlDbndTcnJWVUpKb09sTjM1SUN1NGxGZ0VwYXFZZDUyUEgyOUdyRkNFUlhlT2ZXYjVWdmlFOTR2TlNNeDEtbGV2U2phbkNFSGI5dzctVzQ5VQ?oc=5",
               "source": "Google News",
-              "publishedAt": "Tue, 24 Feb 2026 01:48:00 GMT"
+              "publishedAt": "Fri, 27 Feb 2026 17:05:24 GMT"
             }
           ]
         },
@@ -452,6 +471,12 @@
           "title": "产品范式",
           "query": "AI product launch",
           "items": [
+            {
+              "title": "Simplilearn 推出了‘应用代理人工智能：系统、设计与影响’项目，旨在培养下一代微软人工智能产品与系统领导者。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjVIb3hndnd6SUk0YjViVExEVDBkZW5haEJub3V5dk5kQWpHSmJUdkgtUXMzQWJtV2xsYlFyTFVpQ2cxZlNDckstaVBZNjd0TkVSdFFjemJtYm1ka3dEUDJ6R2FXZWhsS0pOaF9KOG1xR0xhaHo4Z1NBNlFId0Mwb2ZORjdBLUIzREJ5UjNuNU1lNGdxd2ViUkNvUHY0c3JpSDhlQ1NCR1p1R2hXbDFF?oc=5",
+              "source": "Google News",
+              "publishedAt": "Mon, 02 Mar 2026 14:00:00 GMT"
+            },
             {
               "title": "Global Humanoid Robot Leader AgiBot Taps Minth Group to Drive European Rollout - Yicai Global",
               "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGJDSjNOUXB3LVowdFB0VDZCZjdmazNzVVhpdlJBcUlmMGl1NHBIbS1WaEhOT0RUeno1ZWJxa1gwVVJJMHRuS28yeDRQTmttTTh6dmZ1YmhjaGZvY1R3bnBsSDFYTVcya29MOVkyYW9rUGpjak52OVVkLWlTZUcxNHJ5SGQtRUdSTHdmY2lBUmxBdUFjYkd1SDBqbFRHZVUtV2RSLUFzT09lOWMyY2tiWA?oc=5",
@@ -470,19 +495,25 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
+              "title": "汽车图谱㉕｜2月出海销量高增：比亚迪、奇瑞超10万辆 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEpOaTNsRklOa0w0RWhaYzBPcE9BSmdVVHNIaXNud0Q0WE9VRjdTUHk3SWZkSWFCLVF2SmNJYWs1cGYzcjFuQnROUm1ScFB3d3o2b0VZbWhOd0dEdl9tSjFlSDFoNk9STVdNVzlrOTVHdFU0eHBCU0RrSDlveWs0X3R4MHlISXVFbExBZU9NWmY3Mlc4LTk5cGthSjdpZ3VFT0R5VXprRQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Mon, 02 Mar 2026 13:33:04 GMT"
+            },
+            {
               "title": "冰雪竹马 舞动长城 - 北京市人民政府网站",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LaURKV3VDVC1IWVo1THI1MUp3RVV1bEVxdUJ3djh3WUF4NjhCUXd6N0EyNmlUY01jSEJRbFFZMXd3N1MzeDVwRlZfZDByUVBKODk5MHRlZ0djb2ZuZWNjRVhlbjloUTk5UF9yN0RNZzN3b0VoZ21sX2hfcHFtLUk?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 01:58:00 GMT"
             },
             {
-              "title": "汽车图谱㉕｜2月出海销量高增：比亚迪、奇瑞超10万辆 - 新京报",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RVZIRUJlSDZfUHczdDJvMFMycDRISDhJLWVXTzItcmZpTkxlbDFIazRsLUNBV1hlM3NwYTVMZEc1QVVrdnBURGNuWHR1dkYtZHpfWWRSM05DX2IwY0E0VXBrU1I?oc=5",
+              "title": "主力复盘：33.98亿爆拉比亚迪 16.48亿出逃天孚通信 - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMFJFQm0tWDZKb3pjT2NrUU1rSktHbmI1LS1qNW81SXR1NUJGSmVCTExTOUZLOEhUUi1UblNIY2tLSVE3YUZpRzgzR3l0QUIzOTdwXzM4OTRtWG83aG54a2xqSzVDcFQ4RzJ0bVVfR1VOVHNhTzNBbkpVUHZua3pweXd3c1NhT2VRQVRpOE0tNA?oc=5",
               "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 12:36:00 GMT"
+              "publishedAt": "Mon, 02 Mar 2026 13:35:00 GMT"
             },
             {
-              "title": "奇瑞2月销量超16万辆，成首个累计出口破600万辆中国车企-观察者网 - guancha.cn",
+              "title": "奇瑞2月销量超16万辆，成首个累计出口破600万辆中国车企-观察者网 - 观察",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pZWZCVmFOdllPOFRLbXgtZl9Oc0RuX2QtMzkyR2VMTzY5eUpBLVJqd2d2cTJkTWhCVllaaUhldWVSUzF2eTN3VEVSX2JleURFb0x6QUpGX2VZOFFHYUY3OENn?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 01:09:00 GMT"
@@ -498,12 +529,6 @@
               "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckNYb1dIWER5QnRnc2RyUVNPbUxqLTNqb1FlV0J3ODdwcXRGeUQ4Z0M0QllwZDVNTy15RW1UZjhCYWpwNG4zVGlaRVhFS1ZxbU90dHdKQmJ4SzlUbDNSc2xNUzZfb2lZUUZ6dHhsZW5GTW90YllMTjBiTXJEOTc0cQ?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 10:13:32 GMT"
-            },
-            {
-              "title": "奇瑞QQ复活后硬仗才刚开始，能从网红到长红吗？ - 维科号",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaaHBDLTJWZG5FdFUxNHpnSFFRUVhNWFZXWDU0dUtseGY2bktILWhfZnNBUnBnSmJiYWRvVE0wczFpMzBINGJGeFhYVTJyeFQ4?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 09:44:00 GMT"
             }
           ]
         },
@@ -513,7 +538,7 @@
           "items": [
             {
               "title": "华为加入 Agentic AI 基金会成为金牌会员，推动智能体 AI 系统开放互操作 - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQaGNLbWVnZTJmZkQxam1mT2IzUmVaNl9OZEw2MW5NWDB3SDU4Vmhoc2hPWVZBeGhScE1lc3ZWY1pOSElyNHFmR2hNZ0FTOFJwS1hCNmJBZzRxOVBpbzgtQncxUHZvbGVBVmV3YXh1eF9nNVgzcHlYTWlkb3BVVjlZdW9RaDl4ejg2WWVjQUlTTVc3dGwxOUJNU2pQWXV5aDgyaFE2dXM0VlFEMjdtSGlzOVd3UHZZbjJVUzlUS1dBVmFPenRRNlExUEVDN3V1SHNZSDBtclc5dXVXNVBRenRZbHZaWUh3czA5VkVFUU94cjFaNDJTc095M0JFSUJoUXB5Z3lKMGxDMldyM0NQQjNJWFllUU5hNlRlZ3pzelR1RHYyWDV2ZndraFlQa2dxa0xXVWRsOVhjUldhdlVHdkJHVkszRk84N3pKVTJ0OHJSQWhTenRDeFU1R2psVjZxSkdhbnU1Nw?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxORWs5RHFTSHRxVE1yT0g2ZVE0RF8yNHNKYld0VjFEb1RSMDg5OXIwQUw4YUtaaWlkM2FubVRONnpaVzd3YUx5clhScXZpcVBWSjh3aWRib3dCUWtQSGRCcENsYVV3RUhoWEh1RElFQXdvY2hTQU14V0JTZk1DMVo4ZHZ5Q3FORmJvTnBrSU5ESUgwQnhBcnpvWF92cFRRWTlaVWlXMTk5Z2VmazY3OWxGOWF6WkNubGwtS0lPVTk5UktjVlNBdXJfWEYyZndUOVE1S0d6OEVVaDlPRG5BWWhXMEZxaGJpVEtSYy1ZOE8zLTJ0OXk4WXBLQU1NSmNnMTFPMC12ZllkdjdjTEl4aVMtcmVqUFJnNmhvcXdmSnNqVVM2amM2WEtTRURVVEdmQ2R0X3hieUZOVS1ZV0VIQWF0cGMyNUtpS1RaX090SXZQN3FvUEtpZzJGQWxpRGtDcVJBcjVxQ0dVejBzYTF2VEVrQWtwdTZIQQ?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT"
             },
@@ -536,16 +561,16 @@
               "publishedAt": "Fri, 27 Feb 2026 02:51:38 GMT"
             },
             {
-              "title": "GitHub 发布 Agentic Workflows，解锁 AI 驱动的代码库自动化潜力 - InfoQ 官网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HRFB4MkhNeHFPM19qWGNaa1JUWWR2WTAzNm1hbkwxYm1XajhUVXJNN0FOaU4wLWM4UU5MYm9fWS1DZGRrQXE2WmstVlpjM04zel9JXzY2ZF9vSGNvYkE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 26 Feb 2026 00:04:29 GMT"
-            },
-            {
               "title": "Agent Native的Infra增长潜力究竟有多大？ - 36 Kr",
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IaVZVSFlWTUxybkZDWVg5X1l5cndfanBaQmZveWtEdFExSVN2OExHeTlqVkhJNF9mY1dJdmF6WEp5endXWjBKSGt4Yl9qaHdBX3dN?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 07:24:00 GMT"
+            },
+            {
+              "title": "⼀只龙虾 ，撬动了整个AI Agent的灵魂⼯程 - InfoQ 官网",
+              "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9MNzFvVHZTdEhuR3E0a2h2TkhvNG15OVRpY1lkSVRyZnZTOHNCdjB2UTdYaVpyb1Q0Y21rcXg4TjdHQ2lY?oc=5",
+              "source": "Google News",
+              "publishedAt": "Tue, 24 Feb 2026 09:28:29 GMT"
             }
           ]
         },
@@ -583,25 +608,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 177.19000244140625,
-          "previousClose": 187.97999572753906,
-          "changePct": -5.73996889635639
+          "price": 179.66990661621094,
+          "previousClose": 187.89999389648438,
+          "changePct": -4.380035948701233
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 392.739990234375,
-          "previousClose": 399.6000061035156,
-          "changePct": -1.7167206617518298
+          "price": 395.9100036621094,
+          "previousClose": 398.4599914550781,
+          "changePct": -0.6399608110357128
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 311.760009765625,
-          "previousClose": 303.3299865722656,
-          "changePct": 2.779159188519925
+          "price": 305.7699890136719,
+          "previousClose": 302.8500061035156,
+          "changePct": 0.9641680209041122
         },
         {
           "symbol": "002230.SZ",
@@ -694,6 +719,12 @@
           "query": "AI product launch",
           "items": [
             {
+              "title": "Simplilearn 推出了‘应用代理人工智能：系统、设计与影响’项目，旨在培养下一代微软人工智能产品与系统领导者。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjVIb3hndnd6SUk0YjViVExEVDBkZW5haEJub3V5dk5kQWpHSmJUdkgtUXMzQWJtV2xsYlFyTFVpQ2cxZlNDckstaVBZNjd0TkVSdFFjemJtYm1ka3dEUDJ6R2FXZWhsS0pOaF9KOG1xR0xhaHo4Z1NBNlFId0Mwb2ZORjdBLUIzREJ5UjNuNU1lNGdxd2ViUkNvUHY0c3JpSDhlQ1NCR1p1R2hXbDFF?oc=5",
+              "source": "Google News",
+              "publishedAt": "Mon, 02 Mar 2026 14:00:00 GMT"
+            },
+            {
               "title": "Global Humanoid Robot Leader AgiBot Taps Minth Group to Drive European Rollout - Yicai Global",
               "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGJDSjNOUXB3LVowdFB0VDZCZjdmazNzVVhpdlJBcUlmMGl1NHBIbS1WaEhOT0RUeno1ZWJxa1gwVVJJMHRuS28yeDRQTmttTTh6dmZ1YmhjaGZvY1R3bnBsSDFYTVcya29MOVkyYW9rUGpjak52OVVkLWlTZUcxNHJ5SGQtRUdSTHdmY2lBUmxBdUFjYkd1SDBqbFRHZVUtV2RSLUFzT09lOWMyY2tiWA?oc=5",
               "source": "Google News",
@@ -711,19 +742,25 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
+              "title": "汽车图谱㉕｜2月出海销量高增：比亚迪、奇瑞超10万辆 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEpOaTNsRklOa0w0RWhaYzBPcE9BSmdVVHNIaXNud0Q0WE9VRjdTUHk3SWZkSWFCLVF2SmNJYWs1cGYzcjFuQnROUm1ScFB3d3o2b0VZbWhOd0dEdl9tSjFlSDFoNk9STVdNVzlrOTVHdFU0eHBCU0RrSDlveWs0X3R4MHlISXVFbExBZU9NWmY3Mlc4LTk5cGthSjdpZ3VFT0R5VXprRQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Mon, 02 Mar 2026 13:33:04 GMT"
+            },
+            {
               "title": "冰雪竹马 舞动长城 - 北京市人民政府网站",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LaURKV3VDVC1IWVo1THI1MUp3RVV1bEVxdUJ3djh3WUF4NjhCUXd6N0EyNmlUY01jSEJRbFFZMXd3N1MzeDVwRlZfZDByUVBKODk5MHRlZ0djb2ZuZWNjRVhlbjloUTk5UF9yN0RNZzN3b0VoZ21sX2hfcHFtLUk?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 01:58:00 GMT"
             },
             {
-              "title": "汽车图谱㉕｜2月出海销量高增：比亚迪、奇瑞超10万辆 - 新京报",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RVZIRUJlSDZfUHczdDJvMFMycDRISDhJLWVXTzItcmZpTkxlbDFIazRsLUNBV1hlM3NwYTVMZEc1QVVrdnBURGNuWHR1dkYtZHpfWWRSM05DX2IwY0E0VXBrU1I?oc=5",
+              "title": "主力复盘：33.98亿爆拉比亚迪 16.48亿出逃天孚通信 - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMFJFQm0tWDZKb3pjT2NrUU1rSktHbmI1LS1qNW81SXR1NUJGSmVCTExTOUZLOEhUUi1UblNIY2tLSVE3YUZpRzgzR3l0QUIzOTdwXzM4OTRtWG83aG54a2xqSzVDcFQ4RzJ0bVVfR1VOVHNhTzNBbkpVUHZua3pweXd3c1NhT2VRQVRpOE0tNA?oc=5",
               "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 12:36:00 GMT"
+              "publishedAt": "Mon, 02 Mar 2026 13:35:00 GMT"
             },
             {
-              "title": "奇瑞2月销量超16万辆，成首个累计出口破600万辆中国车企-观察者网 - guancha.cn",
+              "title": "奇瑞2月销量超16万辆，成首个累计出口破600万辆中国车企-观察者网 - 观察",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pZWZCVmFOdllPOFRLbXgtZl9Oc0RuX2QtMzkyR2VMTzY5eUpBLVJqd2d2cTJkTWhCVllaaUhldWVSUzF2eTN3VEVSX2JleURFb0x6QUpGX2VZOFFHYUY3OENn?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 01:09:00 GMT"
@@ -739,12 +776,6 @@
               "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckNYb1dIWER5QnRnc2RyUVNPbUxqLTNqb1FlV0J3ODdwcXRGeUQ4Z0M0QllwZDVNTy15RW1UZjhCYWpwNG4zVGlaRVhFS1ZxbU90dHdKQmJ4SzlUbDNSc2xNUzZfb2lZUUZ6dHhsZW5GTW90YllMTjBiTXJEOTc0cQ?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 10:13:32 GMT"
-            },
-            {
-              "title": "奇瑞QQ复活后硬仗才刚开始，能从网红到长红吗？ - 维科号",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaaHBDLTJWZG5FdFUxNHpnSFFRUVhNWFZXWDU0dUtseGY2bktILWhfZnNBUnBnSmJiYWRvVE0wczFpMzBINGJGeFhYVTJyeFQ4?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 09:44:00 GMT"
             }
           ]
         },
@@ -824,25 +855,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 177.19000244140625,
-          "previousClose": 185.41000366210938,
-          "changePct": -4.433418401567604
+          "price": 179.6934051513672,
+          "previousClose": 190.0399932861328,
+          "changePct": -5.44442669979857
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 392.739990234375,
-          "previousClose": 401.1400146484375,
-          "changePct": -2.094038018477003
+          "price": 395.9100036621094,
+          "previousClose": 413.6000061035156,
+          "changePct": -4.277079830839946
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 311.760009765625,
-          "previousClose": 322.8599853515625,
-          "changePct": -3.438015266540611
+          "price": 305.7699890136719,
+          "previousClose": 324.32000732421875,
+          "changePct": -5.719665112119539
         },
         {
           "symbol": "002230.SZ",
@@ -947,6 +978,12 @@
               "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT"
             },
             {
+              "title": "Simplilearn 推出了‘应用代理人工智能：系统、设计与影响’项目，旨在培养下一代微软人工智能产品与系统领导者。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjVIb3hndnd6SUk0YjViVExEVDBkZW5haEJub3V5dk5kQWpHSmJUdkgtUXMzQWJtV2xsYlFyTFVpQ2cxZlNDckstaVBZNjd0TkVSdFFjemJtYm1ka3dEUDJ6R2FXZWhsS0pOaF9KOG1xR0xhaHo4Z1NBNlFId0Mwb2ZORjdBLUIzREJ5UjNuNU1lNGdxd2ViUkNvUHY0c3JpSDhlQ1NCR1p1R2hXbDFF?oc=5",
+              "source": "Google News",
+              "publishedAt": "Mon, 02 Mar 2026 14:00:00 GMT"
+            },
+            {
               "title": "Global Humanoid Robot Leader AgiBot Taps Minth Group to Drive European Rollout - Yicai Global",
               "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGJDSjNOUXB3LVowdFB0VDZCZjdmazNzVVhpdlJBcUlmMGl1NHBIbS1WaEhOT0RUeno1ZWJxa1gwVVJJMHRuS28yeDRQTmttTTh6dmZ1YmhjaGZvY1R3bnBsSDFYTVcya29MOVkyYW9rUGpjak52OVVkLWlTZUcxNHJ5SGQtRUdSTHdmY2lBUmxBdUFjYkd1SDBqbFRHZVUtV2RSLUFzT09lOWMyY2tiWA?oc=5",
               "source": "Google News",
@@ -963,19 +1000,18 @@
         {
           "title": "国外大厂动作",
           "query": "(Microsoft OR Google OR Alphabet OR Amazon OR Meta OR Apple OR IBM OR Oracle OR Salesforce OR NVIDIA OR AMD OR Intel OR Qualcomm OR Arm OR OpenAI OR Anthropic OR Cohere OR xAI OR Hugging Face OR Mistral AI OR Databricks OR Snowflake OR Palantir OR ServiceNow) AI",
-          "items": [
-            {
-              "title": "新的 Apple 系统更新生成严重电池故障和 Face ID 阻止的报告 - Mix Vale",
-              "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOelZxeXR1ZEFPR2d5ZGNqbHlvVjRZdVphSDhMZFBCU3hXSkZNcm5MNzVwcVNMQ1hQWVl3Ukp5eWl6WTFQeENWWWUwZThOOGIwemdvbWhIby1zS3pJYmgySzNLMnZfVWpZRXdsYjQ4Qkd5OEs2U3pGaTVJX3Nsd0tHeV9xOHBzQTNqel9zLWEtZDFsYXU1X0duLURMYjQwZU4wMVVFYkFYWnM2ZUt4eGJnX3poLVJ1RlIxQW9wS0h4QmplemxrbHR2ODlXcDNqZnl0WlVMTW1qS2hBZXBKd2xJTHdYRUQzUTJmdkpPYjVVWVdYYlRwNmw5OExCVFduajBsZzVocFAxTUxJT2NkMVNPNmZVWWstRlBNSGhJdlV2YVVJX2VOODQ0U1dWenVIVF84Q1VDakU1d2UwRG5IblZaOGducmVJRzY0MGtKQV9McktFOU5JMlhzTDVB0gHfAkFVX3lxTE84NFVDZGlGQmV4eU0xYUxhb0hZcWhvNWFXNXpvTC1zYkZsb1VMbjR1aHl2ZFdQVkw2bjNMSDJiOER5N09fMWRlZ01xZVVud3h5bExPQmUzbTVRSW9uQWF1UzFVdkhHdDZKUkJnZnktdVVEeFJ3YjVib1k1bUxBWFVsOHFGT1Qzd1dVb2d5UVU1cERmVFpRVGl4azNHaEhwdGFDX2MxSTBJMTloVmFtOUhjSkZNdFl1TFdFdldqcndSeGo0TVV0ZS1VNTFtQ3Y0WlhRdFhfZkFiY3VWOWdwcnNHVU5zM01FdERXWUE1NUctVGVaRWFnekJkYlhVLWprbFZFaFlWN192ZEc3eGhGdTc1UUFBRkVnYmZFZW9jNDNUUEU5MFNJY2wySFdLRnlWX29SOTZfcTRkemRXV2FkV0R3Ui1zMUF6VHhraFZuSmJfbWFpSzlkaUREMDhuLU5aZw?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT"
-            }
-          ]
+          "items": []
         },
         {
           "title": "国内大厂动作",
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
+            {
+              "title": "汽车图谱㉕｜2月出海销量高增：比亚迪、奇瑞超10万辆 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEpOaTNsRklOa0w0RWhaYzBPcE9BSmdVVHNIaXNud0Q0WE9VRjdTUHk3SWZkSWFCLVF2SmNJYWs1cGYzcjFuQnROUm1ScFB3d3o2b0VZbWhOd0dEdl9tSjFlSDFoNk9STVdNVzlrOTVHdFU0eHBCU0RrSDlveWs0X3R4MHlISXVFbExBZU9NWmY3Mlc4LTk5cGthSjdpZ3VFT0R5VXprRQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Mon, 02 Mar 2026 13:33:04 GMT"
+            },
             {
               "title": "冰雪竹马 舞动长城 - 北京市人民政府网站",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LaURKV3VDVC1IWVo1THI1MUp3RVV1bEVxdUJ3djh3WUF4NjhCUXd6N0EyNmlUY01jSEJRbFFZMXd3N1MzeDVwRlZfZDByUVBKODk5MHRlZ0djb2ZuZWNjRVhlbjloUTk5UF9yN0RNZzN3b0VoZ21sX2hfcHFtLUk?oc=5",
@@ -983,13 +1019,13 @@
               "publishedAt": "Mon, 02 Mar 2026 01:58:00 GMT"
             },
             {
-              "title": "汽车图谱㉕｜2月出海销量高增：比亚迪、奇瑞超10万辆 - 新京报",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RVZIRUJlSDZfUHczdDJvMFMycDRISDhJLWVXTzItcmZpTkxlbDFIazRsLUNBV1hlM3NwYTVMZEc1QVVrdnBURGNuWHR1dkYtZHpfWWRSM05DX2IwY0E0VXBrU1I?oc=5",
+              "title": "主力复盘：33.98亿爆拉比亚迪 16.48亿出逃天孚通信 - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMFJFQm0tWDZKb3pjT2NrUU1rSktHbmI1LS1qNW81SXR1NUJGSmVCTExTOUZLOEhUUi1UblNIY2tLSVE3YUZpRzgzR3l0QUIzOTdwXzM4OTRtWG83aG54a2xqSzVDcFQ4RzJ0bVVfR1VOVHNhTzNBbkpVUHZua3pweXd3c1NhT2VRQVRpOE0tNA?oc=5",
               "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 12:36:00 GMT"
+              "publishedAt": "Mon, 02 Mar 2026 13:35:00 GMT"
             },
             {
-              "title": "奇瑞2月销量超16万辆，成首个累计出口破600万辆中国车企-观察者网 - guancha.cn",
+              "title": "奇瑞2月销量超16万辆，成首个累计出口破600万辆中国车企-观察者网 - 观察",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pZWZCVmFOdllPOFRLbXgtZl9Oc0RuX2QtMzkyR2VMTzY5eUpBLVJqd2d2cTJkTWhCVllaaUhldWVSUzF2eTN3VEVSX2JleURFb0x6QUpGX2VZOFFHYUY3OENn?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 01:09:00 GMT"
@@ -1005,12 +1041,6 @@
               "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckNYb1dIWER5QnRnc2RyUVNPbUxqLTNqb1FlV0J3ODdwcXRGeUQ4Z0M0QllwZDVNTy15RW1UZjhCYWpwNG4zVGlaRVhFS1ZxbU90dHdKQmJ4SzlUbDNSc2xNUzZfb2lZUUZ6dHhsZW5GTW90YllMTjBiTXJEOTc0cQ?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 10:13:32 GMT"
-            },
-            {
-              "title": "奇瑞QQ复活后硬仗才刚开始，能从网红到长红吗？ - 维科号",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaaHBDLTJWZG5FdFUxNHpnSFFRUVhNWFZXWDU0dUtseGY2bktILWhfZnNBUnBnSmJiYWRvVE0wczFpMzBINGJGeFhYVTJyeFQ4?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 09:44:00 GMT"
             }
           ]
         },
@@ -1026,7 +1056,7 @@
             },
             {
               "title": "华为加入 Agentic AI 基金会成为金牌会员，推动智能体 AI 系统开放互操作 - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQaGNLbWVnZTJmZkQxam1mT2IzUmVaNl9OZEw2MW5NWDB3SDU4Vmhoc2hPWVZBeGhScE1lc3ZWY1pOSElyNHFmR2hNZ0FTOFJwS1hCNmJBZzRxOVBpbzgtQncxUHZvbGVBVmV3YXh1eF9nNVgzcHlYTWlkb3BVVjlZdW9RaDl4ejg2WWVjQUlTTVc3dGwxOUJNU2pQWXV5aDgyaFE2dXM0VlFEMjdtSGlzOVd3UHZZbjJVUzlUS1dBVmFPenRRNlExUEVDN3V1SHNZSDBtclc5dXVXNVBRenRZbHZaWUh3czA5VkVFUU94cjFaNDJTc095M0JFSUJoUXB5Z3lKMGxDMldyM0NQQjNJWFllUU5hNlRlZ3pzelR1RHYyWDV2ZndraFlQa2dxa0xXVWRsOVhjUldhdlVHdkJHVkszRk84N3pKVTJ0OHJSQWhTenRDeFU1R2psVjZxSkdhbnU1Nw?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxORWs5RHFTSHRxVE1yT0g2ZVE0RF8yNHNKYld0VjFEb1RSMDg5OXIwQUw4YUtaaWlkM2FubVRONnpaVzd3YUx5clhScXZpcVBWSjh3aWRib3dCUWtQSGRCcENsYVV3RUhoWEh1RElFQXdvY2hTQU14V0JTZk1DMVo4ZHZ5Q3FORmJvTnBrSU5ESUgwQnhBcnpvWF92cFRRWTlaVWlXMTk5Z2VmazY3OWxGOWF6WkNubGwtS0lPVTk5UktjVlNBdXJfWEYyZndUOVE1S0d6OEVVaDlPRG5BWWhXMEZxaGJpVEtSYy1ZOE8zLTJ0OXk4WXBLQU1NSmNnMTFPMC12ZllkdjdjTEl4aVMtcmVqUFJnNmhvcXdmSnNqVVM2amM2WEtTRURVVEdmQ2R0X3hieUZOVS1ZV0VIQWF0cGMyNUtpS1RaX090SXZQN3FvUEtpZzJGQWxpRGtDcVJBcjVxQ0dVejBzYTF2VEVrQWtwdTZIQQ?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT"
             },
@@ -1052,7 +1082,7 @@
               "title": "硬刚OpenAI！中国团队杀入Agentic AI全球前二，一战封神 - 智源社区",
               "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6SDJJVjlicGhiUkxkNjZfSllKZFhxbHdLWGFlWmhHbkZiMDEtbnFHZHM1VGhWUHp1Z1ViUU04TmZNR3pvVjRzeQ?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 12 Feb 2026 02:40:00 GMT"
+              "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT"
             }
           ]
         },
@@ -1108,25 +1138,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 177.19000244140625,
-          "previousClose": 183.13999938964844,
-          "changePct": -3.2488789822385997
+          "price": 179.6934051513672,
+          "previousClose": 187.0500030517578,
+          "changePct": -3.9329579151918064
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 392.739990234375,
-          "previousClose": 459.3800048828125,
-          "changePct": -14.506511807242747
+          "price": 395.8800048828125,
+          "previousClose": 456.6600036621094,
+          "changePct": -13.309682978995694
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 311.760009765625,
-          "previousClose": 335.8399963378906,
-          "changePct": -7.170077070879493
+          "price": 305.7799987792969,
+          "previousClose": 332.7799987792969,
+          "changePct": -8.11346838723522
         },
         {
           "symbol": "002230.SZ",
