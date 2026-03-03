@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-03T20:42:42.378Z",
+  "generatedAt": "2026-03-03T22:36:20.809Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -44,14 +44,7 @@
         {
           "title": "产品范式",
           "query": "AI product launch",
-          "items": [
-            {
-              "title": "Apple Launches New iPhone and iPad Air as It Gears up for a Major AI Push - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMVZibVVrbm9sUkpUMWRTNkpSVU9RWHVCcTJPb3ViREg0aVNYUGtpWTdaQXhnNW9CeEgtUXdXdnJHc1U0alE2QkRTV1RWQU9GNXBkR0JQTklGTGNNM3pSU1NzT0pnZmxtaUhGMVA5dWV2YzVMbkpoVl9zNFFlTkZ6MVhpSWtVMGdidDF0VmVUeHROdw?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 22:20:00 GMT"
-            }
-          ]
+          "items": []
         },
         {
           "title": "国外大厂动作",
@@ -87,16 +80,16 @@
               "publishedAt": "Tue, 03 Mar 2026 09:45:34 GMT"
             },
             {
-              "title": "扛住伊朗导弹？比亚迪被推上热搜 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpY3dNalBRYlFwanJSY1NvYVlyZXEtVUZiNG9kVjRwUDN3dW1Fd3pwYVI5RzRtWExnSzFremtjN3hrRXJQUEMzcVdBSDBHMzU5V01VWjRlM3NFNTlpaW45Uw?oc=5",
+              "title": "华为与Zain联合专访：加速AN L4规模化落地，实现产业智能化升级 - C114通信网",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90RlVUY044ZWYybE04MVhub3VTTUtUcGhWUVd5OGJlZ21VRlNzX3pleFJoSGNzWXNWQVZ0NjBZTHpSY0Jzc21jNHdKaFN4OVpZbTVuaVZxcVdsZw?oc=5",
               "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 14:47:15 GMT"
+              "publishedAt": "Tue, 03 Mar 2026 15:44:00 GMT"
             },
             {
-              "title": "【网通社快报】比亚迪2025年全球电动车销量登顶，在22国销量超特斯拉 - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtLVY1ekZEQ1JQUy02NkpXNWZqa1ZfTThtbWVYS3JIZXFlMnVsQ0h4VGk0dnNzZ1ZfdGFEOG41NGY1RUpfN0x0dWNrT2s?oc=5",
+              "title": "吉利海外市场的“野心”：除了销量增长，智驾方案年内也出海_凤凰网 - 凤凰网汽车",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sc256M0NaRWtYWXBjYlE0YWZ0NC1vQ3lsTUl1QlVUNXlaS05NZnZ1YTJRem9ObldyTEtHQkN1WExfQng5MFdDZTNoWGw?oc=5",
               "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 15:54:59 GMT"
+              "publishedAt": "Tue, 03 Mar 2026 16:20:16 GMT"
             }
           ]
         },
@@ -163,25 +156,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 180.13999938964844,
+          "price": 180.0500030517578,
           "previousClose": 182.47999572753906,
-          "changePct": -1.282330333558575
+          "changePct": -1.3316488013346257
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 403.6199951171875,
+          "price": 403.92999267578125,
           "previousClose": 398.54998779296875,
-          "changePct": 1.272113280518383
+          "changePct": 1.349894629932144
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 302.489990234375,
+          "price": 303.5799865722656,
           "previousClose": 306.5199890136719,
-          "changePct": -1.3147588815544171
+          "changePct": -0.9591552090506944
         },
         {
           "symbol": "002230.SZ",
@@ -334,16 +327,16 @@
               "publishedAt": "Tue, 03 Mar 2026 09:45:34 GMT"
             },
             {
-              "title": "扛住伊朗导弹？比亚迪被推上热搜 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpY3dNalBRYlFwanJSY1NvYVlyZXEtVUZiNG9kVjRwUDN3dW1Fd3pwYVI5RzRtWExnSzFremtjN3hrRXJQUEMzcVdBSDBHMzU5V01VWjRlM3NFNTlpaW45Uw?oc=5",
+              "title": "华为与Zain联合专访：加速AN L4规模化落地，实现产业智能化升级 - C114通信网",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90RlVUY044ZWYybE04MVhub3VTTUtUcGhWUVd5OGJlZ21VRlNzX3pleFJoSGNzWXNWQVZ0NjBZTHpSY0Jzc21jNHdKaFN4OVpZbTVuaVZxcVdsZw?oc=5",
               "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 14:47:15 GMT"
+              "publishedAt": "Tue, 03 Mar 2026 15:44:00 GMT"
             },
             {
-              "title": "【网通社快报】比亚迪2025年全球电动车销量登顶，在22国销量超特斯拉 - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtLVY1ekZEQ1JQUy02NkpXNWZqa1ZfTThtbWVYS3JIZXFlMnVsQ0h4VGk0dnNzZ1ZfdGFEOG41NGY1RUpfN0x0dWNrT2s?oc=5",
+              "title": "吉利海外市场的“野心”：除了销量增长，智驾方案年内也出海_凤凰网 - 凤凰网汽车",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sc256M0NaRWtYWXBjYlE0YWZ0NC1vQ3lsTUl1QlVUNXlaS05NZnZ1YTJRem9ObldyTEtHQkN1WExfQng5MFdDZTNoWGw?oc=5",
               "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 15:54:59 GMT"
+              "publishedAt": "Tue, 03 Mar 2026 16:20:16 GMT"
             }
           ]
         },
@@ -410,25 +403,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 180.1649932861328,
+          "price": 180.0500030517578,
           "previousClose": 184.88999938964844,
-          "changePct": -2.5555768938902204
+          "changePct": -2.6177707576765807
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 403.7149963378906,
+          "price": 403.92999267578125,
           "previousClose": 401.7200012207031,
-          "changePct": 0.4966133404175359
+          "changePct": 0.5501322932297728
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 302.5,
+          "price": 303.5799865722656,
           "previousClose": 307.3800048828125,
-          "changePct": -1.587612988903746
+          "changePct": -1.2362607359563345
         },
         {
           "symbol": "002230.SZ",
@@ -593,16 +586,16 @@
               "publishedAt": "Tue, 03 Mar 2026 09:45:34 GMT"
             },
             {
-              "title": "扛住伊朗导弹？比亚迪被推上热搜 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpY3dNalBRYlFwanJSY1NvYVlyZXEtVUZiNG9kVjRwUDN3dW1Fd3pwYVI5RzRtWExnSzFremtjN3hrRXJQUEMzcVdBSDBHMzU5V01VWjRlM3NFNTlpaW45Uw?oc=5",
+              "title": "华为与Zain联合专访：加速AN L4规模化落地，实现产业智能化升级 - C114通信网",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90RlVUY044ZWYybE04MVhub3VTTUtUcGhWUVd5OGJlZ21VRlNzX3pleFJoSGNzWXNWQVZ0NjBZTHpSY0Jzc21jNHdKaFN4OVpZbTVuaVZxcVdsZw?oc=5",
               "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 14:47:15 GMT"
+              "publishedAt": "Tue, 03 Mar 2026 15:44:00 GMT"
             },
             {
-              "title": "【网通社快报】比亚迪2025年全球电动车销量登顶，在22国销量超特斯拉 - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtLVY1ekZEQ1JQUy02NkpXNWZqa1ZfTThtbWVYS3JIZXFlMnVsQ0h4VGk0dnNzZ1ZfdGFEOG41NGY1RUpfN0x0dWNrT2s?oc=5",
+              "title": "吉利海外市场的“野心”：除了销量增长，智驾方案年内也出海_凤凰网 - 凤凰网汽车",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sc256M0NaRWtYWXBjYlE0YWZ0NC1vQ3lsTUl1QlVUNXlaS05NZnZ1YTJRem9ObldyTEtHQkN1WExfQng5MFdDZTNoWGw?oc=5",
               "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 15:54:59 GMT"
+              "publishedAt": "Tue, 03 Mar 2026 16:20:16 GMT"
             }
           ]
         },
@@ -682,25 +675,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 180.16709899902344,
+          "price": 180.0500030517578,
           "previousClose": 189.82000732421875,
-          "changePct": -5.085295518247364
+          "changePct": -5.1469834029525945
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 403.7200012207031,
+          "price": 403.92999267578125,
           "previousClose": 397.2300109863281,
-          "changePct": 1.6338116594615437
+          "changePct": 1.6866756045992015
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 302.5,
+          "price": 303.5799865722656,
           "previousClose": 314.9800109863281,
-          "changePct": -3.9621596771326
+          "changePct": -3.6192850391885107
         },
         {
           "symbol": "002230.SZ",
@@ -871,16 +864,16 @@
               "publishedAt": "Tue, 03 Mar 2026 09:45:34 GMT"
             },
             {
-              "title": "扛住伊朗导弹？比亚迪被推上热搜 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpY3dNalBRYlFwanJSY1NvYVlyZXEtVUZiNG9kVjRwUDN3dW1Fd3pwYVI5RzRtWExnSzFremtjN3hrRXJQUEMzcVdBSDBHMzU5V01VWjRlM3NFNTlpaW45Uw?oc=5",
+              "title": "华为与Zain联合专访：加速AN L4规模化落地，实现产业智能化升级 - C114通信网",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90RlVUY044ZWYybE04MVhub3VTTUtUcGhWUVd5OGJlZ21VRlNzX3pleFJoSGNzWXNWQVZ0NjBZTHpSY0Jzc21jNHdKaFN4OVpZbTVuaVZxcVdsZw?oc=5",
               "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 14:47:15 GMT"
+              "publishedAt": "Tue, 03 Mar 2026 15:44:00 GMT"
             },
             {
-              "title": "【网通社快报】比亚迪2025年全球电动车销量登顶，在22国销量超特斯拉 - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtLVY1ekZEQ1JQUy02NkpXNWZqa1ZfTThtbWVYS3JIZXFlMnVsQ0h4VGk0dnNzZ1ZfdGFEOG41NGY1RUpfN0x0dWNrT2s?oc=5",
+              "title": "吉利海外市场的“野心”：除了销量增长，智驾方案年内也出海_凤凰网 - 凤凰网汽车",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sc256M0NaRWtYWXBjYlE0YWZ0NC1vQ3lsTUl1QlVUNXlaS05NZnZ1YTJRem9ObldyTEtHQkN1WExfQng5MFdDZTNoWGw?oc=5",
               "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 15:54:59 GMT"
+              "publishedAt": "Tue, 03 Mar 2026 16:20:16 GMT"
             }
           ]
         },
@@ -907,12 +900,6 @@
               "publishedAt": "Wed, 25 Feb 2026 06:56:01 GMT"
             },
             {
-              "title": "华为发布Agentic MBB：全面释放网络多维能力，夯实移动AI时代基座- 华为 - Huawei",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jMHBIVVZZa2tSTUdqRVJqMndRWFFfRy1nY044WlBSaThWRlRweWJmaklEMTQtYnJOR0tLMHZTT1JVaWZDc0FuY1VDM3BlUWdtTWlTRFZTSmJBVXBxbVE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 01:57:34 GMT"
-            },
-            {
               "title": "蚂蚁阿福：从 0 到生产的医疗 Agent 工程化落地｜QCon 北京 - InfoQ 官网",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ubTE3Tk4yTUQ3cXFpdGJ1dkhrLUJzcGhnakw1ZC1jMXE2WGVvTWNOaWY3U2w3dUluazVXcy1xQVBWTThSeFNfMWVTS01oclc0UjNvMHJpYnFwWUtYMmc?oc=5",
               "source": "Google News",
@@ -923,6 +910,12 @@
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IaVZVSFlWTUxybkZDWVg5X1l5cndfanBaQmZveWtEdFExSVN2OExHeTlqVkhJNF9mY1dJdmF6WEp5endXWjBKSGt4Yl9qaHdBX3dN?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 26 Feb 2026 07:24:00 GMT"
+            },
+            {
+              "title": "阿里云百炼专属版登陆国际市场，加速全球企业构建专属AI引擎 - 雷峰网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XcW5TTEhodTdBMHN6enlTMm5sV2tNR3pueWJLTlZXZ3dEUE1BZ0E4eE95cVc2RHd2T3ZHUDltTTA1aFFHQ1pUaGdqdkwzenlUdlkzaVlyMG9DUkpzYTk0NmpNVE5MakswVHNMUlViR0J3OGFUR3BJ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Tue, 03 Mar 2026 06:15:00 GMT"
             }
           ]
         },
@@ -960,25 +953,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 180.15499877929688,
+          "price": 180.0500030517578,
           "previousClose": 188.5399932861328,
-          "changePct": -4.447329375954028
+          "changePct": -4.5030182118922575
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 403.7300109863281,
+          "price": 403.92999267578125,
           "previousClose": 413.2699890136719,
-          "changePct": -2.308412969959971
+          "changePct": -2.26002288726115
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 302.5,
+          "price": 303.5799865722656,
           "previousClose": 318.5799865722656,
-          "changePct": -5.047393825731766
+          "changePct": -4.7083936945918134
         },
         {
           "symbol": "002230.SZ",
@@ -1029,12 +1022,6 @@
           "query": "AI breakthrough",
           "items": [
             {
-              "title": "中国科学家用天文AI模型绘制“极致深空图” - TV BRICS",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVXp0RjNHclZ6a0NWUlRFV2JIVDQ2UDg4OVRnbWZsM2pHSVN1Q2ZxTjczanNQUkR2MU1NNmtPSU1LcGlyVXB4el9ELWZ0Ynd0c1VUMU02R2otcTJBRGJPYjRZdXFRdHZPMW1QdjdMNm9laFRLaEtYMUM5dkZDTVQxenVONDNNUEZJTzVqMGNaSzFfaFVzcC1xejV3MWc4LXVvS19nOHh6WQ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 25 Feb 2026 09:00:00 GMT"
-            },
-            {
               "title": "从待办事项到突破：CrushBank 如何利用 IBM watsonx 转变 IT 帮助台支持 - IBM",
               "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYXYtNWQwX1BJZDctOThZcFIxRmhLUE9DQXhya2k3MWRZbWxSVmNnNm44WmFpai1TVHYwd255dlp3UDdiVTJfT182UXAwMTBDTXBkYzYxREdMNm4zVmhQNjUwdS0zUkJ1aGlUVlF6S2NoQ2Y2YlAzbC1pUTRMYkxPdnZMZ01aWm1Mb1k0ekM4Qnc2Ukc3Sm56Rzd4aFNwREV4NjdZekh6TnVUNGx0Rkp1NVlLWDc3VU55TURrbW5GT3dWWnFPRlhxUE1STEhFbVU?oc=5",
               "source": "Google News",
@@ -1063,6 +1050,12 @@
               "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPU2MweF91Yy10dzM2MlN0Y2ljUklHRDF2eDduajc5dFBWNW1BaEVqQnpFeWRab3dmaHdybXYtSnJZXzFaRm4tTjllMDJvU3BiQnZ6VWx1WWpCczh3Z0hpV0pEQUZVcjgwdEZibVU5Zl9Sb01uNjlLNlhvS3VPcmxhMXdRYkxqRy1DTkljWGhzMk85alBTSlJhZkRhVWUza3gtZHRwUVVVUkhSZG9zTTRYV1BoZzRqeEpNX3U2WXh5TzdyMDZEZlA5R0ltWG5LYWZGcDdjcGN3VmxCRWZueE9tS243bGplODY0aWVnUm93V0E0eElHWEs4YzZVU0NJSExYcHluZ0N4d2dTVHU0UlB2cXhOcE82MjFaS3AwMTBNamRlaFptVjIxVDFBQm1Xc1BKWThyVGJkSlF3NHBzWmFTVmFYNDF4UDl4UXFHLVZUZ291cVFDOUtLTXkyZkpzd1o5M1VtSXVuTmdkUQ?oc=5",
               "source": "Google News",
               "publishedAt": "Tue, 03 Mar 2026 13:00:00 GMT"
+            },
+            {
+              "title": "中国“寿险头雁”大突破，玩起“AI Agent” - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTE9yMExGVWk5dmNLcEx3ZUtOUlYtbzR6T0ZwMHB5LXRLR1NYNzR6WFRrSVNWNm8wenQtbUdqeFpkUFItWG5taEdxRHpPRDQzMjJoeVUxUmpYQi1jQndIS2l0bm9QcVkxQ2pEVmZPY1ZPM2ZUb2w3bkluYW9YVkxLS1VDZHd4T1V2a3lnMnJKWU1nRTNOMjVUajhjZGFZSDBk?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 01:01:40 GMT"
             }
           ]
         },
@@ -1070,6 +1063,12 @@
           "title": "产品范式",
           "query": "AI product launch",
           "items": [
+            {
+              "title": "2026年可能爆炸的下一个加密货币是DeepSnitch AI，为月球发射而蓄势待发，作为Chainli... - Binance",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxS2FWMURvemk0YzBld3RfSmVHMUJDRDBHTUV5cF84anlWZVY1R0hYSnZ3ZVEzdWcxamljX2oybkhWUk0wc0Vtb05kdllpQzNTTTBNSkpqdzNwUTdzS3AtRGZPNzlNekM0?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 12:33:05 GMT"
+            },
             {
               "title": "Apple Launches New iPhone and iPad Air as It Gears up for a Major AI Push - 富途牛牛",
               "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMVZibVVrbm9sUkpUMWRTNkpSVU9RWHVCcTJPb3ViREg0aVNYUGtpWTdaQXhnNW9CeEgtUXdXdnJHc1U0alE2QkRTV1RWQU9GNXBkR0JQTklGTGNNM3pSU1NzT0pnZmxtaUhGMVA5dWV2YzVMbkpoVl9zNFFlTkZ6MVhpSWtVMGdidDF0VmVUeHROdw?oc=5",
@@ -1099,12 +1098,6 @@
               "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGJDSjNOUXB3LVowdFB0VDZCZjdmazNzVVhpdlJBcUlmMGl1NHBIbS1WaEhOT0RUeno1ZWJxa1gwVVJJMHRuS28yeDRQTmttTTh6dmZ1YmhjaGZvY1R3bnBsSDFYTVcya29MOVkyYW9rUGpjak52OVVkLWlTZUcxNHJ5SGQtRUdSTHdmY2lBUmxBdUFjYkd1SDBqbFRHZVUtV2RSLUFzT09lOWMyY2tiWA?oc=5",
               "source": "Google News",
               "publishedAt": "Sat, 28 Feb 2026 20:29:47 GMT"
-            },
-            {
-              "title": "Simplilearn 推出了‘应用代理人工智能：系统、设计与影响’项目，旨在培养下一代微软人工智能产品与系统领导者。 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjVIb3hndnd6SUk0YjViVExEVDBkZW5haEJub3V5dk5kQWpHSmJUdkgtUXMzQWJtV2xsYlFyTFVpQ2cxZlNDckstaVBZNjd0TkVSdFFjemJtYm1ka3dEUDJ6R2FXZWhsS0pOaF9KOG1xR0xhaHo4Z1NBNlFId0Mwb2ZORjdBLUIzREJ5UjNuNU1lNGdxd2ViUkNvUHY0c3JpSDhlQ1NCR1p1R2hXbDFF?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 14:00:00 GMT"
             }
           ]
         },
@@ -1161,16 +1154,16 @@
               "publishedAt": "Tue, 03 Mar 2026 09:45:34 GMT"
             },
             {
-              "title": "扛住伊朗导弹？比亚迪被推上热搜 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpY3dNalBRYlFwanJSY1NvYVlyZXEtVUZiNG9kVjRwUDN3dW1Fd3pwYVI5RzRtWExnSzFremtjN3hrRXJQUEMzcVdBSDBHMzU5V01VWjRlM3NFNTlpaW45Uw?oc=5",
+              "title": "华为与Zain联合专访：加速AN L4规模化落地，实现产业智能化升级 - C114通信网",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90RlVUY044ZWYybE04MVhub3VTTUtUcGhWUVd5OGJlZ21VRlNzX3pleFJoSGNzWXNWQVZ0NjBZTHpSY0Jzc21jNHdKaFN4OVpZbTVuaVZxcVdsZw?oc=5",
               "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 14:47:15 GMT"
+              "publishedAt": "Tue, 03 Mar 2026 15:44:00 GMT"
             },
             {
-              "title": "【网通社快报】比亚迪2025年全球电动车销量登顶，在22国销量超特斯拉 - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtLVY1ekZEQ1JQUy02NkpXNWZqa1ZfTThtbWVYS3JIZXFlMnVsQ0h4VGk0dnNzZ1ZfdGFEOG41NGY1RUpfN0x0dWNrT2s?oc=5",
+              "title": "吉利海外市场的“野心”：除了销量增长，智驾方案年内也出海_凤凰网 - 凤凰网汽车",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sc256M0NaRWtYWXBjYlE0YWZ0NC1vQ3lsTUl1QlVUNXlaS05NZnZ1YTJRem9ObldyTEtHQkN1WExfQng5MFdDZTNoWGw?oc=5",
               "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 15:54:59 GMT"
+              "publishedAt": "Tue, 03 Mar 2026 16:20:16 GMT"
             }
           ]
         },
@@ -1262,25 +1255,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 180.16709899902344,
+          "price": 180.0500030517578,
           "previousClose": 186.22999572753906,
-          "changePct": -3.2555962345538862
+          "changePct": -3.3184732951520837
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 403.7049865722656,
+          "price": 403.92999267578125,
           "previousClose": 459.8599853515625,
-          "changePct": -12.211325309456189
+          "changePct": -12.162396046053631
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 302.5,
+          "price": 303.5799865722656,
           "previousClose": 330,
-          "changePct": -8.333333333333332
+          "changePct": -8.006064675071023
         },
         {
           "symbol": "002230.SZ",
