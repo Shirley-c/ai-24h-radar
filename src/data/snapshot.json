@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-05T14:53:27.302Z",
+  "generatedAt": "2026-03-05T18:10:11.559Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -14,7 +14,14 @@
         {
           "title": "技术突破",
           "query": "AI breakthrough",
-          "items": []
+          "items": [
+            {
+              "title": "深度原理完成A2轮融资，加速AI for Materials范式重构 | 星科技•AI及AI应用 - ByDrug",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aQ1NWOWM2Q0tCVHZ5OXNZcXVuYUtyT3NoY2tfTGZ1NmZxVjIwcmtBWmtLS0ZoTTQ2WHBIOF9mN3dtc0ZvX2VZVTRtQ25COWR3blpralFyQjkxM0JGRm1ZLVd0YXJST0wzbkhnVzdzVG1ZaXEtei1Mbm5jSm13UQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 04:06:00 GMT"
+            }
+          ]
         },
         {
           "title": "产品范式",
@@ -31,6 +38,18 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
+              "title": "京东Q4净营收同比增长1.5%至3523亿元，新业务投入致单季净亏损27亿元｜财报见闻 - 华尔街见闻",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aUGlMcDhCZ3Q2VjlqRlpMNVR3X05WcEhWNnVXbGM0WXRYSDVqQk94WnZmcUVzXzdiNkNFRG5jSlpLSEJhRTdES0FlZ1ZhLVNOSURv?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 11:08:31 GMT"
+            },
+            {
+              "title": "科大讯飞刘庆峰：要让每个人都能站在AI的肩膀上 - 中国日报网",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5acEFVclNFMDZ4bWFCb0hvVnZlQWg1Ym1Vdml3UWFtUElIMjh3cmhodmNBMDdOdFR3WENjQW5SQnkya24tLUdQd3hRVGt4Zm40LVQtWGdNb3lieTYtQWpHX19PNC00MGkyTU5lRWdHX2VPZ2pOY3Z3N2xLRQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 11:23:00 GMT"
+            },
+            {
               "title": "京东集团CEO许冉：今年外卖投入较去年降低 - Jiemian.com",
               "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41bnZQc2tvSXc2LVBla2ZoaTZFSW4xb1pOLTRjc2otSVBqUjlzeVhfZUFUMm5LUUxuNzEzeDdYd0E3TmZ5cS1SeTZqSU4tZGlESVpRVl9EV3g?oc=5",
               "source": "Google News",
@@ -43,28 +62,16 @@
               "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
             },
             {
-              "title": "京东集团2025年营收同比增长13% 净利润达196亿元 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZW1KQkVKbEpNUHcydUM1WW14bk83bzk5em5rSEZVVVBHNGd0QnZBeWJ5S2JhR01GTmpCRHJPUVJhVzVuM3lEMnZ3enJQeWFLSF9VMjBQS2pOWEpwRGNmVA?oc=5",
+              "title": "续航焦虑的“解药”来了？比亚迪发布第二代刀片电池，9分钟充饱 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MRTFXMEtVSmdldnQ3TmRtaDRncWd1QXI2UHpsaXNfUTUwdFp4LUJpNVNMSV9YLUt1R2pYMkxiSUFDUENkRXBfaE0zVHQ4NFpoWllCczhmYjlkTWQ1T0lwRA?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 14:50:24 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 15:11:27 GMT"
             },
             {
-              "title": "京东2025年收入与活跃用户数均实现双位数增长，核心业务巩固，收入结构多元 - 中国基金报",
-              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tcm5aZ09vRzM1Q0dIeHF4NEROLWE0OGhVcHBSOFZnT055bDU0WHZYbVQ3SGJrdXBVNUUwX3BFUlZUUnBZLS1WSjViY2FsV1RKWl9GTGY2RDZPZDN1YXlRX1o4OGhxSTh1NXViMGNZUU5NeElvSjZ3d1dB?oc=5",
+              "title": "京东最新业绩发布！活跃用户超7亿 - 同花顺财经",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9adWVBUE4weVM2dEk0NU51MDU0dGQ5ZTJmb0lUWnpLeGlZdFEyMjNWZnd4Y0RTbXo5TFZPdWNzSXJJV2xaS0ZPaFhTSzVORFBVanRHMllLckxGY2JOV0E?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 14:42:00 GMT"
-            },
-            {
-              "title": "华为发布SmartCare Intelligence解决方案，驱动体验提升与收入增长- 华为 - Huawei",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ib0hBNUNwLXJ4ZmZJeWJWNGd4VGdGcFNwWHVIenlzdzV4NjZNVjhSLUZrZGdxYWJLUy1maWpIMGdyNk9hUFppQzNjb2NQWHB2Q0RkMnpQVlFBaGZiVzNnSUIyTmhCMEdZaHlqUERCTUs?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 17:58:32 GMT"
-            },
-            {
-              "title": "京东2025年四季度收入增速放缓至1.5% 新业务投入致由盈转亏 - Caixin.com",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wY21YNnk0cnVSUWlDclpTXzVBZ0RGNHEzRFFUU3l5YVBBT2x6Z0lCeVlaZ0VBak1STUs3aFB6R1dnZkVQeDZtQ2haOGZUVTlGQkNVV2pmakhfTlNvdmNxejNDeHI?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 14:36:00 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 15:01:35 GMT"
             }
           ]
         },
@@ -77,12 +84,6 @@
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GYzd2dFBPVE9YazdJMHVXVW0tUU9vZnJWRUFwWGFLUWdzSTFJRDBVcldRaEx5eWY2YVNNVHVZdTlKNnhwWngyVUxPUXU3OHNZWmdCbXoyVVFGckdVOWc?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 05 Mar 2026 07:04:54 GMT"
-            },
-            {
-              "title": "Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？ - Bitget",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn0gFrQVVfeXFMTkk1SjZKUDdjek52YWxHUTR6TFdiaUN6UF95U3R4Qjh5UFQ4NG1ZUkx6NUkzWTBQaHRBdUpnTlFZVnNTMm5tNDA1NXhBZGd1N3k5cENKeE9ocUJ4SmNDZjhLcVhHRGdUM2Z5amc?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 03:45:00 GMT"
             },
             {
               "title": "Flowith完成数千万美元种子轮融资，加速Agentic AI系统研发 - 品玩",
@@ -107,6 +108,12 @@
               "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcXFTTFdyMFgybWlNdnZhVHl5QnpGNldjZlJ1VkxmSTZqa1lGT2RpWThGUjJGT0hFOS1SNEhTWDUyQ0w1ZHFSeDd3WnNFNnBadjhaNVJSWk5iSHVkNE1CS3RkMC1aSVlJNHVPQ3lXWTRoMzZfYXRKRlBib2VELURwSkxqT0VaUVkwbnVB?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 05 Mar 2026 07:03:36 GMT"
+            },
+            {
+              "title": "华为发布AUTINOps解决方案，重新定义智能运维新范式 - 51CTO",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PVDBxSVc1NC1XcFpCU1I1RFRXaTFmWm1CZXpldXBEUFNSaFo2aVBmQnlSZGdnRjVaZWVfR3dGSVF1aGo2VmVMMkRGSnRhelcxUEZJ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 06:28:08 GMT"
             }
           ]
         },
@@ -131,25 +138,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 182.14999389648438,
+          "price": 179.67999267578125,
           "previousClose": 183.0399932861328,
-          "changePct": -0.48623220186485017
+          "changePct": -1.835664736448675
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 410.239990234375,
+          "price": 410.05999755859375,
           "previousClose": 405.20001220703125,
-          "changePct": 1.243824747164283
+          "changePct": 1.1994040486552007
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 300.3900146484375,
+          "price": 300.04998779296875,
           "previousClose": 303.1300048828125,
-          "changePct": -0.9038993798829836
+          "changePct": -1.016071335806714
         },
         {
           "symbol": "002230.SZ",
@@ -200,10 +207,10 @@
           "query": "AI breakthrough",
           "items": [
             {
-              "title": "英伟达及其合作伙伴展示软件定义的AI-RAN是下一代无线通信技术 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVZoWkhLNEdWVklfbjhEazgzczZhdE5lTUQ0dmh5Wl9Qb0c2NWpDbDhYdDZNZFR0ZXBKTlh1M3FIUW1ScVM4aUZja3diMG5xX3JaX3hjRTRONWhwSVpVQzh4NW9ObVpRZ3hPRTYwS1lGT0h1Q00zNlFMRzZpejZWSlVreERoRGdLdDduVWp4UTlVQWdjYVJDN0NR?oc=5",
+              "title": "深度原理完成A2轮融资，加速AI for Materials范式重构 | 星科技•AI及AI应用 - ByDrug",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aQ1NWOWM2Q0tCVHZ5OXNZcXVuYUtyT3NoY2tfTGZ1NmZxVjIwcmtBWmtLS0ZoTTQ2WHBIOF9mN3dtc0ZvX2VZVTRtQ25COWR3blpralFyQjkxM0JGRm1ZLVd0YXJST0wzbkhnVzdzVG1ZaXEtei1Mbm5jSm13UQ?oc=5",
               "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 02:14:55 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 04:06:00 GMT"
             },
             {
               "title": "连续五季盈利破局!声网(API.US)Q4营收超指引上限，对话式AI成增长新引擎 - 富途牛牛",
@@ -224,16 +231,16 @@
               "publishedAt": "Tue, 03 Mar 2026 14:10:08 GMT"
             },
             {
+              "title": "英伟达及其合作伙伴展示软件定义的AI-RAN是下一代无线通信技术 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVZoWkhLNEdWVklfbjhEazgzczZhdE5lTUQ0dmh5Wl9Qb0c2NWpDbDhYdDZNZFR0ZXBKTlh1M3FIUW1ScVM4aUZja3diMG5xX3JaX3hjRTRONWhwSVpVQzh4NW9ObVpRZ3hPRTYwS1lGT0h1Q00zNlFMRzZpejZWSlVreERoRGdLdDduVWp4UTlVQWdjYVJDN0NR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Tue, 03 Mar 2026 02:14:55 GMT"
+            },
+            {
               "title": "最新分析：arXiv 论文 2603.02473 披露AI新进展——方法、基准与2026趋势 - blockchain.news",
               "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONF81QmJ6d25lWHdMZE8wdXd4LW1CRVBuMjNzX3pzYmdBZHdVUjBGTVF5b1N2U2stRDBEejh5cWk0bEYxSkg4OTNMNm1zbXJ4aU5wMmdhZkVrSmlQcHFfb1ZIS3JOSGhwVS1vVnoyODNvZHV4dFZwd0EwMlVsU0ZHeEp6amZmcU13Z0FJYUdSdWs4TldKU01WaHF4ZzRicXZ0Q2JQMThtUms3SEF0Mmd6TFBib2dQMDhpS0Z4S3NzYlFBcGFrQkUxM2NkU1JTOUdaTmlRZEM1R3U?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 04 Mar 2026 12:51:00 GMT"
-            },
-            {
-              "title": "Microsoft Copilot 助力PowerPoint：一站式研究到PPT生成与迭代的工作流突破| AI快讯详情 - blockchain.news",
-              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcWV4clRYMTVmTkpfNzFSSmtHYURwcF9lZE9EdzVydGVSZWR2YVBYSms5MGt6T1VEaWU1QlBxRUxfX3kyQ1FqV2VqeC1uR2lZbWxCSjYzZ1MzTFZ1ZHZUZVdTOHpGdEdkUUY1ci13cTNRaGFSVmw5TU1mYmN2ZFF0MlhXVFNXLTQzZHd0Ynczd2JRRDJ0SkluTDYwUGpHcTQyN0JCSVJYSkxvQUFtblRlNTREZ2hVekljVGVzWjNQQ01YN085VGhpMzlPd0piN0VJVDZEWjkteGpPRVc2dmc?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 06:06:00 GMT"
             }
           ]
         },
@@ -265,6 +272,18 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
+              "title": "京东Q4净营收同比增长1.5%至3523亿元，新业务投入致单季净亏损27亿元｜财报见闻 - 华尔街见闻",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aUGlMcDhCZ3Q2VjlqRlpMNVR3X05WcEhWNnVXbGM0WXRYSDVqQk94WnZmcUVzXzdiNkNFRG5jSlpLSEJhRTdES0FlZ1ZhLVNOSURv?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 11:08:31 GMT"
+            },
+            {
+              "title": "科大讯飞刘庆峰：要让每个人都能站在AI的肩膀上 - 中国日报网",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5acEFVclNFMDZ4bWFCb0hvVnZlQWg1Ym1Vdml3UWFtUElIMjh3cmhodmNBMDdOdFR3WENjQW5SQnkya24tLUdQd3hRVGt4Zm40LVQtWGdNb3lieTYtQWpHX19PNC00MGkyTU5lRWdHX2VPZ2pOY3Z3N2xLRQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 11:23:00 GMT"
+            },
+            {
               "title": "京东集团CEO许冉：今年外卖投入较去年降低 - Jiemian.com",
               "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41bnZQc2tvSXc2LVBla2ZoaTZFSW4xb1pOLTRjc2otSVBqUjlzeVhfZUFUMm5LUUxuNzEzeDdYd0E3TmZ5cS1SeTZqSU4tZGlESVpRVl9EV3g?oc=5",
               "source": "Google News",
@@ -277,28 +296,16 @@
               "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
             },
             {
-              "title": "京东集团2025年营收同比增长13% 净利润达196亿元 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZW1KQkVKbEpNUHcydUM1WW14bk83bzk5em5rSEZVVVBHNGd0QnZBeWJ5S2JhR01GTmpCRHJPUVJhVzVuM3lEMnZ3enJQeWFLSF9VMjBQS2pOWEpwRGNmVA?oc=5",
+              "title": "续航焦虑的“解药”来了？比亚迪发布第二代刀片电池，9分钟充饱 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MRTFXMEtVSmdldnQ3TmRtaDRncWd1QXI2UHpsaXNfUTUwdFp4LUJpNVNMSV9YLUt1R2pYMkxiSUFDUENkRXBfaE0zVHQ4NFpoWllCczhmYjlkTWQ1T0lwRA?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 14:50:24 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 15:11:27 GMT"
             },
             {
-              "title": "京东2025年收入与活跃用户数均实现双位数增长，核心业务巩固，收入结构多元 - 中国基金报",
-              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tcm5aZ09vRzM1Q0dIeHF4NEROLWE0OGhVcHBSOFZnT055bDU0WHZYbVQ3SGJrdXBVNUUwX3BFUlZUUnBZLS1WSjViY2FsV1RKWl9GTGY2RDZPZDN1YXlRX1o4OGhxSTh1NXViMGNZUU5NeElvSjZ3d1dB?oc=5",
+              "title": "京东最新业绩发布！活跃用户超7亿 - 同花顺财经",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9adWVBUE4weVM2dEk0NU51MDU0dGQ5ZTJmb0lUWnpLeGlZdFEyMjNWZnd4Y0RTbXo5TFZPdWNzSXJJV2xaS0ZPaFhTSzVORFBVanRHMllLckxGY2JOV0E?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 14:42:00 GMT"
-            },
-            {
-              "title": "京东2025年四季度收入增速放缓至1.5% 新业务投入致由盈转亏 - Caixin.com",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wY21YNnk0cnVSUWlDclpTXzVBZ0RGNHEzRFFUU3l5YVBBT2x6Z0lCeVlaZ0VBak1STUs3aFB6R1dnZkVQeDZtQ2haOGZUVTlGQkNVV2pmakhfTlNvdmNxejNDeHI?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 14:36:00 GMT"
-            },
-            {
-              "title": "京东2025“成绩单”出炉！营收增长13%、利润大降，员工总数已超90万 - 凤凰网财经",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1waGo0WmpJZzVjN0I0akhBbUpaREZmVVRHaDFiaXE4VlV0MzJzRzZyaVhQS1E1N2g2SmZXUnFuSmhtc2dTRDlYUWdzekE0SzVi?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 13:46:30 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 15:01:35 GMT"
             }
           ]
         },
@@ -311,12 +318,6 @@
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GYzd2dFBPVE9YazdJMHVXVW0tUU9vZnJWRUFwWGFLUWdzSTFJRDBVcldRaEx5eWY2YVNNVHVZdTlKNnhwWngyVUxPUXU3OHNZWmdCbXoyVVFGckdVOWc?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 05 Mar 2026 07:04:54 GMT"
-            },
-            {
-              "title": "Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？ - Bitget",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn0gFrQVVfeXFMTkk1SjZKUDdjek52YWxHUTR6TFdiaUN6UF95U3R4Qjh5UFQ4NG1ZUkx6NUkzWTBQaHRBdUpnTlFZVnNTMm5tNDA1NXhBZGd1N3k5cENKeE9ocUJ4SmNDZjhLcVhHRGdUM2Z5amc?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 03:45:00 GMT"
             },
             {
               "title": "Flowith完成数千万美元种子轮融资，加速Agentic AI系统研发 - 品玩",
@@ -341,6 +342,12 @@
               "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XcW5TTEhodTdBMHN6enlTMm5sV2tNR3pueWJLTlZXZ3dEUE1BZ0E4eE95cVc2RHd2T3ZHUDltTTA1aFFHQ1pUaGdqdkwzenlUdlkzaVlyMG9DUkpzYTk0NmpNVE5MakswVHNMUlViR0J3OGFUR3BJ?oc=5",
               "source": "Google News",
               "publishedAt": "Tue, 03 Mar 2026 06:15:00 GMT"
+            },
+            {
+              "title": "Sahara AI 发布 2026 战略蓝图：领跑 Agentic AI 赛道 - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOcUtpU1Fxc3ZmZFhpYUxyb0paTGVJMUk5bDRXV0VkT2JIZ3JKdFBlNmFiVy1yZHNfTVViYWRSYXRQVHpVZjg0NnFYVmlBMk51Z1hxZUhGR0lDQmgxdm5Kcmg1RHZqd9IBa0FVX3lxTE5ESUlvZHcwdUE4V3NxaUs5ekxMYmFGaFB1QUg5YjZob0U1UHFnNFR0dFJ1ZGVvNzUySVpaNzdyUGRQVFFyYWd0eHhJaldPcmhkcmY4N2xMal8yOXhlS2pOZThxbktvYXNSTUVv?oc=5",
+              "source": "Google News",
+              "publishedAt": "Wed, 04 Mar 2026 10:33:45 GMT"
             }
           ]
         },
@@ -365,25 +372,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 182.14999389648438,
+          "price": 179.64999389648438,
           "previousClose": 182.47999572753906,
-          "changePct": -0.1808427437423954
+          "changePct": -1.5508559279452
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 410.18499755859375,
+          "price": 410.05999755859375,
           "previousClose": 398.54998779296875,
-          "changePct": 2.9193351203084057
+          "changePct": 2.887971425959246
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 300.3500061035156,
+          "price": 299.989990234375,
           "previousClose": 306.5199890136719,
-          "changePct": -2.0129137189421753
+          "changePct": -2.1303663752270374
         },
         {
           "symbol": "002230.SZ",
@@ -434,6 +441,12 @@
           "query": "AI breakthrough",
           "items": [
             {
+              "title": "深度原理完成A2轮融资，加速AI for Materials范式重构 | 星科技•AI及AI应用 - ByDrug",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aQ1NWOWM2Q0tCVHZ5OXNZcXVuYUtyT3NoY2tfTGZ1NmZxVjIwcmtBWmtLS0ZoTTQ2WHBIOF9mN3dtc0ZvX2VZVTRtQ25COWR3blpralFyQjkxM0JGRm1ZLVd0YXJST0wzbkhnVzdzVG1ZaXEtei1Mbm5jSm13UQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 04:06:00 GMT"
+            },
+            {
               "title": "即将上线｜万鑫智投：以AI赋能资产管理，以合规构筑长期信任 - 中华网",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BTTEwdTBsRVB1bk9vRkd0cWtSV092X2tLcVVZOU1MRGtvN3JYMm50ODNrWDJOa2QwOWNHVFdlcTFPaVI4enhSOXpDcnE1eEJTWktaUEdXWHc5Q1pKbUE?oc=5",
               "source": "Google News",
@@ -462,12 +475,6 @@
               "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWWp4cE9UQ3B6RDJKa2FOU3VobXlyekp4RlNnUW5UMEY4bk5XRTB4aFNObnNvaUFxZnlFYkU2aFQ5Vm8zQi1VamhTT0M4dXk2WTlzcmU5Y3FnUGFpbXk1UTBLWHR5VzlUX3M2dlItR2JYT2F5NFZTZFdaRmVkaWloajdXMDZBMFEwYS1HNW04UFdDSW5OcGJ0bzE2blRUekN4cXNRWTln?oc=5",
               "source": "Google News",
               "publishedAt": "Tue, 03 Mar 2026 14:10:08 GMT"
-            },
-            {
-              "title": "连续五季盈利破局!声网(API.US)Q4营收超指引上限，对话式AI成增长新引擎 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTVCUWJfWTQ2TlNrYkstOWQxeU1ybUZXel9wWnduZ0pvQnZsSkswS2wyNGdwUmM5VFJqRkVBS2xGd3VSMnBLd3Z1X2wtVWUwZEpNY0VSTGVEcTliM3N4SmZJM1B1WV9KeWZYT3JzVW5PNlVYU3dzSjkxMFpva3lRaUcySUlSWlZNb0x5Z2NERWljX3dxd3NKWjVJY3JMUDJqOEJZeFh1OVNVVFhKYWlLbWFrdjAzdnM?oc=5",
-              "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 01:15:39 GMT"
             }
           ]
         },
@@ -530,6 +537,18 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
+              "title": "京东Q4净营收同比增长1.5%至3523亿元，新业务投入致单季净亏损27亿元｜财报见闻 - 华尔街见闻",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aUGlMcDhCZ3Q2VjlqRlpMNVR3X05WcEhWNnVXbGM0WXRYSDVqQk94WnZmcUVzXzdiNkNFRG5jSlpLSEJhRTdES0FlZ1ZhLVNOSURv?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 11:08:31 GMT"
+            },
+            {
+              "title": "科大讯飞刘庆峰：要让每个人都能站在AI的肩膀上 - 中国日报网",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5acEFVclNFMDZ4bWFCb0hvVnZlQWg1Ym1Vdml3UWFtUElIMjh3cmhodmNBMDdOdFR3WENjQW5SQnkya24tLUdQd3hRVGt4Zm40LVQtWGdNb3lieTYtQWpHX19PNC00MGkyTU5lRWdHX2VPZ2pOY3Z3N2xLRQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 11:23:00 GMT"
+            },
+            {
               "title": "京东集团CEO许冉：今年外卖投入较去年降低 - Jiemian.com",
               "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41bnZQc2tvSXc2LVBla2ZoaTZFSW4xb1pOLTRjc2otSVBqUjlzeVhfZUFUMm5LUUxuNzEzeDdYd0E3TmZ5cS1SeTZqSU4tZGlESVpRVl9EV3g?oc=5",
               "source": "Google News",
@@ -542,28 +561,16 @@
               "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
             },
             {
-              "title": "京东集团2025年营收同比增长13% 净利润达196亿元 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZW1KQkVKbEpNUHcydUM1WW14bk83bzk5em5rSEZVVVBHNGd0QnZBeWJ5S2JhR01GTmpCRHJPUVJhVzVuM3lEMnZ3enJQeWFLSF9VMjBQS2pOWEpwRGNmVA?oc=5",
+              "title": "续航焦虑的“解药”来了？比亚迪发布第二代刀片电池，9分钟充饱 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MRTFXMEtVSmdldnQ3TmRtaDRncWd1QXI2UHpsaXNfUTUwdFp4LUJpNVNMSV9YLUt1R2pYMkxiSUFDUENkRXBfaE0zVHQ4NFpoWllCczhmYjlkTWQ1T0lwRA?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 14:50:24 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 15:11:27 GMT"
             },
             {
-              "title": "京东2025年收入与活跃用户数均实现双位数增长，核心业务巩固，收入结构多元 - 中国基金报",
-              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tcm5aZ09vRzM1Q0dIeHF4NEROLWE0OGhVcHBSOFZnT055bDU0WHZYbVQ3SGJrdXBVNUUwX3BFUlZUUnBZLS1WSjViY2FsV1RKWl9GTGY2RDZPZDN1YXlRX1o4OGhxSTh1NXViMGNZUU5NeElvSjZ3d1dB?oc=5",
+              "title": "京东最新业绩发布！活跃用户超7亿 - 同花顺财经",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9adWVBUE4weVM2dEk0NU51MDU0dGQ5ZTJmb0lUWnpLeGlZdFEyMjNWZnd4Y0RTbXo5TFZPdWNzSXJJV2xaS0ZPaFhTSzVORFBVanRHMllLckxGY2JOV0E?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 14:42:00 GMT"
-            },
-            {
-              "title": "华为发布SmartCare Intelligence解决方案，驱动体验提升与收入增长- 华为 - Huawei",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ib0hBNUNwLXJ4ZmZJeWJWNGd4VGdGcFNwWHVIenlzdzV4NjZNVjhSLUZrZGdxYWJLUy1maWpIMGdyNk9hUFppQzNjb2NQWHB2Q0RkMnpQVlFBaGZiVzNnSUIyTmhCMEdZaHlqUERCTUs?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 17:58:32 GMT"
-            },
-            {
-              "title": "京东2025“成绩单”出炉！营收增长13%、利润大降，员工总数已超90万 - 凤凰网财经",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1waGo0WmpJZzVjN0I0akhBbUpaREZmVVRHaDFiaXE4VlV0MzJzRzZyaVhQS1E1N2g2SmZXUnFuSmhtc2dTRDlYUWdzekE0SzVi?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 13:46:30 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 15:01:35 GMT"
             }
           ]
         },
@@ -596,16 +603,16 @@
               "publishedAt": "Tue, 03 Mar 2026 06:15:00 GMT"
             },
             {
-              "title": "华为发布Agentic MBB：全面释放网络多维能力，夯实移动AI时代基座- 华为 - Huawei",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jMHBIVVZZa2tSTUdqRVJqMndRWFFfRy1nY044WlBSaThWRlRweWJmaklEMTQtYnJOR0tLMHZTT1JVaWZDc0FuY1VDM3BlUWdtTWlTRFZTSmJBVXBxbVE?oc=5",
+              "title": "黄仁勋一锤定音：Agentic AI拐点已至，英伟达Q4财报再创历史 - 品玩",
+              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCNnpQVWJWRlZBbDB5UkdaS1pYR19idDlXblJERm91S2dYejN6cEVCeWtVV0FzLTFsbkswT2hmRF9zSkRIcWJmNQ?oc=5",
               "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 01:57:34 GMT"
+              "publishedAt": "Fri, 27 Feb 2026 02:51:38 GMT"
             },
             {
-              "title": "Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？ - Bitget",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn0gFrQVVfeXFMTkk1SjZKUDdjek52YWxHUTR6TFdiaUN6UF95U3R4Qjh5UFQ4NG1ZUkx6NUkzWTBQaHRBdUpnTlFZVnNTMm5tNDA1NXhBZGd1N3k5cENKeE9ocUJ4SmNDZjhLcVhHRGdUM2Z5amc?oc=5",
+              "title": "Four.Meme本周将推出新模式Agentic Mode，支持由AI Agent创建Meme币 - QQ News",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mM2dpYWVFWUVFQnpkMUtMSXp6S1RPZmIySmx1cUJPa2ZKODdfUFJ1OWgwRWRmQ1Zlc1BieUNWaUNDU1cwZGtVR28zYVQ0eV9ON1ZMcC1B?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 03:45:00 GMT"
+              "publishedAt": "Mon, 02 Mar 2026 01:22:00 GMT"
             }
           ]
         },
@@ -637,25 +644,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 182.14999389648438,
+          "price": 179.66000366210938,
           "previousClose": 192.85000610351562,
-          "changePct": -5.548359796933494
+          "changePct": -6.839513624037058
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 410.18499755859375,
+          "price": 410.05999755859375,
           "previousClose": 389,
-          "changePct": 5.446014796553663
+          "changePct": 5.413881120461118
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 300.3599853515625,
+          "price": 299.989990234375,
           "previousClose": 310.8999938964844,
-          "changePct": -3.390160421949452
+          "changePct": -3.509168181502735
         },
         {
           "symbol": "002230.SZ",
@@ -706,6 +713,12 @@
           "query": "AI breakthrough",
           "items": [
             {
+              "title": "深度原理完成A2轮融资，加速AI for Materials范式重构 | 星科技•AI及AI应用 - ByDrug",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aQ1NWOWM2Q0tCVHZ5OXNZcXVuYUtyT3NoY2tfTGZ1NmZxVjIwcmtBWmtLS0ZoTTQ2WHBIOF9mN3dtc0ZvX2VZVTRtQ25COWR3blpralFyQjkxM0JGRm1ZLVd0YXJST0wzbkhnVzdzVG1ZaXEtei1Mbm5jSm13UQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 04:06:00 GMT"
+            },
+            {
               "title": "中国科学家用天文AI模型绘制“极致深空图” - TV BRICS",
               "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVXp0RjNHclZ6a0NWUlRFV2JIVDQ2UDg4OVRnbWZsM2pHSVN1Q2ZxTjczanNQUkR2MU1NNmtPSU1LcGlyVXB4el9ELWZ0Ynd0c1VUMU02R2otcTJBRGJPYjRZdXFRdHZPMW1QdjdMNm9laFRLaEtYMUM5dkZDTVQxenVONDNNUEZJTzVqMGNaSzFfaFVzcC1xejV3MWc4LXVvS19nOHh6WQ?oc=5",
               "source": "Google News",
@@ -730,16 +743,10 @@
               "publishedAt": "Fri, 27 Feb 2026 01:01:40 GMT"
             },
             {
-              "title": "英伟达及其合作伙伴展示软件定义的AI-RAN是下一代无线通信技术 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVZoWkhLNEdWVklfbjhEazgzczZhdE5lTUQ0dmh5Wl9Qb0c2NWpDbDhYdDZNZFR0ZXBKTlh1M3FIUW1ScVM4aUZja3diMG5xX3JaX3hjRTRONWhwSVpVQzh4NW9ObVpRZ3hPRTYwS1lGT0h1Q00zNlFMRzZpejZWSlVreERoRGdLdDduVWp4UTlVQWdjYVJDN0NR?oc=5",
+              "title": "XPeng CEO Targets Overseas Sales Surge and Multi-Product Mass Production by 2030 - EqualOcean",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12SXdWRTdoX05oUVd2UENlQ09Od3pLR1JYTlFVRWpQU2J6cUUwdkZfZnItdlFFR2hpRmZNS3J3bS0yZ0NXODU2LVU1clpsc2lDcmtv?oc=5",
               "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 02:14:55 GMT"
-            },
-            {
-              "title": "英伟达首席执行官黄仁勋与全球科技领袖将于GTC 2026展示AI新时代 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWWp4cE9UQ3B6RDJKa2FOU3VobXlyekp4RlNnUW5UMEY4bk5XRTB4aFNObnNvaUFxZnlFYkU2aFQ5Vm8zQi1VamhTT0M4dXk2WTlzcmU5Y3FnUGFpbXk1UTBLWHR5VzlUX3M2dlItR2JYT2F5NFZTZFdaRmVkaWloajdXMDZBMFEwYS1HNW04UFdDSW5OcGJ0bzE2blRUekN4cXNRWTln?oc=5",
-              "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 14:10:08 GMT"
+              "publishedAt": "Thu, 26 Feb 2026 08:39:54 GMT"
             }
           ]
         },
@@ -772,16 +779,16 @@
               "publishedAt": "Mon, 02 Mar 2026 14:00:00 GMT"
             },
             {
+              "title": "XPeng CEO Targets Overseas Sales Surge and Multi-Product Mass Production by 2030 - EqualOcean",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12SXdWRTdoX05oUVd2UENlQ09Od3pLR1JYTlFVRWpQU2J6cUUwdkZfZnItdlFFR2hpRmZNS3J3bS0yZ0NXODU2LVU1clpsc2lDcmtv?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 26 Feb 2026 08:39:54 GMT"
+            },
+            {
               "title": "Global Humanoid Robot Leader AgiBot Taps Minth Group to Drive European Rollout - Yicai Global",
               "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGJDSjNOUXB3LVowdFB0VDZCZjdmazNzVVhpdlJBcUlmMGl1NHBIbS1WaEhOT0RUeno1ZWJxa1gwVVJJMHRuS28yeDRQTmttTTh6dmZ1YmhjaGZvY1R3bnBsSDFYTVcya29MOVkyYW9rUGpjak52OVVkLWlTZUcxNHJ5SGQtRUdSTHdmY2lBUmxBdUFjYkd1SDBqbFRHZVUtV2RSLUFzT09lOWMyY2tiWA?oc=5",
               "source": "Google News",
               "publishedAt": "Sat, 28 Feb 2026 20:29:47 GMT"
-            },
-            {
-              "title": "TIAN RUIXIANG 推出了行业首创的BTC 质押服务，结合了人工智能驱动的收益保险，并推出了完全自主的人工智能保险代理，可实现即时承保与理赔结算。 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVdFNkRIOWRiZERaMlVUb1VQenNwN3FlcjdDSmFGVkcwVFFCMDhIb0NlRVA1LXNBQWJscjh6ZEp5SU5FQkFqRWhOeHB3QTBrV3J6cGFMREl0dk5vSFlxMTRhZS1ZXzMtZU9MREl1X0dQUWhabDJGamJmUFl1Vmt0aVVMZWt2MU1fRE9yRDhUSmpVbmMxalhMdnNnR3BJR2Z4bF80cWg3V0pJNFNpRkx6eGJaWk4?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 14:00:00 GMT"
             }
           ]
         },
@@ -802,6 +809,18 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
+              "title": "京东Q4净营收同比增长1.5%至3523亿元，新业务投入致单季净亏损27亿元｜财报见闻 - 华尔街见闻",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aUGlMcDhCZ3Q2VjlqRlpMNVR3X05WcEhWNnVXbGM0WXRYSDVqQk94WnZmcUVzXzdiNkNFRG5jSlpLSEJhRTdES0FlZ1ZhLVNOSURv?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 11:08:31 GMT"
+            },
+            {
+              "title": "科大讯飞刘庆峰：要让每个人都能站在AI的肩膀上 - 中国日报网",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5acEFVclNFMDZ4bWFCb0hvVnZlQWg1Ym1Vdml3UWFtUElIMjh3cmhodmNBMDdOdFR3WENjQW5SQnkya24tLUdQd3hRVGt4Zm40LVQtWGdNb3lieTYtQWpHX19PNC00MGkyTU5lRWdHX2VPZ2pOY3Z3N2xLRQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 11:23:00 GMT"
+            },
+            {
               "title": "京东集团CEO许冉：今年外卖投入较去年降低 - Jiemian.com",
               "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41bnZQc2tvSXc2LVBla2ZoaTZFSW4xb1pOLTRjc2otSVBqUjlzeVhfZUFUMm5LUUxuNzEzeDdYd0E3TmZ5cS1SeTZqSU4tZGlESVpRVl9EV3g?oc=5",
               "source": "Google News",
@@ -814,28 +833,16 @@
               "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
             },
             {
-              "title": "京东集团2025年营收同比增长13% 净利润达196亿元 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZW1KQkVKbEpNUHcydUM1WW14bk83bzk5em5rSEZVVVBHNGd0QnZBeWJ5S2JhR01GTmpCRHJPUVJhVzVuM3lEMnZ3enJQeWFLSF9VMjBQS2pOWEpwRGNmVA?oc=5",
+              "title": "续航焦虑的“解药”来了？比亚迪发布第二代刀片电池，9分钟充饱 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MRTFXMEtVSmdldnQ3TmRtaDRncWd1QXI2UHpsaXNfUTUwdFp4LUJpNVNMSV9YLUt1R2pYMkxiSUFDUENkRXBfaE0zVHQ4NFpoWllCczhmYjlkTWQ1T0lwRA?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 14:50:24 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 15:11:27 GMT"
             },
             {
-              "title": "京东2025年收入与活跃用户数均实现双位数增长，核心业务巩固，收入结构多元 - 中国基金报",
-              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tcm5aZ09vRzM1Q0dIeHF4NEROLWE0OGhVcHBSOFZnT055bDU0WHZYbVQ3SGJrdXBVNUUwX3BFUlZUUnBZLS1WSjViY2FsV1RKWl9GTGY2RDZPZDN1YXlRX1o4OGhxSTh1NXViMGNZUU5NeElvSjZ3d1dB?oc=5",
+              "title": "京东最新业绩发布！活跃用户超7亿 - 同花顺财经",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9adWVBUE4weVM2dEk0NU51MDU0dGQ5ZTJmb0lUWnpLeGlZdFEyMjNWZnd4Y0RTbXo5TFZPdWNzSXJJV2xaS0ZPaFhTSzVORFBVanRHMllLckxGY2JOV0E?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 14:42:00 GMT"
-            },
-            {
-              "title": "京东2025年四季度收入增速放缓至1.5% 新业务投入致由盈转亏 - Caixin.com",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wY21YNnk0cnVSUWlDclpTXzVBZ0RGNHEzRFFUU3l5YVBBT2x6Z0lCeVlaZ0VBak1STUs3aFB6R1dnZkVQeDZtQ2haOGZUVTlGQkNVV2pmakhfTlNvdmNxejNDeHI?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 14:36:00 GMT"
-            },
-            {
-              "title": "京东2025“成绩单”出炉！营收增长13%、利润大降，员工总数已超90万 - 凤凰网财经",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1waGo0WmpJZzVjN0I0akhBbUpaREZmVVRHaDFiaXE4VlV0MzJzRzZyaVhQS1E1N2g2SmZXUnFuSmhtc2dTRDlYUWdzekE0SzVi?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 13:46:30 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 15:01:35 GMT"
             }
           ]
         },
@@ -850,7 +857,7 @@
               "publishedAt": "Thu, 05 Mar 2026 07:04:54 GMT"
             },
             {
-              "title": "华为加入 Agentic AI 基金会成为金牌会员，推动智能体 AI 系统开放互操作 - 手机新浪网",
+              "title": "华为加入 Agentic AI 基金会成为金牌会员，推动智能体 AI 系统开放互操作 - 新浪网",
               "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnVIQ0dPc05fTWZyeGpqVndET0luemdRMDN0dlVvSHgzdk1lcXFQRGR4WjYwR1lRM2xNTHU2d2F4R21SU1IyTGZ4V1BaMERVRk9YeGkydkhaN2VsSUNTZ0I2eFEwSjVYblEzSDJsejZTX01VdU1DcFRoNGlidVk4SEZ5U1FfT3dydnEyVC1uX1F0eXluVGdERjRIUXAtNjdObW1OaHFab215ZGh2U09PbnJjT0w2WlNIQmtNa2ln?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT"
@@ -915,25 +922,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 182.10499572753906,
+          "price": 179.6649932861328,
           "previousClose": 186.94000244140625,
-          "changePct": -2.5863949131928856
+          "changePct": -3.891627827250985
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 410.1499938964844,
+          "price": 410.0199890136719,
           "previousClose": 401.8399963378906,
-          "changePct": 2.0679866698998817
+          "changePct": 2.035634269940375
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 300.3500061035156,
+          "price": 300.0150146484375,
           "previousClose": 309,
-          "changePct": -2.7993507755612863
+          "changePct": -2.9077622496966016
         },
         {
           "symbol": "002230.SZ",
@@ -984,6 +991,12 @@
           "query": "AI breakthrough",
           "items": [
             {
+              "title": "深度原理完成A2轮融资，加速AI for Materials范式重构 | 星科技•AI及AI应用 - ByDrug",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aQ1NWOWM2Q0tCVHZ5OXNZcXVuYUtyT3NoY2tfTGZ1NmZxVjIwcmtBWmtLS0ZoTTQ2WHBIOF9mN3dtc0ZvX2VZVTRtQ25COWR3blpralFyQjkxM0JGRm1ZLVd0YXJST0wzbkhnVzdzVG1ZaXEtei1Mbm5jSm13UQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 04:06:00 GMT"
+            },
+            {
               "title": "中国科学家用天文AI模型绘制“极致深空图” - TV BRICS",
               "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVXp0RjNHclZ6a0NWUlRFV2JIVDQ2UDg4OVRnbWZsM2pHSVN1Q2ZxTjczanNQUkR2MU1NNmtPSU1LcGlyVXB4el9ELWZ0Ynd0c1VUMU02R2otcTJBRGJPYjRZdXFRdHZPMW1QdjdMNm9laFRLaEtYMUM5dkZDTVQxenVONDNNUEZJTzVqMGNaSzFfaFVzcC1xejV3MWc4LXVvS19nOHh6WQ?oc=5",
               "source": "Google News",
@@ -1012,12 +1025,6 @@
               "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTE9yMExGVWk5dmNLcEx3ZUtOUlYtbzR6T0ZwMHB5LXRLR1NYNzR6WFRrSVNWNm8wenQtbUdqeFpkUFItWG5taEdxRHpPRDQzMjJoeVUxUmpYQi1jQndIS2l0bm9QcVkxQ2pEVmZPY1ZPM2ZUb2w3bkluYW9YVkxLS1VDZHd4T1V2a3lnMnJKWU1nRTNOMjVUajhjZGFZSDBk?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 01:01:40 GMT"
-            },
-            {
-              "title": "英伟达及其合作伙伴展示软件定义的AI-RAN是下一代无线通信技术 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVZoWkhLNEdWVklfbjhEazgzczZhdE5lTUQ0dmh5Wl9Qb0c2NWpDbDhYdDZNZFR0ZXBKTlh1M3FIUW1ScVM4aUZja3diMG5xX3JaX3hjRTRONWhwSVpVQzh4NW9ObVpRZ3hPRTYwS1lGT0h1Q00zNlFMRzZpejZWSlVreERoRGdLdDduVWp4UTlVQWdjYVJDN0NR?oc=5",
-              "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 02:14:55 GMT"
             }
           ]
         },
@@ -1056,10 +1063,10 @@
               "publishedAt": "Mon, 02 Mar 2026 14:00:00 GMT"
             },
             {
-              "title": "Global Humanoid Robot Leader AgiBot Taps Minth Group to Drive European Rollout - Yicai Global",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGJDSjNOUXB3LVowdFB0VDZCZjdmazNzVVhpdlJBcUlmMGl1NHBIbS1WaEhOT0RUeno1ZWJxa1gwVVJJMHRuS28yeDRQTmttTTh6dmZ1YmhjaGZvY1R3bnBsSDFYTVcya29MOVkyYW9rUGpjak52OVVkLWlTZUcxNHJ5SGQtRUdSTHdmY2lBUmxBdUFjYkd1SDBqbFRHZVUtV2RSLUFzT09lOWMyY2tiWA?oc=5",
+              "title": "XPeng CEO Targets Overseas Sales Surge and Multi-Product Mass Production by 2030 - EqualOcean",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12SXdWRTdoX05oUVd2UENlQ09Od3pLR1JYTlFVRWpQU2J6cUUwdkZfZnItdlFFR2hpRmZNS3J3bS0yZ0NXODU2LVU1clpsc2lDcmtv?oc=5",
               "source": "Google News",
-              "publishedAt": "Sat, 28 Feb 2026 20:29:47 GMT"
+              "publishedAt": "Thu, 26 Feb 2026 08:39:54 GMT"
             }
           ]
         },
@@ -1080,6 +1087,18 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
+              "title": "京东Q4净营收同比增长1.5%至3523亿元，新业务投入致单季净亏损27亿元｜财报见闻 - 华尔街见闻",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aUGlMcDhCZ3Q2VjlqRlpMNVR3X05WcEhWNnVXbGM0WXRYSDVqQk94WnZmcUVzXzdiNkNFRG5jSlpLSEJhRTdES0FlZ1ZhLVNOSURv?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 11:08:31 GMT"
+            },
+            {
+              "title": "科大讯飞刘庆峰：要让每个人都能站在AI的肩膀上 - 中国日报网",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5acEFVclNFMDZ4bWFCb0hvVnZlQWg1Ym1Vdml3UWFtUElIMjh3cmhodmNBMDdOdFR3WENjQW5SQnkya24tLUdQd3hRVGt4Zm40LVQtWGdNb3lieTYtQWpHX19PNC00MGkyTU5lRWdHX2VPZ2pOY3Z3N2xLRQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 11:23:00 GMT"
+            },
+            {
               "title": "京东集团CEO许冉：今年外卖投入较去年降低 - Jiemian.com",
               "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41bnZQc2tvSXc2LVBla2ZoaTZFSW4xb1pOLTRjc2otSVBqUjlzeVhfZUFUMm5LUUxuNzEzeDdYd0E3TmZ5cS1SeTZqSU4tZGlESVpRVl9EV3g?oc=5",
               "source": "Google News",
@@ -1092,28 +1111,16 @@
               "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
             },
             {
-              "title": "京东集团2025年营收同比增长13% 净利润达196亿元 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZW1KQkVKbEpNUHcydUM1WW14bk83bzk5em5rSEZVVVBHNGd0QnZBeWJ5S2JhR01GTmpCRHJPUVJhVzVuM3lEMnZ3enJQeWFLSF9VMjBQS2pOWEpwRGNmVA?oc=5",
+              "title": "续航焦虑的“解药”来了？比亚迪发布第二代刀片电池，9分钟充饱 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MRTFXMEtVSmdldnQ3TmRtaDRncWd1QXI2UHpsaXNfUTUwdFp4LUJpNVNMSV9YLUt1R2pYMkxiSUFDUENkRXBfaE0zVHQ4NFpoWllCczhmYjlkTWQ1T0lwRA?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 14:50:24 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 15:11:27 GMT"
             },
             {
-              "title": "京东2025年收入与活跃用户数均实现双位数增长，核心业务巩固，收入结构多元 - 中国基金报",
-              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tcm5aZ09vRzM1Q0dIeHF4NEROLWE0OGhVcHBSOFZnT055bDU0WHZYbVQ3SGJrdXBVNUUwX3BFUlZUUnBZLS1WSjViY2FsV1RKWl9GTGY2RDZPZDN1YXlRX1o4OGhxSTh1NXViMGNZUU5NeElvSjZ3d1dB?oc=5",
+              "title": "京东最新业绩发布！活跃用户超7亿 - 同花顺财经",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9adWVBUE4weVM2dEk0NU51MDU0dGQ5ZTJmb0lUWnpLeGlZdFEyMjNWZnd4Y0RTbXo5TFZPdWNzSXJJV2xaS0ZPaFhTSzVORFBVanRHMllLckxGY2JOV0E?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 14:42:00 GMT"
-            },
-            {
-              "title": "华为发布SmartCare Intelligence解决方案，驱动体验提升与收入增长- 华为 - Huawei",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ib0hBNUNwLXJ4ZmZJeWJWNGd4VGdGcFNwWHVIenlzdzV4NjZNVjhSLUZrZGdxYWJLUy1maWpIMGdyNk9hUFppQzNjb2NQWHB2Q0RkMnpQVlFBaGZiVzNnSUIyTmhCMEdZaHlqUERCTUs?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 17:58:32 GMT"
-            },
-            {
-              "title": "京东2025“成绩单”出炉！营收增长13%、利润大降，员工总数已超90万 - 凤凰网财经",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1waGo0WmpJZzVjN0I0akhBbUpaREZmVVRHaDFiaXE4VlV0MzJzRzZyaVhQS1E1N2g2SmZXUnFuSmhtc2dTRDlYUWdzekE0SzVi?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 13:46:30 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 15:01:35 GMT"
             }
           ]
         },
@@ -1134,7 +1141,7 @@
               "publishedAt": "Mon, 16 Feb 2026 08:00:00 GMT"
             },
             {
-              "title": "华为加入 Agentic AI 基金会成为金牌会员，推动智能体 AI 系统开放互操作 - 手机新浪网",
+              "title": "华为加入 Agentic AI 基金会成为金牌会员，推动智能体 AI 系统开放互操作 - 新浪网",
               "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnVIQ0dPc05fTWZyeGpqVndET0luemdRMDN0dlVvSHgzdk1lcXFQRGR4WjYwR1lRM2xNTHU2d2F4R21SU1IyTGZ4V1BaMERVRk9YeGkydkhaN2VsSUNTZ0I2eFEwSjVYblEzSDJsejZTX01VdU1DcFRoNGlidVk4SEZ5U1FfT3dydnEyVC1uX1F0eXluVGdERjRIUXAtNjdObW1OaHFab215ZGh2U09PbnJjT0w2WlNIQmtNa2ln?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT"
@@ -1199,25 +1206,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 182.10499572753906,
+          "price": 179.6649932861328,
           "previousClose": 183.32000732421875,
-          "changePct": -0.6627817740214382
+          "changePct": -1.9937889439540006
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 410.0799865722656,
+          "price": 410.0199890136719,
           "previousClose": 444.1099853515625,
-          "changePct": -7.662516021196493
+          "changePct": -7.67602563831223
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 300.3999938964844,
+          "price": 300.0150146484375,
           "previousClose": 328.3800048828125,
-          "changePct": -8.520619578013962
+          "changePct": -8.637855476157108
         },
         {
           "symbol": "002230.SZ",
