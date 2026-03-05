@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-05T13:14:41.493Z",
+  "generatedAt": "2026-03-05T14:53:27.302Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -19,14 +19,7 @@
         {
           "title": "产品范式",
           "query": "AI product launch",
-          "items": [
-            {
-              "title": "TIAN RUIXIANG 推出了行业首创的BTC 质押服务，结合了人工智能驱动的收益保险，并推出了完全自主的人工智能保险代理，可实现即时承保与理赔结算。 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVdFNkRIOWRiZERaMlVUb1VQenNwN3FlcjdDSmFGVkcwVFFCMDhIb0NlRVA1LXNBQWJscjh6ZEp5SU5FQkFqRWhOeHB3QTBrV3J6cGFMREl0dk5vSFlxMTRhZS1ZXzMtZU9MREl1X0dQUWhabDJGamJmUFl1Vmt0aVVMZWt2MU1fRE9yRDhUSmpVbmMxalhMdnNnR3BJR2Z4bF80cWg3V0pJNFNpRkx6eGJaWk4?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 14:00:00 GMT"
-            }
-          ]
+          "items": []
         },
         {
           "title": "国外大厂动作",
@@ -38,16 +31,28 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？-观察者网 - 观察者",
+              "title": "京东集团CEO许冉：今年外卖投入较去年降低 - Jiemian.com",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41bnZQc2tvSXc2LVBla2ZoaTZFSW4xb1pOLTRjc2otSVBqUjlzeVhfZUFUMm5LUUxuNzEzeDdYd0E3TmZ5cS1SeTZqSU4tZGlESVpRVl9EV3g?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 13:27:10 GMT"
+            },
+            {
+              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？-观察者网 - guancha.cn",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wdFZFTUJTelNpVDFuVElJVHM5bXEwY1M3SEJwbnJDNDB5M2xzODhRZVFSMXVLMGdscVdxM3pzdU80RG52aGhXVnVra2F0aDJQSGZKRUQzYlhzWV9Ha3pGUWxn?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
             },
             {
-              "title": "京东2025年收入13091亿元 同比增长13% - 央广网",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BWUdrNU9nck1Fb0hUMktSM3pHTnRfTk0tWDZBZm5JYUNtQkQ5NE1taUoxZ1RnLWdTV1NfMjJqRk91bUFSWFZFNFc2OUtwWGgtbU80SUtldWFuWkp3enV3ZXNSU2hLY2gxbmZCQnl0TTh5VFk?oc=5",
+              "title": "京东集团2025年营收同比增长13% 净利润达196亿元 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZW1KQkVKbEpNUHcydUM1WW14bk83bzk5em5rSEZVVVBHNGd0QnZBeWJ5S2JhR01GTmpCRHJPUVJhVzVuM3lEMnZ3enJQeWFLSF9VMjBQS2pOWEpwRGNmVA?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 10:51:54 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 14:50:24 GMT"
+            },
+            {
+              "title": "京东2025年收入与活跃用户数均实现双位数增长，核心业务巩固，收入结构多元 - 中国基金报",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tcm5aZ09vRzM1Q0dIeHF4NEROLWE0OGhVcHBSOFZnT055bDU0WHZYbVQ3SGJrdXBVNUUwX3BFUlZUUnBZLS1WSjViY2FsV1RKWl9GTGY2RDZPZDN1YXlRX1o4OGhxSTh1NXViMGNZUU5NeElvSjZ3d1dB?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 14:42:00 GMT"
             },
             {
               "title": "华为发布SmartCare Intelligence解决方案，驱动体验提升与收入增长- 华为 - Huawei",
@@ -56,22 +61,10 @@
               "publishedAt": "Wed, 04 Mar 2026 17:58:32 GMT"
             },
             {
-              "title": "连续12日回购 网易云音乐共回购1.8亿港元 - 新京报",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqbml5R2pQYTRoSWF4OFAxVVZ1YmxKZTRwbE5JbURJaVJwLUNaS1c5aW1RdnhhZ0FxZDdPeC1uak95OEctOVJ6ODdVcG5JRjdYNGJXUGg2WDl4YXJnWHJxdzEzSGk?oc=5",
+              "title": "京东2025年四季度收入增速放缓至1.5% 新业务投入致由盈转亏 - Caixin.com",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wY21YNnk0cnVSUWlDclpTXzVBZ0RGNHEzRFFUU3l5YVBBT2x6Z0lCeVlaZ0VBak1STUs3aFB6R1dnZkVQeDZtQ2haOGZUVTlGQkNVV2pmakhfTlNvdmNxejNDeHI?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 12:49:00 GMT"
-            },
-            {
-              "title": "京东工业2025年收入同比增长17.4% 技术创新推动供应链数智化升级 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BX1E4VktlRDBsUXUyeTJUQ19YWHQ2RW5qUHY5Qkc1Z29BVEhTSGxMN0hWUExNM2ZScDBOcTljcGZNdkFiYVVLT3hEcmhFSC0zOTFiSGlQUm4yUUFVbWtEZ2czdHZHZw?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 11:25:16 GMT"
-            },
-            {
-              "title": "“拼好房”商标注册，美团租房终于要来了！ - 21财经",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVloVlNLb2lkV2xMVEVIbnExYjM5VFg1dUxtaHl4THZmZ2J1YXZOUDdzMlRXTms1emp3b2U2V3hGcGN5MVQxS1FIa3k2cndBYmxwV25DS28xSXdRaHhEUlZ5SWZLOU1Zems3RnJxdTRHbmFMV05EanFJa1pCZUN6RnBrdmhidFpRUlBHeEwyTQ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 08:16:00 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 14:36:00 GMT"
             }
           ]
         },
@@ -79,6 +72,18 @@
           "title": "代理式 AI",
           "query": "AI agents agentic",
           "items": [
+            {
+              "title": "Elastic MCP 及 Agentic AI：构建可信、上下文感知能力的搜索｜QCon 北京 - InfoQ 官网",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GYzd2dFBPVE9YazdJMHVXVW0tUU9vZnJWRUFwWGFLUWdzSTFJRDBVcldRaEx5eWY2YVNNVHVZdTlKNnhwWngyVUxPUXU3OHNZWmdCbXoyVVFGckdVOWc?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 07:04:54 GMT"
+            },
+            {
+              "title": "Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？ - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn0gFrQVVfeXFMTkk1SjZKUDdjek52YWxHUTR6TFdiaUN6UF95U3R4Qjh5UFQ4NG1ZUkx6NUkzWTBQaHRBdUpnTlFZVnNTMm5tNDA1NXhBZGd1N3k5cENKeE9ocUJ4SmNDZjhLcVhHRGdUM2Z5amc?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 03:45:00 GMT"
+            },
             {
               "title": "Flowith完成数千万美元种子轮融资，加速Agentic AI系统研发 - 品玩",
               "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6dnA2aHEyd3JyYU16cHhWVWpqazVnNUFPM0ZMMG9KQ3hWS2FTdWItU04wQUJMZGNVazZPbDcxZHp0Z1c2OU9vbQ?oc=5",
@@ -98,22 +103,10 @@
               "publishedAt": "Thu, 05 Mar 2026 12:10:38 GMT"
             },
             {
-              "title": "华为MWC放出绿色AIDC大招：重构AI发展“水电煤”，从技术突围到联合生态共建 - 搜狐网",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXQ0QzNVb25sNlhnbTFYUF9tdGxYWGxtNDR4a2hwZV9NWHBQYy0tLTBFV3dqUEljSkx2VVlhQ0tpelhHZVMzTmRaMmxDOUd0ZDM4czhHSlVqcjZ4RjNIRjhVYkhsLVdOQ2NDam1TQWNpY1BmZG9sMU9KeFdkTkZOMXJ5cFNZSms?oc=5",
+              "title": "深度丨企业怎么落地 Agentic Coding ？字节从 LLM 本质出发，给 CTO 一份 FOMO 级答案 - 搜狐网",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcXFTTFdyMFgybWlNdnZhVHl5QnpGNldjZlJ1VkxmSTZqa1lGT2RpWThGUjJGT0hFOS1SNEhTWDUyQ0w1ZHFSeDd3WnNFNnBadjhaNVJSWk5iSHVkNE1CS3RkMC1aSVlJNHVPQ3lXWTRoMzZfYXRKRlBib2VELURwSkxqT0VaUVkwbnVB?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 08:44:18 GMT"
-            },
-            {
-              "title": "华为发布AUTINOps解决方案，重新定义智能运维新范式 - 51CTO",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PVDBxSVc1NC1XcFpCU1I1RFRXaTFmWm1CZXpldXBEUFNSaFo2aVBmQnlSZGdnRjVaZWVfR3dGSVF1aGo2VmVMMkRGSnRhelcxUEZJ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 06:28:08 GMT"
-            },
-            {
-              "title": "Visual Studio Code 1.110 发布 - OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wdWxvSGFrR3dNYmFhNjNRT3B6eEtkSU9wenlHSjdpY0FZZlJrRHVWdnVZc2JzZ29VcHZfZkhUX3ZDZzBNMWN2aFF5V2UwTENWeVI2dHVPZ01YV0NEb0dOOVdJbXluSkU4dUE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 05:26:48 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 07:03:36 GMT"
             }
           ]
         },
@@ -138,25 +131,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 183.0399932861328,
-          "previousClose": 180.0500030517578,
-          "changePct": 1.6606443675068903
+          "price": 182.14999389648438,
+          "previousClose": 183.0399932861328,
+          "changePct": -0.48623220186485017
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 405.20001220703125,
-          "previousClose": 403.92999267578125,
-          "changePct": 0.3144157537886509
+          "price": 410.239990234375,
+          "previousClose": 405.20001220703125,
+          "changePct": 1.243824747164283
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 303.1300048828125,
-          "previousClose": 303.5799865722656,
-          "changePct": -0.1482250837856234
+          "price": 300.3900146484375,
+          "previousClose": 303.1300048828125,
+          "changePct": -0.9038993798829836
         },
         {
           "symbol": "002230.SZ",
@@ -207,6 +200,12 @@
           "query": "AI breakthrough",
           "items": [
             {
+              "title": "英伟达及其合作伙伴展示软件定义的AI-RAN是下一代无线通信技术 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVZoWkhLNEdWVklfbjhEazgzczZhdE5lTUQ0dmh5Wl9Qb0c2NWpDbDhYdDZNZFR0ZXBKTlh1M3FIUW1ScVM4aUZja3diMG5xX3JaX3hjRTRONWhwSVpVQzh4NW9ObVpRZ3hPRTYwS1lGT0h1Q00zNlFMRzZpejZWSlVreERoRGdLdDduVWp4UTlVQWdjYVJDN0NR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Tue, 03 Mar 2026 02:14:55 GMT"
+            },
+            {
               "title": "连续五季盈利破局!声网(API.US)Q4营收超指引上限，对话式AI成增长新引擎 - 富途牛牛",
               "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTVCUWJfWTQ2TlNrYkstOWQxeU1ybUZXel9wWnduZ0pvQnZsSkswS2wyNGdwUmM5VFJqRkVBS2xGd3VSMnBLd3Z1X2wtVWUwZEpNY0VSTGVEcTliM3N4SmZJM1B1WV9KeWZYT3JzVW5PNlVYU3dzSjkxMFpva3lRaUcySUlSWlZNb0x5Z2NERWljX3dxd3NKWjVJY3JMUDJqOEJZeFh1OVNVVFhKYWlLbWFrdjAzdnM?oc=5",
               "source": "Google News",
@@ -225,22 +224,16 @@
               "publishedAt": "Tue, 03 Mar 2026 14:10:08 GMT"
             },
             {
-              "title": "英伟达及其合作伙伴展示软件定义的AI-RAN是下一代无线通信技术 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVZoWkhLNEdWVklfbjhEazgzczZhdE5lTUQ0dmh5Wl9Qb0c2NWpDbDhYdDZNZFR0ZXBKTlh1M3FIUW1ScVM4aUZja3diMG5xX3JaX3hjRTRONWhwSVpVQzh4NW9ObVpRZ3hPRTYwS1lGT0h1Q00zNlFMRzZpejZWSlVreERoRGdLdDduVWp4UTlVQWdjYVJDN0NR?oc=5",
-              "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 02:14:55 GMT"
-            },
-            {
               "title": "最新分析：arXiv 论文 2603.02473 披露AI新进展——方法、基准与2026趋势 - blockchain.news",
               "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONF81QmJ6d25lWHdMZE8wdXd4LW1CRVBuMjNzX3pzYmdBZHdVUjBGTVF5b1N2U2stRDBEejh5cWk0bEYxSkg4OTNMNm1zbXJ4aU5wMmdhZkVrSmlQcHFfb1ZIS3JOSGhwVS1vVnoyODNvZHV4dFZwd0EwMlVsU0ZHeEp6amZmcU13Z0FJYUdSdWs4TldKU01WaHF4ZzRicXZ0Q2JQMThtUms3SEF0Mmd6TFBib2dQMDhpS0Z4S3NzYlFBcGFrQkUxM2NkU1JTOUdaTmlRZEM1R3U?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 04 Mar 2026 12:51:00 GMT"
             },
             {
-              "title": "SleepFM突破：单夜多模态睡眠数据预测130余种疾病的早筛分析| AI快讯详情 - blockchain.news",
-              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeURzeUxTSTNiS0JOazZNUlIyekdBbFU2NmxLSldNYVd4X0hIdExRMl9iLTgtV2VHRlpGcDAtMC1yMDNpNUVpYnJGTmlPM1NpT0hvM1hBNVdJUWVPZGljSkIyelRvdk9BX2Q3cnAyQkJzUHNRX0JhSjI5czM0WGpMZFhIcDJaNm1pdHNtR2J1LUlhVzZJMHVYU2Q3ZVVlWlVtaFNabTlPbWViVERjQ1Mwb3AtR3FBdnBOc1pObWJFamNrQ19FVzNpS1RBcm5fZXh6SFhsc2NnS0U?oc=5",
+              "title": "Microsoft Copilot 助力PowerPoint：一站式研究到PPT生成与迭代的工作流突破| AI快讯详情 - blockchain.news",
+              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcWV4clRYMTVmTkpfNzFSSmtHYURwcF9lZE9EdzVydGVSZWR2YVBYSms5MGt6T1VEaWU1QlBxRUxfX3kyQ1FqV2VqeC1uR2lZbWxCSjYzZ1MzTFZ1ZHZUZVdTOHpGdEdkUUY1ci13cTNRaGFSVmw5TU1mYmN2ZFF0MlhXVFNXLTQzZHd0Ynczd2JRRDJ0SkluTDYwUGpHcTQyN0JCSVJYSkxvQUFtblRlNTREZ2hVekljVGVzWjNQQ01YN085VGhpMzlPd0piN0VJVDZEWjkteGpPRVc2dmc?oc=5",
               "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 13:59:00 GMT"
+              "publishedAt": "Wed, 04 Mar 2026 06:06:00 GMT"
             }
           ]
         },
@@ -259,18 +252,6 @@
               "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVdFNkRIOWRiZERaMlVUb1VQenNwN3FlcjdDSmFGVkcwVFFCMDhIb0NlRVA1LXNBQWJscjh6ZEp5SU5FQkFqRWhOeHB3QTBrV3J6cGFMREl0dk5vSFlxMTRhZS1ZXzMtZU9MREl1X0dQUWhabDJGamJmUFl1Vmt0aVVMZWt2MU1fRE9yRDhUSmpVbmMxalhMdnNnR3BJR2Z4bF80cWg3V0pJNFNpRkx6eGJaWk4?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 04 Mar 2026 14:00:00 GMT"
-            },
-            {
-              "title": "Stagwell 推出了Stagwell Search+：业界首个赢得AI 搜索的代理平台。 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMU9lM00xQVpRNDRFaEFPVEMwQk5CYlUwSVktV1dqZWczTUtQSGlSQVBzOWxKOXFpaEdJSGE1M0dUYldfMEJDNHJ6SWdQX0U3Y2NBUW9OUzV0VE5lUTBsdzFYcWdzZUlzT2JEaC1vQ0NwNWJsbWRYYWwteW8tVGpFaXJNVXZRMVhha055eGRwdURxWHhRampSR0lNdEpCN3pjamF1dlBoVzVET080Nmc?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 13:30:00 GMT"
-            },
-            {
-              "title": "Simplilearn 推出了‘应用代理人工智能：系统、设计与影响’项目，旨在培养下一代微软人工智能产品与系统领导者。 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjVIb3hndnd6SUk0YjViVExEVDBkZW5haEJub3V5dk5kQWpHSmJUdkgtUXMzQWJtV2xsYlFyTFVpQ2cxZlNDckstaVBZNjd0TkVSdFFjemJtYm1ka3dEUDJ6R2FXZWhsS0pOaF9KOG1xR0xhaHo4Z1NBNlFId0Mwb2ZORjdBLUIzREJ5UjNuNU1lNGdxd2ViUkNvUHY0c3JpSDhlQ1NCR1p1R2hXbDFF?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 14:00:00 GMT"
             }
           ]
         },
@@ -284,40 +265,40 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？-观察者网 - 观察者",
+              "title": "京东集团CEO许冉：今年外卖投入较去年降低 - Jiemian.com",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41bnZQc2tvSXc2LVBla2ZoaTZFSW4xb1pOLTRjc2otSVBqUjlzeVhfZUFUMm5LUUxuNzEzeDdYd0E3TmZ5cS1SeTZqSU4tZGlESVpRVl9EV3g?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 13:27:10 GMT"
+            },
+            {
+              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？-观察者网 - guancha.cn",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wdFZFTUJTelNpVDFuVElJVHM5bXEwY1M3SEJwbnJDNDB5M2xzODhRZVFSMXVLMGdscVdxM3pzdU80RG52aGhXVnVra2F0aDJQSGZKRUQzYlhzWV9Ha3pGUWxn?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
             },
             {
-              "title": "京东2025年收入13091亿元 同比增长13% - 央广网",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BWUdrNU9nck1Fb0hUMktSM3pHTnRfTk0tWDZBZm5JYUNtQkQ5NE1taUoxZ1RnLWdTV1NfMjJqRk91bUFSWFZFNFc2OUtwWGgtbU80SUtldWFuWkp3enV3ZXNSU2hLY2gxbmZCQnl0TTh5VFk?oc=5",
+              "title": "京东集团2025年营收同比增长13% 净利润达196亿元 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZW1KQkVKbEpNUHcydUM1WW14bk83bzk5em5rSEZVVVBHNGd0QnZBeWJ5S2JhR01GTmpCRHJPUVJhVzVuM3lEMnZ3enJQeWFLSF9VMjBQS2pOWEpwRGNmVA?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 10:51:54 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 14:50:24 GMT"
             },
             {
-              "title": "华为发布SmartCare Intelligence解决方案，驱动体验提升与收入增长- 华为 - Huawei",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ib0hBNUNwLXJ4ZmZJeWJWNGd4VGdGcFNwWHVIenlzdzV4NjZNVjhSLUZrZGdxYWJLUy1maWpIMGdyNk9hUFppQzNjb2NQWHB2Q0RkMnpQVlFBaGZiVzNnSUIyTmhCMEdZaHlqUERCTUs?oc=5",
+              "title": "京东2025年收入与活跃用户数均实现双位数增长，核心业务巩固，收入结构多元 - 中国基金报",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tcm5aZ09vRzM1Q0dIeHF4NEROLWE0OGhVcHBSOFZnT055bDU0WHZYbVQ3SGJrdXBVNUUwX3BFUlZUUnBZLS1WSjViY2FsV1RKWl9GTGY2RDZPZDN1YXlRX1o4OGhxSTh1NXViMGNZUU5NeElvSjZ3d1dB?oc=5",
               "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 17:58:32 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 14:42:00 GMT"
             },
             {
-              "title": "连续12日回购 网易云音乐共回购1.8亿港元 - 新京报",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqbml5R2pQYTRoSWF4OFAxVVZ1YmxKZTRwbE5JbURJaVJwLUNaS1c5aW1RdnhhZ0FxZDdPeC1uak95OEctOVJ6ODdVcG5JRjdYNGJXUGg2WDl4YXJnWHJxdzEzSGk?oc=5",
+              "title": "京东2025年四季度收入增速放缓至1.5% 新业务投入致由盈转亏 - Caixin.com",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wY21YNnk0cnVSUWlDclpTXzVBZ0RGNHEzRFFUU3l5YVBBT2x6Z0lCeVlaZ0VBak1STUs3aFB6R1dnZkVQeDZtQ2haOGZUVTlGQkNVV2pmakhfTlNvdmNxejNDeHI?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 12:49:00 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 14:36:00 GMT"
             },
             {
-              "title": "京东工业2025年收入同比增长17.4% 技术创新推动供应链数智化升级 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BX1E4VktlRDBsUXUyeTJUQ19YWHQ2RW5qUHY5Qkc1Z29BVEhTSGxMN0hWUExNM2ZScDBOcTljcGZNdkFiYVVLT3hEcmhFSC0zOTFiSGlQUm4yUUFVbWtEZ2czdHZHZw?oc=5",
+              "title": "京东2025“成绩单”出炉！营收增长13%、利润大降，员工总数已超90万 - 凤凰网财经",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1waGo0WmpJZzVjN0I0akhBbUpaREZmVVRHaDFiaXE4VlV0MzJzRzZyaVhQS1E1N2g2SmZXUnFuSmhtc2dTRDlYUWdzekE0SzVi?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 11:25:16 GMT"
-            },
-            {
-              "title": "“拼好房”商标注册，美团租房终于要来了！ - 21财经",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVloVlNLb2lkV2xMVEVIbnExYjM5VFg1dUxtaHl4THZmZ2J1YXZOUDdzMlRXTms1emp3b2U2V3hGcGN5MVQxS1FIa3k2cndBYmxwV25DS28xSXdRaHhEUlZ5SWZLOU1Zems3RnJxdTRHbmFMV05EanFJa1pCZUN6RnBrdmhidFpRUlBHeEwyTQ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 08:16:00 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 13:46:30 GMT"
             }
           ]
         },
@@ -326,10 +307,16 @@
           "query": "AI agents agentic",
           "items": [
             {
-              "title": "Agentic Operations新范式，释放Agent时代万亿级市场潜力- 华为 - Huawei",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkZ1FSdU0tV3hPVDltbm13R1NHWi1ENVVpTFhvTmRGT3pnMHdCalV6ZG00dTc4VWczSmFxR1NiUEstNDJfUlFPbEFHYkY1ZEtmU3hzZkdub3VvMVpvN19RbEhLMlVyc1BwcEM0a0Nn?oc=5",
+              "title": "Elastic MCP 及 Agentic AI：构建可信、上下文感知能力的搜索｜QCon 北京 - InfoQ 官网",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GYzd2dFBPVE9YazdJMHVXVW0tUU9vZnJWRUFwWGFLUWdzSTFJRDBVcldRaEx5eWY2YVNNVHVZdTlKNnhwWngyVUxPUXU3OHNZWmdCbXoyVVFGckdVOWc?oc=5",
               "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 10:09:46 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 07:04:54 GMT"
+            },
+            {
+              "title": "Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？ - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn0gFrQVVfeXFMTkk1SjZKUDdjek52YWxHUTR6TFdiaUN6UF95U3R4Qjh5UFQ4NG1ZUkx6NUkzWTBQaHRBdUpnTlFZVnNTMm5tNDA1NXhBZGd1N3k5cENKeE9ocUJ4SmNDZjhLcVhHRGdUM2Z5amc?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 03:45:00 GMT"
             },
             {
               "title": "Flowith完成数千万美元种子轮融资，加速Agentic AI系统研发 - 品玩",
@@ -354,12 +341,6 @@
               "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XcW5TTEhodTdBMHN6enlTMm5sV2tNR3pueWJLTlZXZ3dEUE1BZ0E4eE95cVc2RHd2T3ZHUDltTTA1aFFHQ1pUaGdqdkwzenlUdlkzaVlyMG9DUkpzYTk0NmpNVE5MakswVHNMUlViR0J3OGFUR3BJ?oc=5",
               "source": "Google News",
               "publishedAt": "Tue, 03 Mar 2026 06:15:00 GMT"
-            },
-            {
-              "title": "中关村科金发布首个企业级Agentic AI平台解决方案PowerClaw，开启“会干活”的AI时代 - yemacaijing.com",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fTzd2V3RMazFQbktzTEVWUUhPQjIxcFRyOVAzVERCMlZnYzQzandiclJsNW02cUNKek1kM21ndEljc092YUNBMFZTYnd1Yk9TNVFIRHpmbkNfWEZBNVYzMG1R?oc=5",
-              "source": "Google News",
-              "publishedAt": "Tue, 03 Mar 2026 08:40:20 GMT"
             }
           ]
         },
@@ -384,25 +365,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 183.0399932861328,
-          "previousClose": 177.19000244140625,
-          "changePct": 3.3015355065876566
+          "price": 182.14999389648438,
+          "previousClose": 182.47999572753906,
+          "changePct": -0.1808427437423954
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 405.20001220703125,
-          "previousClose": 392.739990234375,
-          "changePct": 3.172588043611372
+          "price": 410.18499755859375,
+          "previousClose": 398.54998779296875,
+          "changePct": 2.9193351203084057
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 303.1300048828125,
-          "previousClose": 311.760009765625,
-          "changePct": -2.768156470517295
+          "price": 300.3500061035156,
+          "previousClose": 306.5199890136719,
+          "changePct": -2.0129137189421753
         },
         {
           "symbol": "002230.SZ",
@@ -549,40 +530,40 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？-观察者网 - 观察者",
+              "title": "京东集团CEO许冉：今年外卖投入较去年降低 - Jiemian.com",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41bnZQc2tvSXc2LVBla2ZoaTZFSW4xb1pOLTRjc2otSVBqUjlzeVhfZUFUMm5LUUxuNzEzeDdYd0E3TmZ5cS1SeTZqSU4tZGlESVpRVl9EV3g?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 13:27:10 GMT"
+            },
+            {
+              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？-观察者网 - guancha.cn",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wdFZFTUJTelNpVDFuVElJVHM5bXEwY1M3SEJwbnJDNDB5M2xzODhRZVFSMXVLMGdscVdxM3pzdU80RG52aGhXVnVra2F0aDJQSGZKRUQzYlhzWV9Ha3pGUWxn?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
             },
             {
-              "title": "京东2025年收入13091亿元 同比增长13% - 央广网",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BWUdrNU9nck1Fb0hUMktSM3pHTnRfTk0tWDZBZm5JYUNtQkQ5NE1taUoxZ1RnLWdTV1NfMjJqRk91bUFSWFZFNFc2OUtwWGgtbU80SUtldWFuWkp3enV3ZXNSU2hLY2gxbmZCQnl0TTh5VFk?oc=5",
+              "title": "京东集团2025年营收同比增长13% 净利润达196亿元 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZW1KQkVKbEpNUHcydUM1WW14bk83bzk5em5rSEZVVVBHNGd0QnZBeWJ5S2JhR01GTmpCRHJPUVJhVzVuM3lEMnZ3enJQeWFLSF9VMjBQS2pOWEpwRGNmVA?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 10:51:54 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 14:50:24 GMT"
             },
             {
-              "title": "连续12日回购 网易云音乐共回购1.8亿港元 - 新京报",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqbml5R2pQYTRoSWF4OFAxVVZ1YmxKZTRwbE5JbURJaVJwLUNaS1c5aW1RdnhhZ0FxZDdPeC1uak95OEctOVJ6ODdVcG5JRjdYNGJXUGg2WDl4YXJnWHJxdzEzSGk?oc=5",
+              "title": "京东2025年收入与活跃用户数均实现双位数增长，核心业务巩固，收入结构多元 - 中国基金报",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tcm5aZ09vRzM1Q0dIeHF4NEROLWE0OGhVcHBSOFZnT055bDU0WHZYbVQ3SGJrdXBVNUUwX3BFUlZUUnBZLS1WSjViY2FsV1RKWl9GTGY2RDZPZDN1YXlRX1o4OGhxSTh1NXViMGNZUU5NeElvSjZ3d1dB?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 12:49:00 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 14:42:00 GMT"
             },
             {
-              "title": "京东工业2025年收入同比增长17.4% 技术创新推动供应链数智化升级 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BX1E4VktlRDBsUXUyeTJUQ19YWHQ2RW5qUHY5Qkc1Z29BVEhTSGxMN0hWUExNM2ZScDBOcTljcGZNdkFiYVVLT3hEcmhFSC0zOTFiSGlQUm4yUUFVbWtEZ2czdHZHZw?oc=5",
+              "title": "华为发布SmartCare Intelligence解决方案，驱动体验提升与收入增长- 华为 - Huawei",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ib0hBNUNwLXJ4ZmZJeWJWNGd4VGdGcFNwWHVIenlzdzV4NjZNVjhSLUZrZGdxYWJLUy1maWpIMGdyNk9hUFppQzNjb2NQWHB2Q0RkMnpQVlFBaGZiVzNnSUIyTmhCMEdZaHlqUERCTUs?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 11:25:16 GMT"
+              "publishedAt": "Wed, 04 Mar 2026 17:58:32 GMT"
             },
             {
-              "title": "“拼好房”商标注册，美团租房终于要来了！ - 21财经",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVloVlNLb2lkV2xMVEVIbnExYjM5VFg1dUxtaHl4THZmZ2J1YXZOUDdzMlRXTms1emp3b2U2V3hGcGN5MVQxS1FIa3k2cndBYmxwV25DS28xSXdRaHhEUlZ5SWZLOU1Zems3RnJxdTRHbmFMV05EanFJa1pCZUN6RnBrdmhidFpRUlBHeEwyTQ?oc=5",
+              "title": "京东2025“成绩单”出炉！营收增长13%、利润大降，员工总数已超90万 - 凤凰网财经",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1waGo0WmpJZzVjN0I0akhBbUpaREZmVVRHaDFiaXE4VlV0MzJzRzZyaVhQS1E1N2g2SmZXUnFuSmhtc2dTRDlYUWdzekE0SzVi?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 08:16:00 GMT"
-            },
-            {
-              "title": "充电效率全球最高！比亚迪发布第二代刀片电池：9分钟充饱 - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSGpwUjRlM1lvcnM5T2p3QVd3TTRSakg3c2kzX3dlSHM1RW1OeVhOemExaEpVYWVDMXh2VlNWNk9TeWRDcDhJdHZCYzY1Y2JWNUdFNGNzLVNBQmVkOTdOV1ZqQmdUSUdfQUVxcG5RRXBybllfVWNxS3l0Tm1lSEk0NkI0eFVBbmF0R19tZGV0ZWJncVFkNGF0a1BORWNnMVgza0tnTmFlQlhtd3M4RFh6a2hYZnZldjZGZHpYdDlQNVlSb2hZUmZaSHFWSnp4UUtDbGMyc09Pbm10Vng2NDZ1RWFHcHdmdGF5VUlmMnBWbE5tVjUxZ0JzdE41anc1ejZ6SUNzQUxB?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 11:56:26 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 13:46:30 GMT"
             }
           ]
         },
@@ -591,10 +572,10 @@
           "query": "AI agents agentic",
           "items": [
             {
-              "title": "Agentic Operations新范式，释放Agent时代万亿级市场潜力- 华为 - Huawei",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkZ1FSdU0tV3hPVDltbm13R1NHWi1ENVVpTFhvTmRGT3pnMHdCalV6ZG00dTc4VWczSmFxR1NiUEstNDJfUlFPbEFHYkY1ZEtmU3hzZkdub3VvMVpvN19RbEhLMlVyc1BwcEM0a0Nn?oc=5",
+              "title": "Elastic MCP 及 Agentic AI：构建可信、上下文感知能力的搜索｜QCon 北京 - InfoQ 官网",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GYzd2dFBPVE9YazdJMHVXVW0tUU9vZnJWRUFwWGFLUWdzSTFJRDBVcldRaEx5eWY2YVNNVHVZdTlKNnhwWngyVUxPUXU3OHNZWmdCbXoyVVFGckdVOWc?oc=5",
               "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 10:09:46 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 07:04:54 GMT"
             },
             {
               "title": "Accelerating IC design and verification with agentic AI - Siemens",
@@ -615,16 +596,16 @@
               "publishedAt": "Tue, 03 Mar 2026 06:15:00 GMT"
             },
             {
+              "title": "华为发布Agentic MBB：全面释放网络多维能力，夯实移动AI时代基座- 华为 - Huawei",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jMHBIVVZZa2tSTUdqRVJqMndRWFFfRy1nY044WlBSaThWRlRweWJmaklEMTQtYnJOR0tLMHZTT1JVaWZDc0FuY1VDM3BlUWdtTWlTRFZTSmJBVXBxbVE?oc=5",
+              "source": "Google News",
+              "publishedAt": "Tue, 03 Mar 2026 01:57:34 GMT"
+            },
+            {
               "title": "Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？ - Bitget",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn0gFrQVVfeXFMTkk1SjZKUDdjek52YWxHUTR6TFdiaUN6UF95U3R4Qjh5UFQ4NG1ZUkx6NUkzWTBQaHRBdUpnTlFZVnNTMm5tNDA1NXhBZGd1N3k5cENKeE9ocUJ4SmNDZjhLcVhHRGdUM2Z5amc?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 05 Mar 2026 03:45:00 GMT"
-            },
-            {
-              "title": "黄仁勋一锤定音：Agentic AI拐点已至，英伟达Q4财报再创历史 - 品玩",
-              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCNnpQVWJWRlZBbDB5UkdaS1pYR19idDlXblJERm91S2dYejN6cEVCeWtVV0FzLTFsbkswT2hmRF9zSkRIcWJmNQ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 02:51:38 GMT"
             }
           ]
         },
@@ -656,25 +637,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 183.0399932861328,
-          "previousClose": 191.5500030517578,
-          "changePct": -4.442709282194869
+          "price": 182.14999389648438,
+          "previousClose": 192.85000610351562,
+          "changePct": -5.548359796933494
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 405.20001220703125,
-          "previousClose": 384.4700012207031,
-          "changePct": 5.391840955213607
+          "price": 410.18499755859375,
+          "previousClose": 389,
+          "changePct": 5.446014796553663
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 303.1300048828125,
-          "previousClose": 311.489990234375,
-          "changePct": -2.6838696631221377
+          "price": 300.3599853515625,
+          "previousClose": 310.8999938964844,
+          "changePct": -3.390160421949452
         },
         {
           "symbol": "002230.SZ",
@@ -821,40 +802,40 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？-观察者网 - 观察者",
+              "title": "京东集团CEO许冉：今年外卖投入较去年降低 - Jiemian.com",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41bnZQc2tvSXc2LVBla2ZoaTZFSW4xb1pOLTRjc2otSVBqUjlzeVhfZUFUMm5LUUxuNzEzeDdYd0E3TmZ5cS1SeTZqSU4tZGlESVpRVl9EV3g?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 13:27:10 GMT"
+            },
+            {
+              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？-观察者网 - guancha.cn",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wdFZFTUJTelNpVDFuVElJVHM5bXEwY1M3SEJwbnJDNDB5M2xzODhRZVFSMXVLMGdscVdxM3pzdU80RG52aGhXVnVra2F0aDJQSGZKRUQzYlhzWV9Ha3pGUWxn?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
             },
             {
-              "title": "京东2025年收入13091亿元 同比增长13% - 央广网",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BWUdrNU9nck1Fb0hUMktSM3pHTnRfTk0tWDZBZm5JYUNtQkQ5NE1taUoxZ1RnLWdTV1NfMjJqRk91bUFSWFZFNFc2OUtwWGgtbU80SUtldWFuWkp3enV3ZXNSU2hLY2gxbmZCQnl0TTh5VFk?oc=5",
+              "title": "京东集团2025年营收同比增长13% 净利润达196亿元 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZW1KQkVKbEpNUHcydUM1WW14bk83bzk5em5rSEZVVVBHNGd0QnZBeWJ5S2JhR01GTmpCRHJPUVJhVzVuM3lEMnZ3enJQeWFLSF9VMjBQS2pOWEpwRGNmVA?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 10:51:54 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 14:50:24 GMT"
             },
             {
-              "title": "连续12日回购 网易云音乐共回购1.8亿港元 - 新京报",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqbml5R2pQYTRoSWF4OFAxVVZ1YmxKZTRwbE5JbURJaVJwLUNaS1c5aW1RdnhhZ0FxZDdPeC1uak95OEctOVJ6ODdVcG5JRjdYNGJXUGg2WDl4YXJnWHJxdzEzSGk?oc=5",
+              "title": "京东2025年收入与活跃用户数均实现双位数增长，核心业务巩固，收入结构多元 - 中国基金报",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tcm5aZ09vRzM1Q0dIeHF4NEROLWE0OGhVcHBSOFZnT055bDU0WHZYbVQ3SGJrdXBVNUUwX3BFUlZUUnBZLS1WSjViY2FsV1RKWl9GTGY2RDZPZDN1YXlRX1o4OGhxSTh1NXViMGNZUU5NeElvSjZ3d1dB?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 12:49:00 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 14:42:00 GMT"
             },
             {
-              "title": "京东工业2025年收入同比增长17.4% 技术创新推动供应链数智化升级 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BX1E4VktlRDBsUXUyeTJUQ19YWHQ2RW5qUHY5Qkc1Z29BVEhTSGxMN0hWUExNM2ZScDBOcTljcGZNdkFiYVVLT3hEcmhFSC0zOTFiSGlQUm4yUUFVbWtEZ2czdHZHZw?oc=5",
+              "title": "京东2025年四季度收入增速放缓至1.5% 新业务投入致由盈转亏 - Caixin.com",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wY21YNnk0cnVSUWlDclpTXzVBZ0RGNHEzRFFUU3l5YVBBT2x6Z0lCeVlaZ0VBak1STUs3aFB6R1dnZkVQeDZtQ2haOGZUVTlGQkNVV2pmakhfTlNvdmNxejNDeHI?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 11:25:16 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 14:36:00 GMT"
             },
             {
-              "title": "“拼好房”商标注册，美团租房终于要来了！ - 21财经",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVloVlNLb2lkV2xMVEVIbnExYjM5VFg1dUxtaHl4THZmZ2J1YXZOUDdzMlRXTms1emp3b2U2V3hGcGN5MVQxS1FIa3k2cndBYmxwV25DS28xSXdRaHhEUlZ5SWZLOU1Zems3RnJxdTRHbmFMV05EanFJa1pCZUN6RnBrdmhidFpRUlBHeEwyTQ?oc=5",
+              "title": "京东2025“成绩单”出炉！营收增长13%、利润大降，员工总数已超90万 - 凤凰网财经",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1waGo0WmpJZzVjN0I0akhBbUpaREZmVVRHaDFiaXE4VlV0MzJzRzZyaVhQS1E1N2g2SmZXUnFuSmhtc2dTRDlYUWdzekE0SzVi?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 08:16:00 GMT"
-            },
-            {
-              "title": "充电效率全球最高！比亚迪发布第二代刀片电池：9分钟充饱 - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSGpwUjRlM1lvcnM5T2p3QVd3TTRSakg3c2kzX3dlSHM1RW1OeVhOemExaEpVYWVDMXh2VlNWNk9TeWRDcDhJdHZCYzY1Y2JWNUdFNGNzLVNBQmVkOTdOV1ZqQmdUSUdfQUVxcG5RRXBybllfVWNxS3l0Tm1lSEk0NkI0eFVBbmF0R19tZGV0ZWJncVFkNGF0a1BORWNnMVgza0tnTmFlQlhtd3M4RFh6a2hYZnZldjZGZHpYdDlQNVlSb2hZUmZaSHFWSnp4UUtDbGMyc09Pbm10Vng2NDZ1RWFHcHdmdGF5VUlmMnBWbE5tVjUxZ0JzdE41anc1ejZ6SUNzQUxB?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 11:56:26 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 13:46:30 GMT"
             }
           ]
         },
@@ -863,10 +844,10 @@
           "query": "AI agents agentic",
           "items": [
             {
-              "title": "Agentic Operations新范式，释放Agent时代万亿级市场潜力- 华为 - Huawei",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkZ1FSdU0tV3hPVDltbm13R1NHWi1ENVVpTFhvTmRGT3pnMHdCalV6ZG00dTc4VWczSmFxR1NiUEstNDJfUlFPbEFHYkY1ZEtmU3hzZkdub3VvMVpvN19RbEhLMlVyc1BwcEM0a0Nn?oc=5",
+              "title": "Elastic MCP 及 Agentic AI：构建可信、上下文感知能力的搜索｜QCon 北京 - InfoQ 官网",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GYzd2dFBPVE9YazdJMHVXVW0tUU9vZnJWRUFwWGFLUWdzSTFJRDBVcldRaEx5eWY2YVNNVHVZdTlKNnhwWngyVUxPUXU3OHNZWmdCbXoyVVFGckdVOWc?oc=5",
               "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 10:09:46 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 07:04:54 GMT"
             },
             {
               "title": "华为加入 Agentic AI 基金会成为金牌会员，推动智能体 AI 系统开放互操作 - 手机新浪网",
@@ -916,7 +897,7 @@
               "publishedAt": "Fri, 27 Feb 2026 01:59:46 GMT"
             },
             {
-              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36Kr",
+              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36 Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMzUzdWNndmliZFZzODRjYVlSMnVIaXY5QmZ0Qm9ZcGJPb0xJbWg3V09fcWNfUnFzZ0Vqc1JhR0tRX0swV0NKQ2tfbDhkUQ?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 25 Feb 2026 16:34:00 GMT"
@@ -934,25 +915,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 183.0399932861328,
-          "previousClose": 190.0500030517578,
-          "changePct": -3.6885081047412083
+          "price": 182.10499572753906,
+          "previousClose": 186.94000244140625,
+          "changePct": -2.5863949131928856
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 405.20001220703125,
-          "previousClose": 404.3699951171875,
-          "changePct": 0.2052617899117883
+          "price": 410.1499938964844,
+          "previousClose": 401.8399963378906,
+          "changePct": 2.0679866698998817
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 303.1300048828125,
-          "previousClose": 310.9599914550781,
-          "changePct": -2.518004498143537
+          "price": 300.3500061035156,
+          "previousClose": 309,
+          "changePct": -2.7993507755612863
         },
         {
           "symbol": "002230.SZ",
@@ -1033,10 +1014,10 @@
               "publishedAt": "Fri, 27 Feb 2026 01:01:40 GMT"
             },
             {
-              "title": "Jimmy Lai sentenced; Xi on Sci-tech self-reliance; Japan elections; US-China; Nanjing Museum case; AI propaganda - Sinocism | Bill Bishop",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oVVhvbjNhSHdXNVRXMTZlTFpYaGtER1NrZ25wRmMtS19mUXh0WnBoVFBBTUU4UFRIeU53R0Y2dEVFTnRVSF9fX0d5eHRybWd1UTVmRUJQLUItUTc3YkhSVzVwR05VVFI4?oc=5",
+              "title": "英伟达及其合作伙伴展示软件定义的AI-RAN是下一代无线通信技术 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVZoWkhLNEdWVklfbjhEazgzczZhdE5lTUQ0dmh5Wl9Qb0c2NWpDbDhYdDZNZFR0ZXBKTlh1M3FIUW1ScVM4aUZja3diMG5xX3JaX3hjRTRONWhwSVpVQzh4NW9ObVpRZ3hPRTYwS1lGT0h1Q00zNlFMRzZpejZWSlVreERoRGdLdDduVWp4UTlVQWdjYVJDN0NR?oc=5",
               "source": "Google News",
-              "publishedAt": "Mon, 09 Feb 2026 08:00:00 GMT"
+              "publishedAt": "Tue, 03 Mar 2026 02:14:55 GMT"
             }
           ]
         },
@@ -1099,16 +1080,28 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？-观察者网 - 观察者",
+              "title": "京东集团CEO许冉：今年外卖投入较去年降低 - Jiemian.com",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41bnZQc2tvSXc2LVBla2ZoaTZFSW4xb1pOLTRjc2otSVBqUjlzeVhfZUFUMm5LUUxuNzEzeDdYd0E3TmZ5cS1SeTZqSU4tZGlESVpRVl9EV3g?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 13:27:10 GMT"
+            },
+            {
+              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？-观察者网 - guancha.cn",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wdFZFTUJTelNpVDFuVElJVHM5bXEwY1M3SEJwbnJDNDB5M2xzODhRZVFSMXVLMGdscVdxM3pzdU80RG52aGhXVnVra2F0aDJQSGZKRUQzYlhzWV9Ha3pGUWxn?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
             },
             {
-              "title": "京东2025年收入13091亿元 同比增长13% - 央广网",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BWUdrNU9nck1Fb0hUMktSM3pHTnRfTk0tWDZBZm5JYUNtQkQ5NE1taUoxZ1RnLWdTV1NfMjJqRk91bUFSWFZFNFc2OUtwWGgtbU80SUtldWFuWkp3enV3ZXNSU2hLY2gxbmZCQnl0TTh5VFk?oc=5",
+              "title": "京东集团2025年营收同比增长13% 净利润达196亿元 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZW1KQkVKbEpNUHcydUM1WW14bk83bzk5em5rSEZVVVBHNGd0QnZBeWJ5S2JhR01GTmpCRHJPUVJhVzVuM3lEMnZ3enJQeWFLSF9VMjBQS2pOWEpwRGNmVA?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 10:51:54 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 14:50:24 GMT"
+            },
+            {
+              "title": "京东2025年收入与活跃用户数均实现双位数增长，核心业务巩固，收入结构多元 - 中国基金报",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tcm5aZ09vRzM1Q0dIeHF4NEROLWE0OGhVcHBSOFZnT055bDU0WHZYbVQ3SGJrdXBVNUUwX3BFUlZUUnBZLS1WSjViY2FsV1RKWl9GTGY2RDZPZDN1YXlRX1o4OGhxSTh1NXViMGNZUU5NeElvSjZ3d1dB?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 14:42:00 GMT"
             },
             {
               "title": "华为发布SmartCare Intelligence解决方案，驱动体验提升与收入增长- 华为 - Huawei",
@@ -1117,22 +1110,10 @@
               "publishedAt": "Wed, 04 Mar 2026 17:58:32 GMT"
             },
             {
-              "title": "连续12日回购 网易云音乐共回购1.8亿港元 - 新京报",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqbml5R2pQYTRoSWF4OFAxVVZ1YmxKZTRwbE5JbURJaVJwLUNaS1c5aW1RdnhhZ0FxZDdPeC1uak95OEctOVJ6ODdVcG5JRjdYNGJXUGg2WDl4YXJnWHJxdzEzSGk?oc=5",
+              "title": "京东2025“成绩单”出炉！营收增长13%、利润大降，员工总数已超90万 - 凤凰网财经",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1waGo0WmpJZzVjN0I0akhBbUpaREZmVVRHaDFiaXE4VlV0MzJzRzZyaVhQS1E1N2g2SmZXUnFuSmhtc2dTRDlYUWdzekE0SzVi?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 12:49:00 GMT"
-            },
-            {
-              "title": "京东工业2025年收入同比增长17.4% 技术创新推动供应链数智化升级 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BX1E4VktlRDBsUXUyeTJUQ19YWHQ2RW5qUHY5Qkc1Z29BVEhTSGxMN0hWUExNM2ZScDBOcTljcGZNdkFiYVVLT3hEcmhFSC0zOTFiSGlQUm4yUUFVbWtEZ2czdHZHZw?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 11:25:16 GMT"
-            },
-            {
-              "title": "“拼好房”商标注册，美团租房终于要来了！ - 21财经",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVloVlNLb2lkV2xMVEVIbnExYjM5VFg1dUxtaHl4THZmZ2J1YXZOUDdzMlRXTms1emp3b2U2V3hGcGN5MVQxS1FIa3k2cndBYmxwV25DS28xSXdRaHhEUlZ5SWZLOU1Zems3RnJxdTRHbmFMV05EanFJa1pCZUN6RnBrdmhidFpRUlBHeEwyTQ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 08:16:00 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 13:46:30 GMT"
             }
           ]
         },
@@ -1141,10 +1122,10 @@
           "query": "AI agents agentic",
           "items": [
             {
-              "title": "Agentic Operations新范式，释放Agent时代万亿级市场潜力- 华为 - Huawei",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkZ1FSdU0tV3hPVDltbm13R1NHWi1ENVVpTFhvTmRGT3pnMHdCalV6ZG00dTc4VWczSmFxR1NiUEstNDJfUlFPbEFHYkY1ZEtmU3hzZkdub3VvMVpvN19RbEhLMlVyc1BwcEM0a0Nn?oc=5",
+              "title": "Elastic MCP 及 Agentic AI：构建可信、上下文感知能力的搜索｜QCon 北京 - InfoQ 官网",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GYzd2dFBPVE9YazdJMHVXVW0tUU9vZnJWRUFwWGFLUWdzSTFJRDBVcldRaEx5eWY2YVNNVHVZdTlKNnhwWngyVUxPUXU3OHNZWmdCbXoyVVFGckdVOWc?oc=5",
               "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 10:09:46 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 07:04:54 GMT"
             },
             {
               "title": "Agentic AI 市场规模、份额 |预测报告[2026-2034] - Fortune Business Insights",
@@ -1200,7 +1181,7 @@
               "publishedAt": "Fri, 27 Feb 2026 01:59:46 GMT"
             },
             {
-              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36Kr",
+              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36 Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMzUzdWNndmliZFZzODRjYVlSMnVIaXY5QmZ0Qm9ZcGJPb0xJbWg3V09fcWNfUnFzZ0Vqc1JhR0tRX0swV0NKQ2tfbDhkUQ?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 25 Feb 2026 16:34:00 GMT"
@@ -1218,25 +1199,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 183.0399932861328,
-          "previousClose": 178.07000732421875,
-          "changePct": 2.7910292342859413
+          "price": 182.10499572753906,
+          "previousClose": 183.32000732421875,
+          "changePct": -0.6627817740214382
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 405.20001220703125,
-          "previousClose": 454.5199890136719,
-          "changePct": -10.851002815886519
+          "price": 410.0799865722656,
+          "previousClose": 444.1099853515625,
+          "changePct": -7.662516021196493
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 303.1300048828125,
-          "previousClose": 322,
-          "changePct": -5.860246930803571
+          "price": 300.3999938964844,
+          "previousClose": 328.3800048828125,
+          "changePct": -8.520619578013962
         },
         {
           "symbol": "002230.SZ",
