@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-05T10:50:33.390Z",
+  "generatedAt": "2026-03-05T13:14:41.493Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -14,14 +14,7 @@
         {
           "title": "技术突破",
           "query": "AI breakthrough",
-          "items": [
-            {
-              "title": "最新分析：arXiv 论文 2603.02473 披露AI新进展——方法、基准与2026趋势 - blockchain.news",
-              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONF81QmJ6d25lWHdMZE8wdXd4LW1CRVBuMjNzX3pzYmdBZHdVUjBGTVF5b1N2U2stRDBEejh5cWk0bEYxSkg4OTNMNm1zbXJ4aU5wMmdhZkVrSmlQcHFfb1ZIS3JOSGhwVS1vVnoyODNvZHV4dFZwd0EwMlVsU0ZHeEp6amZmcU13Z0FJYUdSdWs4TldKU01WaHF4ZzRicXZ0Q2JQMThtUms3SEF0Mmd6TFBib2dQMDhpS0Z4S3NzYlFBcGFrQkUxM2NkU1JTOUdaTmlRZEM1R3U?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 12:51:00 GMT"
-            }
-          ]
+          "items": []
         },
         {
           "title": "产品范式",
@@ -45,40 +38,40 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？ - 观察者",
+              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？-观察者网 - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wdFZFTUJTelNpVDFuVElJVHM5bXEwY1M3SEJwbnJDNDB5M2xzODhRZVFSMXVLMGdscVdxM3pzdU80RG52aGhXVnVra2F0aDJQSGZKRUQzYlhzWV9Ha3pGUWxn?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
             },
             {
-              "title": "华为、比亚迪持续加码，“不造整车”的东莞何以弯道超车 - 21财经",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMllsVzZHMVpBTjFGWnhWUXJpQTZhYjh3MEI5NkcxZThUNmZDUHFkSXpwNzdJRkpQeWM4OXltWnlXX0p3bTk3ZFJmUHhESVNOd2NRX1FkWGZ6UXdoOVFIcWNRNzM3Q1Jmcy1NbmNLd3Njc2p0RkgxbXF4cm1ZYzNiWTVRRG82Z2o4ekRsQkdHOA?oc=5",
+              "title": "京东2025年收入13091亿元 同比增长13% - 央广网",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BWUdrNU9nck1Fb0hUMktSM3pHTnRfTk0tWDZBZm5JYUNtQkQ5NE1taUoxZ1RnLWdTV1NfMjJqRk91bUFSWFZFNFc2OUtwWGgtbU80SUtldWFuWkp3enV3ZXNSU2hLY2gxbmZCQnl0TTh5VFk?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 06:12:00 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 10:51:54 GMT"
             },
             {
-              "title": "雷军响应政府工作报告：小米将加大集成电路与具身智能投入 - chinanews.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tVG8xb1NfUmJwTEJCSjJ5UmpvMzFnUUdYX0JtWm5hcVhwMmsyQ2dyREoyYjdZZUprM2d3cmFlSk50d1FOelhpazZiRzlNMzZJb3VRRWJIX2ZoS204Zjd1U0lUWHR1aUFR?oc=5",
+              "title": "华为发布SmartCare Intelligence解决方案，驱动体验提升与收入增长- 华为 - Huawei",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ib0hBNUNwLXJ4ZmZJeWJWNGd4VGdGcFNwWHVIenlzdzV4NjZNVjhSLUZrZGdxYWJLUy1maWpIMGdyNk9hUFppQzNjb2NQWHB2Q0RkMnpQVlFBaGZiVzNnSUIyTmhCMEdZaHlqUERCTUs?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 07:21:02 GMT"
+              "publishedAt": "Wed, 04 Mar 2026 17:58:32 GMT"
             },
             {
-              "title": "全国人大代表、小米集团创始人雷军：推动人形机器人大规模应用于智能制造共建智驾时代交通安全文明体系 - 证券时报",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0ZllWUk5uZU9mSEVIaVBWX1B5TkQ0cDF3TXpGd21wVHZKNUZ0RjQ5Sjd6dkp0SEdXWXM5QjROTUZMWUVrY18zcUZ2UFN4UUJJR0U3UUMyRVU0V0cz?oc=5",
+              "title": "连续12日回购 网易云音乐共回购1.8亿港元 - 新京报",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqbml5R2pQYTRoSWF4OFAxVVZ1YmxKZTRwbE5JbURJaVJwLUNaS1c5aW1RdnhhZ0FxZDdPeC1uak95OEctOVJ6ODdVcG5JRjdYNGJXUGg2WDl4YXJnWHJxdzEzSGk?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 01:16:05 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 12:49:00 GMT"
             },
             {
-              "title": "Surge与华为合作 推出全球首个商用1.4GHz频段5G FWA - Shangbao Indonesia",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzTUxtdmoxbHVtd1kwNnlLNDluMDRVV3RZemxpaTZpWHZaZk5LSVgtVFhnWHA5ZmNvZEhqZEhlU05sNU1Eb2REaHdmV244YUxKZzN0YmFLUDNJeVJGRjRwY2c2WF9FVVZOWHlLdVFXOFptWHVQc0E?oc=5",
+              "title": "京东工业2025年收入同比增长17.4% 技术创新推动供应链数智化升级 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BX1E4VktlRDBsUXUyeTJUQ19YWHQ2RW5qUHY5Qkc1Z29BVEhTSGxMN0hWUExNM2ZScDBOcTljcGZNdkFiYVVLT3hEcmhFSC0zOTFiSGlQUm4yUUFVbWtEZ2czdHZHZw?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 11:25:16 GMT"
             },
             {
-              "title": "京东物流2025年营收2171亿元，同比增长18.8% - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaTM4WDQ3dzd1bXZDTkR0ZktPdTZiZ3pPZ0NuZFRaZFlocV8yVnNNai1FZmJYV2JrRnFVY2tnTlNNa1lNVmdvWDR1ODQ1ODlqa2c2MXlLOWZRSFJ1U0Jqd3FfcUJnbElWMDVpaXRfU3Y2UzF6a3pYdWQ2amJnbHQ2TXNXUTZfaktzNW1NYnVWb1ZpYXJzU01qcVc1NGx4aTNfdU9lSkI3WnNSQk1KNjk1Z0F6aWlER3l6SVlWTXgxN0V6Q1Y2Q25PNG14SGtXQzBIbkVYdVRWNWxkRkpBUXdMcFZvY09GQUdVcUUyNmw0SGJwY3ZGc3RicU0wbHRXTVY0?oc=5",
+              "title": "“拼好房”商标注册，美团租房终于要来了！ - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVloVlNLb2lkV2xMVEVIbnExYjM5VFg1dUxtaHl4THZmZ2J1YXZOUDdzMlRXTms1emp3b2U2V3hGcGN5MVQxS1FIa3k2cndBYmxwV25DS28xSXdRaHhEUlZ5SWZLOU1Zems3RnJxdTRHbmFMV05EanFJa1pCZUN6RnBrdmhidFpRUlBHeEwyTQ?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 09:47:49 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 08:16:00 GMT"
             }
           ]
         },
@@ -87,16 +80,22 @@
           "query": "AI agents agentic",
           "items": [
             {
+              "title": "Flowith完成数千万美元种子轮融资，加速Agentic AI系统研发 - 品玩",
+              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6dnA2aHEyd3JyYU16cHhWVWpqazVnNUFPM0ZMMG9KQ3hWS2FTdWItU04wQUJMZGNVazZPbDcxZHp0Z1c2OU9vbQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 02:08:08 GMT"
+            },
+            {
               "title": "Dan Romero：正推进 AI Agent 支付与稳定币新项目，邀请相关团队基于 Tempo 构建 - 吴说- 区块链",
               "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QakVEdjNVeWRUY3FkalExZEItYzBOVVB2RlRlOUhtRHl0TFNBMkJLVjRsUkhvcDc0cnFPcmJYUldjbDF2MDljVkhuYnJVX1RreDR4dg?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 05 Mar 2026 03:37:12 GMT"
             },
             {
-              "title": "Flowith完成数千万美元种子轮融资，加速Agentic AI系统研发 - 品玩",
-              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6dnA2aHEyd3JyYU16cHhWVWpqazVnNUFPM0ZMMG9KQ3hWS2FTdWItU04wQUJMZGNVazZPbDcxZHp0Z1c2OU9vbQ?oc=5",
+              "title": "中国电信总经理刘桂清：从连接到智能云网宽带发展进入新时代-AI云资讯 - icloudnews.net",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51LW1mTHFHMi1KZERiSE9MdE1RUDFUcWJ4OENBTVloR1hxU3ZmZ18wVTFCVmhESW5lWG1TMVBBYXBtZFFXSGlvWVlvQ1lDMy13ekE?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 02:08:08 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 12:10:38 GMT"
             },
             {
               "title": "华为MWC放出绿色AIDC大招：重构AI发展“水电煤”，从技术突围到联合生态共建 - 搜狐网",
@@ -115,12 +114,6 @@
               "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wdWxvSGFrR3dNYmFhNjNRT3B6eEtkSU9wenlHSjdpY0FZZlJrRHVWdnVZc2JzZ29VcHZfZkhUX3ZDZzBNMWN2aFF5V2UwTENWeVI2dHVPZ01YV0NEb0dOOVdJbXluSkU4dUE?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 05 Mar 2026 05:26:48 GMT"
-            },
-            {
-              "title": "Sahara AI 发布 2026 战略蓝图：领跑 Agentic AI 赛道 - Bitget",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESUlvZHcwdUE4V3NxaUs5ekxMYmFGaFB1QUg5YjZob0U1UHFnNFR0dFJ1ZGVvNzUySVpaNzdyUGRQVFFyYWd0eHhJaldPcmhkcmY4N2xMal8yOXhlS2pOZThxbktvYXNSTUVv0gFrQVVfeXFMTkRJSW9kdzB1QThXc3FpSzl6TExiYUZoUHVBSDliNmhvRTVQcWc0VHR0UnVkZW83NTJJWlo3N3JQZFBUUXJhZ3R4eElqV09yaGRyZjg3bExqXzI5eGVLak5lOHFuS29hc1JNRW8?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 18:33:00 GMT"
             }
           ]
         },
@@ -244,10 +237,10 @@
               "publishedAt": "Wed, 04 Mar 2026 12:51:00 GMT"
             },
             {
-              "title": "Microsoft Copilot 助力PowerPoint：一站式研究到PPT生成与迭代的工作流突破| AI快讯详情 - blockchain.news",
-              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcWV4clRYMTVmTkpfNzFSSmtHYURwcF9lZE9EdzVydGVSZWR2YVBYSms5MGt6T1VEaWU1QlBxRUxfX3kyQ1FqV2VqeC1uR2lZbWxCSjYzZ1MzTFZ1ZHZUZVdTOHpGdEdkUUY1ci13cTNRaGFSVmw5TU1mYmN2ZFF0MlhXVFNXLTQzZHd0Ynczd2JRRDJ0SkluTDYwUGpHcTQyN0JCSVJYSkxvQUFtblRlNTREZ2hVekljVGVzWjNQQ01YN085VGhpMzlPd0piN0VJVDZEWjkteGpPRVc2dmc?oc=5",
+              "title": "SleepFM突破：单夜多模态睡眠数据预测130余种疾病的早筛分析| AI快讯详情 - blockchain.news",
+              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeURzeUxTSTNiS0JOazZNUlIyekdBbFU2NmxLSldNYVd4X0hIdExRMl9iLTgtV2VHRlpGcDAtMC1yMDNpNUVpYnJGTmlPM1NpT0hvM1hBNVdJUWVPZGljSkIyelRvdk9BX2Q3cnAyQkJzUHNRX0JhSjI5czM0WGpMZFhIcDJaNm1pdHNtR2J1LUlhVzZJMHVYU2Q3ZVVlWlVtaFNabTlPbWViVERjQ1Mwb3AtR3FBdnBOc1pObWJFamNrQ19FVzNpS1RBcm5fZXh6SFhsc2NnS0U?oc=5",
               "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 06:06:00 GMT"
+              "publishedAt": "Tue, 03 Mar 2026 13:59:00 GMT"
             }
           ]
         },
@@ -256,16 +249,16 @@
           "query": "AI product launch",
           "items": [
             {
-              "title": "TIAN RUIXIANG 推出了行业首创的BTC 质押服务，结合了人工智能驱动的收益保险，并推出了完全自主的人工智能保险代理，可实现即时承保与理赔结算。 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVdFNkRIOWRiZERaMlVUb1VQenNwN3FlcjdDSmFGVkcwVFFCMDhIb0NlRVA1LXNBQWJscjh6ZEp5SU5FQkFqRWhOeHB3QTBrV3J6cGFMREl0dk5vSFlxMTRhZS1ZXzMtZU9MREl1X0dQUWhabDJGamJmUFl1Vmt0aVVMZWt2MU1fRE9yRDhUSmpVbmMxalhMdnNnR3BJR2Z4bF80cWg3V0pJNFNpRkx6eGJaWk4?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 14:00:00 GMT"
-            },
-            {
               "title": "Apple Launches New iPhone and iPad Air as It Gears up for a Major AI Push - 富途牛牛",
               "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMVZibVVrbm9sUkpUMWRTNkpSVU9RWHVCcTJPb3ViREg0aVNYUGtpWTdaQXhnNW9CeEgtUXdXdnJHc1U0alE2QkRTV1RWQU9GNXBkR0JQTklGTGNNM3pSU1NzT0pnZmxtaUhGMVA5dWV2YzVMbkpoVl9zNFFlTkZ6MVhpSWtVMGdidDF0VmVUeHROdw?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 22:20:00 GMT"
+            },
+            {
+              "title": "TIAN RUIXIANG 推出了行业首创的BTC 质押服务，结合了人工智能驱动的收益保险，并推出了完全自主的人工智能保险代理，可实现即时承保与理赔结算。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVdFNkRIOWRiZERaMlVUb1VQenNwN3FlcjdDSmFGVkcwVFFCMDhIb0NlRVA1LXNBQWJscjh6ZEp5SU5FQkFqRWhOeHB3QTBrV3J6cGFMREl0dk5vSFlxMTRhZS1ZXzMtZU9MREl1X0dQUWhabDJGamJmUFl1Vmt0aVVMZWt2MU1fRE9yRDhUSmpVbmMxalhMdnNnR3BJR2Z4bF80cWg3V0pJNFNpRkx6eGJaWk4?oc=5",
+              "source": "Google News",
+              "publishedAt": "Wed, 04 Mar 2026 14:00:00 GMT"
             },
             {
               "title": "Stagwell 推出了Stagwell Search+：业界首个赢得AI 搜索的代理平台。 - 富途牛牛",
@@ -291,40 +284,40 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？ - 观察者",
+              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？-观察者网 - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wdFZFTUJTelNpVDFuVElJVHM5bXEwY1M3SEJwbnJDNDB5M2xzODhRZVFSMXVLMGdscVdxM3pzdU80RG52aGhXVnVra2F0aDJQSGZKRUQzYlhzWV9Ha3pGUWxn?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
             },
             {
-              "title": "华为、比亚迪持续加码，“不造整车”的东莞何以弯道超车 - 21财经",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMllsVzZHMVpBTjFGWnhWUXJpQTZhYjh3MEI5NkcxZThUNmZDUHFkSXpwNzdJRkpQeWM4OXltWnlXX0p3bTk3ZFJmUHhESVNOd2NRX1FkWGZ6UXdoOVFIcWNRNzM3Q1Jmcy1NbmNLd3Njc2p0RkgxbXF4cm1ZYzNiWTVRRG82Z2o4ekRsQkdHOA?oc=5",
+              "title": "京东2025年收入13091亿元 同比增长13% - 央广网",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BWUdrNU9nck1Fb0hUMktSM3pHTnRfTk0tWDZBZm5JYUNtQkQ5NE1taUoxZ1RnLWdTV1NfMjJqRk91bUFSWFZFNFc2OUtwWGgtbU80SUtldWFuWkp3enV3ZXNSU2hLY2gxbmZCQnl0TTh5VFk?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 06:12:00 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 10:51:54 GMT"
             },
             {
-              "title": "雷军响应政府工作报告：小米将加大集成电路与具身智能投入 - chinanews.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tVG8xb1NfUmJwTEJCSjJ5UmpvMzFnUUdYX0JtWm5hcVhwMmsyQ2dyREoyYjdZZUprM2d3cmFlSk50d1FOelhpazZiRzlNMzZJb3VRRWJIX2ZoS204Zjd1U0lUWHR1aUFR?oc=5",
+              "title": "华为发布SmartCare Intelligence解决方案，驱动体验提升与收入增长- 华为 - Huawei",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ib0hBNUNwLXJ4ZmZJeWJWNGd4VGdGcFNwWHVIenlzdzV4NjZNVjhSLUZrZGdxYWJLUy1maWpIMGdyNk9hUFppQzNjb2NQWHB2Q0RkMnpQVlFBaGZiVzNnSUIyTmhCMEdZaHlqUERCTUs?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 07:21:02 GMT"
+              "publishedAt": "Wed, 04 Mar 2026 17:58:32 GMT"
             },
             {
-              "title": "全国人大代表、小米集团创始人雷军：推动人形机器人大规模应用于智能制造共建智驾时代交通安全文明体系 - 证券时报",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0ZllWUk5uZU9mSEVIaVBWX1B5TkQ0cDF3TXpGd21wVHZKNUZ0RjQ5Sjd6dkp0SEdXWXM5QjROTUZMWUVrY18zcUZ2UFN4UUJJR0U3UUMyRVU0V0cz?oc=5",
+              "title": "连续12日回购 网易云音乐共回购1.8亿港元 - 新京报",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqbml5R2pQYTRoSWF4OFAxVVZ1YmxKZTRwbE5JbURJaVJwLUNaS1c5aW1RdnhhZ0FxZDdPeC1uak95OEctOVJ6ODdVcG5JRjdYNGJXUGg2WDl4YXJnWHJxdzEzSGk?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 01:16:05 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 12:49:00 GMT"
             },
             {
-              "title": "Surge与华为合作 推出全球首个商用1.4GHz频段5G FWA - Shangbao Indonesia",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzTUxtdmoxbHVtd1kwNnlLNDluMDRVV3RZemxpaTZpWHZaZk5LSVgtVFhnWHA5ZmNvZEhqZEhlU05sNU1Eb2REaHdmV244YUxKZzN0YmFLUDNJeVJGRjRwY2c2WF9FVVZOWHlLdVFXOFptWHVQc0E?oc=5",
+              "title": "京东工业2025年收入同比增长17.4% 技术创新推动供应链数智化升级 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BX1E4VktlRDBsUXUyeTJUQ19YWHQ2RW5qUHY5Qkc1Z29BVEhTSGxMN0hWUExNM2ZScDBOcTljcGZNdkFiYVVLT3hEcmhFSC0zOTFiSGlQUm4yUUFVbWtEZ2czdHZHZw?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 11:25:16 GMT"
             },
             {
-              "title": "京东物流2025年营收2171亿元，同比增长18.8% - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaTM4WDQ3dzd1bXZDTkR0ZktPdTZiZ3pPZ0NuZFRaZFlocV8yVnNNai1FZmJYV2JrRnFVY2tnTlNNa1lNVmdvWDR1ODQ1ODlqa2c2MXlLOWZRSFJ1U0Jqd3FfcUJnbElWMDVpaXRfU3Y2UzF6a3pYdWQ2amJnbHQ2TXNXUTZfaktzNW1NYnVWb1ZpYXJzU01qcVc1NGx4aTNfdU9lSkI3WnNSQk1KNjk1Z0F6aWlER3l6SVlWTXgxN0V6Q1Y2Q25PNG14SGtXQzBIbkVYdVRWNWxkRkpBUXdMcFZvY09GQUdVcUUyNmw0SGJwY3ZGc3RicU0wbHRXTVY0?oc=5",
+              "title": "“拼好房”商标注册，美团租房终于要来了！ - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVloVlNLb2lkV2xMVEVIbnExYjM5VFg1dUxtaHl4THZmZ2J1YXZOUDdzMlRXTms1emp3b2U2V3hGcGN5MVQxS1FIa3k2cndBYmxwV25DS28xSXdRaHhEUlZ5SWZLOU1Zems3RnJxdTRHbmFMV05EanFJa1pCZUN6RnBrdmhidFpRUlBHeEwyTQ?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 09:47:49 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 08:16:00 GMT"
             }
           ]
         },
@@ -556,40 +549,40 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？ - 观察者",
+              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？-观察者网 - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wdFZFTUJTelNpVDFuVElJVHM5bXEwY1M3SEJwbnJDNDB5M2xzODhRZVFSMXVLMGdscVdxM3pzdU80RG52aGhXVnVra2F0aDJQSGZKRUQzYlhzWV9Ha3pGUWxn?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
             },
             {
-              "title": "华为、比亚迪持续加码，“不造整车”的东莞何以弯道超车 - 21财经",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMllsVzZHMVpBTjFGWnhWUXJpQTZhYjh3MEI5NkcxZThUNmZDUHFkSXpwNzdJRkpQeWM4OXltWnlXX0p3bTk3ZFJmUHhESVNOd2NRX1FkWGZ6UXdoOVFIcWNRNzM3Q1Jmcy1NbmNLd3Njc2p0RkgxbXF4cm1ZYzNiWTVRRG82Z2o4ekRsQkdHOA?oc=5",
+              "title": "京东2025年收入13091亿元 同比增长13% - 央广网",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BWUdrNU9nck1Fb0hUMktSM3pHTnRfTk0tWDZBZm5JYUNtQkQ5NE1taUoxZ1RnLWdTV1NfMjJqRk91bUFSWFZFNFc2OUtwWGgtbU80SUtldWFuWkp3enV3ZXNSU2hLY2gxbmZCQnl0TTh5VFk?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 06:12:00 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 10:51:54 GMT"
             },
             {
-              "title": "雷军响应政府工作报告：小米将加大集成电路与具身智能投入 - chinanews.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tVG8xb1NfUmJwTEJCSjJ5UmpvMzFnUUdYX0JtWm5hcVhwMmsyQ2dyREoyYjdZZUprM2d3cmFlSk50d1FOelhpazZiRzlNMzZJb3VRRWJIX2ZoS204Zjd1U0lUWHR1aUFR?oc=5",
+              "title": "连续12日回购 网易云音乐共回购1.8亿港元 - 新京报",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqbml5R2pQYTRoSWF4OFAxVVZ1YmxKZTRwbE5JbURJaVJwLUNaS1c5aW1RdnhhZ0FxZDdPeC1uak95OEctOVJ6ODdVcG5JRjdYNGJXUGg2WDl4YXJnWHJxdzEzSGk?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 07:21:02 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 12:49:00 GMT"
             },
             {
-              "title": "全国人大代表、小米集团创始人雷军：推动人形机器人大规模应用于智能制造共建智驾时代交通安全文明体系 - 证券时报",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0ZllWUk5uZU9mSEVIaVBWX1B5TkQ0cDF3TXpGd21wVHZKNUZ0RjQ5Sjd6dkp0SEdXWXM5QjROTUZMWUVrY18zcUZ2UFN4UUJJR0U3UUMyRVU0V0cz?oc=5",
+              "title": "京东工业2025年收入同比增长17.4% 技术创新推动供应链数智化升级 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BX1E4VktlRDBsUXUyeTJUQ19YWHQ2RW5qUHY5Qkc1Z29BVEhTSGxMN0hWUExNM2ZScDBOcTljcGZNdkFiYVVLT3hEcmhFSC0zOTFiSGlQUm4yUUFVbWtEZ2czdHZHZw?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 01:16:05 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 11:25:16 GMT"
             },
             {
-              "title": "Surge与华为合作 推出全球首个商用1.4GHz频段5G FWA - Shangbao Indonesia",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzTUxtdmoxbHVtd1kwNnlLNDluMDRVV3RZemxpaTZpWHZaZk5LSVgtVFhnWHA5ZmNvZEhqZEhlU05sNU1Eb2REaHdmV244YUxKZzN0YmFLUDNJeVJGRjRwY2c2WF9FVVZOWHlLdVFXOFptWHVQc0E?oc=5",
+              "title": "“拼好房”商标注册，美团租房终于要来了！ - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVloVlNLb2lkV2xMVEVIbnExYjM5VFg1dUxtaHl4THZmZ2J1YXZOUDdzMlRXTms1emp3b2U2V3hGcGN5MVQxS1FIa3k2cndBYmxwV25DS28xSXdRaHhEUlZ5SWZLOU1Zems3RnJxdTRHbmFMV05EanFJa1pCZUN6RnBrdmhidFpRUlBHeEwyTQ?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 08:16:00 GMT"
             },
             {
-              "title": "京东物流2025年营收2171亿元，同比增长18.8% - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaTM4WDQ3dzd1bXZDTkR0ZktPdTZiZ3pPZ0NuZFRaZFlocV8yVnNNai1FZmJYV2JrRnFVY2tnTlNNa1lNVmdvWDR1ODQ1ODlqa2c2MXlLOWZRSFJ1U0Jqd3FfcUJnbElWMDVpaXRfU3Y2UzF6a3pYdWQ2amJnbHQ2TXNXUTZfaktzNW1NYnVWb1ZpYXJzU01qcVc1NGx4aTNfdU9lSkI3WnNSQk1KNjk1Z0F6aWlER3l6SVlWTXgxN0V6Q1Y2Q25PNG14SGtXQzBIbkVYdVRWNWxkRkpBUXdMcFZvY09GQUdVcUUyNmw0SGJwY3ZGc3RicU0wbHRXTVY0?oc=5",
+              "title": "充电效率全球最高！比亚迪发布第二代刀片电池：9分钟充饱 - 手机新浪网",
+              "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSGpwUjRlM1lvcnM5T2p3QVd3TTRSakg3c2kzX3dlSHM1RW1OeVhOemExaEpVYWVDMXh2VlNWNk9TeWRDcDhJdHZCYzY1Y2JWNUdFNGNzLVNBQmVkOTdOV1ZqQmdUSUdfQUVxcG5RRXBybllfVWNxS3l0Tm1lSEk0NkI0eFVBbmF0R19tZGV0ZWJncVFkNGF0a1BORWNnMVgza0tnTmFlQlhtd3M4RFh6a2hYZnZldjZGZHpYdDlQNVlSb2hZUmZaSHFWSnp4UUtDbGMyc09Pbm10Vng2NDZ1RWFHcHdmdGF5VUlmMnBWbE5tVjUxZ0JzdE41anc1ejZ6SUNzQUxB?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 09:47:49 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 11:56:26 GMT"
             }
           ]
         },
@@ -604,6 +597,12 @@
               "publishedAt": "Wed, 04 Mar 2026 10:09:46 GMT"
             },
             {
+              "title": "Accelerating IC design and verification with agentic AI - Siemens",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOQXFSbmp3cjEtQU40ZHZTaFY5dkN2X3JkeWZ1U0FVamxCWFkzRG1qckljWHQzSzRXYzAzNXdLY0VFWnNaejBXUTV6azYyVE9PS2tsWWlhNl96T2xmbnRJSU5sZGVqRXBMZENhbDlR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 20:28:49 GMT"
+            },
+            {
               "title": "独家｜Flowith 完成千万美元种子轮融资，打造 Agentic AI 时代的首个“行动派”操作系统 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiaGFkeU1WcWM2bmMxLW9Qd2hYekNBZTJRTnVhZlhJWW8yZmV4ckQxYS1vejlmWWc2YnRkV2R3OW5PemF1czdPRE1kcVAtMENHWUM1eUlrMFAwUnBsN2JHa3BkQklVZ0RyXzdqTllFVTR3d0R3OUE?oc=5",
               "source": "Google News",
@@ -616,22 +615,16 @@
               "publishedAt": "Tue, 03 Mar 2026 06:15:00 GMT"
             },
             {
+              "title": "Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？ - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn0gFrQVVfeXFMTkk1SjZKUDdjek52YWxHUTR6TFdiaUN6UF95U3R4Qjh5UFQ4NG1ZUkx6NUkzWTBQaHRBdUpnTlFZVnNTMm5tNDA1NXhBZGd1N3k5cENKeE9ocUJ4SmNDZjhLcVhHRGdUM2Z5amc?oc=5",
+              "source": "Google News",
+              "publishedAt": "Thu, 05 Mar 2026 03:45:00 GMT"
+            },
+            {
               "title": "黄仁勋一锤定音：Agentic AI拐点已至，英伟达Q4财报再创历史 - 品玩",
               "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCNnpQVWJWRlZBbDB5UkdaS1pYR19idDlXblJERm91S2dYejN6cEVCeWtVV0FzLTFsbkswT2hmRF9zSkRIcWJmNQ?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 27 Feb 2026 02:51:38 GMT"
-            },
-            {
-              "title": "Four.Meme本周将推出新模式Agentic Mode，支持由AI Agent创建Meme币 - 腾讯网",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mM2dpYWVFWUVFQnpkMUtMSXp6S1RPZmIySmx1cUJPa2ZKODdfUFJ1OWgwRWRmQ1Zlc1BieUNWaUNDU1cwZGtVR28zYVQ0eV9ON1ZMcC1B?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 01:22:00 GMT"
-            },
-            {
-              "title": "蚂蚁阿福：从 0 到生产的医疗 Agent 工程化落地｜QCon 北京 - InfoQ 官网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ubTE3Tk4yTUQ3cXFpdGJ1dkhrLUJzcGhnakw1ZC1jMXE2WGVvTWNOaWY3U2w3dUluazVXcy1xQVBWTThSeFNfMWVTS01oclc0UjNvMHJpYnFwWUtYMmc?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 07:20:51 GMT"
             }
           ]
         },
@@ -828,40 +821,40 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？ - 观察者",
+              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？-观察者网 - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wdFZFTUJTelNpVDFuVElJVHM5bXEwY1M3SEJwbnJDNDB5M2xzODhRZVFSMXVLMGdscVdxM3pzdU80RG52aGhXVnVra2F0aDJQSGZKRUQzYlhzWV9Ha3pGUWxn?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
             },
             {
-              "title": "华为、比亚迪持续加码，“不造整车”的东莞何以弯道超车 - 21财经",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMllsVzZHMVpBTjFGWnhWUXJpQTZhYjh3MEI5NkcxZThUNmZDUHFkSXpwNzdJRkpQeWM4OXltWnlXX0p3bTk3ZFJmUHhESVNOd2NRX1FkWGZ6UXdoOVFIcWNRNzM3Q1Jmcy1NbmNLd3Njc2p0RkgxbXF4cm1ZYzNiWTVRRG82Z2o4ekRsQkdHOA?oc=5",
+              "title": "京东2025年收入13091亿元 同比增长13% - 央广网",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BWUdrNU9nck1Fb0hUMktSM3pHTnRfTk0tWDZBZm5JYUNtQkQ5NE1taUoxZ1RnLWdTV1NfMjJqRk91bUFSWFZFNFc2OUtwWGgtbU80SUtldWFuWkp3enV3ZXNSU2hLY2gxbmZCQnl0TTh5VFk?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 06:12:00 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 10:51:54 GMT"
             },
             {
-              "title": "雷军响应政府工作报告：小米将加大集成电路与具身智能投入 - chinanews.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tVG8xb1NfUmJwTEJCSjJ5UmpvMzFnUUdYX0JtWm5hcVhwMmsyQ2dyREoyYjdZZUprM2d3cmFlSk50d1FOelhpazZiRzlNMzZJb3VRRWJIX2ZoS204Zjd1U0lUWHR1aUFR?oc=5",
+              "title": "连续12日回购 网易云音乐共回购1.8亿港元 - 新京报",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqbml5R2pQYTRoSWF4OFAxVVZ1YmxKZTRwbE5JbURJaVJwLUNaS1c5aW1RdnhhZ0FxZDdPeC1uak95OEctOVJ6ODdVcG5JRjdYNGJXUGg2WDl4YXJnWHJxdzEzSGk?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 07:21:02 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 12:49:00 GMT"
             },
             {
-              "title": "全国人大代表、小米集团创始人雷军：推动人形机器人大规模应用于智能制造共建智驾时代交通安全文明体系 - 证券时报",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0ZllWUk5uZU9mSEVIaVBWX1B5TkQ0cDF3TXpGd21wVHZKNUZ0RjQ5Sjd6dkp0SEdXWXM5QjROTUZMWUVrY18zcUZ2UFN4UUJJR0U3UUMyRVU0V0cz?oc=5",
+              "title": "京东工业2025年收入同比增长17.4% 技术创新推动供应链数智化升级 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BX1E4VktlRDBsUXUyeTJUQ19YWHQ2RW5qUHY5Qkc1Z29BVEhTSGxMN0hWUExNM2ZScDBOcTljcGZNdkFiYVVLT3hEcmhFSC0zOTFiSGlQUm4yUUFVbWtEZ2czdHZHZw?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 01:16:05 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 11:25:16 GMT"
             },
             {
-              "title": "Surge与华为合作 推出全球首个商用1.4GHz频段5G FWA - Shangbao Indonesia",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzTUxtdmoxbHVtd1kwNnlLNDluMDRVV3RZemxpaTZpWHZaZk5LSVgtVFhnWHA5ZmNvZEhqZEhlU05sNU1Eb2REaHdmV244YUxKZzN0YmFLUDNJeVJGRjRwY2c2WF9FVVZOWHlLdVFXOFptWHVQc0E?oc=5",
+              "title": "“拼好房”商标注册，美团租房终于要来了！ - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVloVlNLb2lkV2xMVEVIbnExYjM5VFg1dUxtaHl4THZmZ2J1YXZOUDdzMlRXTms1emp3b2U2V3hGcGN5MVQxS1FIa3k2cndBYmxwV25DS28xSXdRaHhEUlZ5SWZLOU1Zems3RnJxdTRHbmFMV05EanFJa1pCZUN6RnBrdmhidFpRUlBHeEwyTQ?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 08:16:00 GMT"
             },
             {
-              "title": "京东物流2025年营收2171亿元，同比增长18.8% - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaTM4WDQ3dzd1bXZDTkR0ZktPdTZiZ3pPZ0NuZFRaZFlocV8yVnNNai1FZmJYV2JrRnFVY2tnTlNNa1lNVmdvWDR1ODQ1ODlqa2c2MXlLOWZRSFJ1U0Jqd3FfcUJnbElWMDVpaXRfU3Y2UzF6a3pYdWQ2amJnbHQ2TXNXUTZfaktzNW1NYnVWb1ZpYXJzU01qcVc1NGx4aTNfdU9lSkI3WnNSQk1KNjk1Z0F6aWlER3l6SVlWTXgxN0V6Q1Y2Q25PNG14SGtXQzBIbkVYdVRWNWxkRkpBUXdMcFZvY09GQUdVcUUyNmw0SGJwY3ZGc3RicU0wbHRXTVY0?oc=5",
+              "title": "充电效率全球最高！比亚迪发布第二代刀片电池：9分钟充饱 - 手机新浪网",
+              "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSGpwUjRlM1lvcnM5T2p3QVd3TTRSakg3c2kzX3dlSHM1RW1OeVhOemExaEpVYWVDMXh2VlNWNk9TeWRDcDhJdHZCYzY1Y2JWNUdFNGNzLVNBQmVkOTdOV1ZqQmdUSUdfQUVxcG5RRXBybllfVWNxS3l0Tm1lSEk0NkI0eFVBbmF0R19tZGV0ZWJncVFkNGF0a1BORWNnMVgza0tnTmFlQlhtd3M4RFh6a2hYZnZldjZGZHpYdDlQNVlSb2hZUmZaSHFWSnp4UUtDbGMyc09Pbm10Vng2NDZ1RWFHcHdmdGF5VUlmMnBWbE5tVjUxZ0JzdE41anc1ejZ6SUNzQUxB?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 09:47:49 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 11:56:26 GMT"
             }
           ]
         },
@@ -882,6 +875,12 @@
               "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT"
             },
             {
+              "title": "Accelerating IC design and verification with agentic AI - Siemens",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOQXFSbmp3cjEtQU40ZHZTaFY5dkN2X3JkeWZ1U0FVamxCWFkzRG1qckljWHQzSzRXYzAzNXdLY0VFWnNaejBXUTV6azYyVE9PS2tsWWlhNl96T2xmbnRJSU5sZGVqRXBMZENhbDlR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 20:28:49 GMT"
+            },
+            {
               "title": "Agentic Commerce如何能让AI开始赚钱？ - BlockBeats",
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EeWtZRHY5TzdjRzVya2JPZmlUdFN6bVQ2WEEwaUdRSjQwaVc3VnNMVlZiRzhXeVNfZ1QwRFZXLWt6ZzNya21NY3pSY1RsVGViTTdR?oc=5",
               "source": "Google News",
@@ -898,12 +897,6 @@
               "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XcW5TTEhodTdBMHN6enlTMm5sV2tNR3pueWJLTlZXZ3dEUE1BZ0E4eE95cVc2RHd2T3ZHUDltTTA1aFFHQ1pUaGdqdkwzenlUdlkzaVlyMG9DUkpzYTk0NmpNVE5MakswVHNMUlViR0J3OGFUR3BJ?oc=5",
               "source": "Google News",
               "publishedAt": "Tue, 03 Mar 2026 06:15:00 GMT"
-            },
-            {
-              "title": "黄仁勋一锤定音：Agentic AI拐点已至，英伟达Q4财报再创历史 - 品玩",
-              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCNnpQVWJWRlZBbDB5UkdaS1pYR19idDlXblJERm91S2dYejN6cEVCeWtVV0FzLTFsbkswT2hmRF9zSkRIcWJmNQ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Fri, 27 Feb 2026 02:51:38 GMT"
             }
           ]
         },
@@ -923,7 +916,7 @@
               "publishedAt": "Fri, 27 Feb 2026 01:59:46 GMT"
             },
             {
-              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36 Kr",
+              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMzUzdWNndmliZFZzODRjYVlSMnVIaXY5QmZ0Qm9ZcGJPb0xJbWg3V09fcWNfUnFzZ0Vqc1JhR0tRX0swV0NKQ2tfbDhkUQ?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 25 Feb 2026 16:34:00 GMT"
@@ -1106,40 +1099,40 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？ - 观察者",
+              "title": "“55米外看清小狗摇尾巴”，华为发布896线激光雷达，哪些车会用？-观察者网 - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wdFZFTUJTelNpVDFuVElJVHM5bXEwY1M3SEJwbnJDNDB5M2xzODhRZVFSMXVLMGdscVdxM3pzdU80RG52aGhXVnVra2F0aDJQSGZKRUQzYlhzWV9Ha3pGUWxn?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
             },
             {
-              "title": "华为、比亚迪持续加码，“不造整车”的东莞何以弯道超车 - 21财经",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMllsVzZHMVpBTjFGWnhWUXJpQTZhYjh3MEI5NkcxZThUNmZDUHFkSXpwNzdJRkpQeWM4OXltWnlXX0p3bTk3ZFJmUHhESVNOd2NRX1FkWGZ6UXdoOVFIcWNRNzM3Q1Jmcy1NbmNLd3Njc2p0RkgxbXF4cm1ZYzNiWTVRRG82Z2o4ekRsQkdHOA?oc=5",
+              "title": "京东2025年收入13091亿元 同比增长13% - 央广网",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BWUdrNU9nck1Fb0hUMktSM3pHTnRfTk0tWDZBZm5JYUNtQkQ5NE1taUoxZ1RnLWdTV1NfMjJqRk91bUFSWFZFNFc2OUtwWGgtbU80SUtldWFuWkp3enV3ZXNSU2hLY2gxbmZCQnl0TTh5VFk?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 06:12:00 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 10:51:54 GMT"
             },
             {
-              "title": "雷军响应政府工作报告：小米将加大集成电路与具身智能投入 - chinanews.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tVG8xb1NfUmJwTEJCSjJ5UmpvMzFnUUdYX0JtWm5hcVhwMmsyQ2dyREoyYjdZZUprM2d3cmFlSk50d1FOelhpazZiRzlNMzZJb3VRRWJIX2ZoS204Zjd1U0lUWHR1aUFR?oc=5",
+              "title": "华为发布SmartCare Intelligence解决方案，驱动体验提升与收入增长- 华为 - Huawei",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ib0hBNUNwLXJ4ZmZJeWJWNGd4VGdGcFNwWHVIenlzdzV4NjZNVjhSLUZrZGdxYWJLUy1maWpIMGdyNk9hUFppQzNjb2NQWHB2Q0RkMnpQVlFBaGZiVzNnSUIyTmhCMEdZaHlqUERCTUs?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 07:21:02 GMT"
+              "publishedAt": "Wed, 04 Mar 2026 17:58:32 GMT"
             },
             {
-              "title": "全国人大代表、小米集团创始人雷军：推动人形机器人大规模应用于智能制造共建智驾时代交通安全文明体系 - 证券时报",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0ZllWUk5uZU9mSEVIaVBWX1B5TkQ0cDF3TXpGd21wVHZKNUZ0RjQ5Sjd6dkp0SEdXWXM5QjROTUZMWUVrY18zcUZ2UFN4UUJJR0U3UUMyRVU0V0cz?oc=5",
+              "title": "连续12日回购 网易云音乐共回购1.8亿港元 - 新京报",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqbml5R2pQYTRoSWF4OFAxVVZ1YmxKZTRwbE5JbURJaVJwLUNaS1c5aW1RdnhhZ0FxZDdPeC1uak95OEctOVJ6ODdVcG5JRjdYNGJXUGg2WDl4YXJnWHJxdzEzSGk?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 01:16:05 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 12:49:00 GMT"
             },
             {
-              "title": "Surge与华为合作 推出全球首个商用1.4GHz频段5G FWA - Shangbao Indonesia",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzTUxtdmoxbHVtd1kwNnlLNDluMDRVV3RZemxpaTZpWHZaZk5LSVgtVFhnWHA5ZmNvZEhqZEhlU05sNU1Eb2REaHdmV244YUxKZzN0YmFLUDNJeVJGRjRwY2c2WF9FVVZOWHlLdVFXOFptWHVQc0E?oc=5",
+              "title": "京东工业2025年收入同比增长17.4% 技术创新推动供应链数智化升级 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BX1E4VktlRDBsUXUyeTJUQ19YWHQ2RW5qUHY5Qkc1Z29BVEhTSGxMN0hWUExNM2ZScDBOcTljcGZNdkFiYVVLT3hEcmhFSC0zOTFiSGlQUm4yUUFVbWtEZ2czdHZHZw?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 05:58:00 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 11:25:16 GMT"
             },
             {
-              "title": "京东物流2025年营收2171亿元，同比增长18.8% - 手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaTM4WDQ3dzd1bXZDTkR0ZktPdTZiZ3pPZ0NuZFRaZFlocV8yVnNNai1FZmJYV2JrRnFVY2tnTlNNa1lNVmdvWDR1ODQ1ODlqa2c2MXlLOWZRSFJ1U0Jqd3FfcUJnbElWMDVpaXRfU3Y2UzF6a3pYdWQ2amJnbHQ2TXNXUTZfaktzNW1NYnVWb1ZpYXJzU01qcVc1NGx4aTNfdU9lSkI3WnNSQk1KNjk1Z0F6aWlER3l6SVlWTXgxN0V6Q1Y2Q25PNG14SGtXQzBIbkVYdVRWNWxkRkpBUXdMcFZvY09GQUdVcUUyNmw0SGJwY3ZGc3RicU0wbHRXTVY0?oc=5",
+              "title": "“拼好房”商标注册，美团租房终于要来了！ - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSVloVlNLb2lkV2xMVEVIbnExYjM5VFg1dUxtaHl4THZmZ2J1YXZOUDdzMlRXTms1emp3b2U2V3hGcGN5MVQxS1FIa3k2cndBYmxwV25DS28xSXdRaHhEUlZ5SWZLOU1Zems3RnJxdTRHbmFMV05EanFJa1pCZUN6RnBrdmhidFpRUlBHeEwyTQ?oc=5",
               "source": "Google News",
-              "publishedAt": "Thu, 05 Mar 2026 09:47:49 GMT"
+              "publishedAt": "Thu, 05 Mar 2026 08:16:00 GMT"
             }
           ]
         },
@@ -1166,6 +1159,12 @@
               "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT"
             },
             {
+              "title": "Accelerating IC design and verification with agentic AI - Siemens",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOQXFSbmp3cjEtQU40ZHZTaFY5dkN2X3JkeWZ1U0FVamxCWFkzRG1qckljWHQzSzRXYzAzNXdLY0VFWnNaejBXUTV6azYyVE9PS2tsWWlhNl96T2xmbnRJSU5sZGVqRXBMZENhbDlR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Fri, 27 Feb 2026 20:28:49 GMT"
+            },
+            {
               "title": "Agentic Commerce如何能让AI开始赚钱？ - BlockBeats",
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EeWtZRHY5TzdjRzVya2JPZmlUdFN6bVQ2WEEwaUdRSjQwaVc3VnNMVlZiRzhXeVNfZ1QwRFZXLWt6ZzNya21NY3pSY1RsVGViTTdR?oc=5",
               "source": "Google News",
@@ -1176,12 +1175,6 @@
               "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6SDJJVjlicGhiUkxkNjZfSllKZFhxbHdLWGFlWmhHbkZiMDEtbnFHZHM1VGhWUHp1Z1ViUU04TmZNR3pvVjRzeQ?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT"
-            },
-            {
-              "title": "英伟达红队发布AI Agent安全实践指南 - 安全内参",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYaHNMV1N3UTNXR2JVS2Vhb0lpelB6YU1PdUVSdmdXTkdVZjAzTGRjMHlHSGh3NWV0VWtrTXZuSUFwTllaMjlWX242MzNMUQ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 09 Feb 2026 08:00:00 GMT"
             }
           ]
         },
@@ -1207,7 +1200,7 @@
               "publishedAt": "Fri, 27 Feb 2026 01:59:46 GMT"
             },
             {
-              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36 Kr",
+              "title": "聊聊“动态磁贴”悄然消亡的这十几年…… - 36Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMzUzdWNndmliZFZzODRjYVlSMnVIaXY5QmZ0Qm9ZcGJPb0xJbWg3V09fcWNfUnFzZ0Vqc1JhR0tRX0swV0NKQ2tfbDhkUQ?oc=5",
               "source": "Google News",
               "publishedAt": "Wed, 25 Feb 2026 16:34:00 GMT"
