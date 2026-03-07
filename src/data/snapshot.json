@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-07T18:42:10.912Z",
+  "generatedAt": "2026-03-07T20:33:08.012Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -15,12 +15,6 @@
           "title": "技术突破",
           "query": "AI breakthrough",
           "items": [
-            {
-              "title": "深度原理完成A2轮融资 - 新浪网",
-              "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQcERUaHlEU0ROTHZ0Mm1CRUVzV25mVzJLQmdhbmdDZ1V4ZlFudThJREVTQjdSZW5haV80Y3VEZXJDWlhUWU1oMjlzV01uVTQ5cjR4UDA3VDZIdzF4bEVYZzB0OVdEOXVHQVI3M2M5OFo5R2VUTGpKTmhJYnowM2lPcFFzYW9Zd0ZEVFJmUTdKUk90LWpHSXZtcl9DUXZwZmVocW01TEhSRjJCNkMxTWNMbVNySmFBdGwyYW9NZVRCRGFueUxuUnUwc3dwRTFQdV9UcUlMUXc3WEpkUWtBNE9DTTBxdmFQaDZaekpqanlsZGxMZnNfUGhSUjB0d1VXbDlaQXRJNktNOEQ2a19pN1FYb09QS3R5OU5wR1VnTW9tOXI4bHVqWWZDX2JnUFB1TE1fcGNCcGJtdzItMkhkc251cDVaM0VHc1IxMkszcms2TFdDbFg0bmtSZGhsRVh6UmIxaE5yR1pTd3pwb3duTnNNZ3c0dVdqUEtObHdPMWxkU3J0blpIdlpKdEs1N0tCNFY2N0pwY1l1Qmxpb0hNbEsyTDdMTU1sSGkzRHRCLVRMdw?oc=5",
-              "source": "Google News",
-              "publishedAt": "Sat, 07 Mar 2026 10:17:24 GMT"
-            },
             {
               "title": "MEM机器人系统突破：实时纠错学习与长期记忆融合，稳定完成15分钟以上任务| AI快讯详情 - blockchain.news",
               "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ2QzUHIzLUZzR3c3NmI1U0xsNUlNU0tnajFUY2t0VEI0d2FTOVdmZWxmRUlBVUJaNzFiRTVfV1prOXVkY2QyMGtoSjNfWlh5eU5ZMFNDZTVkWU1ONHc1SHdCbTRiNmlzRnVOcy0xMXV4OGxNYUUtcl9hdHZ1eXZveE5rUGluRG8tYkpIZG5vVk5rN3ZianpBVjd6LVZWQlp4b3k1R2xwRmdpRDQzOEdXRUF2b2JtT0s5bG5yWjIwS2xzZTlFQklZX3hPSEw4R2ZiT3Q3S0Rn?oc=5",
@@ -44,7 +38,7 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "华为专家详解“U6G”频谱为何重要-观察者网 - 观察者",
+              "title": "华为专家详解“U6G”频谱为何重要 - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03V3NIVS03Qlk4aHpHdUxwWXdDYXRrUUlyVEZqdFZWTHkzdHo0NzBzU1lHd2UtaUlOdWQtMzNKVVBBTkhaaThqclRRSEQ2YUYtc3k0WXhpUG1kcTdMeGRQYVFwMEU?oc=5",
               "source": "Google News",
               "publishedAt": "Sat, 07 Mar 2026 11:29:00 GMT"
@@ -62,6 +56,12 @@
               "publishedAt": "Sat, 07 Mar 2026 16:26:40 GMT"
             },
             {
+              "title": "全国政协委员、京东集团技术委员会主席曹鹏：AI产业要从规模扩张转向效能提升 - 上海证券报电子版",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJWWpUTmp0Zk9Ua3VYOHF4TnNfdWpzSFFnUEhNRUZiYnFDZ1BfUW5NREdkVEU4cWpQc2t5LWwxQWJEa1BvSjE0YUs3aG9PLUw2Q29VQlZFM2ZYdmtNeENkc3ZQTlNzVFNNOVpsT3VB?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sat, 07 Mar 2026 18:43:25 GMT"
+            },
+            {
               "title": "比亚迪海豹08首发亮相 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CYVFBRjdTaWJQNkdaakZmMFdhbldaOTFLNGtDTGRHOGxoYk51b3JBR21kenFTcGNQLUFJaEtVdDBZdkNsdUZRbWRDa21WRU1GQjBUU0R6OFdKd1pEXy0zSDBwRnRsXy1FS1NSdmFXbktxejVUTTBnLQ?oc=5",
               "source": "Google News",
@@ -72,12 +72,6 @@
               "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFRfNlpVLThfcEMzdGNWSmhiYzk2RFlGVDBlWW9Ib1NCLWRRT2JGQVlfYTdJNDNuWE9GUXllalBJcmI0cW4tcFJvNXMtZXZkeGplNk9DVmNzbzFqVkhoelEyNVpTX19uZVduTERGb0xoX0U1NW1wYmdIa2lTRF9GZ2l6d0FfeExfOHZJeWhlNFFiTWI4MElBVWR0cXFsSzUtU0ZaUTE0SQ?oc=5",
               "source": "Google News",
               "publishedAt": "Sat, 07 Mar 2026 13:19:23 GMT"
-            },
-            {
-              "title": "AI界卷起“养龙虾”风暴！腾讯免费装、小米也“造虾”，大厂参与的逻辑是什么？ - 每日经济新闻",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0MGVtb09hWlJwUWJPQ3Npd0pTdWg5akJhOFFOMkV5QW1MZ3FORWRsakY0WF9FQUNteWZ3MHRSVmxwd2R1eVpjZ2E4enVfR25zckhSS3gzQy1KY1RqT3U4Q01SMUFSUQ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Sat, 07 Mar 2026 05:40:00 GMT"
             }
           ]
         },
@@ -259,7 +253,7 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "华为专家详解“U6G”频谱为何重要-观察者网 - 观察者",
+              "title": "华为专家详解“U6G”频谱为何重要 - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03V3NIVS03Qlk4aHpHdUxwWXdDYXRrUUlyVEZqdFZWTHkzdHo0NzBzU1lHd2UtaUlOdWQtMzNKVVBBTkhaaThqclRRSEQ2YUYtc3k0WXhpUG1kcTdMeGRQYVFwMEU?oc=5",
               "source": "Google News",
               "publishedAt": "Sat, 07 Mar 2026 11:29:00 GMT"
@@ -277,22 +271,22 @@
               "publishedAt": "Sat, 07 Mar 2026 16:26:40 GMT"
             },
             {
+              "title": "全国政协委员、京东集团技术委员会主席曹鹏：AI产业要从规模扩张转向效能提升 - 上海证券报电子版",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJWWpUTmp0Zk9Ua3VYOHF4TnNfdWpzSFFnUEhNRUZiYnFDZ1BfUW5NREdkVEU4cWpQc2t5LWwxQWJEa1BvSjE0YUs3aG9PLUw2Q29VQlZFM2ZYdmtNeENkc3ZQTlNzVFNNOVpsT3VB?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sat, 07 Mar 2026 18:43:25 GMT"
+            },
+            {
               "title": "比亚迪海豹08首发亮相 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CYVFBRjdTaWJQNkdaakZmMFdhbldaOTFLNGtDTGRHOGxoYk51b3JBR21kenFTcGNQLUFJaEtVdDBZdkNsdUZRbWRDa21WRU1GQjBUU0R6OFdKd1pEXy0zSDBwRnRsXy1FS1NSdmFXbktxejVUTTBnLQ?oc=5",
               "source": "Google News",
               "publishedAt": "Sat, 07 Mar 2026 16:01:00 GMT"
             },
             {
-              "title": "“龙虾”狂欢②腾讯免费安装近千人排队，小米发布“手机龙虾”|腾讯云|云服务|OpenClaw|智能体|服务_手机新浪网 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFRfNlpVLThfcEMzdGNWSmhiYzk2RFlGVDBlWW9Ib1NCLWRRT2JGQVlfYTdJNDNuWE9GUXllalBJcmI0cW4tcFJvNXMtZXZkeGplNk9DVmNzbzFqVkhoelEyNVpTX19uZVduTERGb0xoX0U1NW1wYmdIa2lTRF9GZ2l6d0FfeExfOHZJeWhlNFFiTWI4MElBVWR0cXFsSzUtU0ZaUTE0SQ?oc=5",
+              "title": "华为斩获GTI Awards 2026六项大奖，彰显行业硬实力- 华为 - Huawei",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jWEtrZ3BUblNqQ0x4SVI1Zmk5SzN0ZTE5M2hyTEs3RmxKYmxIVVZSSEt0V21ZU3Brb2wtWTByRVJLbkVHdXByZXNabm1MWlhGWEFGdGlXMURHUm8zcjdHMXQySQ?oc=5",
               "source": "Google News",
-              "publishedAt": "Sat, 07 Mar 2026 13:19:23 GMT"
-            },
-            {
-              "title": "AI界卷起“养龙虾”风暴！腾讯免费装、小米也“造虾”，大厂参与的逻辑是什么？ - 每日经济新闻",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0MGVtb09hWlJwUWJPQ3Npd0pTdWg5akJhOFFOMkV5QW1MZ3FORWRsakY0WF9FQUNteWZ3MHRSVmxwd2R1eVpjZ2E4enVfR25zckhSS3gzQy1KY1RqT3U4Q01SMUFSUQ?oc=5",
-              "source": "Google News",
-              "publishedAt": "Sat, 07 Mar 2026 05:40:00 GMT"
+              "publishedAt": "Fri, 06 Mar 2026 18:28:06 GMT"
             }
           ]
         },
@@ -325,16 +319,16 @@
               "publishedAt": "Thu, 05 Mar 2026 07:04:54 GMT"
             },
             {
-              "title": "Agentic Core Networks，赋能6G，开启商业新空间 - 同花顺财经",
+              "title": "Agentic Core Networks，赋能6G，开启商业新空间 - 同花顺",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aVmsyRWM2aDZnOEFJd1dHazZuVjRpeWlQWkxTUDBBalBhc0gyeENnMmJJUkcwRWpXMDN3ZGpGVmtKQkZGQ3gzeXpjSGRDR1cySURBU3BhYWs0U0tXd0E?oc=5",
               "source": "Google News",
               "publishedAt": "Fri, 06 Mar 2026 12:44:22 GMT"
             },
             {
-              "title": "Agentic Core，打造“端网业”协同的智能体网络-AI云资讯 - icloudnews.net",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xYUFJTnhxb09vV2ZjMmRSbDIyTWxsV2YtcUZzZ3lzQkNybmJka28wM1FRbWx5QjlqREdBT3U2NVNmc2JkQ2VJU1VvRXhEN2lQOXc?oc=5",
+              "title": "MWC 2026三星：个人AI进阶，工业AI启幕-AI云资讯 - icloudnews.net",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxckVvbFVKVWd4LXZlWm1UMGhINmtNWGctb1BnN1lVVmhCUm5FcXljSFplZ2c3TjV5R1BLcUhTbzZNTG15MHVoeVAzdWNSVEZqZFE?oc=5",
               "source": "Google News",
-              "publishedAt": "Fri, 06 Mar 2026 22:40:16 GMT"
+              "publishedAt": "Sat, 07 Mar 2026 11:22:15 GMT"
             }
           ]
         },
@@ -441,15 +435,9 @@
             },
             {
               "title": "深度原理完成A2轮融资 - 新浪网",
-              "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxORmp5VGJzTE94NGoySUl1NFQ2aTUzWl90QXBURmpFZ0htaHN6TWtCRkpBcUt5ckN6T1ozU0h3UlhOazI4YmlRQndSNDY1TkVkUWlqVHRZLXd0UTdmZmphdDhKQzhsM3NNVW1YV3h5YTVYekx0U1FuR1Fub3FBdUhYdmlWSHg1S2YzNWtWT2hucXRmcWZzREotc2NmM2VfbmRpUE02amRmUUdqWHFJNGk2NE11VWJBNnBnWFIxc19OaXFRRDlfMDZ6WkNIQ3FYLUZPMUloX2gyT1VWRXRLc25idU5TTmtFYlhRQjlOUHp3M1pUY21yMDZpbUQyT3dLRFhKbC1JLTNlUFpqaWFoQVQzZ2dBNkpRV29fS0NsUFZ2YTZCMnVSNVlENHJQZWxoVGh3c0M5S1RrY1NYOGczOHVMQkM3d3FfcXJEb0lycVpRdTZnQ1ZkZFBMUGN5N2xCcHJCMWN0bnB0cFE?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZmc3N05OS3YzeGE1am91aEwycHIyaENySGplbW9xc0NqUFZ0amJHR0U2VUN1bHhMV0FscjNubzYzXzNMbW1yLTJnS0xIRVF3bHJFVmJKOTRDdWRZSHl2eWt5eHJJYzhwMHVxaDB5emhLWFo5cHFkRHZiZFRoX25XOEhnSUNNMmRKZEtNM0ZWWjYyUk11ZTJyN0NkV2VNWURfeWh2SDctcUV5OHdSXzVLUE9JUzllM0dCWUw1NmpHY193Y2FYcUtqU2RDaw?oc=5",
               "source": "Google News",
-              "publishedAt": "Fri, 06 Mar 2026 11:21:38 GMT"
-            },
-            {
-              "title": "即将上线｜万鑫智投：以AI赋能资产管理，以合规构筑长期信任 - 中华网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BTTEwdTBsRVB1bk9vRkd0cWtSV092X2tLcVVZOU1MRGtvN3JYMm50ODNrWDJOa2QwOWNHVFdlcTFPaVI4enhSOXpDcnE1eEJTWktaUEdXWHc5Q1pKbUE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 07:37:59 GMT"
+              "publishedAt": "Sat, 07 Mar 2026 07:53:42 GMT"
             },
             {
               "title": "OMP推出决策导向型规划方案，加速供应链决策速度 - JCN Newswire",
@@ -462,6 +450,12 @@
               "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uVlhNM3pfYWFOTTUtV0RLbVR0WjZSS3RTOUc2eWx3dTkxQUJsSGNoRVphTHZzd1BBUjBCYlgwc1J6RVpwRFVvd1lQYWE4djdrQVJCQW9pb3pFM3MyZDVIVFJER3MzT1BZdTUzMTBkNHBfaXRTMlN4VFctR0R6QQ?oc=5",
               "source": "Google News",
               "publishedAt": "Thu, 05 Mar 2026 09:57:00 GMT"
+            },
+            {
+              "title": "英伟达及其合作伙伴展示软件定义的AI-RAN是下一代无线通信技术 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVZoWkhLNEdWVklfbjhEazgzczZhdE5lTUQ0dmh5Wl9Qb0c2NWpDbDhYdDZNZFR0ZXBKTlh1M3FIUW1ScVM4aUZja3diMG5xX3JaX3hjRTRONWhwSVpVQzh4NW9ObVpRZ3hPRTYwS1lGT0h1Q00zNlFMRzZpejZWSlVreERoRGdLdDduVWp4UTlVQWdjYVJDN0NR?oc=5",
+              "source": "Google News",
+              "publishedAt": "Tue, 03 Mar 2026 02:14:55 GMT"
             }
           ]
         },
@@ -482,12 +476,6 @@
               "publishedAt": "Wed, 04 Mar 2026 14:00:00 GMT"
             },
             {
-              "title": "Global Humanoid Robot Leader AgiBot Taps Minth Group to Drive European Rollout - Yicai Global",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGJDSjNOUXB3LVowdFB0VDZCZjdmazNzVVhpdlJBcUlmMGl1NHBIbS1WaEhOT0RUeno1ZWJxa1gwVVJJMHRuS28yeDRQTmttTTh6dmZ1YmhjaGZvY1R3bnBsSDFYTVcya29MOVkyYW9rUGpjak52OVVkLWlTZUcxNHJ5SGQtRUdSTHdmY2lBUmxBdUFjYkd1SDBqbFRHZVUtV2RSLUFzT09lOWMyY2tiWA?oc=5",
-              "source": "Google News",
-              "publishedAt": "Sat, 28 Feb 2026 20:29:47 GMT"
-            },
-            {
               "title": "Salesforce Unveils Revamped Slackbot AI Agent, Intensifying Workplace AI Battle - ekhbary.com",
               "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUZPWDNHaUxBbjlHWWl6M25DNHpWUl82M0RoeU5WWUhBNW9KUGlxXzd6SF93LThxamM2MDh0QUluUHJ5YWRuSVB0cjZhZk9DeXRyV3RwTmVwYVFWQW5PaEFmR1M1TjJNX3prV2hQaVdJVnVPQ2o2OHlLTHk4ZjMzNWRGVEllbG41alZEVTJxWmZSd20yWHJTbEdhb0RlWklTcHk4MVRqOFNJUi1PREdPVmtlOXlfdmtqNDZnWUlvYw?oc=5",
               "source": "Google News",
@@ -505,7 +493,7 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "华为专家详解“U6G”频谱为何重要-观察者网 - 观察者",
+              "title": "华为专家详解“U6G”频谱为何重要 - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03V3NIVS03Qlk4aHpHdUxwWXdDYXRrUUlyVEZqdFZWTHkzdHo0NzBzU1lHd2UtaUlOdWQtMzNKVVBBTkhaaThqclRRSEQ2YUYtc3k0WXhpUG1kcTdMeGRQYVFwMEU?oc=5",
               "source": "Google News",
               "publishedAt": "Sat, 07 Mar 2026 11:29:00 GMT"
@@ -523,6 +511,12 @@
               "publishedAt": "Sat, 07 Mar 2026 16:26:40 GMT"
             },
             {
+              "title": "全国政协委员、京东集团技术委员会主席曹鹏：AI产业要从规模扩张转向效能提升 - 上海证券报电子版",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJWWpUTmp0Zk9Ua3VYOHF4TnNfdWpzSFFnUEhNRUZiYnFDZ1BfUW5NREdkVEU4cWpQc2t5LWwxQWJEa1BvSjE0YUs3aG9PLUw2Q29VQlZFM2ZYdmtNeENkc3ZQTlNzVFNNOVpsT3VB?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sat, 07 Mar 2026 18:43:25 GMT"
+            },
+            {
               "title": "比亚迪海豹08首发亮相 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CYVFBRjdTaWJQNkdaakZmMFdhbldaOTFLNGtDTGRHOGxoYk51b3JBR21kenFTcGNQLUFJaEtVdDBZdkNsdUZRbWRDa21WRU1GQjBUU0R6OFdKd1pEXy0zSDBwRnRsXy1FS1NSdmFXbktxejVUTTBnLQ?oc=5",
               "source": "Google News",
@@ -533,12 +527,6 @@
               "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFRfNlpVLThfcEMzdGNWSmhiYzk2RFlGVDBlWW9Ib1NCLWRRT2JGQVlfYTdJNDNuWE9GUXllalBJcmI0cW4tcFJvNXMtZXZkeGplNk9DVmNzbzFqVkhoelEyNVpTX19uZVduTERGb0xoX0U1NW1wYmdIa2lTRF9GZ2l6d0FfeExfOHZJeWhlNFFiTWI4MElBVWR0cXFsSzUtU0ZaUTE0SQ?oc=5",
               "source": "Google News",
               "publishedAt": "Sat, 07 Mar 2026 13:19:23 GMT"
-            },
-            {
-              "title": "华为发布SmartCare Intelligence解决方案，驱动体验提升与收入增长- 华为 - Huawei",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ib0hBNUNwLXJ4ZmZJeWJWNGd4VGdGcFNwWHVIenlzdzV4NjZNVjhSLUZrZGdxYWJLUy1maWpIMGdyNk9hUFppQzNjb2NQWHB2Q0RkMnpQVlFBaGZiVzNnSUIyTmhCMEdZaHlqUERCTUs?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 17:58:32 GMT"
             }
           ]
         },
@@ -705,16 +693,16 @@
               "publishedAt": "Fri, 06 Mar 2026 11:21:38 GMT"
             },
             {
-              "title": "即将上线｜万鑫智投：以AI赋能资产管理，以合规构筑长期信任 - 中华网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BTTEwdTBsRVB1bk9vRkd0cWtSV092X2tLcVVZOU1MRGtvN3JYMm50ODNrWDJOa2QwOWNHVFdlcTFPaVI4enhSOXpDcnE1eEJTWktaUEdXWHc5Q1pKbUE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 07:37:59 GMT"
-            },
-            {
               "title": "凯时更新最新: Revolutionizing Virtual Sports Experience with Breakthrough AI-Powered Engine - 3DM",
               "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GVDBlQ1BrZFJSUGZMQmdFYnFEbHoyVndMQlRuUWI4Vzl5XzRyX3BUR0hLNWZ6N2V2X0pKbmV1V3kyTHNJTDBkRzJLUFVmVmcwOVJsVnpSa1lMRVhx?oc=5",
               "source": "Google News",
               "publishedAt": "Tue, 24 Feb 2026 18:53:12 GMT"
+            },
+            {
+              "title": "OMP推出决策导向型规划方案，加速供应链决策速度 - JCN Newswire",
+              "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPU2MweF91Yy10dzM2MlN0Y2ljUklHRDF2eDduajc5dFBWNW1BaEVqQnpFeWRab3dmaHdybXYtSnJZXzFaRm4tTjllMDJvU3BiQnZ6VWx1WWpCczh3Z0hpV0pEQUZVcjgwdEZibVU5Zl9Sb01uNjlLNlhvS3VPcmxhMXdRYkxqRy1DTkljWGhzMk85alBTSlJhZkRhVWUza3gtZHRwUVVVUkhSZG9zTTRYV1BoZzRqeEpNX3U2WXh5TzdyMDZEZlA5R0ltWG5LYWZGcDdjcGN3VmxCRWZueE9tS243bGplODY0aWVnUm93V0E0eElHWEs4YzZVU0NJSExYcHluZ0N4d2dTVHU0UlB2cXhOcE82MjFaS3AwMTBNamRlaFptVjIxVDFBQm1Xc1BKWThyVGJkSlF3NHBzWmFTVmFYNDF4UDl4UXFHLVZUZ291cVFDOUtLTXkyZkpzd1o5M1VtSXVuTmdkUQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Tue, 03 Mar 2026 13:00:00 GMT"
             }
           ]
         },
@@ -727,12 +715,6 @@
               "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjVIb3hndnd6SUk0YjViVExEVDBkZW5haEJub3V5dk5kQWpHSmJUdkgtUXMzQWJtV2xsYlFyTFVpQ2cxZlNDckstaVBZNjd0TkVSdFFjemJtYm1ka3dEUDJ6R2FXZWhsS0pOaF9KOG1xR0xhaHo4Z1NBNlFId0Mwb2ZORjdBLUIzREJ5UjNuNU1lNGdxd2ViUkNvUHY0c3JpSDhlQ1NCR1p1R2hXbDFF?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 14:00:00 GMT"
-            },
-            {
-              "title": "Stagwell 推出了Stagwell Search+：业界首个赢得AI 搜索的代理平台。 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMU9lM00xQVpRNDRFaEFPVEMwQk5CYlUwSVktV1dqZWczTUtQSGlSQVBzOWxKOXFpaEdJSGE1M0dUYldfMEJDNHJ6SWdQX0U3Y2NBUW9OUzV0VE5lUTBsdzFYcWdzZUlzT2JEaC1vQ0NwNWJsbWRYYWwteW8tVGpFaXJNVXZRMVhha055eGRwdURxWHhRampSR0lNdEpCN3pjamF1dlBoVzVET080Nmc?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 13:30:00 GMT"
             },
             {
               "title": "TIAN RUIXIANG 推出了行业首创的BTC 质押服务，结合了人工智能驱动的收益保险，并推出了完全自主的人工智能保险代理，可实现即时承保与理赔结算。 - 富途牛牛",
@@ -764,7 +746,7 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "华为专家详解“U6G”频谱为何重要-观察者网 - 观察者",
+              "title": "华为专家详解“U6G”频谱为何重要 - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03V3NIVS03Qlk4aHpHdUxwWXdDYXRrUUlyVEZqdFZWTHkzdHo0NzBzU1lHd2UtaUlOdWQtMzNKVVBBTkhaaThqclRRSEQ2YUYtc3k0WXhpUG1kcTdMeGRQYVFwMEU?oc=5",
               "source": "Google News",
               "publishedAt": "Sat, 07 Mar 2026 11:29:00 GMT"
@@ -782,22 +764,22 @@
               "publishedAt": "Sat, 07 Mar 2026 16:26:40 GMT"
             },
             {
+              "title": "全国政协委员、京东集团技术委员会主席曹鹏：AI产业要从规模扩张转向效能提升 - 上海证券报电子版",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJWWpUTmp0Zk9Ua3VYOHF4TnNfdWpzSFFnUEhNRUZiYnFDZ1BfUW5NREdkVEU4cWpQc2t5LWwxQWJEa1BvSjE0YUs3aG9PLUw2Q29VQlZFM2ZYdmtNeENkc3ZQTlNzVFNNOVpsT3VB?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sat, 07 Mar 2026 18:43:25 GMT"
+            },
+            {
               "title": "比亚迪海豹08首发亮相 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CYVFBRjdTaWJQNkdaakZmMFdhbldaOTFLNGtDTGRHOGxoYk51b3JBR21kenFTcGNQLUFJaEtVdDBZdkNsdUZRbWRDa21WRU1GQjBUU0R6OFdKd1pEXy0zSDBwRnRsXy1FS1NSdmFXbktxejVUTTBnLQ?oc=5",
               "source": "Google News",
               "publishedAt": "Sat, 07 Mar 2026 16:01:00 GMT"
             },
             {
-              "title": "“龙虾”狂欢②腾讯免费安装近千人排队，小米发布“手机龙虾”|腾讯云|云服务|OpenClaw|智能体|服务_手机新浪网 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFRfNlpVLThfcEMzdGNWSmhiYzk2RFlGVDBlWW9Ib1NCLWRRT2JGQVlfYTdJNDNuWE9GUXllalBJcmI0cW4tcFJvNXMtZXZkeGplNk9DVmNzbzFqVkhoelEyNVpTX19uZVduTERGb0xoX0U1NW1wYmdIa2lTRF9GZ2l6d0FfeExfOHZJeWhlNFFiTWI4MElBVWR0cXFsSzUtU0ZaUTE0SQ?oc=5",
+              "title": "华为斩获GTI Awards 2026六项大奖，彰显行业硬实力- 华为 - Huawei",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jWEtrZ3BUblNqQ0x4SVI1Zmk5SzN0ZTE5M2hyTEs3RmxKYmxIVVZSSEt0V21ZU3Brb2wtWTByRVJLbkVHdXByZXNabm1MWlhGWEFGdGlXMURHUm8zcjdHMXQySQ?oc=5",
               "source": "Google News",
-              "publishedAt": "Sat, 07 Mar 2026 13:19:23 GMT"
-            },
-            {
-              "title": "华为发布SmartCare Intelligence解决方案，驱动体验提升与收入增长- 华为 - Huawei",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ib0hBNUNwLXJ4ZmZJeWJWNGd4VGdGcFNwWHVIenlzdzV4NjZNVjhSLUZrZGdxYWJLUy1maWpIMGdyNk9hUFppQzNjb2NQWHB2Q0RkMnpQVlFBaGZiVzNnSUIyTmhCMEdZaHlqUERCTUs?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 17:58:32 GMT"
+              "publishedAt": "Fri, 06 Mar 2026 18:28:06 GMT"
             }
           ]
         },
@@ -964,16 +946,16 @@
               "publishedAt": "Sat, 07 Mar 2026 07:53:42 GMT"
             },
             {
-              "title": "即将上线｜万鑫智投：以AI赋能资产管理，以合规构筑长期信任 - 中华网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BTTEwdTBsRVB1bk9vRkd0cWtSV092X2tLcVVZOU1MRGtvN3JYMm50ODNrWDJOa2QwOWNHVFdlcTFPaVI4enhSOXpDcnE1eEJTWktaUEdXWHc5Q1pKbUE?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 07:37:59 GMT"
-            },
-            {
               "title": "凯时更新最新: Revolutionizing Virtual Sports Experience with Breakthrough AI-Powered Engine - 3DM",
               "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GVDBlQ1BrZFJSUGZMQmdFYnFEbHoyVndMQlRuUWI4Vzl5XzRyX3BUR0hLNWZ6N2V2X0pKbmV1V3kyTHNJTDBkRzJLUFVmVmcwOVJsVnpSa1lMRVhx?oc=5",
               "source": "Google News",
               "publishedAt": "Tue, 24 Feb 2026 18:53:12 GMT"
+            },
+            {
+              "title": "OMP推出决策导向型规划方案，加速供应链决策速度 - JCN Newswire",
+              "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPU2MweF91Yy10dzM2MlN0Y2ljUklHRDF2eDduajc5dFBWNW1BaEVqQnpFeWRab3dmaHdybXYtSnJZXzFaRm4tTjllMDJvU3BiQnZ6VWx1WWpCczh3Z0hpV0pEQUZVcjgwdEZibVU5Zl9Sb01uNjlLNlhvS3VPcmxhMXdRYkxqRy1DTkljWGhzMk85alBTSlJhZkRhVWUza3gtZHRwUVVVUkhSZG9zTTRYV1BoZzRqeEpNX3U2WXh5TzdyMDZEZlA5R0ltWG5LYWZGcDdjcGN3VmxCRWZueE9tS243bGplODY0aWVnUm93V0E0eElHWEs4YzZVU0NJSExYcHluZ0N4d2dTVHU0UlB2cXhOcE82MjFaS3AwMTBNamRlaFptVjIxVDFBQm1Xc1BKWThyVGJkSlF3NHBzWmFTVmFYNDF4UDl4UXFHLVZUZ291cVFDOUtLTXkyZkpzd1o5M1VtSXVuTmdkUQ?oc=5",
+              "source": "Google News",
+              "publishedAt": "Tue, 03 Mar 2026 13:00:00 GMT"
             }
           ]
         },
@@ -986,12 +968,6 @@
               "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjVIb3hndnd6SUk0YjViVExEVDBkZW5haEJub3V5dk5kQWpHSmJUdkgtUXMzQWJtV2xsYlFyTFVpQ2cxZlNDckstaVBZNjd0TkVSdFFjemJtYm1ka3dEUDJ6R2FXZWhsS0pOaF9KOG1xR0xhaHo4Z1NBNlFId0Mwb2ZORjdBLUIzREJ5UjNuNU1lNGdxd2ViUkNvUHY0c3JpSDhlQ1NCR1p1R2hXbDFF?oc=5",
               "source": "Google News",
               "publishedAt": "Mon, 02 Mar 2026 14:00:00 GMT"
-            },
-            {
-              "title": "Stagwell 推出了Stagwell Search+：业界首个赢得AI 搜索的代理平台。 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMU9lM00xQVpRNDRFaEFPVEMwQk5CYlUwSVktV1dqZWczTUtQSGlSQVBzOWxKOXFpaEdJSGE1M0dUYldfMEJDNHJ6SWdQX0U3Y2NBUW9OUzV0VE5lUTBsdzFYcWdzZUlzT2JEaC1vQ0NwNWJsbWRYYWwteW8tVGpFaXJNVXZRMVhha055eGRwdURxWHhRampSR0lNdEpCN3pjamF1dlBoVzVET080Nmc?oc=5",
-              "source": "Google News",
-              "publishedAt": "Mon, 02 Mar 2026 13:30:00 GMT"
             },
             {
               "title": "Earnings call transcript: NetEase Q4 2025 misses forecasts, stock dips - Investing.com UK",
@@ -1022,21 +998,14 @@
         {
           "title": "国外大厂动作",
           "query": "(Microsoft OR Google OR Alphabet OR Amazon OR Meta OR Apple OR IBM OR Oracle OR Salesforce OR NVIDIA OR AMD OR Intel OR Qualcomm OR Arm OR OpenAI OR Anthropic OR Cohere OR xAI OR Hugging Face OR Mistral AI OR Databricks OR Snowflake OR Palantir OR ServiceNow) AI",
-          "items": [
-            {
-              "title": "新的 Apple 系统更新生成严重电池故障和 Face ID 阻止的报告 - Mix Vale",
-              "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOelZxeXR1ZEFPR2d5ZGNqbHlvVjRZdVphSDhMZFBCU3hXSkZNcm5MNzVwcVNMQ1hQWVl3Ukp5eWl6WTFQeENWWWUwZThOOGIwemdvbWhIby1zS3pJYmgySzNLMnZfVWpZRXdsYjQ4Qkd5OEs2U3pGaTVJX3Nsd0tHeV9xOHBzQTNqel9zLWEtZDFsYXU1X0duLURMYjQwZU4wMVVFYkFYWnM2ZUt4eGJnX3poLVJ1RlIxQW9wS0h4QmplemxrbHR2ODlXcDNqZnl0WlVMTW1qS2hBZXBKd2xJTHdYRUQzUTJmdkpPYjVVWVdYYlRwNmw5OExCVFduajBsZzVocFAxTUxJT2NkMVNPNmZVWWstRlBNSGhJdlV2YVVJX2VOODQ0U1dWenVIVF84Q1VDakU1d2UwRG5IblZaOGducmVJRzY0MGtKQV9McktFOU5JMlhzTDVB0gHfAkFVX3lxTE84NFVDZGlGQmV4eU0xYUxhb0hZcWhvNWFXNXpvTC1zYkZsb1VMbjR1aHl2ZFdQVkw2bjNMSDJiOER5N09fMWRlZ01xZVVud3h5bExPQmUzbTVRSW9uQWF1UzFVdkhHdDZKUkJnZnktdVVEeFJ3YjVib1k1bUxBWFVsOHFGT1Qzd1dVb2d5UVU1cERmVFpRVGl4azNHaEhwdGFDX2MxSTBJMTloVmFtOUhjSkZNdFl1TFdFdldqcndSeGo0TVV0ZS1VNTFtQ3Y0WlhRdFhfZkFiY3VWOWdwcnNHVU5zM01FdERXWUE1NUctVGVaRWFnekJkYlhVLWprbFZFaFlWN192ZEc3eGhGdTc1UUFBRkVnYmZFZW9jNDNUUEU5MFNJY2wySFdLRnlWX29SOTZfcTRkemRXV2FkV0R3Ui1zMUF6VHhraFZuSmJfbWFpSzlkaUREMDhuLU5aZw?oc=5",
-              "source": "Google News",
-              "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT"
-            }
-          ]
+          "items": []
         },
         {
           "title": "国内大厂动作",
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "华为专家详解“U6G”频谱为何重要-观察者网 - 观察者",
+              "title": "华为专家详解“U6G”频谱为何重要 - 观察者",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03V3NIVS03Qlk4aHpHdUxwWXdDYXRrUUlyVEZqdFZWTHkzdHo0NzBzU1lHd2UtaUlOdWQtMzNKVVBBTkhaaThqclRRSEQ2YUYtc3k0WXhpUG1kcTdMeGRQYVFwMEU?oc=5",
               "source": "Google News",
               "publishedAt": "Sat, 07 Mar 2026 11:29:00 GMT"
@@ -1054,22 +1023,22 @@
               "publishedAt": "Sat, 07 Mar 2026 16:26:40 GMT"
             },
             {
+              "title": "全国政协委员、京东集团技术委员会主席曹鹏：AI产业要从规模扩张转向效能提升 - 上海证券报电子版",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJWWpUTmp0Zk9Ua3VYOHF4TnNfdWpzSFFnUEhNRUZiYnFDZ1BfUW5NREdkVEU4cWpQc2t5LWwxQWJEa1BvSjE0YUs3aG9PLUw2Q29VQlZFM2ZYdmtNeENkc3ZQTlNzVFNNOVpsT3VB?oc=5",
+              "source": "Google News",
+              "publishedAt": "Sat, 07 Mar 2026 18:43:25 GMT"
+            },
+            {
               "title": "比亚迪海豹08首发亮相 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CYVFBRjdTaWJQNkdaakZmMFdhbldaOTFLNGtDTGRHOGxoYk51b3JBR21kenFTcGNQLUFJaEtVdDBZdkNsdUZRbWRDa21WRU1GQjBUU0R6OFdKd1pEXy0zSDBwRnRsXy1FS1NSdmFXbktxejVUTTBnLQ?oc=5",
               "source": "Google News",
               "publishedAt": "Sat, 07 Mar 2026 16:01:00 GMT"
             },
             {
-              "title": "“龙虾”狂欢②腾讯免费安装近千人排队，小米发布“手机龙虾”|腾讯云|云服务|OpenClaw|智能体|服务_手机新浪网 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFRfNlpVLThfcEMzdGNWSmhiYzk2RFlGVDBlWW9Ib1NCLWRRT2JGQVlfYTdJNDNuWE9GUXllalBJcmI0cW4tcFJvNXMtZXZkeGplNk9DVmNzbzFqVkhoelEyNVpTX19uZVduTERGb0xoX0U1NW1wYmdIa2lTRF9GZ2l6d0FfeExfOHZJeWhlNFFiTWI4MElBVWR0cXFsSzUtU0ZaUTE0SQ?oc=5",
+              "title": "华为斩获GTI Awards 2026六项大奖，彰显行业硬实力- 华为 - Huawei",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jWEtrZ3BUblNqQ0x4SVI1Zmk5SzN0ZTE5M2hyTEs3RmxKYmxIVVZSSEt0V21ZU3Brb2wtWTByRVJLbkVHdXByZXNabm1MWlhGWEFGdGlXMURHUm8zcjdHMXQySQ?oc=5",
               "source": "Google News",
-              "publishedAt": "Sat, 07 Mar 2026 13:19:23 GMT"
-            },
-            {
-              "title": "华为发布SmartCare Intelligence解决方案，驱动体验提升与收入增长- 华为 - Huawei",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ib0hBNUNwLXJ4ZmZJeWJWNGd4VGdGcFNwWHVIenlzdzV4NjZNVjhSLUZrZGdxYWJLUy1maWpIMGdyNk9hUFppQzNjb2NQWHB2Q0RkMnpQVlFBaGZiVzNnSUIyTmhCMEdZaHlqUERCTUs?oc=5",
-              "source": "Google News",
-              "publishedAt": "Wed, 04 Mar 2026 17:58:32 GMT"
+              "publishedAt": "Fri, 06 Mar 2026 18:28:06 GMT"
             }
           ]
         },
