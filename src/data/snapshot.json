@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T20:40:30.092Z",
+  "generatedAt": "2026-03-11T22:33:18.533Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -67,17 +67,25 @@
           "query": "AI product launch",
           "items": [
             {
+              "title": "China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy - Sinocism | Bill Bishop",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UFNFc3VkUUpZS1h2c0hnY1BiMmZaaHJodG42NUZVbDEzTmcyeVZFUTNic2U0TUQwWHd3Q191Nl9vX2M3T2ZmV3JXTld4OTNYVmp5YTREX3VuMUs5N1k3WjRxTUtTWHc?oc=5",
+              "source": "Sinocism | Bill Bishop",
+              "publishedAt": "Wed, 11 Mar 2026 21:56:48 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UFNFc3VkUUpZS1h2c0hnY1BiMmZaaHJodG42NUZVbDEzTmcyeVZFUTNic2U0TUQwWHd3Q191Nl9vX2M3T2ZmV3JXTld4OTNYVmp5YTREX3VuMUs5N1k3WjRxTUtTWHc?oc=5\" target=\"_blank\">China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sinocism | Bill Bishop</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:23:26Z",
+              "publishedAt": "2026-03-11T21:35:39Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:20:03Z",
+              "publishedAt": "2026-03-11T22:14:01Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -91,21 +99,14 @@
               "title": "openclaw/openclaw - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
               "link": "https://github.com/openclaw/openclaw",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:38:19Z",
+              "publishedAt": "2026-03-11T22:32:45Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T18:06:13Z",
-              "channelId": "github_trending_ai"
-            },
-            {
-              "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-              "link": "https://github.com/n8n-io/n8n",
-              "source": "GitHub",
-              "publishedAt": "2026-03-11T20:30:25Z",
+              "publishedAt": "2026-03-11T21:43:00Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -153,7 +154,7 @@
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:39:34Z",
+              "publishedAt": "2026-03-11T22:25:39Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -187,6 +188,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "腾讯一口气上线五只“龙虾”，打的什么算盘？ - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGViTk9hdFRYclJndVJQYzJuZm1KMGRVUHZCbndHQ0tPZnVyTkRFOEhIM0tRMU9CX3FVSExVM29kMWgzU25NcnZQR3h5SXUtOFVwak1rdmFhcW44OElLTmpudFZpZWI1RHNvOHV4NWVsanZNQUMxbEs0VW1HUC12OU5Zb3ZRRWJKTXI4cmVrMA?oc=5",
+              "source": "21财经",
+              "publishedAt": "Wed, 11 Mar 2026 07:06:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGViTk9hdFRYclJndVJQYzJuZm1KMGRVUHZCbndHQ0tPZnVyTkRFOEhIM0tRMU9CX3FVSExVM29kMWgzU25NcnZQR3h5SXUtOFVwak1rdmFhcW44OElLTmpudFZpZWI1RHNvOHV4NWVsanZNQUMxbEs0VW1HUC12OU5Zb3ZRRWJKTXI4cmVrMA?oc=5\" target=\"_blank\">腾讯一口气上线五只“龙虾”，打的什么算盘？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "全国人大代表、小米集团董事长雷军：走硬核科技创新之路 推动未来产业加速落地 - 上海证券报电子版",
               "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HVUNJenIyMUtVOVhfd0FwaWFIUWF4d1lWUWZrZGFCb1FfUnlrTzViS2d4Z0I2T2g1SU9GWThkOGFzWTJWMXBqckM1R3dTR2gtdFg5TlpZQmRLOFJfNjJfTG1lUnQ3S0dBZWhMV0ZR?oc=5",
               "source": "上海证券报电子版",
@@ -195,19 +204,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "京东健康2025年业绩超预期 京东到家快检全年订单同比增超八成 - 经济参考报",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlMzd3JKaGo5cGtnSzVSdE1aVExFWVlVNGFRa0xmekhWN1VSS1N1QTVWYmlmZTVqSFJ0VkhPYWJRUHo0bkM4eVhjTDNrZms2ZmdvVmt2X29vTnFPTjE4ZUd4RkwyU0tkUm05YUdmWjdsTlFzRmo3Qjg2alJsakN2cg?oc=5",
-              "source": "经济参考报",
-              "publishedAt": "Wed, 11 Mar 2026 08:17:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlMzd3JKaGo5cGtnSzVSdE1aVExFWVlVNGFRa0xmekhWN1VSS1N1QTVWYmlmZTVqSFJ0VkhPYWJRUHo0bkM4eVhjTDNrZms2ZmdvVmt2X29vTnFPTjE4ZUd4RkwyU0tkUm05YUdmWjdsTlFzRmo3Qjg2alJsakN2cg?oc=5\" target=\"_blank\">京东健康2025年业绩超预期 京东到家快检全年订单同比增超八成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "大量出王炸，已无人挡得住腾讯？ - 凤凰网财经",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82MGdpMG9MYk5KbTctTkFFTUNsSnFYMjczXzZ5UTAyNHNHVXc3VG0yNUowdVBRS0RieUIydk5id3ZPUWQ1dnJhcW1BRGlKM0hT?oc=5",
-              "source": "凤凰网财经",
-              "publishedAt": "Wed, 11 Mar 2026 13:57:15 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE82MGdpMG9MYk5KbTctTkFFTUNsSnFYMjczXzZ5UTAyNHNHVXc3VG0yNUowdVBRS0RieUIydk5id3ZPUWQ1dnJhcW1BRGlKM0hT?oc=5\" target=\"_blank\">大量出王炸，已无人挡得住腾讯？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网财经</font>",
+              "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线 - 财联社",
+              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PYXNRaW5jWDRRVU1Hd1MtcHBxZ0l6dTR6YmFiUXRGbzdKNkM0cjJSNHNEUThVZnVtbklkdVN2ZmZXYUltZkRrdg?oc=5",
+              "source": "财联社",
+              "publishedAt": "Wed, 11 Mar 2026 20:16:29 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PYXNRaW5jWDRRVU1Hd1MtcHBxZ0l6dTR6YmFiUXRGbzdKNkM0cjJSNHNEUThVZnVtbklkdVN2ZmZXYUltZkRrdg?oc=5\" target=\"_blank\">腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
               "channelId": "google_news"
             }
           ]
@@ -241,6 +242,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "英伟达推出NEMOTRON 3 Super，该模型为智能体AI（Agentic AI）提供5倍吞吐量提升 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzRmM2wxalk3TWFqVTdwY1ZIVW0wVDR5WWMyczlmVTNUaWEwSTE3M1Y1QkhDd3J2Szl0d0xsQURvbERzczN0MFExRFZSb1dSTmowT2pZRXhFVVVCdUxHVU81aVdtOHpuNFQ2REN1YVF1NDBLcWwycXVYc2NtOGxFcllQQl9ESGdtZUJuWDNGSGRlQVV5alp1R1ZPcmg?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Wed, 11 Mar 2026 16:10:51 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzRmM2wxalk3TWFqVTdwY1ZIVW0wVDR5WWMyczlmVTNUaWEwSTE3M1Y1QkhDd3J2Szl0d0xsQURvbERzczN0MFExRFZSb1dSTmowT2pZRXhFVVVCdUxHVU81aVdtOHpuNFQ2REN1YVF1NDBLcWwycXVYc2NtOGxFcllQQl9ESGdtZUJuWDNGSGRlQVV5alp1R1ZPcmg?oc=5\" target=\"_blank\">英伟达推出NEMOTRON 3 Super，该模型为智能体AI（Agentic AI）提供5倍吞吐量提升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "华泰 | Physical AI和Agentic AI起革命 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvdzNNcVFUTzBONE5tbkFRRG95LXdoT3UzMy1MOGdGa2dNWThYMlJYYmVlQWpQOFJjbTdER2ZQU0pJTzFac094dmREMUVYcmlwUGFfTWp6aGRnQWtxNVVnZXEwNlRPQTh5bzhKUXlJOWdab0JGdVE?oc=5",
               "source": "新浪财经",
@@ -255,14 +264,6 @@
               "publishedAt": "Wed, 11 Mar 2026 02:12:51 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzOGtzMVdWNWp2bm5tYVI3UkZ5UFFGWE90SlFKZEllQTRiN0llbXZvQ014VldPMWxYeGpHZ1QyOGM1Tmc2aDlPNmZYcGxsc0lmSWdGVUI1TWY0M0tXYlE?oc=5\" target=\"_blank\">PingCAP联合创始人兼CTO黄东旭已确认出席QCon北京站，分享The Age of Autonomous Systems 自主系统的时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
               "channelId": "google_news"
-            },
-            {
-              "title": "英伟达推出NEMOTRON 3 Super，该模型为智能体AI（Agentic AI）提供5倍吞吐量提升 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONmtlZzM3Q3VqdXBsSElFX3p4T2dDWUN2aVZPUk5rVWZRcE9ISjZvU1ZpcHg1SGd4a3dIN21YSjJFczl4QjNrOTgtajY2Vzk3b3ItS192RElnWXc2aFNoTklyQXg4VVkzLXdkUUpId1ZBaG15U3hIcVVRXzFZdHRkS2U1ODlLd0xPVldFZno4Y0h0NUJqekdxWW43dWZZdw?oc=5",
-              "source": "富途牛牛",
-              "publishedAt": "Wed, 11 Mar 2026 16:12:12 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxONmtlZzM3Q3VqdXBsSElFX3p4T2dDWUN2aVZPUk5rVWZRcE9ISjZvU1ZpcHg1SGd4a3dIN21YSjJFczl4QjNrOTgtajY2Vzk3b3ItS192RElnWXc2aFNoTklyQXg4VVkzLXdkUUpId1ZBaG15U3hIcVVRXzFZdHRkS2U1ODlLd0xPVldFZno4Y0h0NUJqekdxWW43dWZZdw?oc=5\" target=\"_blank\">英伟达推出NEMOTRON 3 Super，该模型为智能体AI（Agentic AI）提供5倍吞吐量提升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
-              "channelId": "google_news"
             }
           ]
         },
@@ -274,7 +275,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:37:23Z",
+              "publishedAt": "2026-03-11T22:19:57Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -301,28 +302,28 @@
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T18:06:13Z",
+              "publishedAt": "2026-03-11T21:43:00Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:30:25Z",
+              "publishedAt": "2026-03-11T22:29:19Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
               "link": "https://github.com/langflow-ai/langflow",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:20:29Z",
+              "publishedAt": "2026-03-11T22:30:08Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:39:34Z",
+              "publishedAt": "2026-03-11T22:25:39Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -422,7 +423,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 6
+          "count": 8
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -502,11 +503,19 @@
           "query": "AI product launch",
           "items": [
             {
-              "title": "China's OpenClaw Craze Amid Tencent's Launch of Related Products - 搜狐网",
+              "title": "China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy - Sinocism | Bill Bishop",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UFNFc3VkUUpZS1h2c0hnY1BiMmZaaHJodG42NUZVbDEzTmcyeVZFUTNic2U0TUQwWHd3Q191Nl9vX2M3T2ZmV3JXTld4OTNYVmp5YTREX3VuMUs5N1k3WjRxTUtTWHc?oc=5",
+              "source": "Sinocism | Bill Bishop",
+              "publishedAt": "Wed, 11 Mar 2026 21:56:48 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UFNFc3VkUUpZS1h2c0hnY1BiMmZaaHJodG42NUZVbDEzTmcyeVZFUTNic2U0TUQwWHd3Q191Nl9vX2M3T2ZmV3JXTld4OTNYVmp5YTREX3VuMUs5N1k3WjRxTUtTWHc?oc=5\" target=\"_blank\">China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sinocism | Bill Bishop</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "China's OpenClaw Craze Amid Tencent's Launch of Related Products - SOHU",
               "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVBYi1pUldBZE1NamhMdkVscTlocE9CRS1ncy12eVlJdDZzdzhSdzkxTXdnRlZUY2Z0SXRzb3NlN0JUUDVaQWFhSjFoVFo1dFZDUXU2SDNwOHpoSzcxOGVOSUFOYzBHSE9BallHR19zeW5PY1NrMThrQTZPdG90Mlh2MkNHV0k?oc=5",
-              "source": "搜狐网",
+              "source": "SOHU",
               "publishedAt": "Tue, 10 Mar 2026 09:14:31 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVBYi1pUldBZE1NamhMdkVscTlocE9CRS1ncy12eVlJdDZzdzhSdzkxTXdnRlZUY2Z0SXRzb3NlN0JUUDVaQWFhSjFoVFo1dFZDUXU2SDNwOHpoSzcxOGVOSUFOYzBHSE9BallHR19zeW5PY1NrMThrQTZPdG90Mlh2MkNHV0k?oc=5\" target=\"_blank\">China's OpenClaw Craze Amid Tencent's Launch of Related Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVBYi1pUldBZE1NamhMdkVscTlocE9CRS1ncy12eVlJdDZzdzhSdzkxTXdnRlZUY2Z0SXRzb3NlN0JUUDVaQWFhSjFoVFo1dFZDUXU2SDNwOHpoSzcxOGVOSUFOYzBHSE9BallHR19zeW5PY1NrMThrQTZPdG90Mlh2MkNHV0k?oc=5\" target=\"_blank\">China's OpenClaw Craze Amid Tencent's Launch of Related Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SOHU</font>",
               "channelId": "google_news"
             },
             {
@@ -520,29 +529,22 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:23:26Z",
+              "publishedAt": "2026-03-11T21:35:39Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
               "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:39:01Z",
+              "publishedAt": "2026-03-11T22:27:14Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:20:03Z",
+              "publishedAt": "2026-03-11T22:14:01Z",
               "channelId": "github_trending_ai"
-            },
-            {
-              "title": "Nativeline AI + Cloud",
-              "link": "https://www.producthunt.com/products/nativeline",
-              "source": "RSS",
-              "publishedAt": "2026-03-10T19:10:32-07:00",
-              "channelId": "producthunt_ai"
             }
           ]
         },
@@ -623,6 +625,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "腾讯一口气上线五只“龙虾”，打的什么算盘？ - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGViTk9hdFRYclJndVJQYzJuZm1KMGRVUHZCbndHQ0tPZnVyTkRFOEhIM0tRMU9CX3FVSExVM29kMWgzU25NcnZQR3h5SXUtOFVwak1rdmFhcW44OElLTmpudFZpZWI1RHNvOHV4NWVsanZNQUMxbEs0VW1HUC12OU5Zb3ZRRWJKTXI4cmVrMA?oc=5",
+              "source": "21财经",
+              "publishedAt": "Wed, 11 Mar 2026 07:06:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGViTk9hdFRYclJndVJQYzJuZm1KMGRVUHZCbndHQ0tPZnVyTkRFOEhIM0tRMU9CX3FVSExVM29kMWgzU25NcnZQR3h5SXUtOFVwak1rdmFhcW44OElLTmpudFZpZWI1RHNvOHV4NWVsanZNQUMxbEs0VW1HUC12OU5Zb3ZRRWJKTXI4cmVrMA?oc=5\" target=\"_blank\">腾讯一口气上线五只“龙虾”，打的什么算盘？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "全国人大代表、小米集团董事长雷军：走硬核科技创新之路 推动未来产业加速落地 - 上海证券报电子版",
               "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HVUNJenIyMUtVOVhfd0FwaWFIUWF4d1lWUWZrZGFCb1FfUnlrTzViS2d4Z0I2T2g1SU9GWThkOGFzWTJWMXBqckM1R3dTR2gtdFg5TlpZQmRLOFJfNjJfTG1lUnQ3S0dBZWhMV0ZR?oc=5",
               "source": "上海证券报电子版",
@@ -631,19 +641,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "京东健康2025年业绩超预期 京东到家快检全年订单同比增超八成 - 经济参考报",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlMzd3JKaGo5cGtnSzVSdE1aVExFWVlVNGFRa0xmekhWN1VSS1N1QTVWYmlmZTVqSFJ0VkhPYWJRUHo0bkM4eVhjTDNrZms2ZmdvVmt2X29vTnFPTjE4ZUd4RkwyU0tkUm05YUdmWjdsTlFzRmo3Qjg2alJsakN2cg?oc=5",
-              "source": "经济参考报",
-              "publishedAt": "Wed, 11 Mar 2026 08:17:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlMzd3JKaGo5cGtnSzVSdE1aVExFWVlVNGFRa0xmekhWN1VSS1N1QTVWYmlmZTVqSFJ0VkhPYWJRUHo0bkM4eVhjTDNrZms2ZmdvVmt2X29vTnFPTjE4ZUd4RkwyU0tkUm05YUdmWjdsTlFzRmo3Qjg2alJsakN2cg?oc=5\" target=\"_blank\">京东健康2025年业绩超预期 京东到家快检全年订单同比增超八成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "大量出王炸，已无人挡得住腾讯？ - 凤凰网财经",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82MGdpMG9MYk5KbTctTkFFTUNsSnFYMjczXzZ5UTAyNHNHVXc3VG0yNUowdVBRS0RieUIydk5id3ZPUWQ1dnJhcW1BRGlKM0hT?oc=5",
-              "source": "凤凰网财经",
-              "publishedAt": "Wed, 11 Mar 2026 13:57:15 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE82MGdpMG9MYk5KbTctTkFFTUNsSnFYMjczXzZ5UTAyNHNHVXc3VG0yNUowdVBRS0RieUIydk5id3ZPUWQ1dnJhcW1BRGlKM0hT?oc=5\" target=\"_blank\">大量出王炸，已无人挡得住腾讯？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网财经</font>",
+              "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线 - 财联社",
+              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PYXNRaW5jWDRRVU1Hd1MtcHBxZ0l6dTR6YmFiUXRGbzdKNkM0cjJSNHNEUThVZnVtbklkdVN2ZmZXYUltZkRrdg?oc=5",
+              "source": "财联社",
+              "publishedAt": "Wed, 11 Mar 2026 20:16:29 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PYXNRaW5jWDRRVU1Hd1MtcHBxZ0l6dTR6YmFiUXRGbzdKNkM0cjJSNHNEUThVZnVtbklkdVN2ZmZXYUltZkRrdg?oc=5\" target=\"_blank\">腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
               "channelId": "google_news"
             }
           ]
@@ -677,6 +679,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "英伟达推出NEMOTRON 3 Super，该模型为智能体AI（Agentic AI）提供5倍吞吐量提升 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzRmM2wxalk3TWFqVTdwY1ZIVW0wVDR5WWMyczlmVTNUaWEwSTE3M1Y1QkhDd3J2Szl0d0xsQURvbERzczN0MFExRFZSb1dSTmowT2pZRXhFVVVCdUxHVU81aVdtOHpuNFQ2REN1YVF1NDBLcWwycXVYc2NtOGxFcllQQl9ESGdtZUJuWDNGSGRlQVV5alp1R1ZPcmg?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Wed, 11 Mar 2026 16:10:51 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzRmM2wxalk3TWFqVTdwY1ZIVW0wVDR5WWMyczlmVTNUaWEwSTE3M1Y1QkhDd3J2Szl0d0xsQURvbERzczN0MFExRFZSb1dSTmowT2pZRXhFVVVCdUxHVU81aVdtOHpuNFQ2REN1YVF1NDBLcWwycXVYc2NtOGxFcllQQl9ESGdtZUJuWDNGSGRlQVV5alp1R1ZPcmg?oc=5\" target=\"_blank\">英伟达推出NEMOTRON 3 Super，该模型为智能体AI（Agentic AI）提供5倍吞吐量提升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "PingCAP联合创始人兼CTO黄东旭已确认出席QCon北京站，分享The Age of Autonomous Systems 自主系统的时代 - InfoQ 官网",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzOGtzMVdWNWp2bm5tYVI3UkZ5UFFGWE90SlFKZEllQTRiN0llbXZvQ014VldPMWxYeGpHZ1QyOGM1Tmc2aDlPNmZYcGxsc0lmSWdGVUI1TWY0M0tXYlE?oc=5",
               "source": "InfoQ 官网",
@@ -690,14 +700,6 @@
               "source": "MEXC",
               "publishedAt": "Tue, 10 Mar 2026 18:56:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaLVJJS0s1YTdWY1BHejRlRFBWZVpIbTNVb1dNWUxZcXRtcW5iOUtvaVQzZXl5cVVtWlV1M3hqb04zRWc4RVFBOXc4WnlfNXM?oc=5\" target=\"_blank\">Agentic Payment 成趋势：AI 时代需要怎样的支付基础设施？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "英伟达推出NEMOTRON 3 Super，该模型为智能体AI（Agentic AI）提供5倍吞吐量提升 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONmtlZzM3Q3VqdXBsSElFX3p4T2dDWUN2aVZPUk5rVWZRcE9ISjZvU1ZpcHg1SGd4a3dIN21YSjJFczl4QjNrOTgtajY2Vzk3b3ItS192RElnWXc2aFNoTklyQXg4VVkzLXdkUUpId1ZBaG15U3hIcVVRXzFZdHRkS2U1ODlLd0xPVldFZno4Y0h0NUJqekdxWW43dWZZdw?oc=5",
-              "source": "富途牛牛",
-              "publishedAt": "Wed, 11 Mar 2026 16:12:12 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxONmtlZzM3Q3VqdXBsSElFX3p4T2dDWUN2aVZPUk5rVWZRcE9ISjZvU1ZpcHg1SGd4a3dIN21YSjJFczl4QjNrOTgtajY2Vzk3b3ItS192RElnWXc2aFNoTklyQXg4VVkzLXdkUUpId1ZBaG15U3hIcVVRXzFZdHRkS2U1ODlLd0xPVldFZno4Y0h0NUJqekdxWW43dWZZdw?oc=5\" target=\"_blank\">英伟达推出NEMOTRON 3 Super，该模型为智能体AI（Agentic AI）提供5倍吞吐量提升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
               "channelId": "google_news"
             }
           ]
@@ -724,7 +726,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:37:23Z",
+              "publishedAt": "2026-03-11T22:19:57Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -773,7 +775,7 @@
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T18:06:13Z",
+              "publishedAt": "2026-03-11T21:43:00Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -873,7 +875,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 6
+          "count": 8
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -955,11 +957,19 @@
           "query": "AI product launch",
           "items": [
             {
-              "title": "China's OpenClaw Craze Amid Tencent's Launch of Related Products - 搜狐网",
+              "title": "China's OpenClaw Craze Amid Tencent's Launch of Related Products - SOHU",
               "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVBYi1pUldBZE1NamhMdkVscTlocE9CRS1ncy12eVlJdDZzdzhSdzkxTXdnRlZUY2Z0SXRzb3NlN0JUUDVaQWFhSjFoVFo1dFZDUXU2SDNwOHpoSzcxOGVOSUFOYzBHSE9BallHR19zeW5PY1NrMThrQTZPdG90Mlh2MkNHV0k?oc=5",
-              "source": "搜狐网",
+              "source": "SOHU",
               "publishedAt": "Tue, 10 Mar 2026 09:14:31 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVBYi1pUldBZE1NamhMdkVscTlocE9CRS1ncy12eVlJdDZzdzhSdzkxTXdnRlZUY2Z0SXRzb3NlN0JUUDVaQWFhSjFoVFo1dFZDUXU2SDNwOHpoSzcxOGVOSUFOYzBHSE9BallHR19zeW5PY1NrMThrQTZPdG90Mlh2MkNHV0k?oc=5\" target=\"_blank\">China's OpenClaw Craze Amid Tencent's Launch of Related Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVBYi1pUldBZE1NamhMdkVscTlocE9CRS1ncy12eVlJdDZzdzhSdzkxTXdnRlZUY2Z0SXRzb3NlN0JUUDVaQWFhSjFoVFo1dFZDUXU2SDNwOHpoSzcxOGVOSUFOYzBHSE9BallHR19zeW5PY1NrMThrQTZPdG90Mlh2MkNHV0k?oc=5\" target=\"_blank\">China's OpenClaw Craze Amid Tencent's Launch of Related Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SOHU</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy - Sinocism | Bill Bishop",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UFNFc3VkUUpZS1h2c0hnY1BiMmZaaHJodG42NUZVbDEzTmcyeVZFUTNic2U0TUQwWHd3Q191Nl9vX2M3T2ZmV3JXTld4OTNYVmp5YTREX3VuMUs5N1k3WjRxTUtTWHc?oc=5",
+              "source": "Sinocism | Bill Bishop",
+              "publishedAt": "Wed, 11 Mar 2026 21:56:48 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UFNFc3VkUUpZS1h2c0hnY1BiMmZaaHJodG42NUZVbDEzTmcyeVZFUTNic2U0TUQwWHd3Q191Nl9vX2M3T2ZmV3JXTld4OTNYVmp5YTREX3VuMUs5N1k3WjRxTUtTWHc?oc=5\" target=\"_blank\">China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sinocism | Bill Bishop</font>",
               "channelId": "google_news"
             },
             {
@@ -973,29 +983,22 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:23:26Z",
+              "publishedAt": "2026-03-11T21:35:39Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
               "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:39:01Z",
+              "publishedAt": "2026-03-11T22:27:14Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:20:03Z",
+              "publishedAt": "2026-03-11T22:14:01Z",
               "channelId": "github_trending_ai"
-            },
-            {
-              "title": "Nativeline AI + Cloud",
-              "link": "https://www.producthunt.com/products/nativeline",
-              "source": "RSS",
-              "publishedAt": "2026-03-10T19:10:32-07:00",
-              "channelId": "producthunt_ai"
             }
           ]
         },
@@ -1084,19 +1087,19 @@
               "channelId": "google_news"
             },
             {
+              "title": "腾讯一口气上线五只“龙虾”，打的什么算盘？ - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGViTk9hdFRYclJndVJQYzJuZm1KMGRVUHZCbndHQ0tPZnVyTkRFOEhIM0tRMU9CX3FVSExVM29kMWgzU25NcnZQR3h5SXUtOFVwak1rdmFhcW44OElLTmpudFZpZWI1RHNvOHV4NWVsanZNQUMxbEs0VW1HUC12OU5Zb3ZRRWJKTXI4cmVrMA?oc=5",
+              "source": "21财经",
+              "publishedAt": "Wed, 11 Mar 2026 07:06:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGViTk9hdFRYclJndVJQYzJuZm1KMGRVUHZCbndHQ0tPZnVyTkRFOEhIM0tRMU9CX3FVSExVM29kMWgzU25NcnZQR3h5SXUtOFVwak1rdmFhcW44OElLTmpudFZpZWI1RHNvOHV4NWVsanZNQUMxbEs0VW1HUC12OU5Zb3ZRRWJKTXI4cmVrMA?oc=5\" target=\"_blank\">腾讯一口气上线五只“龙虾”，打的什么算盘？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "全国人大代表、小米集团董事长雷军：走硬核科技创新之路 推动未来产业加速落地 - 上海证券报电子版",
               "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HVUNJenIyMUtVOVhfd0FwaWFIUWF4d1lWUWZrZGFCb1FfUnlrTzViS2d4Z0I2T2g1SU9GWThkOGFzWTJWMXBqckM1R3dTR2gtdFg5TlpZQmRLOFJfNjJfTG1lUnQ3S0dBZWhMV0ZR?oc=5",
               "source": "上海证券报电子版",
               "publishedAt": "Wed, 11 Mar 2026 17:57:39 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9HVUNJenIyMUtVOVhfd0FwaWFIUWF4d1lWUWZrZGFCb1FfUnlrTzViS2d4Z0I2T2g1SU9GWThkOGFzWTJWMXBqckM1R3dTR2gtdFg5TlpZQmRLOFJfNjJfTG1lUnQ3S0dBZWhMV0ZR?oc=5\" target=\"_blank\">全国人大代表、小米集团董事长雷军：走硬核科技创新之路 推动未来产业加速落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海证券报电子版</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "京东健康2025年业绩超预期 京东到家快检全年订单同比增超八成 - 经济参考报",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlMzd3JKaGo5cGtnSzVSdE1aVExFWVlVNGFRa0xmekhWN1VSS1N1QTVWYmlmZTVqSFJ0VkhPYWJRUHo0bkM4eVhjTDNrZms2ZmdvVmt2X29vTnFPTjE4ZUd4RkwyU0tkUm05YUdmWjdsTlFzRmo3Qjg2alJsakN2cg?oc=5",
-              "source": "经济参考报",
-              "publishedAt": "Wed, 11 Mar 2026 08:17:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlMzd3JKaGo5cGtnSzVSdE1aVExFWVlVNGFRa0xmekhWN1VSS1N1QTVWYmlmZTVqSFJ0VkhPYWJRUHo0bkM4eVhjTDNrZms2ZmdvVmt2X29vTnFPTjE4ZUd4RkwyU0tkUm05YUdmWjdsTlFzRmo3Qjg2alJsakN2cg?oc=5\" target=\"_blank\">京东健康2025年业绩超预期 京东到家快检全年订单同比增超八成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
               "channelId": "google_news"
             }
           ]
@@ -1177,7 +1180,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:37:23Z",
+              "publishedAt": "2026-03-11T22:19:57Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1341,7 +1344,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 6
+          "count": 8
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1393,19 +1396,19 @@
               "channelId": "google_news"
             },
             {
-              "title": "深度原理完成A2轮融资，加速AI for Materials范式重构 | BV Family - ByDrug",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uVlhNM3pfYWFOTTUtV0RLbVR0WjZSS3RTOUc2eWx3dTkxQUJsSGNoRVphTHZzd1BBUjBCYlgwc1J6RVpwRFVvd1lQYWE4djdrQVJCQW9pb3pFM3MyZDVIVFJER3MzT1BZdTUzMTBkNHBfaXRTMlN4VFctR0R6QQ?oc=5",
-              "source": "ByDrug",
-              "publishedAt": "Thu, 05 Mar 2026 09:57:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1uVlhNM3pfYWFOTTUtV0RLbVR0WjZSS3RTOUc2eWx3dTkxQUJsSGNoRVphTHZzd1BBUjBCYlgwc1J6RVpwRFVvd1lQYWE4djdrQVJCQW9pb3pFM3MyZDVIVFJER3MzT1BZdTUzMTBkNHBfaXRTMlN4VFctR0R6QQ?oc=5\" target=\"_blank\">深度原理完成A2轮融资，加速AI for Materials范式重构 | BV Family</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ByDrug</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "英伟达及其合作伙伴展示软件定义的AI-RAN是下一代无线通信技术 - 富途牛牛",
               "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVZoWkhLNEdWVklfbjhEazgzczZhdE5lTUQ0dmh5Wl9Qb0c2NWpDbDhYdDZNZFR0ZXBKTlh1M3FIUW1ScVM4aUZja3diMG5xX3JaX3hjRTRONWhwSVpVQzh4NW9ObVpRZ3hPRTYwS1lGT0h1Q00zNlFMRzZpejZWSlVreERoRGdLdDduVWp4UTlVQWdjYVJDN0NR?oc=5",
               "source": "富途牛牛",
               "publishedAt": "Tue, 03 Mar 2026 02:14:55 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVZoWkhLNEdWVklfbjhEazgzczZhdE5lTUQ0dmh5Wl9Qb0c2NWpDbDhYdDZNZFR0ZXBKTlh1M3FIUW1ScVM4aUZja3diMG5xX3JaX3hjRTRONWhwSVpVQzh4NW9ObVpRZ3hPRTYwS1lGT0h1Q00zNlFMRzZpejZWSlVreERoRGdLdDduVWp4UTlVQWdjYVJDN0NR?oc=5\" target=\"_blank\">英伟达及其合作伙伴展示软件定义的AI-RAN是下一代无线通信技术</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "人工智能突破性进展通过解码复杂脑信号改进脑机接口 - Unite.AI",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWs4dWFHRmpVSmRGYzhLM0RjUi1NU0Z5R28zRm1OdDJwTnhtY0RRbXpKcGV1ZnBRSzM5SFVCX0l3SEtUWU92TFpIVmtJZGpESFo3dFdaOERfQ0U3OVBPOTZoTFRBRC1OYkZzVlJLOUdTblcxcjVweHF1TDV4Rmt5TnVNazEyNk8xNUI3MXo5cE1NMy00U0R3WWY4Wm5IRUFSeEJnTGdfWU9XNFByd09iZ0FR?oc=5",
+              "source": "Unite.AI",
+              "publishedAt": "Wed, 11 Mar 2026 03:53:21 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWs4dWFHRmpVSmRGYzhLM0RjUi1NU0Z5R28zRm1OdDJwTnhtY0RRbXpKcGV1ZnBRSzM5SFVCX0l3SEtUWU92TFpIVmtJZGpESFo3dFdaOERfQ0U3OVBPOTZoTFRBRC1OYkZzVlJLOUdTblcxcjVweHF1TDV4Rmt5TnVNazEyNk8xNUI3MXo5cE1NMy00U0R3WWY4Wm5IRUFSeEJnTGdfWU9XNFByd09iZ0FR?oc=5\" target=\"_blank\">人工智能突破性进展通过解码复杂脑信号改进脑机接口</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unite.AI</font>",
               "channelId": "google_news"
             }
           ]
@@ -1415,19 +1418,19 @@
           "query": "AI product launch",
           "items": [
             {
-              "title": "China's OpenClaw Craze Amid Tencent's Launch of Related Products - 搜狐网",
+              "title": "China's OpenClaw Craze Amid Tencent's Launch of Related Products - SOHU",
               "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVBYi1pUldBZE1NamhMdkVscTlocE9CRS1ncy12eVlJdDZzdzhSdzkxTXdnRlZUY2Z0SXRzb3NlN0JUUDVaQWFhSjFoVFo1dFZDUXU2SDNwOHpoSzcxOGVOSUFOYzBHSE9BallHR19zeW5PY1NrMThrQTZPdG90Mlh2MkNHV0k?oc=5",
-              "source": "搜狐网",
+              "source": "SOHU",
               "publishedAt": "Tue, 10 Mar 2026 09:14:31 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVBYi1pUldBZE1NamhMdkVscTlocE9CRS1ncy12eVlJdDZzdzhSdzkxTXdnRlZUY2Z0SXRzb3NlN0JUUDVaQWFhSjFoVFo1dFZDUXU2SDNwOHpoSzcxOGVOSUFOYzBHSE9BallHR19zeW5PY1NrMThrQTZPdG90Mlh2MkNHV0k?oc=5\" target=\"_blank\">China's OpenClaw Craze Amid Tencent's Launch of Related Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVBYi1pUldBZE1NamhMdkVscTlocE9CRS1ncy12eVlJdDZzdzhSdzkxTXdnRlZUY2Z0SXRzb3NlN0JUUDVaQWFhSjFoVFo1dFZDUXU2SDNwOHpoSzcxOGVOSUFOYzBHSE9BallHR19zeW5PY1NrMThrQTZPdG90Mlh2MkNHV0k?oc=5\" target=\"_blank\">China's OpenClaw Craze Amid Tencent's Launch of Related Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SOHU</font>",
               "channelId": "google_news"
             },
             {
-              "title": "Apple Launches New iPhone and iPad Air as It Gears up for a Major AI Push - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMVZibVVrbm9sUkpUMWRTNkpSVU9RWHVCcTJPb3ViREg0aVNYUGtpWTdaQXhnNW9CeEgtUXdXdnJHc1U0alE2QkRTV1RWQU9GNXBkR0JQTklGTGNNM3pSU1NzT0pnZmxtaUhGMVA5dWV2YzVMbkpoVl9zNFFlTkZ6MVhpSWtVMGdidDF0VmVUeHROdw?oc=5",
-              "source": "富途牛牛",
-              "publishedAt": "Mon, 02 Mar 2026 22:20:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOMVZibVVrbm9sUkpUMWRTNkpSVU9RWHVCcTJPb3ViREg0aVNYUGtpWTdaQXhnNW9CeEgtUXdXdnJHc1U0alE2QkRTV1RWQU9GNXBkR0JQTklGTGNNM3pSU1NzT0pnZmxtaUhGMVA5dWV2YzVMbkpoVl9zNFFlTkZ6MVhpSWtVMGdidDF0VmVUeHROdw?oc=5\" target=\"_blank\">Apple Launches New iPhone and iPad Air as It Gears up for a Major AI Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "title": "China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy - Sinocism | Bill Bishop",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UFNFc3VkUUpZS1h2c0hnY1BiMmZaaHJodG42NUZVbDEzTmcyeVZFUTNic2U0TUQwWHd3Q191Nl9vX2M3T2ZmV3JXTld4OTNYVmp5YTREX3VuMUs5N1k3WjRxTUtTWHc?oc=5",
+              "source": "Sinocism | Bill Bishop",
+              "publishedAt": "Wed, 11 Mar 2026 21:56:48 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UFNFc3VkUUpZS1h2c0hnY1BiMmZaaHJodG42NUZVbDEzTmcyeVZFUTNic2U0TUQwWHd3Q191Nl9vX2M3T2ZmV3JXTld4OTNYVmp5YTREX3VuMUs5N1k3WjRxTUtTWHc?oc=5\" target=\"_blank\">China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sinocism | Bill Bishop</font>",
               "channelId": "google_news"
             },
             {
@@ -1457,7 +1460,7 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:23:26Z",
+              "publishedAt": "2026-03-11T21:35:39Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1467,15 +1470,15 @@
           "query": "(Microsoft OR Google OR Alphabet OR Amazon OR Meta OR Apple OR IBM OR Oracle OR Salesforce OR NVIDIA OR AMD OR Intel OR Qualcomm OR Arm OR OpenAI OR Anthropic OR Cohere OR xAI OR Hugging Face OR Mistral AI OR Databricks OR Snowflake OR Palantir OR ServiceNow) AI",
           "items": [
             {
-              "title": "Joint Statement from OpenAI and Microsoft",
-              "link": "https://openai.com/index/continuing-microsoft-partnership",
+              "title": "OpenAI and Amazon announce strategic partnership",
+              "link": "https://openai.com/index/amazon-partnership",
               "source": "RSS",
               "publishedAt": "Fri, 27 Feb 2026 05:30:00 GMT",
               "channelId": "openai_blog"
             },
             {
-              "title": "OpenAI and Amazon announce strategic partnership",
-              "link": "https://openai.com/index/amazon-partnership",
+              "title": "Joint Statement from OpenAI and Microsoft",
+              "link": "https://openai.com/index/continuing-microsoft-partnership",
               "source": "RSS",
               "publishedAt": "Fri, 27 Feb 2026 05:30:00 GMT",
               "channelId": "openai_blog"
@@ -1547,19 +1550,19 @@
               "channelId": "google_news"
             },
             {
+              "title": "腾讯一口气上线五只“龙虾”，打的什么算盘？ - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGViTk9hdFRYclJndVJQYzJuZm1KMGRVUHZCbndHQ0tPZnVyTkRFOEhIM0tRMU9CX3FVSExVM29kMWgzU25NcnZQR3h5SXUtOFVwak1rdmFhcW44OElLTmpudFZpZWI1RHNvOHV4NWVsanZNQUMxbEs0VW1HUC12OU5Zb3ZRRWJKTXI4cmVrMA?oc=5",
+              "source": "21财经",
+              "publishedAt": "Wed, 11 Mar 2026 07:06:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGViTk9hdFRYclJndVJQYzJuZm1KMGRVUHZCbndHQ0tPZnVyTkRFOEhIM0tRMU9CX3FVSExVM29kMWgzU25NcnZQR3h5SXUtOFVwak1rdmFhcW44OElLTmpudFZpZWI1RHNvOHV4NWVsanZNQUMxbEs0VW1HUC12OU5Zb3ZRRWJKTXI4cmVrMA?oc=5\" target=\"_blank\">腾讯一口气上线五只“龙虾”，打的什么算盘？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "全国人大代表、小米集团董事长雷军：走硬核科技创新之路 推动未来产业加速落地 - 上海证券报电子版",
               "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HVUNJenIyMUtVOVhfd0FwaWFIUWF4d1lWUWZrZGFCb1FfUnlrTzViS2d4Z0I2T2g1SU9GWThkOGFzWTJWMXBqckM1R3dTR2gtdFg5TlpZQmRLOFJfNjJfTG1lUnQ3S0dBZWhMV0ZR?oc=5",
               "source": "上海证券报电子版",
               "publishedAt": "Wed, 11 Mar 2026 17:57:39 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9HVUNJenIyMUtVOVhfd0FwaWFIUWF4d1lWUWZrZGFCb1FfUnlrTzViS2d4Z0I2T2g1SU9GWThkOGFzWTJWMXBqckM1R3dTR2gtdFg5TlpZQmRLOFJfNjJfTG1lUnQ3S0dBZWhMV0ZR?oc=5\" target=\"_blank\">全国人大代表、小米集团董事长雷军：走硬核科技创新之路 推动未来产业加速落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海证券报电子版</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "京东健康2025年业绩超预期 京东到家快检全年订单同比增超八成 - 经济参考报",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlMzd3JKaGo5cGtnSzVSdE1aVExFWVlVNGFRa0xmekhWN1VSS1N1QTVWYmlmZTVqSFJ0VkhPYWJRUHo0bkM4eVhjTDNrZms2ZmdvVmt2X29vTnFPTjE4ZUd4RkwyU0tkUm05YUdmWjdsTlFzRmo3Qjg2alJsakN2cg?oc=5",
-              "source": "经济参考报",
-              "publishedAt": "Wed, 11 Mar 2026 08:17:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlMzd3JKaGo5cGtnSzVSdE1aVExFWVlVNGFRa0xmekhWN1VSS1N1QTVWYmlmZTVqSFJ0VkhPYWJRUHo0bkM4eVhjTDNrZms2ZmdvVmt2X29vTnFPTjE4ZUd4RkwyU0tkUm05YUdmWjdsTlFzRmo3Qjg2alJsakN2cg?oc=5\" target=\"_blank\">京东健康2025年业绩超预期 京东到家快检全年订单同比增超八成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
               "channelId": "google_news"
             }
           ]
@@ -1640,7 +1643,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:37:23Z",
+              "publishedAt": "2026-03-11T22:19:57Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1804,7 +1807,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 6
+          "count": 8
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1878,19 +1881,19 @@
           "query": "AI product launch",
           "items": [
             {
-              "title": "China's OpenClaw Craze Amid Tencent's Launch of Related Products - 搜狐网",
+              "title": "China's OpenClaw Craze Amid Tencent's Launch of Related Products - SOHU",
               "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVBYi1pUldBZE1NamhMdkVscTlocE9CRS1ncy12eVlJdDZzdzhSdzkxTXdnRlZUY2Z0SXRzb3NlN0JUUDVaQWFhSjFoVFo1dFZDUXU2SDNwOHpoSzcxOGVOSUFOYzBHSE9BallHR19zeW5PY1NrMThrQTZPdG90Mlh2MkNHV0k?oc=5",
-              "source": "搜狐网",
+              "source": "SOHU",
               "publishedAt": "Tue, 10 Mar 2026 09:14:31 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVBYi1pUldBZE1NamhMdkVscTlocE9CRS1ncy12eVlJdDZzdzhSdzkxTXdnRlZUY2Z0SXRzb3NlN0JUUDVaQWFhSjFoVFo1dFZDUXU2SDNwOHpoSzcxOGVOSUFOYzBHSE9BallHR19zeW5PY1NrMThrQTZPdG90Mlh2MkNHV0k?oc=5\" target=\"_blank\">China's OpenClaw Craze Amid Tencent's Launch of Related Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVBYi1pUldBZE1NamhMdkVscTlocE9CRS1ncy12eVlJdDZzdzhSdzkxTXdnRlZUY2Z0SXRzb3NlN0JUUDVaQWFhSjFoVFo1dFZDUXU2SDNwOHpoSzcxOGVOSUFOYzBHSE9BallHR19zeW5PY1NrMThrQTZPdG90Mlh2MkNHV0k?oc=5\" target=\"_blank\">China's OpenClaw Craze Amid Tencent's Launch of Related Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SOHU</font>",
               "channelId": "google_news"
             },
             {
-              "title": "Apple Launches New iPhone and iPad Air as It Gears up for a Major AI Push - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMVZibVVrbm9sUkpUMWRTNkpSVU9RWHVCcTJPb3ViREg0aVNYUGtpWTdaQXhnNW9CeEgtUXdXdnJHc1U0alE2QkRTV1RWQU9GNXBkR0JQTklGTGNNM3pSU1NzT0pnZmxtaUhGMVA5dWV2YzVMbkpoVl9zNFFlTkZ6MVhpSWtVMGdidDF0VmVUeHROdw?oc=5",
-              "source": "富途牛牛",
-              "publishedAt": "Mon, 02 Mar 2026 22:20:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOMVZibVVrbm9sUkpUMWRTNkpSVU9RWHVCcTJPb3ViREg0aVNYUGtpWTdaQXhnNW9CeEgtUXdXdnJHc1U0alE2QkRTV1RWQU9GNXBkR0JQTklGTGNNM3pSU1NzT0pnZmxtaUhGMVA5dWV2YzVMbkpoVl9zNFFlTkZ6MVhpSWtVMGdidDF0VmVUeHROdw?oc=5\" target=\"_blank\">Apple Launches New iPhone and iPad Air as It Gears up for a Major AI Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "title": "China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy - Sinocism | Bill Bishop",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UFNFc3VkUUpZS1h2c0hnY1BiMmZaaHJodG42NUZVbDEzTmcyeVZFUTNic2U0TUQwWHd3Q191Nl9vX2M3T2ZmV3JXTld4OTNYVmp5YTREX3VuMUs5N1k3WjRxTUtTWHc?oc=5",
+              "source": "Sinocism | Bill Bishop",
+              "publishedAt": "Wed, 11 Mar 2026 21:56:48 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UFNFc3VkUUpZS1h2c0hnY1BiMmZaaHJodG42NUZVbDEzTmcyeVZFUTNic2U0TUQwWHd3Q191Nl9vX2M3T2ZmV3JXTld4OTNYVmp5YTREX3VuMUs5N1k3WjRxTUtTWHc?oc=5\" target=\"_blank\">China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sinocism | Bill Bishop</font>",
               "channelId": "google_news"
             },
             {
@@ -1931,15 +1934,23 @@
           "query": "(Microsoft OR Google OR Alphabet OR Amazon OR Meta OR Apple OR IBM OR Oracle OR Salesforce OR NVIDIA OR AMD OR Intel OR Qualcomm OR Arm OR OpenAI OR Anthropic OR Cohere OR xAI OR Hugging Face OR Mistral AI OR Databricks OR Snowflake OR Palantir OR ServiceNow) AI",
           "items": [
             {
-              "title": "Joint Statement from OpenAI and Microsoft",
-              "link": "https://openai.com/index/continuing-microsoft-partnership",
+              "title": "新的 Apple 系统更新生成严重电池故障和 Face ID 阻止的报告 - Mix Vale",
+              "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOelZxeXR1ZEFPR2d5ZGNqbHlvVjRZdVphSDhMZFBCU3hXSkZNcm5MNzVwcVNMQ1hQWVl3Ukp5eWl6WTFQeENWWWUwZThOOGIwemdvbWhIby1zS3pJYmgySzNLMnZfVWpZRXdsYjQ4Qkd5OEs2U3pGaTVJX3Nsd0tHeV9xOHBzQTNqel9zLWEtZDFsYXU1X0duLURMYjQwZU4wMVVFYkFYWnM2ZUt4eGJnX3poLVJ1RlIxQW9wS0h4QmplemxrbHR2ODlXcDNqZnl0WlVMTW1qS2hBZXBKd2xJTHdYRUQzUTJmdkpPYjVVWVdYYlRwNmw5OExCVFduajBsZzVocFAxTUxJT2NkMVNPNmZVWWstRlBNSGhJdlV2YVVJX2VOODQ0U1dWenVIVF84Q1VDakU1d2UwRG5IblZaOGducmVJRzY0MGtKQV9McktFOU5JMlhzTDVB0gHfAkFVX3lxTE84NFVDZGlGQmV4eU0xYUxhb0hZcWhvNWFXNXpvTC1zYkZsb1VMbjR1aHl2ZFdQVkw2bjNMSDJiOER5N09fMWRlZ01xZVVud3h5bExPQmUzbTVRSW9uQWF1UzFVdkhHdDZKUkJnZnktdVVEeFJ3YjVib1k1bUxBWFVsOHFGT1Qzd1dVb2d5UVU1cERmVFpRVGl4azNHaEhwdGFDX2MxSTBJMTloVmFtOUhjSkZNdFl1TFdFdldqcndSeGo0TVV0ZS1VNTFtQ3Y0WlhRdFhfZkFiY3VWOWdwcnNHVU5zM01FdERXWUE1NUctVGVaRWFnekJkYlhVLWprbFZFaFlWN192ZEc3eGhGdTc1UUFBRkVnYmZFZW9jNDNUUEU5MFNJY2wySFdLRnlWX29SOTZfcTRkemRXV2FkV0R3Ui1zMUF6VHhraFZuSmJfbWFpSzlkaUREMDhuLU5aZw?oc=5",
+              "source": "Mix Vale",
+              "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gJBVV95cUxOelZxeXR1ZEFPR2d5ZGNqbHlvVjRZdVphSDhMZFBCU3hXSkZNcm5MNzVwcVNMQ1hQWVl3Ukp5eWl6WTFQeENWWWUwZThOOGIwemdvbWhIby1zS3pJYmgySzNLMnZfVWpZRXdsYjQ4Qkd5OEs2U3pGaTVJX3Nsd0tHeV9xOHBzQTNqel9zLWEtZDFsYXU1X0duLURMYjQwZU4wMVVFYkFYWnM2ZUt4eGJnX3poLVJ1RlIxQW9wS0h4QmplemxrbHR2ODlXcDNqZnl0WlVMTW1qS2hBZXBKd2xJTHdYRUQzUTJmdkpPYjVVWVdYYlRwNmw5OExCVFduajBsZzVocFAxTUxJT2NkMVNPNmZVWWstRlBNSGhJdlV2YVVJX2VOODQ0U1dWenVIVF84Q1VDakU1d2UwRG5IblZaOGducmVJRzY0MGtKQV9McktFOU5JMlhzTDVB0gHfAkFVX3lxTE84NFVDZGlGQmV4eU0xYUxhb0hZcWhvNWFXNXpvTC1zYkZsb1VMbjR1aHl2ZFdQVkw2bjNMSDJiOER5N09fMWRlZ01xZVVud3h5bExPQmUzbTVRSW9uQWF1UzFVdkhHdDZKUkJnZnktdVVEeFJ3YjVib1k1bUxBWFVsOHFGT1Qzd1dVb2d5UVU1cERmVFpRVGl4azNHaEhwdGFDX2MxSTBJMTloVmFtOUhjSkZNdFl1TFdFdldqcndSeGo0TVV0ZS1VNTFtQ3Y0WlhRdFhfZkFiY3VWOWdwcnNHVU5zM01FdERXWUE1NUctVGVaRWFnekJkYlhVLWprbFZFaFlWN192ZEc3eGhGdTc1UUFBRkVnYmZFZW9jNDNUUEU5MFNJY2wySFdLRnlWX29SOTZfcTRkemRXV2FkV0R3Ui1zMUF6VHhraFZuSmJfbWFpSzlkaUREMDhuLU5aZw?oc=5\" target=\"_blank\">新的 Apple 系统更新生成严重电池故障和 Face ID 阻止的报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mix Vale</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "OpenAI and Amazon announce strategic partnership",
+              "link": "https://openai.com/index/amazon-partnership",
               "source": "RSS",
               "publishedAt": "Fri, 27 Feb 2026 05:30:00 GMT",
               "channelId": "openai_blog"
             },
             {
-              "title": "OpenAI and Amazon announce strategic partnership",
-              "link": "https://openai.com/index/amazon-partnership",
+              "title": "Joint Statement from OpenAI and Microsoft",
+              "link": "https://openai.com/index/continuing-microsoft-partnership",
               "source": "RSS",
               "publishedAt": "Fri, 27 Feb 2026 05:30:00 GMT",
               "channelId": "openai_blog"
@@ -1963,13 +1974,6 @@
               "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
               "source": "RSS",
               "publishedAt": "Tue, 10 Mar 2026 10:00:00 GMT",
-              "channelId": "openai_blog"
-            },
-            {
-              "title": "OpenAI to acquire Promptfoo",
-              "link": "https://openai.com/index/openai-to-acquire-promptfoo",
-              "source": "RSS",
-              "publishedAt": "Mon, 09 Mar 2026 10:00:00 GMT",
               "channelId": "openai_blog"
             }
           ]
@@ -2011,19 +2015,19 @@
               "channelId": "google_news"
             },
             {
+              "title": "腾讯一口气上线五只“龙虾”，打的什么算盘？ - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGViTk9hdFRYclJndVJQYzJuZm1KMGRVUHZCbndHQ0tPZnVyTkRFOEhIM0tRMU9CX3FVSExVM29kMWgzU25NcnZQR3h5SXUtOFVwak1rdmFhcW44OElLTmpudFZpZWI1RHNvOHV4NWVsanZNQUMxbEs0VW1HUC12OU5Zb3ZRRWJKTXI4cmVrMA?oc=5",
+              "source": "21财经",
+              "publishedAt": "Wed, 11 Mar 2026 07:06:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGViTk9hdFRYclJndVJQYzJuZm1KMGRVUHZCbndHQ0tPZnVyTkRFOEhIM0tRMU9CX3FVSExVM29kMWgzU25NcnZQR3h5SXUtOFVwak1rdmFhcW44OElLTmpudFZpZWI1RHNvOHV4NWVsanZNQUMxbEs0VW1HUC12OU5Zb3ZRRWJKTXI4cmVrMA?oc=5\" target=\"_blank\">腾讯一口气上线五只“龙虾”，打的什么算盘？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "全国人大代表、小米集团董事长雷军：走硬核科技创新之路 推动未来产业加速落地 - 上海证券报电子版",
               "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HVUNJenIyMUtVOVhfd0FwaWFIUWF4d1lWUWZrZGFCb1FfUnlrTzViS2d4Z0I2T2g1SU9GWThkOGFzWTJWMXBqckM1R3dTR2gtdFg5TlpZQmRLOFJfNjJfTG1lUnQ3S0dBZWhMV0ZR?oc=5",
               "source": "上海证券报电子版",
               "publishedAt": "Wed, 11 Mar 2026 17:57:39 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9HVUNJenIyMUtVOVhfd0FwaWFIUWF4d1lWUWZrZGFCb1FfUnlrTzViS2d4Z0I2T2g1SU9GWThkOGFzWTJWMXBqckM1R3dTR2gtdFg5TlpZQmRLOFJfNjJfTG1lUnQ3S0dBZWhMV0ZR?oc=5\" target=\"_blank\">全国人大代表、小米集团董事长雷军：走硬核科技创新之路 推动未来产业加速落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海证券报电子版</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "京东健康2025年业绩超预期 京东到家快检全年订单同比增超八成 - 经济参考报",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlMzd3JKaGo5cGtnSzVSdE1aVExFWVlVNGFRa0xmekhWN1VSS1N1QTVWYmlmZTVqSFJ0VkhPYWJRUHo0bkM4eVhjTDNrZms2ZmdvVmt2X29vTnFPTjE4ZUd4RkwyU0tkUm05YUdmWjdsTlFzRmo3Qjg2alJsakN2cg?oc=5",
-              "source": "经济参考报",
-              "publishedAt": "Wed, 11 Mar 2026 08:17:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlMzd3JKaGo5cGtnSzVSdE1aVExFWVlVNGFRa0xmekhWN1VSS1N1QTVWYmlmZTVqSFJ0VkhPYWJRUHo0bkM4eVhjTDNrZms2ZmdvVmt2X29vTnFPTjE4ZUd4RkwyU0tkUm05YUdmWjdsTlFzRmo3Qjg2alJsakN2cg?oc=5\" target=\"_blank\">京东健康2025年业绩超预期 京东到家快检全年订单同比增超八成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
               "channelId": "google_news"
             }
           ]
@@ -2104,7 +2108,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-11T20:37:23Z",
+              "publishedAt": "2026-03-11T22:19:57Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -2283,7 +2287,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 6
+          "count": 8
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -2317,7 +2321,7 @@
       "google_ai_blog": 36,
       "huggingface_blog": 41,
       "github_trending_ai": 100,
-      "hackernews_ai": 30,
+      "hackernews_ai": 40,
       "arxiv_cs_daily": 150,
       "producthunt_ai": 37
     },
