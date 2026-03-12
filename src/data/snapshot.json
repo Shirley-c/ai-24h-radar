@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T10:49:32.893Z",
+  "generatedAt": "2026-03-12T13:15:55.373Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -85,28 +85,28 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:33:39Z",
+              "publishedAt": "2026-03-12T12:50:43Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:47:38Z",
+              "publishedAt": "2026-03-12T13:09:02Z",
               "channelId": "github_trending_ai"
             },
             {
-              "title": "Ask HN: Should training bottleneck detection be a product or just a feature?",
-              "link": "https://news.ycombinator.com/item?id=47348747",
+              "title": "Email API benchmarks",
+              "link": "https://www.producthunt.com/products/knock-6",
               "source": "RSS",
-              "publishedAt": "Thu, 12 Mar 2026 10:31:06 +0000",
-              "channelId": "hackernews_ai"
+              "publishedAt": "2026-03-11T11:46:14-07:00",
+              "channelId": "producthunt_ai"
             },
             {
-              "title": "NeuralAgent",
-              "link": "https://www.producthunt.com/products/neuralagent",
+              "title": "Agentipedia",
+              "link": "https://www.producthunt.com/products/agentipedia",
               "source": "RSS",
-              "publishedAt": "2026-03-11T17:01:57-07:00",
+              "publishedAt": "2026-03-11T17:18:39-07:00",
               "channelId": "producthunt_ai"
             }
           ]
@@ -115,13 +115,6 @@
           "title": "国外大厂动作",
           "query": "(Microsoft OR Google OR Alphabet OR Amazon OR Meta OR Apple OR IBM OR Oracle OR Salesforce OR NVIDIA OR AMD OR Intel OR Qualcomm OR Arm OR OpenAI OR Anthropic OR Cohere OR xAI OR Hugging Face OR Mistral AI OR Databricks OR Snowflake OR Palantir OR ServiceNow) AI",
           "items": [
-            {
-              "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-              "link": "https://openai.com/index/wayfair",
-              "source": "RSS",
-              "publishedAt": "Wed, 11 Mar 2026 11:00:00 GMT",
-              "channelId": "openai_blog"
-            },
             {
               "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
               "link": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
@@ -133,29 +126,36 @@
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:40:48Z",
+              "publishedAt": "2026-03-12T13:12:39Z",
               "channelId": "github_trending_ai"
             },
             {
-              "title": "Rakuten fixes issues twice as fast with Codex",
-              "link": "https://openai.com/index/rakuten",
+              "title": "How AI is helping improve heart health in rural Australia",
+              "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
               "source": "RSS",
-              "publishedAt": "Wed, 11 Mar 2026 13:00:00 GMT",
-              "channelId": "openai_blog"
+              "publishedAt": "Thu, 12 Mar 2026 15:00:00 +0000",
+              "channelId": "google_ai_blog"
             },
             {
-              "title": "Designing AI agents to resist prompt injection",
-              "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-              "source": "RSS",
-              "publishedAt": "Wed, 11 Mar 2026 11:30:00 GMT",
-              "channelId": "openai_blog"
+              "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+              "link": "https://github.com/open-webui/open-webui",
+              "source": "GitHub",
+              "publishedAt": "2026-03-12T12:57:12Z",
+              "channelId": "github_trending_ai"
             },
             {
-              "title": "From model to agent: Equipping the Responses API with a computer environment",
-              "link": "https://openai.com/index/equip-responses-api-computer-environment",
-              "source": "RSS",
-              "publishedAt": "Wed, 11 Mar 2026 11:00:00 GMT",
-              "channelId": "openai_blog"
+              "title": "google-gemini/gemini-cli - An open-source AI agent that brings the power of Gemini directly into your terminal.",
+              "link": "https://github.com/google-gemini/gemini-cli",
+              "source": "GitHub",
+              "publishedAt": "2026-03-12T13:14:12Z",
+              "channelId": "github_trending_ai"
+            },
+            {
+              "title": "anthropics/claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+              "link": "https://github.com/anthropics/claude-code",
+              "source": "GitHub",
+              "publishedAt": "2026-03-12T13:14:35Z",
+              "channelId": "github_trending_ai"
             }
           ]
         },
@@ -164,27 +164,19 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
+              "title": "腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
+              "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBHbWRUbUUzWG5tWVhFZm9rMjRHNlRZRG80OXNUSU9YMWxCNE1acUZLNUVsNWpTWUV4dXpPQTFxNA?oc=5",
+              "source": "雪球",
+              "publishedAt": "Thu, 12 Mar 2026 08:59:48 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTFBHbWRUbUUzWG5tWVhFZm9rMjRHNlRZRG80OXNUSU9YMWxCNE1acUZLNUVsNWpTWUV4dXpPQTFxNA?oc=5\" target=\"_blank\">腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "张时荣代表：持续深化长城资源公益保护 - spp.gov.cn",
               "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13NzJuXzdxQmQ4WXV5RVNDRGI5SjBNT0xaakVCSEthQ0xrbm9QZWJwc1lEZVluWHRTTWMzQTFza2NUaDVjTGVtM0VNQWFBV3ZaOHNPZkljWkRWYm9iWXhyS0hoaWdkX09qeGoyZTlR?oc=5",
               "source": "spp.gov.cn",
               "publishedAt": "Thu, 12 Mar 2026 03:01:23 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE13NzJuXzdxQmQ4WXV5RVNDRGI5SjBNT0xaakVCSEthQ0xrbm9QZWJwc1lEZVluWHRTTWMzQTFza2NUaDVjTGVtM0VNQWFBV3ZaOHNPZkljWkRWYm9iWXhyS0hoaWdkX09qeGoyZTlR?oc=5\" target=\"_blank\">张时荣代表：持续深化长城资源公益保护</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spp.gov.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - guancha.cn",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
-              "source": "guancha.cn",
-              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "秀场背后的产业变革：京东JD FASHION解锁服饰行业增长新路径 - 经济参考报",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2Exd3VmUnE3Z2I3R3dvTzlIR2JZaElWUnhVV092RUJpci1ZRWZMLWRjNkZJM3JISWFTanZHTmhXazd3UXlIVUdYaEJXMTctUXMwZVBDUC14VHpRTURfMktmbmZkNzZ2aFdIeFh5clpfY2ZOZDFxUEhGTVFmWW9WQQ?oc=5",
-              "source": "经济参考报",
-              "publishedAt": "Thu, 12 Mar 2026 07:23:13 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2Exd3VmUnE3Z2I3R3dvTzlIR2JZaElWUnhVV092RUJpci1ZRWZMLWRjNkZJM3JISWFTanZHTmhXazd3UXlIVUdYaEJXMTctUXMwZVBDUC14VHpRTURfMktmbmZkNzZ2aFdIeFh5clpfY2ZOZDFxUEhGTVFmWW9WQQ?oc=5\" target=\"_blank\">秀场背后的产业变革：京东JD FASHION解锁服饰行业增长新路径</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
               "channelId": "google_news"
             },
             {
@@ -196,19 +188,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "主打安全 科大讯飞版“龙虾”AstronClaw上线 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Thu, 12 Mar 2026 09:35:26 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5\" target=\"_blank\">主打安全 科大讯飞版“龙虾”AstronClaw上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - guancha.cn",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
+              "source": "guancha.cn",
+              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
-              "title": "一款马年摆件走红拼多多，广东商家如何重塑传统文玩？ - 21财经",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5",
-              "source": "21财经",
-              "publishedAt": "Thu, 12 Mar 2026 09:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5\" target=\"_blank\">一款马年摆件走红拼多多，广东商家如何重塑传统文玩？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+              "title": "百度推出全球首款手机“龙虾 ”应用 - 中国科技网",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqVHh3aDBUQzFMTVY3MXMxZlV0VFpkVUQwX0FvT2hRZmhEcF96eTdKLU1Kak5zaVFQcGo1S0lnTXU5ZnZ6ajFtb095d2xzdEpCNFJ4NEd6Yl9hZHVod282U3JWQmFBZVdwR05jXzJFV0o?oc=5",
+              "source": "中国科技网",
+              "publishedAt": "Thu, 12 Mar 2026 04:14:57 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBqVHh3aDBUQzFMTVY3MXMxZlV0VFpkVUQwX0FvT2hRZmhEcF96eTdKLU1Kak5zaVFQcGo1S0lnTXU5ZnZ6ajFtb095d2xzdEpCNFJ4NEd6Yl9hZHVod282U3JWQmFBZVdwR05jXzJFV0o?oc=5\" target=\"_blank\">百度推出全球首款手机“龙虾 ”应用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "联想AI+ | 另一种“造林”，正在生产线完成-联想官网 - 联想商城",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwSUhvWWJ2RFItVmlScDVxYU92azlIaXRsc1pqQlExQzFSSW01TjZJTWY4eFM2U3NrTkRBVkdaNWE2enE1V0dfRklfSDg5cmRWWGZ4SWJZVzRKOGhM?oc=5",
+              "source": "联想商城",
+              "publishedAt": "Thu, 12 Mar 2026 11:56:55 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwSUhvWWJ2RFItVmlScDVxYU92azlIaXRsc1pqQlExQzFSSW01TjZJTWY4eFM2U3NrTkRBVkdaNWE2enE1V0dfRklfSDg5cmRWWGZ4SWJZVzRKOGhM?oc=5\" target=\"_blank\">联想AI+ | 另一种“造林”，正在生产线完成-联想官网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联想商城</font>",
               "channelId": "google_news"
             }
           ]
@@ -234,19 +234,19 @@
               "channelId": "google_news"
             },
             {
+              "title": "2026年，你不是要学AI，而是要学会用AI - 51CTO",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhNURhekFsUGNudDByekJjT0hDRWNFYTFWa01LUC0zWEd0aGRpeGJpNTF4OWZqY0YtaHpxamVscVlLZEV2Z0lMdmtuZ05rZw?oc=5",
+              "source": "51CTO",
+              "publishedAt": "Thu, 12 Mar 2026 08:36:31 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhNURhekFsUGNudDByekJjT0hDRWNFYTFWa01LUC0zWEd0aGRpeGJpNTF4OWZqY0YtaHpxamVscVlLZEV2Z0lMdmtuZ05rZw?oc=5\" target=\"_blank\">2026年，你不是要学AI，而是要学会用AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "大模型驱动下的生成式搜推：淘宝闪购全链路重构实践｜QCon 北京 - InfoQ 官网",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSU2VrUWZrU0FEc2lVWEUwR1pGVUUtT2JPd3ZTMjJGck9oSDQwckZhZGNqQ1REQ1FHeGw1RjB1UzdKZVMtTkFUbExqQ1JyMDlrMk56VmwycGsydHBvX1E?oc=5",
               "source": "InfoQ 官网",
               "publishedAt": "Thu, 12 Mar 2026 05:11:09 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSU2VrUWZrU0FEc2lVWEUwR1pGVUUtT2JPd3ZTMjJGck9oSDQwckZhZGNqQ1REQ1FHeGw1RjB1UzdKZVMtTkFUbExqQ1JyMDlrMk56VmwycGsydHBvX1E?oc=5\" target=\"_blank\">大模型驱动下的生成式搜推：淘宝闪购全链路重构实践｜QCon 北京</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Anthropic万字Skills教程，把Agent 工程的核心武功秘籍说明白了 - 51CTO",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81d0Y0d0lxQVNBd05kejlUWmkxc0VyeVk2UUJHeTNTeTk3WFp0RXQyWGozY1N5S0FHZnUxOU9lcXgxODhEVlJCbFEwc1NkUQ?oc=5",
-              "source": "51CTO",
-              "publishedAt": "Thu, 12 Mar 2026 08:46:10 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE81d0Y0d0lxQVNBd05kejlUWmkxc0VyeVk2UUJHeTNTeTk3WFp0RXQyWGozY1N5S0FHZnUxOU9lcXgxODhEVlJCbFEwc1NkUQ?oc=5\" target=\"_blank\">Anthropic万字Skills教程，把Agent 工程的核心武功秘籍说明白了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
               "channelId": "google_news"
             },
             {
@@ -282,15 +282,8 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:32:10Z",
+              "publishedAt": "2026-03-12T13:06:51Z",
               "channelId": "github_trending_ai"
-            },
-            {
-              "title": "Show HN: Qwodel – An open-source unified pipeline for LLM quantization",
-              "link": "https://news.ycombinator.com/item?id=47348708",
-              "source": "RSS",
-              "publishedAt": "Thu, 12 Mar 2026 10:26:13 +0000",
-              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -299,45 +292,45 @@
           "query": "AI UX design",
           "items": [
             {
-              "title": "Designing AI agents to resist prompt injection",
-              "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-              "source": "RSS",
-              "publishedAt": "Wed, 11 Mar 2026 11:30:00 GMT",
-              "channelId": "openai_blog"
-            },
-            {
-              "title": "From model to agent: Equipping the Responses API with a computer environment",
-              "link": "https://openai.com/index/equip-responses-api-computer-environment",
-              "source": "RSS",
-              "publishedAt": "Wed, 11 Mar 2026 11:00:00 GMT",
-              "channelId": "openai_blog"
-            },
-            {
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:24:55Z",
+              "publishedAt": "2026-03-12T12:46:47Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:44:08Z",
+              "publishedAt": "2026-03-12T13:15:39Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
               "link": "https://github.com/langflow-ai/langflow",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:42:01Z",
+              "publishedAt": "2026-03-12T13:10:16Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:47:49Z",
+              "publishedAt": "2026-03-12T12:57:12Z",
+              "channelId": "github_trending_ai"
+            },
+            {
+              "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+              "link": "https://github.com/Comfy-Org/ComfyUI",
+              "source": "GitHub",
+              "publishedAt": "2026-03-12T13:09:19Z",
+              "channelId": "github_trending_ai"
+            },
+            {
+              "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+              "link": "https://github.com/supabase/supabase",
+              "source": "GitHub",
+              "publishedAt": "2026-03-12T13:09:02Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -417,7 +410,7 @@
       "channels": [
         {
           "channelId": "openai_blog",
-          "count": 4
+          "count": 0
         },
         {
           "channelId": "anthropic_news",
@@ -437,7 +430,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 10
+          "count": 9
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -481,14 +474,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "RedChip 在3月19日的虚拟投资者会议上展示了人工智能价值链中的上市公司。 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2EwQ09RTVVTTkp6dkxtTmFGb1BfVmhJMmpURVhDaE9LTzkxdTVhWlNqcVFUYXJZdlh1c2hmSjdSQzJnSGp2WjF2T3BEbXNyYlZxNVBHZnhJRkFMZUJmUnpjOWw0NnNaTHk2YXMyTlhKSGNJT1VhY0tOWmliNUhJYkxBeU1zMWVrLW1nMUpWOXhnZlh6VmY5QWgzWUtVZFlMS1NfamlOZnpxN2ZQaDdJaEhGMzZWNHIyb1I0?oc=5",
-              "source": "富途牛牛",
-              "publishedAt": "Mon, 09 Mar 2026 11:30:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2EwQ09RTVVTTkp6dkxtTmFGb1BfVmhJMmpURVhDaE9LTzkxdTVhWlNqcVFUYXJZdlh1c2hmSjdSQzJnSGp2WjF2T3BEbXNyYlZxNVBHZnhJRkFMZUJmUnpjOWw0NnNaTHk2YXMyTlhKSGNJT1VhY0tOWmliNUhJYkxBeU1zMWVrLW1nMUpWOXhnZlh6VmY5QWgzWUtVZFlMS1NfamlOZnpxN2ZQaDdJaEhGMzZWNHIyb1I0?oc=5\" target=\"_blank\">RedChip 在3月19日的虚拟投资者会议上展示了人工智能价值链中的上市公司。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "TAMUSA-Chat: A Domain-Adapted Large Language Model Conversational System for Research and Responsible Deployment",
               "link": "https://arxiv.org/abs/2603.09992",
               "source": "RSS",
@@ -508,6 +493,13 @@
               "source": "RSS",
               "publishedAt": "Thu, 12 Mar 2026 00:00:00 -0400",
               "channelId": "arxiv_cs_daily"
+            },
+            {
+              "title": "AraModernBERT: Transtokenized Initialization and Long-Context Encoder Modeling for Arabic",
+              "link": "https://arxiv.org/abs/2603.09982",
+              "source": "RSS",
+              "publishedAt": "Thu, 12 Mar 2026 00:00:00 -0400",
+              "channelId": "arxiv_cs_daily"
             }
           ]
         },
@@ -524,11 +516,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - TechFlow Post",
+              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQMWxGV3lpRnE1Slo0bXl0UVdERnRMTTNUdF9rdmtiUVViTmxtQkdUSDN5YXBrUjNQTVFiLVJ0SktYWXdtN1hUTjFldHNReVJwaklTaVBKZC1ublZyWGVFMkN3?oc=5",
-              "source": "TechFlow Post",
+              "source": "深潮TechFlow",
               "publishedAt": "Wed, 11 Mar 2026 09:52:56 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQMWxGV3lpRnE1Slo0bXl0UVdERnRMTTNUdF9rdmtiUVViTmxtQkdUSDN5YXBrUjNQTVFiLVJ0SktYWXdtN1hUTjFldHNReVJwaklTaVBKZC1ublZyWGVFMkN3?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechFlow Post</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQMWxGV3lpRnE1Slo0bXl0UVdERnRMTTNUdF9rdmtiUVViTmxtQkdUSDN5YXBrUjNQTVFiLVJ0SktYWXdtN1hUTjFldHNReVJwaklTaVBKZC1ublZyWGVFMkN3?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
               "channelId": "google_news"
             },
             {
@@ -543,21 +535,21 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:33:39Z",
+              "publishedAt": "2026-03-12T12:50:43Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
               "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:26:38Z",
+              "publishedAt": "2026-03-12T13:14:09Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:47:38Z",
+              "publishedAt": "2026-03-12T13:09:02Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -605,7 +597,7 @@
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:40:48Z",
+              "publishedAt": "2026-03-12T13:12:39Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -615,27 +607,19 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
+              "title": "腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
+              "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBHbWRUbUUzWG5tWVhFZm9rMjRHNlRZRG80OXNUSU9YMWxCNE1acUZLNUVsNWpTWUV4dXpPQTFxNA?oc=5",
+              "source": "雪球",
+              "publishedAt": "Thu, 12 Mar 2026 08:59:48 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTFBHbWRUbUUzWG5tWVhFZm9rMjRHNlRZRG80OXNUSU9YMWxCNE1acUZLNUVsNWpTWUV4dXpPQTFxNA?oc=5\" target=\"_blank\">腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "张时荣代表：持续深化长城资源公益保护 - spp.gov.cn",
               "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13NzJuXzdxQmQ4WXV5RVNDRGI5SjBNT0xaakVCSEthQ0xrbm9QZWJwc1lEZVluWHRTTWMzQTFza2NUaDVjTGVtM0VNQWFBV3ZaOHNPZkljWkRWYm9iWXhyS0hoaWdkX09qeGoyZTlR?oc=5",
               "source": "spp.gov.cn",
               "publishedAt": "Thu, 12 Mar 2026 03:01:23 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE13NzJuXzdxQmQ4WXV5RVNDRGI5SjBNT0xaakVCSEthQ0xrbm9QZWJwc1lEZVluWHRTTWMzQTFza2NUaDVjTGVtM0VNQWFBV3ZaOHNPZkljWkRWYm9iWXhyS0hoaWdkX09qeGoyZTlR?oc=5\" target=\"_blank\">张时荣代表：持续深化长城资源公益保护</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spp.gov.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - guancha.cn",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
-              "source": "guancha.cn",
-              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "秀场背后的产业变革：京东JD FASHION解锁服饰行业增长新路径 - 经济参考报",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2Exd3VmUnE3Z2I3R3dvTzlIR2JZaElWUnhVV092RUJpci1ZRWZMLWRjNkZJM3JISWFTanZHTmhXazd3UXlIVUdYaEJXMTctUXMwZVBDUC14VHpRTURfMktmbmZkNzZ2aFdIeFh5clpfY2ZOZDFxUEhGTVFmWW9WQQ?oc=5",
-              "source": "经济参考报",
-              "publishedAt": "Thu, 12 Mar 2026 07:23:13 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2Exd3VmUnE3Z2I3R3dvTzlIR2JZaElWUnhVV092RUJpci1ZRWZMLWRjNkZJM3JISWFTanZHTmhXazd3UXlIVUdYaEJXMTctUXMwZVBDUC14VHpRTURfMktmbmZkNzZ2aFdIeFh5clpfY2ZOZDFxUEhGTVFmWW9WQQ?oc=5\" target=\"_blank\">秀场背后的产业变革：京东JD FASHION解锁服饰行业增长新路径</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
               "channelId": "google_news"
             },
             {
@@ -647,19 +631,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "主打安全 科大讯飞版“龙虾”AstronClaw上线 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Thu, 12 Mar 2026 09:35:26 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5\" target=\"_blank\">主打安全 科大讯飞版“龙虾”AstronClaw上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - guancha.cn",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
+              "source": "guancha.cn",
+              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
-              "title": "一款马年摆件走红拼多多，广东商家如何重塑传统文玩？ - 21财经",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5",
-              "source": "21财经",
-              "publishedAt": "Thu, 12 Mar 2026 09:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5\" target=\"_blank\">一款马年摆件走红拼多多，广东商家如何重塑传统文玩？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+              "title": "百度推出全球首款手机“龙虾 ”应用 - 中国科技网",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqVHh3aDBUQzFMTVY3MXMxZlV0VFpkVUQwX0FvT2hRZmhEcF96eTdKLU1Kak5zaVFQcGo1S0lnTXU5ZnZ6ajFtb095d2xzdEpCNFJ4NEd6Yl9hZHVod282U3JWQmFBZVdwR05jXzJFV0o?oc=5",
+              "source": "中国科技网",
+              "publishedAt": "Thu, 12 Mar 2026 04:14:57 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBqVHh3aDBUQzFMTVY3MXMxZlV0VFpkVUQwX0FvT2hRZmhEcF96eTdKLU1Kak5zaVFQcGo1S0lnTXU5ZnZ6ajFtb095d2xzdEpCNFJ4NEd6Yl9hZHVod282U3JWQmFBZVdwR05jXzJFV0o?oc=5\" target=\"_blank\">百度推出全球首款手机“龙虾 ”应用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "联想AI+ | 另一种“造林”，正在生产线完成-联想官网 - 联想商城",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwSUhvWWJ2RFItVmlScDVxYU92azlIaXRsc1pqQlExQzFSSW01TjZJTWY4eFM2U3NrTkRBVkdaNWE2enE1V0dfRklfSDg5cmRWWGZ4SWJZVzRKOGhM?oc=5",
+              "source": "联想商城",
+              "publishedAt": "Thu, 12 Mar 2026 11:56:55 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwSUhvWWJ2RFItVmlScDVxYU92azlIaXRsc1pqQlExQzFSSW01TjZJTWY4eFM2U3NrTkRBVkdaNWE2enE1V0dfRklfSDg5cmRWWGZ4SWJZVzRKOGhM?oc=5\" target=\"_blank\">联想AI+ | 另一种“造林”，正在生产线完成-联想官网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联想商城</font>",
               "channelId": "google_news"
             }
           ]
@@ -693,14 +685,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "深度解析：Agentic AI驱动下的CPU 角色重构 - 51CTO",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MMnNZVllNZlh3VFVVRm9LbThtampTYlFNNzNTdjkzSU9YVUxRdElQaTFoSGotSVlCcUlFRXZlU2ZYN1VyaDE2cmdWUlNTZw?oc=5",
-              "source": "51CTO",
-              "publishedAt": "Wed, 11 Mar 2026 09:15:37 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MMnNZVllNZlh3VFVVRm9LbThtampTYlFNNzNTdjkzSU9YVUxRdElQaTFoSGotSVlCcUlFRXZlU2ZYN1VyaDE2cmdWUlNTZw?oc=5\" target=\"_blank\">深度解析：Agentic AI驱动下的CPU 角色重构</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "波场TRON加入全球知名AI理事会，成Agentic AI理事会金牌会员 - PANews",
               "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fNjdlWFdMNFI5MGljUkt1a1lqdjdHdWRubEp5SHNNR1VpMmM0MHFZVnBUdE14S3M2b08tZm8wMHI1NVpzZURzOFRnVWh0cXk5MzA5R1dWZmFRYTFVRXIxRWo0YUFueldKSDlRUDJVSU5fTFEyUFZzQXBVa0VnUUU?oc=5",
               "source": "PANews",
@@ -714,6 +698,14 @@
               "source": "新浪财经",
               "publishedAt": "Tue, 10 Mar 2026 22:55:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBvdzNNcVFUTzBONE5tbkFRRG95LXdoT3UzMy1MOGdGa2dNWThYMlJYYmVlQWpQOFJjbTdER2ZQU0pJTzFac094dmREMUVYcmlwUGFfTWp6aGRnQWtxNVVnZXEwNlRPQTh5bzhKUXlJOWdab0JGdVE?oc=5\" target=\"_blank\">华泰 | Physical AI和Agentic AI起革命</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "重磅！OpenClaw+OpenViking 正式登陆鲲鹏，打造端到端AI Agent最佳实践 - 51CTO",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xZVdBUFd2MkV4a1paRk00dVNQVEM3QWNzWklIR3RoTV9JYWRpc2liMnd1bEp1Zm5qWTc0RkJVdXR0ZUVVUWwxQW1uay1RcU1HazZj?oc=5",
+              "source": "51CTO",
+              "publishedAt": "Wed, 11 Mar 2026 08:47:27 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xZVdBUFd2MkV4a1paRk00dVNQVEM3QWNzWklIR3RoTV9JYWRpc2liMnd1bEp1Zm5qWTc0RkJVdXR0ZUVVUWwxQW1uay1RcU1HazZj?oc=5\" target=\"_blank\">重磅！OpenClaw+OpenViking 正式登陆鲲鹏，打造端到端AI Agent最佳实践</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
               "channelId": "google_news"
             }
           ]
@@ -740,15 +732,8 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:32:10Z",
+              "publishedAt": "2026-03-12T13:06:51Z",
               "channelId": "github_trending_ai"
-            },
-            {
-              "title": "Show HN: Qwodel – An open-source unified pipeline for LLM quantization",
-              "link": "https://news.ycombinator.com/item?id=47348708",
-              "source": "RSS",
-              "publishedAt": "Thu, 12 Mar 2026 10:26:13 +0000",
-              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -797,7 +782,7 @@
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:24:55Z",
+              "publishedAt": "2026-03-12T12:46:47Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -897,7 +882,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 10
+          "count": 9
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -979,11 +964,11 @@
           "query": "AI product launch",
           "items": [
             {
-              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - TechFlow Post",
+              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQMWxGV3lpRnE1Slo0bXl0UVdERnRMTTNUdF9rdmtiUVViTmxtQkdUSDN5YXBrUjNQTVFiLVJ0SktYWXdtN1hUTjFldHNReVJwaklTaVBKZC1ublZyWGVFMkN3?oc=5",
-              "source": "TechFlow Post",
+              "source": "深潮TechFlow",
               "publishedAt": "Wed, 11 Mar 2026 09:52:56 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQMWxGV3lpRnE1Slo0bXl0UVdERnRMTTNUdF9rdmtiUVViTmxtQkdUSDN5YXBrUjNQTVFiLVJ0SktYWXdtN1hUTjFldHNReVJwaklTaVBKZC1ublZyWGVFMkN3?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechFlow Post</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQMWxGV3lpRnE1Slo0bXl0UVdERnRMTTNUdF9rdmtiUVViTmxtQkdUSDN5YXBrUjNQTVFiLVJ0SktYWXdtN1hUTjFldHNReVJwaklTaVBKZC1ublZyWGVFMkN3?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
               "channelId": "google_news"
             },
             {
@@ -1006,21 +991,21 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:33:39Z",
+              "publishedAt": "2026-03-12T12:50:43Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
               "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:26:38Z",
+              "publishedAt": "2026-03-12T13:14:09Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:47:38Z",
+              "publishedAt": "2026-03-12T13:09:02Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1078,27 +1063,19 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
+              "title": "腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
+              "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBHbWRUbUUzWG5tWVhFZm9rMjRHNlRZRG80OXNUSU9YMWxCNE1acUZLNUVsNWpTWUV4dXpPQTFxNA?oc=5",
+              "source": "雪球",
+              "publishedAt": "Thu, 12 Mar 2026 08:59:48 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTFBHbWRUbUUzWG5tWVhFZm9rMjRHNlRZRG80OXNUSU9YMWxCNE1acUZLNUVsNWpTWUV4dXpPQTFxNA?oc=5\" target=\"_blank\">腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "张时荣代表：持续深化长城资源公益保护 - spp.gov.cn",
               "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13NzJuXzdxQmQ4WXV5RVNDRGI5SjBNT0xaakVCSEthQ0xrbm9QZWJwc1lEZVluWHRTTWMzQTFza2NUaDVjTGVtM0VNQWFBV3ZaOHNPZkljWkRWYm9iWXhyS0hoaWdkX09qeGoyZTlR?oc=5",
               "source": "spp.gov.cn",
               "publishedAt": "Thu, 12 Mar 2026 03:01:23 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE13NzJuXzdxQmQ4WXV5RVNDRGI5SjBNT0xaakVCSEthQ0xrbm9QZWJwc1lEZVluWHRTTWMzQTFza2NUaDVjTGVtM0VNQWFBV3ZaOHNPZkljWkRWYm9iWXhyS0hoaWdkX09qeGoyZTlR?oc=5\" target=\"_blank\">张时荣代表：持续深化长城资源公益保护</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spp.gov.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - guancha.cn",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
-              "source": "guancha.cn",
-              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "秀场背后的产业变革：京东JD FASHION解锁服饰行业增长新路径 - 经济参考报",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2Exd3VmUnE3Z2I3R3dvTzlIR2JZaElWUnhVV092RUJpci1ZRWZMLWRjNkZJM3JISWFTanZHTmhXazd3UXlIVUdYaEJXMTctUXMwZVBDUC14VHpRTURfMktmbmZkNzZ2aFdIeFh5clpfY2ZOZDFxUEhGTVFmWW9WQQ?oc=5",
-              "source": "经济参考报",
-              "publishedAt": "Thu, 12 Mar 2026 07:23:13 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2Exd3VmUnE3Z2I3R3dvTzlIR2JZaElWUnhVV092RUJpci1ZRWZMLWRjNkZJM3JISWFTanZHTmhXazd3UXlIVUdYaEJXMTctUXMwZVBDUC14VHpRTURfMktmbmZkNzZ2aFdIeFh5clpfY2ZOZDFxUEhGTVFmWW9WQQ?oc=5\" target=\"_blank\">秀场背后的产业变革：京东JD FASHION解锁服饰行业增长新路径</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
               "channelId": "google_news"
             },
             {
@@ -1110,19 +1087,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "主打安全 科大讯飞版“龙虾”AstronClaw上线 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Thu, 12 Mar 2026 09:35:26 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5\" target=\"_blank\">主打安全 科大讯飞版“龙虾”AstronClaw上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - guancha.cn",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
+              "source": "guancha.cn",
+              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
-              "title": "一款马年摆件走红拼多多，广东商家如何重塑传统文玩？ - 21财经",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5",
-              "source": "21财经",
-              "publishedAt": "Thu, 12 Mar 2026 09:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5\" target=\"_blank\">一款马年摆件走红拼多多，广东商家如何重塑传统文玩？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+              "title": "百度推出全球首款手机“龙虾 ”应用 - 中国科技网",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqVHh3aDBUQzFMTVY3MXMxZlV0VFpkVUQwX0FvT2hRZmhEcF96eTdKLU1Kak5zaVFQcGo1S0lnTXU5ZnZ6ajFtb095d2xzdEpCNFJ4NEd6Yl9hZHVod282U3JWQmFBZVdwR05jXzJFV0o?oc=5",
+              "source": "中国科技网",
+              "publishedAt": "Thu, 12 Mar 2026 04:14:57 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBqVHh3aDBUQzFMTVY3MXMxZlV0VFpkVUQwX0FvT2hRZmhEcF96eTdKLU1Kak5zaVFQcGo1S0lnTXU5ZnZ6ajFtb095d2xzdEpCNFJ4NEd6Yl9hZHVod282U3JWQmFBZVdwR05jXzJFV0o?oc=5\" target=\"_blank\">百度推出全球首款手机“龙虾 ”应用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "联想AI+ | 另一种“造林”，正在生产线完成-联想官网 - 联想商城",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwSUhvWWJ2RFItVmlScDVxYU92azlIaXRsc1pqQlExQzFSSW01TjZJTWY4eFM2U3NrTkRBVkdaNWE2enE1V0dfRklfSDg5cmRWWGZ4SWJZVzRKOGhM?oc=5",
+              "source": "联想商城",
+              "publishedAt": "Thu, 12 Mar 2026 11:56:55 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwSUhvWWJ2RFItVmlScDVxYU92azlIaXRsc1pqQlExQzFSSW01TjZJTWY4eFM2U3NrTkRBVkdaNWE2enE1V0dfRklfSDg5cmRWWGZ4SWJZVzRKOGhM?oc=5\" target=\"_blank\">联想AI+ | 另一种“造林”，正在生产线完成-联想官网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联想商城</font>",
               "channelId": "google_news"
             }
           ]
@@ -1156,14 +1141,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "深度解析：Agentic AI驱动下的CPU 角色重构 - 51CTO",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MMnNZVllNZlh3VFVVRm9LbThtampTYlFNNzNTdjkzSU9YVUxRdElQaTFoSGotSVlCcUlFRXZlU2ZYN1VyaDE2cmdWUlNTZw?oc=5",
-              "source": "51CTO",
-              "publishedAt": "Wed, 11 Mar 2026 09:15:37 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MMnNZVllNZlh3VFVVRm9LbThtampTYlFNNzNTdjkzSU9YVUxRdElQaTFoSGotSVlCcUlFRXZlU2ZYN1VyaDE2cmdWUlNTZw?oc=5\" target=\"_blank\">深度解析：Agentic AI驱动下的CPU 角色重构</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "华泰 | Physical AI和Agentic AI起革命 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvdzNNcVFUTzBONE5tbkFRRG95LXdoT3UzMy1MOGdGa2dNWThYMlJYYmVlQWpQOFJjbTdER2ZQU0pJTzFac094dmREMUVYcmlwUGFfTWp6aGRnQWtxNVVnZXEwNlRPQTh5bzhKUXlJOWdab0JGdVE?oc=5",
               "source": "新浪财经",
@@ -1177,6 +1154,14 @@
               "source": "Fortune Business Insights",
               "publishedAt": "Wed, 11 Mar 2026 23:21:22 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWh5aEVYNlVUSUdCcnNEVjRSUThMUnhwWm9nci1xTnBhYUp2UWotV25lcUpXd0x1RkJ5Rk5NMEdDN2FSM0ZYYWVLMWR3c3R2NHptSEg5QS1MRGRWaHBOY28xckJzSmpaUk16MGRpZmE1QzVVZ0RSQUl2Y1lGejZCenQzT2pFekNJ?oc=5\" target=\"_blank\">医疗保健市场规模、份额 | Agentic AI预测 [2034]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune Business Insights</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "智能体浪潮逼近！Agent连接达到千亿级 推理算力实现10倍以上增长 - 财联社",
+              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53OXlOamFQMVY3MkZIMGltdFZnODl0Y1VsWUFaSHdRQlRHWU80MURlSmtTTkZoek93ZFRSZkZONUlhbnNkbjBqRQ?oc=5",
+              "source": "财联社",
+              "publishedAt": "Fri, 06 Mar 2026 01:08:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE53OXlOamFQMVY3MkZIMGltdFZnODl0Y1VsWUFaSHdRQlRHWU80MURlSmtTTkZoek93ZFRSZkZONUlhbnNkbjBqRQ?oc=5\" target=\"_blank\">智能体浪潮逼近！Agent连接达到千亿级 推理算力实现10倍以上增长</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
               "channelId": "google_news"
             }
           ]
@@ -1210,15 +1195,8 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:32:10Z",
+              "publishedAt": "2026-03-12T13:06:51Z",
               "channelId": "github_trending_ai"
-            },
-            {
-              "title": "Show HN: Qwodel – An open-source unified pipeline for LLM quantization",
-              "link": "https://news.ycombinator.com/item?id=47348708",
-              "source": "RSS",
-              "publishedAt": "Thu, 12 Mar 2026 10:26:13 +0000",
-              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -1367,7 +1345,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 10
+          "count": 9
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1449,11 +1427,11 @@
           "query": "AI product launch",
           "items": [
             {
-              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - TechFlow Post",
+              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQMWxGV3lpRnE1Slo0bXl0UVdERnRMTTNUdF9rdmtiUVViTmxtQkdUSDN5YXBrUjNQTVFiLVJ0SktYWXdtN1hUTjFldHNReVJwaklTaVBKZC1ublZyWGVFMkN3?oc=5",
-              "source": "TechFlow Post",
+              "source": "深潮TechFlow",
               "publishedAt": "Wed, 11 Mar 2026 09:52:56 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQMWxGV3lpRnE1Slo0bXl0UVdERnRMTTNUdF9rdmtiUVViTmxtQkdUSDN5YXBrUjNQTVFiLVJ0SktYWXdtN1hUTjFldHNReVJwaklTaVBKZC1ublZyWGVFMkN3?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechFlow Post</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQMWxGV3lpRnE1Slo0bXl0UVdERnRMTTNUdF9rdmtiUVViTmxtQkdUSDN5YXBrUjNQTVFiLVJ0SktYWXdtN1hUTjFldHNReVJwaklTaVBKZC1ublZyWGVFMkN3?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
               "channelId": "google_news"
             },
             {
@@ -1484,14 +1462,14 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:33:39Z",
+              "publishedAt": "2026-03-12T12:50:43Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
               "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:26:38Z",
+              "publishedAt": "2026-03-12T13:14:09Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1550,27 +1528,19 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
+              "title": "腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
+              "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBHbWRUbUUzWG5tWVhFZm9rMjRHNlRZRG80OXNUSU9YMWxCNE1acUZLNUVsNWpTWUV4dXpPQTFxNA?oc=5",
+              "source": "雪球",
+              "publishedAt": "Thu, 12 Mar 2026 08:59:48 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTFBHbWRUbUUzWG5tWVhFZm9rMjRHNlRZRG80OXNUSU9YMWxCNE1acUZLNUVsNWpTWUV4dXpPQTFxNA?oc=5\" target=\"_blank\">腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "张时荣代表：持续深化长城资源公益保护 - spp.gov.cn",
               "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13NzJuXzdxQmQ4WXV5RVNDRGI5SjBNT0xaakVCSEthQ0xrbm9QZWJwc1lEZVluWHRTTWMzQTFza2NUaDVjTGVtM0VNQWFBV3ZaOHNPZkljWkRWYm9iWXhyS0hoaWdkX09qeGoyZTlR?oc=5",
               "source": "spp.gov.cn",
               "publishedAt": "Thu, 12 Mar 2026 03:01:23 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE13NzJuXzdxQmQ4WXV5RVNDRGI5SjBNT0xaakVCSEthQ0xrbm9QZWJwc1lEZVluWHRTTWMzQTFza2NUaDVjTGVtM0VNQWFBV3ZaOHNPZkljWkRWYm9iWXhyS0hoaWdkX09qeGoyZTlR?oc=5\" target=\"_blank\">张时荣代表：持续深化长城资源公益保护</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spp.gov.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - guancha.cn",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
-              "source": "guancha.cn",
-              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "秀场背后的产业变革：京东JD FASHION解锁服饰行业增长新路径 - 经济参考报",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2Exd3VmUnE3Z2I3R3dvTzlIR2JZaElWUnhVV092RUJpci1ZRWZMLWRjNkZJM3JISWFTanZHTmhXazd3UXlIVUdYaEJXMTctUXMwZVBDUC14VHpRTURfMktmbmZkNzZ2aFdIeFh5clpfY2ZOZDFxUEhGTVFmWW9WQQ?oc=5",
-              "source": "经济参考报",
-              "publishedAt": "Thu, 12 Mar 2026 07:23:13 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2Exd3VmUnE3Z2I3R3dvTzlIR2JZaElWUnhVV092RUJpci1ZRWZMLWRjNkZJM3JISWFTanZHTmhXazd3UXlIVUdYaEJXMTctUXMwZVBDUC14VHpRTURfMktmbmZkNzZ2aFdIeFh5clpfY2ZOZDFxUEhGTVFmWW9WQQ?oc=5\" target=\"_blank\">秀场背后的产业变革：京东JD FASHION解锁服饰行业增长新路径</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
               "channelId": "google_news"
             },
             {
@@ -1582,19 +1552,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "主打安全 科大讯飞版“龙虾”AstronClaw上线 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Thu, 12 Mar 2026 09:35:26 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5\" target=\"_blank\">主打安全 科大讯飞版“龙虾”AstronClaw上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - guancha.cn",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
+              "source": "guancha.cn",
+              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
-              "title": "一款马年摆件走红拼多多，广东商家如何重塑传统文玩？ - 21财经",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5",
-              "source": "21财经",
-              "publishedAt": "Thu, 12 Mar 2026 09:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5\" target=\"_blank\">一款马年摆件走红拼多多，广东商家如何重塑传统文玩？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+              "title": "百度推出全球首款手机“龙虾 ”应用 - 中国科技网",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqVHh3aDBUQzFMTVY3MXMxZlV0VFpkVUQwX0FvT2hRZmhEcF96eTdKLU1Kak5zaVFQcGo1S0lnTXU5ZnZ6ajFtb095d2xzdEpCNFJ4NEd6Yl9hZHVod282U3JWQmFBZVdwR05jXzJFV0o?oc=5",
+              "source": "中国科技网",
+              "publishedAt": "Thu, 12 Mar 2026 04:14:57 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBqVHh3aDBUQzFMTVY3MXMxZlV0VFpkVUQwX0FvT2hRZmhEcF96eTdKLU1Kak5zaVFQcGo1S0lnTXU5ZnZ6ajFtb095d2xzdEpCNFJ4NEd6Yl9hZHVod282U3JWQmFBZVdwR05jXzJFV0o?oc=5\" target=\"_blank\">百度推出全球首款手机“龙虾 ”应用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "联想AI+ | 另一种“造林”，正在生产线完成-联想官网 - 联想商城",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwSUhvWWJ2RFItVmlScDVxYU92azlIaXRsc1pqQlExQzFSSW01TjZJTWY4eFM2U3NrTkRBVkdaNWE2enE1V0dfRklfSDg5cmRWWGZ4SWJZVzRKOGhM?oc=5",
+              "source": "联想商城",
+              "publishedAt": "Thu, 12 Mar 2026 11:56:55 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwSUhvWWJ2RFItVmlScDVxYU92azlIaXRsc1pqQlExQzFSSW01TjZJTWY4eFM2U3NrTkRBVkdaNWE2enE1V0dfRklfSDg5cmRWWGZ4SWJZVzRKOGhM?oc=5\" target=\"_blank\">联想AI+ | 另一种“造林”，正在生产线完成-联想官网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联想商城</font>",
               "channelId": "google_news"
             }
           ]
@@ -1682,15 +1660,8 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:32:10Z",
+              "publishedAt": "2026-03-12T13:06:51Z",
               "channelId": "github_trending_ai"
-            },
-            {
-              "title": "Show HN: Qwodel – An open-source unified pipeline for LLM quantization",
-              "link": "https://news.ycombinator.com/item?id=47348708",
-              "source": "RSS",
-              "publishedAt": "Thu, 12 Mar 2026 10:26:13 +0000",
-              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -1750,15 +1721,15 @@
           "query": "AI ROI enterprise",
           "items": [
             {
-              "title": "The five AI value models driving business reinvention",
-              "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+              "title": "Introducing the Adoption news channel",
+              "link": "https://openai.com/index/introducing-the-adoption-news-channel",
               "source": "RSS",
               "publishedAt": "Thu, 05 Mar 2026 00:00:00 GMT",
               "channelId": "openai_blog"
             },
             {
-              "title": "Introducing the Adoption news channel",
-              "link": "https://openai.com/index/introducing-the-adoption-news-channel",
+              "title": "The five AI value models driving business reinvention",
+              "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
               "source": "RSS",
               "publishedAt": "Thu, 05 Mar 2026 00:00:00 GMT",
               "channelId": "openai_blog"
@@ -1855,7 +1826,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 10
+          "count": 9
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1929,11 +1900,11 @@
           "query": "AI product launch",
           "items": [
             {
-              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - TechFlow Post",
+              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQMWxGV3lpRnE1Slo0bXl0UVdERnRMTTNUdF9rdmtiUVViTmxtQkdUSDN5YXBrUjNQTVFiLVJ0SktYWXdtN1hUTjFldHNReVJwaklTaVBKZC1ublZyWGVFMkN3?oc=5",
-              "source": "TechFlow Post",
+              "source": "深潮TechFlow",
               "publishedAt": "Wed, 11 Mar 2026 09:52:56 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQMWxGV3lpRnE1Slo0bXl0UVdERnRMTTNUdF9rdmtiUVViTmxtQkdUSDN5YXBrUjNQTVFiLVJ0SktYWXdtN1hUTjFldHNReVJwaklTaVBKZC1ublZyWGVFMkN3?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechFlow Post</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQMWxGV3lpRnE1Slo0bXl0UVdERnRMTTNUdF9rdmtiUVViTmxtQkdUSDN5YXBrUjNQTVFiLVJ0SktYWXdtN1hUTjFldHNReVJwaklTaVBKZC1ublZyWGVFMkN3?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
               "channelId": "google_news"
             },
             {
@@ -1961,17 +1932,18 @@
               "channelId": "google_news"
             },
             {
-              "title": "AI-powered Product Tour",
-              "link": "https://www.producthunt.com/products/told-2",
-              "source": "RSS",
-              "publishedAt": "2026-02-10T22:08:01-08:00",
-              "channelId": "producthunt_ai"
+              "title": "Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants - ekhbary.com",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5",
+              "source": "ekhbary.com",
+              "publishedAt": "Thu, 12 Mar 2026 06:52:43 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5\" target=\"_blank\">Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ekhbary.com</font>",
+              "channelId": "google_news"
             },
             {
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:33:39Z",
+              "publishedAt": "2026-03-12T12:50:43Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -2030,27 +2002,19 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
+              "title": "腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
+              "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBHbWRUbUUzWG5tWVhFZm9rMjRHNlRZRG80OXNUSU9YMWxCNE1acUZLNUVsNWpTWUV4dXpPQTFxNA?oc=5",
+              "source": "雪球",
+              "publishedAt": "Thu, 12 Mar 2026 08:59:48 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTFBHbWRUbUUzWG5tWVhFZm9rMjRHNlRZRG80OXNUSU9YMWxCNE1acUZLNUVsNWpTWUV4dXpPQTFxNA?oc=5\" target=\"_blank\">腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "张时荣代表：持续深化长城资源公益保护 - spp.gov.cn",
               "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13NzJuXzdxQmQ4WXV5RVNDRGI5SjBNT0xaakVCSEthQ0xrbm9QZWJwc1lEZVluWHRTTWMzQTFza2NUaDVjTGVtM0VNQWFBV3ZaOHNPZkljWkRWYm9iWXhyS0hoaWdkX09qeGoyZTlR?oc=5",
               "source": "spp.gov.cn",
               "publishedAt": "Thu, 12 Mar 2026 03:01:23 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE13NzJuXzdxQmQ4WXV5RVNDRGI5SjBNT0xaakVCSEthQ0xrbm9QZWJwc1lEZVluWHRTTWMzQTFza2NUaDVjTGVtM0VNQWFBV3ZaOHNPZkljWkRWYm9iWXhyS0hoaWdkX09qeGoyZTlR?oc=5\" target=\"_blank\">张时荣代表：持续深化长城资源公益保护</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spp.gov.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - guancha.cn",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
-              "source": "guancha.cn",
-              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "秀场背后的产业变革：京东JD FASHION解锁服饰行业增长新路径 - 经济参考报",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2Exd3VmUnE3Z2I3R3dvTzlIR2JZaElWUnhVV092RUJpci1ZRWZMLWRjNkZJM3JISWFTanZHTmhXazd3UXlIVUdYaEJXMTctUXMwZVBDUC14VHpRTURfMktmbmZkNzZ2aFdIeFh5clpfY2ZOZDFxUEhGTVFmWW9WQQ?oc=5",
-              "source": "经济参考报",
-              "publishedAt": "Thu, 12 Mar 2026 07:23:13 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2Exd3VmUnE3Z2I3R3dvTzlIR2JZaElWUnhVV092RUJpci1ZRWZMLWRjNkZJM3JISWFTanZHTmhXazd3UXlIVUdYaEJXMTctUXMwZVBDUC14VHpRTURfMktmbmZkNzZ2aFdIeFh5clpfY2ZOZDFxUEhGTVFmWW9WQQ?oc=5\" target=\"_blank\">秀场背后的产业变革：京东JD FASHION解锁服饰行业增长新路径</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
               "channelId": "google_news"
             },
             {
@@ -2062,19 +2026,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "主打安全 科大讯飞版“龙虾”AstronClaw上线 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Thu, 12 Mar 2026 09:35:26 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5\" target=\"_blank\">主打安全 科大讯飞版“龙虾”AstronClaw上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - guancha.cn",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
+              "source": "guancha.cn",
+              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
-              "title": "一款马年摆件走红拼多多，广东商家如何重塑传统文玩？ - 21财经",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5",
-              "source": "21财经",
-              "publishedAt": "Thu, 12 Mar 2026 09:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5\" target=\"_blank\">一款马年摆件走红拼多多，广东商家如何重塑传统文玩？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+              "title": "百度推出全球首款手机“龙虾 ”应用 - 中国科技网",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqVHh3aDBUQzFMTVY3MXMxZlV0VFpkVUQwX0FvT2hRZmhEcF96eTdKLU1Kak5zaVFQcGo1S0lnTXU5ZnZ6ajFtb095d2xzdEpCNFJ4NEd6Yl9hZHVod282U3JWQmFBZVdwR05jXzJFV0o?oc=5",
+              "source": "中国科技网",
+              "publishedAt": "Thu, 12 Mar 2026 04:14:57 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBqVHh3aDBUQzFMTVY3MXMxZlV0VFpkVUQwX0FvT2hRZmhEcF96eTdKLU1Kak5zaVFQcGo1S0lnTXU5ZnZ6ajFtb095d2xzdEpCNFJ4NEd6Yl9hZHVod282U3JWQmFBZVdwR05jXzJFV0o?oc=5\" target=\"_blank\">百度推出全球首款手机“龙虾 ”应用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "联想AI+ | 另一种“造林”，正在生产线完成-联想官网 - 联想商城",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwSUhvWWJ2RFItVmlScDVxYU92azlIaXRsc1pqQlExQzFSSW01TjZJTWY4eFM2U3NrTkRBVkdaNWE2enE1V0dfRklfSDg5cmRWWGZ4SWJZVzRKOGhM?oc=5",
+              "source": "联想商城",
+              "publishedAt": "Thu, 12 Mar 2026 11:56:55 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwSUhvWWJ2RFItVmlScDVxYU92azlIaXRsc1pqQlExQzFSSW01TjZJTWY4eFM2U3NrTkRBVkdaNWE2enE1V0dfRklfSDg5cmRWWGZ4SWJZVzRKOGhM?oc=5\" target=\"_blank\">联想AI+ | 另一种“造林”，正在生产线完成-联想官网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联想商城</font>",
               "channelId": "google_news"
             }
           ]
@@ -2162,15 +2134,8 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T10:32:10Z",
+              "publishedAt": "2026-03-12T13:06:51Z",
               "channelId": "github_trending_ai"
-            },
-            {
-              "title": "Show HN: Qwodel – An open-source unified pipeline for LLM quantization",
-              "link": "https://news.ycombinator.com/item?id=47348708",
-              "source": "RSS",
-              "publishedAt": "Thu, 12 Mar 2026 10:26:13 +0000",
-              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -2231,15 +2196,15 @@
           "query": "AI ROI enterprise",
           "items": [
             {
-              "title": "The five AI value models driving business reinvention",
-              "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+              "title": "Introducing the Adoption news channel",
+              "link": "https://openai.com/index/introducing-the-adoption-news-channel",
               "source": "RSS",
               "publishedAt": "Thu, 05 Mar 2026 00:00:00 GMT",
               "channelId": "openai_blog"
             },
             {
-              "title": "Introducing the Adoption news channel",
-              "link": "https://openai.com/index/introducing-the-adoption-news-channel",
+              "title": "The five AI value models driving business reinvention",
+              "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
               "source": "RSS",
               "publishedAt": "Thu, 05 Mar 2026 00:00:00 GMT",
               "channelId": "openai_blog"
@@ -2350,7 +2315,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 10
+          "count": 9
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -2365,7 +2330,7 @@
     }
   },
   "health": {
-    "totalNewsItems": 208,
+    "totalNewsItems": 203,
     "emptySections": [
       {
         "days": 1,
@@ -2383,12 +2348,12 @@
     "totalStocks": 40,
     "stocksWithPrice": 40,
     "channels": {
-      "openai_blog": 78,
+      "openai_blog": 74,
       "anthropic_news": 0,
       "google_ai_blog": 40,
       "huggingface_blog": 37,
       "github_trending_ai": 100,
-      "hackernews_ai": 50,
+      "hackernews_ai": 45,
       "arxiv_cs_daily": 150,
       "producthunt_ai": 33
     },
