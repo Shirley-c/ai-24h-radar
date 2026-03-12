@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T05:18:23.902Z",
+  "generatedAt": "2026-03-12T07:04:44.400Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -85,29 +85,29 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T05:07:42Z",
+              "publishedAt": "2026-03-12T07:03:10Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T04:39:05Z",
+              "publishedAt": "2026-03-12T06:48:01Z",
               "channelId": "github_trending_ai"
             },
             {
-              "title": "openclaw/openclaw - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-              "link": "https://github.com/openclaw/openclaw",
-              "source": "GitHub",
-              "publishedAt": "2026-03-12T05:18:07Z",
-              "channelId": "github_trending_ai"
+              "title": "Brunelly – AI platform that helps turn ideas into production software",
+              "link": "https://brunelly.com/",
+              "source": "RSS",
+              "publishedAt": "Thu, 12 Mar 2026 06:31:06 +0000",
+              "channelId": "hackernews_ai"
             },
             {
-              "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-              "link": "https://github.com/Significant-Gravitas/AutoGPT",
-              "source": "GitHub",
-              "publishedAt": "2026-03-12T05:11:14Z",
-              "channelId": "github_trending_ai"
+              "title": "Agentipedia",
+              "link": "https://www.producthunt.com/products/agentipedia",
+              "source": "RSS",
+              "publishedAt": "2026-03-11T17:18:39-07:00",
+              "channelId": "producthunt_ai"
             }
           ]
         },
@@ -130,6 +130,13 @@
               "channelId": "huggingface_blog"
             },
             {
+              "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+              "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+              "source": "GitHub",
+              "publishedAt": "2026-03-12T06:54:29Z",
+              "channelId": "github_trending_ai"
+            },
+            {
               "title": "Rakuten fixes issues twice as fast with Codex",
               "link": "https://openai.com/index/rakuten",
               "source": "RSS",
@@ -149,13 +156,6 @@
               "source": "RSS",
               "publishedAt": "Wed, 11 Mar 2026 11:00:00 GMT",
               "channelId": "openai_blog"
-            },
-            {
-              "title": "How AI is helping improve heart health in rural Australia",
-              "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
-              "source": "RSS",
-              "publishedAt": "Thu, 12 Mar 2026 15:00:00 +0000",
-              "channelId": "google_ai_blog"
             }
           ]
         },
@@ -172,19 +172,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "以纯电方式回归，奇瑞新QQ3想成为年轻人的生活方式 - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9seldQVGZDelpqN3BTdFg3b3Z6cC15MkUxTG5NS2p2ckV5b2swbDdXa2hKNGtObjl2c2lhWEFHYi00d184R2N6R0RqdG5rN01UWTh1OUhxZG5taWE3S1E?oc=5",
-              "source": "DoNews",
-              "publishedAt": "Thu, 12 Mar 2026 00:33:54 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9seldQVGZDelpqN3BTdFg3b3Z6cC15MkUxTG5NS2p2ckV5b2swbDdXa2hKNGtObjl2c2lhWEFHYi00d184R2N6R0RqdG5rN01UWTh1OUhxZG5taWE3S1E?oc=5\" target=\"_blank\">以纯电方式回归，奇瑞新QQ3想成为年轻人的生活方式</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
+              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - 观察者",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
+              "source": "观察者",
+              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者</font>",
               "channelId": "google_news"
             },
             {
-              "title": "雷军回应小米手机龙虾：要积极拥抱AI时代 - 新浪新闻_手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KVm1qaXNqejhQM3ctVVJGeFNici1ZOUxJSWhWNjVkaVd1elg2QTk5THZ6d2c5TmRrUTMwZkd4LTRBZ3BUSFVGZWhOVlJNNGxlTm9qbmVvTjdmX1hoVkl5Vl9kYUlQYVk0bzl3NzlhOVFDdw?oc=5",
-              "source": "新浪新闻_手机新浪网",
-              "publishedAt": "Thu, 12 Mar 2026 03:09:53 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5KVm1qaXNqejhQM3ctVVJGeFNici1ZOUxJSWhWNjVkaVd1elg2QTk5THZ6d2c5TmRrUTMwZkd4LTRBZ3BUSFVGZWhOVlJNNGxlTm9qbmVvTjdmX1hoVkl5Vl9kYUlQYVk0bzl3NzlhOVFDdw?oc=5\" target=\"_blank\">雷军回应小米手机龙虾：要积极拥抱AI时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪新闻_手机新浪网</font>",
+              "title": "理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破 - 新华报业网",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5",
+              "source": "新华报业网",
+              "publishedAt": "Thu, 12 Mar 2026 06:13:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5\" target=\"_blank\">理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华报业网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "【行业深度研究】比亚迪美团在中东封神背后，中国企业在中东有多牛？ - 维科号",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IRWVlekhaSFJjSkdJVkxSZmlkUjE4NWpNOVRjU2VWLVNlMU9lZk1QVm1VYWtsSkNVVmV2aXhjWFFnQXFzeXZQQkRuNU5DeHNRcC1NRzdaQQ?oc=5",
+              "source": "维科号",
+              "publishedAt": "Thu, 12 Mar 2026 05:37:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IRWVlekhaSFJjSkdJVkxSZmlkUjE4NWpNOVRjU2VWLVNlMU9lZk1QVm1VYWtsSkNVVmV2aXhjWFFnQXFzeXZQQkRuNU5DeHNRcC1NRzdaQQ?oc=5\" target=\"_blank\">【行业深度研究】比亚迪美团在中东封神背后，中国企业在中东有多牛？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">维科号</font>",
               "channelId": "google_news"
             },
             {
@@ -196,19 +204,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "华为推出“鸿蒙版龙虾”；英伟达将豪掷260亿美元开发AI大模型；奈飞拟6亿美元收购AI电影制作公司| 日报 - 电子工程专辑",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wMjk1TkFfNHhlZkVGTy1PY0ZMSkx2LWk0WTJxaXpPRFloRFRRUEZNTzJQXy1JNTBSbnZRZ2l0eUlNMi1lUXhRekc3ZGtHZzFfOGpN?oc=5",
-              "source": "电子工程专辑",
-              "publishedAt": "Thu, 12 Mar 2026 04:35:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wMjk1TkFfNHhlZkVGTy1PY0ZMSkx2LWk0WTJxaXpPRFloRFRRUEZNTzJQXy1JNTBSbnZRZ2l0eUlNMi1lUXhRekc3ZGtHZzFfOGpN?oc=5\" target=\"_blank\">华为推出“鸿蒙版龙虾”；英伟达将豪掷260亿美元开发AI大模型；奈飞拟6亿美元收购AI电影制作公司| 日报</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">电子工程专辑</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "比亚迪闪充“快刀”出鞘，蔚来、滴滴、宁王如何接招？ - OFweek",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CdnZrb3QzbkFETFJfTTIxeFdJZzQyUTNkVkVNOXlwbkxXSDAteF9vcVNyLUNEM0puaGhweWpkY2JGZmUzQU9mbEY3MDRNeC1MNWZqeGtR?oc=5",
-              "source": "OFweek",
-              "publishedAt": "Thu, 12 Mar 2026 01:19:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CdnZrb3QzbkFETFJfTTIxeFdJZzQyUTNkVkVNOXlwbkxXSDAteF9vcVNyLUNEM0puaGhweWpkY2JGZmUzQU9mbEY3MDRNeC1MNWZqeGtR?oc=5\" target=\"_blank\">比亚迪闪充“快刀”出鞘，蔚来、滴滴、宁王如何接招？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OFweek</font>",
+              "title": "比亚迪发布第二代刀片电池及闪充技术 - 上观",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5eWpfWEpXaWFJRk82UzBEbFppeHVCano3amlLVkdoM3BJem5EUGZpbTB2Ri1hSTlfT3Znc2o1ZWxlMkt4eFB6RlJJSjM5Rmh1Q1pQcGo2NE1vUQ?oc=5",
+              "source": "上观",
+              "publishedAt": "Thu, 12 Mar 2026 05:54:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5eWpfWEpXaWFJRk82UzBEbFppeHVCano3amlLVkdoM3BJem5EUGZpbTB2Ri1hSTlfT3Znc2o1ZWxlMkt4eFB6RlJJSjM5Rmh1Q1pQcGo2NE1vUQ?oc=5\" target=\"_blank\">比亚迪发布第二代刀片电池及闪充技术</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上观</font>",
               "channelId": "google_news"
             }
           ]
@@ -226,11 +226,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "深度解析：Agentic AI驱动下的CPU 角色重构 - 51CTO",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MMnNZVllNZlh3VFVVRm9LbThtampTYlFNNzNTdjkzSU9YVUxRdElQaTFoSGotSVlCcUlFRXZlU2ZYN1VyaDE2cmdWUlNTZw?oc=5",
-              "source": "51CTO",
-              "publishedAt": "Wed, 11 Mar 2026 09:15:37 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MMnNZVllNZlh3VFVVRm9LbThtampTYlFNNzNTdjkzSU9YVUxRdElQaTFoSGotSVlCcUlFRXZlU2ZYN1VyaDE2cmdWUlNTZw?oc=5\" target=\"_blank\">深度解析：Agentic AI驱动下的CPU 角色重构</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
+              "title": "The Adecco Group 将通过无限Agentforce 许可协议快速扩展代理式AI 的应用。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkEycVQxdDMwMVdnVHBPU1pjRWNsWnh3RFQwTnFRNVh1Y3REY0xfWkRaTWtVZWF1S2YzZEJ0Y2JMbl9tYzI5ZDlIUlIzWDV1ZHR2MUd3QlEzS2VoS2ZjZVZOcURmSHFhZk91OUQwYjl4a29xVGJ2UkZycllldzRkRjd1dnVvLWJPUnU5bzhJUDBpQQ?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Thu, 12 Mar 2026 05:45:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkEycVQxdDMwMVdnVHBPU1pjRWNsWnh3RFQwTnFRNVh1Y3REY0xfWkRaTWtVZWF1S2YzZEJ0Y2JMbl9tYzI5ZDlIUlIzWDV1ZHR2MUd3QlEzS2VoS2ZjZVZOcURmSHFhZk91OUQwYjl4a29xVGJ2UkZycllldzRkRjd1dnVvLWJPUnU5bzhJUDBpQQ?oc=5\" target=\"_blank\">The Adecco Group 将通过无限Agentforce 许可协议快速扩展代理式AI 的应用。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
               "channelId": "google_news"
             },
             {
@@ -242,11 +242,19 @@
               "channelId": "google_news"
             },
             {
-              "title": "英伟达推出NEMOTRON 3 Super，该模型为智能体AI（Agentic AI）提供5倍吞吐量提升 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzRmM2wxalk3TWFqVTdwY1ZIVW0wVDR5WWMyczlmVTNUaWEwSTE3M1Y1QkhDd3J2Szl0d0xsQURvbERzczN0MFExRFZSb1dSTmowT2pZRXhFVVVCdUxHVU81aVdtOHpuNFQ2REN1YVF1NDBLcWwycXVYc2NtOGxFcllQQl9ESGdtZUJuWDNGSGRlQVV5alp1R1ZPcmg?oc=5",
-              "source": "富途牛牛",
-              "publishedAt": "Wed, 11 Mar 2026 16:10:51 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzRmM2wxalk3TWFqVTdwY1ZIVW0wVDR5WWMyczlmVTNUaWEwSTE3M1Y1QkhDd3J2Szl0d0xsQURvbERzczN0MFExRFZSb1dSTmowT2pZRXhFVVVCdUxHVU81aVdtOHpuNFQ2REN1YVF1NDBLcWwycXVYc2NtOGxFcllQQl9ESGdtZUJuWDNGSGRlQVV5alp1R1ZPcmg?oc=5\" target=\"_blank\">英伟达推出NEMOTRON 3 Super，该模型为智能体AI（Agentic AI）提供5倍吞吐量提升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "title": "深度解析：Agentic AI驱动下的CPU 角色重构 - 51CTO",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MMnNZVllNZlh3VFVVRm9LbThtampTYlFNNzNTdjkzSU9YVUxRdElQaTFoSGotSVlCcUlFRXZlU2ZYN1VyaDE2cmdWUlNTZw?oc=5",
+              "source": "51CTO",
+              "publishedAt": "Wed, 11 Mar 2026 09:15:37 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MMnNZVllNZlh3VFVVRm9LbThtampTYlFNNzNTdjkzSU9YVUxRdElQaTFoSGotSVlCcUlFRXZlU2ZYN1VyaDE2cmdWUlNTZw?oc=5\" target=\"_blank\">深度解析：Agentic AI驱动下的CPU 角色重构</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "锚定AI下一时代风口，微美全息(WIMI.US)蓄势待发领航布局芯片+AI智能体集群 - SOHU",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUFXbnF2MTNyZ2VaQUhWRUJsTFJfU1VMOXR1aEh1MWpmOGE4ZlBONVpURlFNNDNMaDluSTdSVkcyM1l5am1oc2d6U2Rncjh3Z1pvQTVPMWRXc2lNQWxQLW9lWUxCZFVwYlZFWWdiNEFrNU1MeUo2QURhRFdqd1hCT1JiYzRyT2M?oc=5",
+              "source": "SOHU",
+              "publishedAt": "Thu, 12 Mar 2026 05:56:40 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUFXbnF2MTNyZ2VaQUhWRUJsTFJfU1VMOXR1aEh1MWpmOGE4ZlBONVpURlFNNDNMaDluSTdSVkcyM1l5am1oc2d6U2Rncjh3Z1pvQTVPMWRXc2lNQWxQLW9lWUxCZFVwYlZFWWdiNEFrNU1MeUo2QURhRFdqd1hCT1JiYzRyT2M?oc=5\" target=\"_blank\">锚定AI下一时代风口，微美全息(WIMI.US)蓄势待发领航布局芯片+AI智能体集群</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SOHU</font>",
               "channelId": "google_news"
             },
             {
@@ -255,14 +263,6 @@
               "source": "51CTO",
               "publishedAt": "Wed, 11 Mar 2026 08:47:27 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xZVdBUFd2MkV4a1paRk00dVNQVEM3QWNzWklIR3RoTV9JYWRpc2liMnd1bEp1Zm5qWTc0RkJVdXR0ZUVVUWwxQW1uay1RcU1HazZj?oc=5\" target=\"_blank\">重磅！OpenClaw+OpenViking 正式登陆鲲鹏，打造端到端AI Agent最佳实践</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Anthropic万字Skills教程，把Agent 工程的核心武功秘籍说明白了 - 51CTO",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81d0Y0d0lxQVNBd05kejlUWmkxc0VyeVk2UUJHeTNTeTk3WFp0RXQyWGozY1N5S0FHZnUxOU9lcXgxODhEVlJCbFEwc1NkUQ?oc=5",
-              "source": "51CTO",
-              "publishedAt": "Wed, 11 Mar 2026 20:46:50 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE81d0Y0d0lxQVNBd05kejlUWmkxc0VyeVk2UUJHeTNTeTk3WFp0RXQyWGozY1N5S0FHZnUxOU9lcXgxODhEVlJCbFEwc1NkUQ?oc=5\" target=\"_blank\">Anthropic万字Skills教程，把Agent 工程的核心武功秘籍说明白了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
               "channelId": "google_news"
             }
           ]
@@ -282,7 +282,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T05:07:51Z",
+              "publishedAt": "2026-03-12T07:00:08Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -309,28 +309,28 @@
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T05:11:14Z",
+              "publishedAt": "2026-03-12T06:59:35Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T05:11:59Z",
+              "publishedAt": "2026-03-12T07:01:52Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
               "link": "https://github.com/langflow-ai/langflow",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T05:09:58Z",
+              "publishedAt": "2026-03-12T06:47:13Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T05:15:09Z",
+              "publishedAt": "2026-03-12T07:03:31Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -370,41 +370,41 @@
           "symbol": "002230.SZ",
           "name": "科大讯飞",
           "currency": "CNY",
-          "price": 52.45000076293945,
+          "price": 52.619998931884766,
           "previousClose": 53.08000183105469,
-          "changePct": -1.1868896879853712
+          "changePct": -0.8666218600256249
         },
         {
           "symbol": "300308.SZ",
           "name": "中际旭创",
           "currency": "CNY",
-          "price": 532.280029296875,
+          "price": 532.8599853515625,
           "previousClose": 554.6799926757812,
-          "changePct": -4.038357913514894
+          "changePct": -3.9338010406610917
         },
         {
           "symbol": "688111.SS",
           "name": "金山办公",
           "currency": "CNY",
-          "price": 281.20001220703125,
+          "price": 279.54998779296875,
           "previousClose": 283,
-          "changePct": -0.6360380893882509
+          "changePct": -1.21908558552341
         },
         {
           "symbol": "600570.SS",
           "name": "恒生电子",
           "currency": "CNY",
-          "price": 27.75,
+          "price": 27.81999969482422,
           "previousClose": 27.799999237060547,
-          "changePct": -0.17985337565726345
+          "changePct": 0.07194409464950272
         },
         {
           "symbol": "002415.SZ",
           "name": "海康威视",
           "currency": "CNY",
-          "price": 31.540000915527344,
+          "price": 31.8799991607666,
           "previousClose": 31.649999618530273,
-          "changePct": -0.3475472490638775
+          "changePct": 0.7266968246712686
         }
       ],
       "channels": [
@@ -430,7 +430,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 9
+          "count": 10
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -438,7 +438,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 0
+          "count": 9
         }
       ],
       "diagnostics": [
@@ -533,24 +533,24 @@
               "channelId": "google_news"
             },
             {
-              "title": "MorphMind: A Steerable AI Platform",
-              "link": "https://www.producthunt.com/products/morphmind-launches-steerable-ai-platform",
-              "source": "RSS",
-              "publishedAt": "2026-03-10T08:34:51-07:00",
-              "channelId": "producthunt_ai"
-            },
-            {
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T05:07:42Z",
+              "publishedAt": "2026-03-12T07:03:10Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
               "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T04:52:26Z",
+              "publishedAt": "2026-03-12T07:04:09Z",
+              "channelId": "github_trending_ai"
+            },
+            {
+              "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+              "link": "https://github.com/supabase/supabase",
+              "source": "GitHub",
+              "publishedAt": "2026-03-12T06:48:01Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -616,19 +616,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "以纯电方式回归，奇瑞新QQ3想成为年轻人的生活方式 - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9seldQVGZDelpqN3BTdFg3b3Z6cC15MkUxTG5NS2p2ckV5b2swbDdXa2hKNGtObjl2c2lhWEFHYi00d184R2N6R0RqdG5rN01UWTh1OUhxZG5taWE3S1E?oc=5",
-              "source": "DoNews",
-              "publishedAt": "Thu, 12 Mar 2026 00:33:54 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9seldQVGZDelpqN3BTdFg3b3Z6cC15MkUxTG5NS2p2ckV5b2swbDdXa2hKNGtObjl2c2lhWEFHYi00d184R2N6R0RqdG5rN01UWTh1OUhxZG5taWE3S1E?oc=5\" target=\"_blank\">以纯电方式回归，奇瑞新QQ3想成为年轻人的生活方式</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
+              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - 观察者",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
+              "source": "观察者",
+              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者</font>",
               "channelId": "google_news"
             },
             {
-              "title": "雷军回应小米手机龙虾：要积极拥抱AI时代 - 新浪新闻_手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KVm1qaXNqejhQM3ctVVJGeFNici1ZOUxJSWhWNjVkaVd1elg2QTk5THZ6d2c5TmRrUTMwZkd4LTRBZ3BUSFVGZWhOVlJNNGxlTm9qbmVvTjdmX1hoVkl5Vl9kYUlQYVk0bzl3NzlhOVFDdw?oc=5",
-              "source": "新浪新闻_手机新浪网",
-              "publishedAt": "Thu, 12 Mar 2026 03:09:53 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5KVm1qaXNqejhQM3ctVVJGeFNici1ZOUxJSWhWNjVkaVd1elg2QTk5THZ6d2c5TmRrUTMwZkd4LTRBZ3BUSFVGZWhOVlJNNGxlTm9qbmVvTjdmX1hoVkl5Vl9kYUlQYVk0bzl3NzlhOVFDdw?oc=5\" target=\"_blank\">雷军回应小米手机龙虾：要积极拥抱AI时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪新闻_手机新浪网</font>",
+              "title": "理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破 - 新华报业网",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5",
+              "source": "新华报业网",
+              "publishedAt": "Thu, 12 Mar 2026 06:13:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5\" target=\"_blank\">理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华报业网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "【行业深度研究】比亚迪美团在中东封神背后，中国企业在中东有多牛？ - 维科号",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IRWVlekhaSFJjSkdJVkxSZmlkUjE4NWpNOVRjU2VWLVNlMU9lZk1QVm1VYWtsSkNVVmV2aXhjWFFnQXFzeXZQQkRuNU5DeHNRcC1NRzdaQQ?oc=5",
+              "source": "维科号",
+              "publishedAt": "Thu, 12 Mar 2026 05:37:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IRWVlekhaSFJjSkdJVkxSZmlkUjE4NWpNOVRjU2VWLVNlMU9lZk1QVm1VYWtsSkNVVmV2aXhjWFFnQXFzeXZQQkRuNU5DeHNRcC1NRzdaQQ?oc=5\" target=\"_blank\">【行业深度研究】比亚迪美团在中东封神背后，中国企业在中东有多牛？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">维科号</font>",
               "channelId": "google_news"
             },
             {
@@ -646,14 +654,6 @@
               "publishedAt": "Wed, 11 Mar 2026 02:06:25 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTFBHbWRUbUUzWG5tWVhFZm9rMjRHNlRZRG80OXNUSU9YMWxCNE1acUZLNUVsNWpTWUV4dXpPQTFxNA?oc=5\" target=\"_blank\">腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
               "channelId": "google_news"
-            },
-            {
-              "title": "华为推出“鸿蒙版龙虾”；英伟达将豪掷260亿美元开发AI大模型；奈飞拟6亿美元收购AI电影制作公司| 日报 - 电子工程专辑",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wMjk1TkFfNHhlZkVGTy1PY0ZMSkx2LWk0WTJxaXpPRFloRFRRUEZNTzJQXy1JNTBSbnZRZ2l0eUlNMi1lUXhRekc3ZGtHZzFfOGpN?oc=5",
-              "source": "电子工程专辑",
-              "publishedAt": "Thu, 12 Mar 2026 04:35:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wMjk1TkFfNHhlZkVGTy1PY0ZMSkx2LWk0WTJxaXpPRFloRFRRUEZNTzJQXy1JNTBSbnZRZ2l0eUlNMi1lUXhRekc3ZGtHZzFfOGpN?oc=5\" target=\"_blank\">华为推出“鸿蒙版龙虾”；英伟达将豪掷260亿美元开发AI大模型；奈飞拟6亿美元收购AI电影制作公司| 日报</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">电子工程专辑</font>",
-              "channelId": "google_news"
             }
           ]
         },
@@ -662,11 +662,11 @@
           "query": "AI agents agentic",
           "items": [
             {
-              "title": "医疗保健市场规模、份额 | Agentic AI预测 [2034] - Fortune Business Insights",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWh5aEVYNlVUSUdCcnNEVjRSUThMUnhwWm9nci1xTnBhYUp2UWotV25lcUpXd0x1RkJ5Rk5NMEdDN2FSM0ZYYWVLMWR3c3R2NHptSEg5QS1MRGRWaHBOY28xckJzSmpaUk16MGRpZmE1QzVVZ0RSQUl2Y1lGejZCenQzT2pFekNJ?oc=5",
-              "source": "Fortune Business Insights",
-              "publishedAt": "Wed, 11 Mar 2026 23:21:22 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWh5aEVYNlVUSUdCcnNEVjRSUThMUnhwWm9nci1xTnBhYUp2UWotV25lcUpXd0x1RkJ5Rk5NMEdDN2FSM0ZYYWVLMWR3c3R2NHptSEg5QS1MRGRWaHBOY28xckJzSmpaUk16MGRpZmE1QzVVZ0RSQUl2Y1lGejZCenQzT2pFekNJ?oc=5\" target=\"_blank\">医疗保健市场规模、份额 | Agentic AI预测 [2034]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune Business Insights</font>",
+              "title": "The Adecco Group 将通过无限Agentforce 许可协议快速扩展代理式AI 的应用。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkEycVQxdDMwMVdnVHBPU1pjRWNsWnh3RFQwTnFRNVh1Y3REY0xfWkRaTWtVZWF1S2YzZEJ0Y2JMbl9tYzI5ZDlIUlIzWDV1ZHR2MUd3QlEzS2VoS2ZjZVZOcURmSHFhZk91OUQwYjl4a29xVGJ2UkZycllldzRkRjd1dnVvLWJPUnU5bzhJUDBpQQ?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Thu, 12 Mar 2026 05:45:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkEycVQxdDMwMVdnVHBPU1pjRWNsWnh3RFQwTnFRNVh1Y3REY0xfWkRaTWtVZWF1S2YzZEJ0Y2JMbl9tYzI5ZDlIUlIzWDV1ZHR2MUd3QlEzS2VoS2ZjZVZOcURmSHFhZk91OUQwYjl4a29xVGJ2UkZycllldzRkRjd1dnVvLWJPUnU5bzhJUDBpQQ?oc=5\" target=\"_blank\">The Adecco Group 将通过无限Agentforce 许可协议快速扩展代理式AI 的应用。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
               "channelId": "google_news"
             },
             {
@@ -694,19 +694,19 @@
               "channelId": "google_news"
             },
             {
-              "title": "英伟达推出NEMOTRON 3 Super，该模型为智能体AI（Agentic AI）提供5倍吞吐量提升 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzRmM2wxalk3TWFqVTdwY1ZIVW0wVDR5WWMyczlmVTNUaWEwSTE3M1Y1QkhDd3J2Szl0d0xsQURvbERzczN0MFExRFZSb1dSTmowT2pZRXhFVVVCdUxHVU81aVdtOHpuNFQ2REN1YVF1NDBLcWwycXVYc2NtOGxFcllQQl9ESGdtZUJuWDNGSGRlQVV5alp1R1ZPcmg?oc=5",
-              "source": "富途牛牛",
-              "publishedAt": "Wed, 11 Mar 2026 16:10:51 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzRmM2wxalk3TWFqVTdwY1ZIVW0wVDR5WWMyczlmVTNUaWEwSTE3M1Y1QkhDd3J2Szl0d0xsQURvbERzczN0MFExRFZSb1dSTmowT2pZRXhFVVVCdUxHVU81aVdtOHpuNFQ2REN1YVF1NDBLcWwycXVYc2NtOGxFcllQQl9ESGdtZUJuWDNGSGRlQVV5alp1R1ZPcmg?oc=5\" target=\"_blank\">英伟达推出NEMOTRON 3 Super，该模型为智能体AI（Agentic AI）提供5倍吞吐量提升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "Agentic Payment 成趋势：AI 时代需要怎样的支付基础设施？ - MEXC",
               "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaLVJJS0s1YTdWY1BHejRlRFBWZVpIbTNVb1dNWUxZcXRtcW5iOUtvaVQzZXl5cVVtWlV1M3hqb04zRWc4RVFBOXc4WnlfNXM?oc=5",
               "source": "MEXC",
               "publishedAt": "Tue, 10 Mar 2026 18:56:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaLVJJS0s1YTdWY1BHejRlRFBWZVpIbTNVb1dNWUxZcXRtcW5iOUtvaVQzZXl5cVVtWlV1M3hqb04zRWc4RVFBOXc4WnlfNXM?oc=5\" target=\"_blank\">Agentic Payment 成趋势：AI 时代需要怎样的支付基础设施？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "Ztopia：基于 Milvus 与 Claude Code 打造企业级 Agent｜QCon 北京 - InfoQ 官网",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ScU9CaGFnMGdueWpUTmN3enNrNW1paDEtUEVpR3BvN2tqMk1KdjJ5eWg0aGFLbFJQUWRxb1hfdjVmYlAySHZ1ZHdqTU1YYjdQc0FwQWdHMmtkRlhwOHc?oc=5",
+              "source": "InfoQ 官网",
+              "publishedAt": "Tue, 10 Mar 2026 02:27:05 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ScU9CaGFnMGdueWpUTmN3enNrNW1paDEtUEVpR3BvN2tqMk1KdjJ5eWg0aGFLbFJQUWRxb1hfdjVmYlAySHZ1ZHdqTU1YYjdQc0FwQWdHMmtkRlhwOHc?oc=5\" target=\"_blank\">Ztopia：基于 Milvus 与 Claude Code 打造企业级 Agent｜QCon 北京</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
               "channelId": "google_news"
             }
           ]
@@ -733,7 +733,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T05:07:51Z",
+              "publishedAt": "2026-03-12T07:00:08Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -782,7 +782,7 @@
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T05:11:14Z",
+              "publishedAt": "2026-03-12T06:59:35Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -822,41 +822,41 @@
           "symbol": "002230.SZ",
           "name": "科大讯飞",
           "currency": "CNY",
-          "price": 52.439998626708984,
+          "price": 52.619998931884766,
           "previousClose": 53.5,
-          "changePct": -1.9813109781140477
+          "changePct": -1.6448618095611858
         },
         {
           "symbol": "300308.SZ",
           "name": "中际旭创",
           "currency": "CNY",
-          "price": 532.25,
+          "price": 532.8599853515625,
           "previousClose": 525.989990234375,
-          "changePct": 1.1901385733282894
+          "changePct": 1.3061075770902617
         },
         {
           "symbol": "688111.SS",
           "name": "金山办公",
           "currency": "CNY",
-          "price": 281.44000244140625,
+          "price": 279.54998779296875,
           "previousClose": 281.0899963378906,
-          "changePct": 0.12451745280002502
+          "changePct": -0.5478702781975466
         },
         {
           "symbol": "600570.SS",
           "name": "恒生电子",
           "currency": "CNY",
-          "price": 27.739999771118164,
+          "price": 27.81999969482422,
           "previousClose": 27.68000030517578,
-          "changePct": 0.21676107399162034
+          "changePct": 0.5057781362172151
         },
         {
           "symbol": "002415.SZ",
           "name": "海康威视",
           "currency": "CNY",
-          "price": 31.549999237060547,
+          "price": 31.8799991607666,
           "previousClose": 31.15999984741211,
-          "changePct": 1.251602668672117
+          "changePct": 2.310652493197266
         }
       ],
       "channels": [
@@ -882,7 +882,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 9
+          "count": 10
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -890,7 +890,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 7
+          "count": 9
         }
       ],
       "diagnostics": [
@@ -988,24 +988,24 @@
               "channelId": "google_news"
             },
             {
-              "title": "MorphMind: A Steerable AI Platform",
-              "link": "https://www.producthunt.com/products/morphmind-launches-steerable-ai-platform",
-              "source": "RSS",
-              "publishedAt": "2026-03-10T08:34:51-07:00",
-              "channelId": "producthunt_ai"
-            },
-            {
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T05:07:42Z",
+              "publishedAt": "2026-03-12T07:03:10Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
               "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T04:52:26Z",
+              "publishedAt": "2026-03-12T07:04:09Z",
+              "channelId": "github_trending_ai"
+            },
+            {
+              "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+              "link": "https://github.com/supabase/supabase",
+              "source": "GitHub",
+              "publishedAt": "2026-03-12T06:48:01Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1071,19 +1071,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "以纯电方式回归，奇瑞新QQ3想成为年轻人的生活方式 - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9seldQVGZDelpqN3BTdFg3b3Z6cC15MkUxTG5NS2p2ckV5b2swbDdXa2hKNGtObjl2c2lhWEFHYi00d184R2N6R0RqdG5rN01UWTh1OUhxZG5taWE3S1E?oc=5",
-              "source": "DoNews",
-              "publishedAt": "Thu, 12 Mar 2026 00:33:54 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9seldQVGZDelpqN3BTdFg3b3Z6cC15MkUxTG5NS2p2ckV5b2swbDdXa2hKNGtObjl2c2lhWEFHYi00d184R2N6R0RqdG5rN01UWTh1OUhxZG5taWE3S1E?oc=5\" target=\"_blank\">以纯电方式回归，奇瑞新QQ3想成为年轻人的生活方式</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
+              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - 观察者",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
+              "source": "观察者",
+              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者</font>",
               "channelId": "google_news"
             },
             {
-              "title": "雷军回应小米手机龙虾：要积极拥抱AI时代 - 新浪新闻_手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KVm1qaXNqejhQM3ctVVJGeFNici1ZOUxJSWhWNjVkaVd1elg2QTk5THZ6d2c5TmRrUTMwZkd4LTRBZ3BUSFVGZWhOVlJNNGxlTm9qbmVvTjdmX1hoVkl5Vl9kYUlQYVk0bzl3NzlhOVFDdw?oc=5",
-              "source": "新浪新闻_手机新浪网",
-              "publishedAt": "Thu, 12 Mar 2026 03:09:53 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5KVm1qaXNqejhQM3ctVVJGeFNici1ZOUxJSWhWNjVkaVd1elg2QTk5THZ6d2c5TmRrUTMwZkd4LTRBZ3BUSFVGZWhOVlJNNGxlTm9qbmVvTjdmX1hoVkl5Vl9kYUlQYVk0bzl3NzlhOVFDdw?oc=5\" target=\"_blank\">雷军回应小米手机龙虾：要积极拥抱AI时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪新闻_手机新浪网</font>",
+              "title": "理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破 - 新华报业网",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5",
+              "source": "新华报业网",
+              "publishedAt": "Thu, 12 Mar 2026 06:13:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5\" target=\"_blank\">理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华报业网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "【行业深度研究】比亚迪美团在中东封神背后，中国企业在中东有多牛？ - 维科号",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IRWVlekhaSFJjSkdJVkxSZmlkUjE4NWpNOVRjU2VWLVNlMU9lZk1QVm1VYWtsSkNVVmV2aXhjWFFnQXFzeXZQQkRuNU5DeHNRcC1NRzdaQQ?oc=5",
+              "source": "维科号",
+              "publishedAt": "Thu, 12 Mar 2026 05:37:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IRWVlekhaSFJjSkdJVkxSZmlkUjE4NWpNOVRjU2VWLVNlMU9lZk1QVm1VYWtsSkNVVmV2aXhjWFFnQXFzeXZQQkRuNU5DeHNRcC1NRzdaQQ?oc=5\" target=\"_blank\">【行业深度研究】比亚迪美团在中东封神背后，中国企业在中东有多牛？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">维科号</font>",
               "channelId": "google_news"
             },
             {
@@ -1101,14 +1109,6 @@
               "publishedAt": "Wed, 11 Mar 2026 02:06:25 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTFBHbWRUbUUzWG5tWVhFZm9rMjRHNlRZRG80OXNUSU9YMWxCNE1acUZLNUVsNWpTWUV4dXpPQTFxNA?oc=5\" target=\"_blank\">腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
               "channelId": "google_news"
-            },
-            {
-              "title": "华为推出“鸿蒙版龙虾”；英伟达将豪掷260亿美元开发AI大模型；奈飞拟6亿美元收购AI电影制作公司| 日报 - 电子工程专辑",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wMjk1TkFfNHhlZkVGTy1PY0ZMSkx2LWk0WTJxaXpPRFloRFRRUEZNTzJQXy1JNTBSbnZRZ2l0eUlNMi1lUXhRekc3ZGtHZzFfOGpN?oc=5",
-              "source": "电子工程专辑",
-              "publishedAt": "Thu, 12 Mar 2026 04:35:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wMjk1TkFfNHhlZkVGTy1PY0ZMSkx2LWk0WTJxaXpPRFloRFRRUEZNTzJQXy1JNTBSbnZRZ2l0eUlNMi1lUXhRekc3ZGtHZzFfOGpN?oc=5\" target=\"_blank\">华为推出“鸿蒙版龙虾”；英伟达将豪掷260亿美元开发AI大模型；奈飞拟6亿美元收购AI电影制作公司| 日报</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">电子工程专辑</font>",
-              "channelId": "google_news"
             }
           ]
         },
@@ -1116,14 +1116,6 @@
           "title": "代理式 AI",
           "query": "AI agents agentic",
           "items": [
-            {
-              "title": "Elastic MCP 及 Agentic AI：构建可信、上下文感知能力的搜索｜QCon 北京 - InfoQ 官网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GYzd2dFBPVE9YazdJMHVXVW0tUU9vZnJWRUFwWGFLUWdzSTFJRDBVcldRaEx5eWY2YVNNVHVZdTlKNnhwWngyVUxPUXU3OHNZWmdCbXoyVVFGckdVOWc?oc=5",
-              "source": "InfoQ 官网",
-              "publishedAt": "Thu, 05 Mar 2026 07:04:54 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GYzd2dFBPVE9YazdJMHVXVW0tUU9vZnJWRUFwWGFLUWdzSTFJRDBVcldRaEx5eWY2YVNNVHVZdTlKNnhwWngyVUxPUXU3OHNZWmdCbXoyVVFGckdVOWc?oc=5\" target=\"_blank\">Elastic MCP 及 Agentic AI：构建可信、上下文感知能力的搜索｜QCon 北京</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
-              "channelId": "google_news"
-            },
             {
               "title": "从OpenClaw说起：Agentic AI时代CPU价值的回归 - 36 Kr",
               "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oMkVFQzdTazFWU21qa0VXMWNlQUFYS2JfcEhyaEJIc2JrUjJ0NWp3YnlWMERpUFdzckZLSzVCR21IaTVfUUtqRHlrUUMxczg?oc=5",
@@ -1138,6 +1130,14 @@
               "source": "PANews",
               "publishedAt": "Fri, 06 Mar 2026 00:20:52 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1LODZMZDduM0I5aUZlT2hlc2Q4QlJKWF85cWVOUTlVNFY4d1ZTa2FpYUhQWWRfWnkxc3RYbGlyUE5nSkpEdE5waEhBc01LQThaam11TjhqeHVDZl9MdTN1LUI3WlA4eHh4N09NV2M1UEh3dkFSTTNhaDZxb3Jib1E?oc=5\" target=\"_blank\">Agentic AI拐点已至？当AI学会「自己行动」，如何重构Web3的安全边界？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "汽车之家 AI 助手多 Agent 设计与多阶段优化策略｜QCon 北京 - InfoQ 官网",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ickZIcHd2ZXhuaFpWRXhVNlZOeEd6Qzh4SnFFQ3ZQXzcwb18xaGVncS1qbEFJa2xIZHZQQXBKSHgzMGhZWjZDU0NadHlJOEZEYnBMbEhUZW04dExTNlE?oc=5",
+              "source": "InfoQ 官网",
+              "publishedAt": "Sat, 07 Mar 2026 08:16:03 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ickZIcHd2ZXhuaFpWRXhVNlZOeEd6Qzh4SnFFQ3ZQXzcwb18xaGVncS1qbEFJa2xIZHZQQXBKSHgzMGhZWjZDU0NadHlJOEZEYnBMbEhUZW04dExTNlE?oc=5\" target=\"_blank\">汽车之家 AI 助手多 Agent 设计与多阶段优化策略｜QCon 北京</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
               "channelId": "google_news"
             },
             {
@@ -1195,7 +1195,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T05:07:51Z",
+              "publishedAt": "2026-03-12T07:00:08Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1284,41 +1284,41 @@
           "symbol": "002230.SZ",
           "name": "科大讯飞",
           "currency": "CNY",
-          "price": 52.439998626708984,
+          "price": 52.630001068115234,
           "previousClose": 52.150001525878906,
-          "changePct": 0.5560826315339032
+          "changePct": 0.9204209553055013
         },
         {
           "symbol": "300308.SZ",
           "name": "中际旭创",
           "currency": "CNY",
-          "price": 531.989990234375,
+          "price": 532.8599853515625,
           "previousClose": 563.7999877929688,
-          "changePct": -5.642071345747279
+          "changePct": -5.487762169439357
         },
         {
           "symbol": "688111.SS",
           "name": "金山办公",
           "currency": "CNY",
-          "price": 281.4800109863281,
+          "price": 279.70001220703125,
           "previousClose": 288.3999938964844,
-          "changePct": -2.3994393400160905
+          "changePct": -3.016637265455635
         },
         {
           "symbol": "600570.SS",
           "name": "恒生电子",
           "currency": "CNY",
-          "price": 27.739999771118164,
+          "price": 27.81999969482422,
           "previousClose": 27.68000030517578,
-          "changePct": 0.21676107399162034
+          "changePct": 0.5057781362172151
         },
         {
           "symbol": "002415.SZ",
           "name": "海康威视",
           "currency": "CNY",
-          "price": 31.549999237060547,
+          "price": 31.8700008392334,
           "previousClose": 30.309999465942383,
-          "changePct": 4.091058373364477
+          "changePct": 5.146820853771048
         }
       ],
       "channels": [
@@ -1344,7 +1344,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 9
+          "count": 10
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1380,11 +1380,19 @@
               "channelId": "google_news"
             },
             {
-              "title": "深度原理完成A2轮融资 - 投中网",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPVXRNekI2NFBqUDg3MVBreE90MXhXM0dSa1lGZFBDNkh1NUptcHhjQ3JZQV9sdEhfSkFTcmVpOFFxeHhsOEZqU1hmN3JQWGp2eDZvWUo2S3EwVFd3ZXlGQ0pQY2Y0TmRocmhj?oc=5",
-              "source": "投中网",
-              "publishedAt": "Fri, 06 Mar 2026 01:23:04 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBPVXRNekI2NFBqUDg3MVBreE90MXhXM0dSa1lGZFBDNkh1NUptcHhjQ3JZQV9sdEhfSkFTcmVpOFFxeHhsOEZqU1hmN3JQWGp2eDZvWUo2S3EwVFd3ZXlGQ0pQY2Y0TmRocmhj?oc=5\" target=\"_blank\">深度原理完成A2轮融资</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">投中网</font>",
+              "title": "深度原理完成A2轮融资 - 新浪网",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZmc3N05OS3YzeGE1am91aEwycHIyaENySGplbW9xc0NqUFZ0amJHR0U2VUN1bHhMV0FscjNubzYzXzNMbW1yLTJnS0xIRVF3bHJFVmJKOTRDdWRZSHl2eWt5eHJJYzhwMHVxaDB5emhLWFo5cHFkRHZiZFRoX25XOEhnSUNNMmRKZEtNM0ZWWjYyUk11ZTJyN0NkV2VNWURfeWh2SDctcUV5OHdSXzVLUE9JUzllM0dCWUw1NmpHY193Y2FYcUtqU2RDaw?oc=5",
+              "source": "新浪网",
+              "publishedAt": "Sat, 07 Mar 2026 07:53:42 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQZmc3N05OS3YzeGE1am91aEwycHIyaENySGplbW9xc0NqUFZ0amJHR0U2VUN1bHhMV0FscjNubzYzXzNMbW1yLTJnS0xIRVF3bHJFVmJKOTRDdWRZSHl2eWt5eHJJYzhwMHVxaDB5emhLWFo5cHFkRHZiZFRoX25XOEhnSUNNMmRKZEtNM0ZWWjYyUk11ZTJyN0NkV2VNWURfeWh2SDctcUV5OHdSXzVLUE9JUzllM0dCWUw1NmpHY193Y2FYcUtqU2RDaw?oc=5\" target=\"_blank\">深度原理完成A2轮融资</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "OFC2026：VIAVI携1.6T测试与光纤传感新品亮相 强化AI光互联验证 - iccsz.com",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YSFQzbF9EN1lqMS1fQ2NCbXZ5OG11V0ZnUWtWVm84Zk9PN1JiUVRoMDIzaHY4SGJRblhoY00xN2xiOVM2SGxpN3FMVmFWcjBSenFZanphSFRjb2hua3hZNGdOMmd5Zi0tUi1vQllvYXdmTGc0c1Rj?oc=5",
+              "source": "iccsz.com",
+              "publishedAt": "Wed, 04 Mar 2026 02:06:58 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1YSFQzbF9EN1lqMS1fQ2NCbXZ5OG11V0ZnUWtWVm84Zk9PN1JiUVRoMDIzaHY4SGJRblhoY00xN2xiOVM2SGxpN3FMVmFWcjBSenFZanphSFRjb2hua3hZNGdOMmd5Zi0tUi1vQllvYXdmTGc0c1Rj?oc=5\" target=\"_blank\">OFC2026：VIAVI携1.6T测试与光纤传感新品亮相 强化AI光互联验证</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iccsz.com</font>",
               "channelId": "google_news"
             },
             {
@@ -1409,14 +1417,6 @@
               "source": "Unite.AI",
               "publishedAt": "Wed, 11 Mar 2026 03:53:21 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWs4dWFHRmpVSmRGYzhLM0RjUi1NU0Z5R28zRm1OdDJwTnhtY0RRbXpKcGV1ZnBRSzM5SFVCX0l3SEtUWU92TFpIVmtJZGpESFo3dFdaOERfQ0U3OVBPOTZoTFRBRC1OYkZzVlJLOUdTblcxcjVweHF1TDV4Rmt5TnVNazEyNk8xNUI3MXo5cE1NMy00U0R3WWY4Wm5IRUFSeEJnTGdfWU9XNFByd09iZ0FR?oc=5\" target=\"_blank\">人工智能突破通过解码复杂脑信号改进脑机接口</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unite.AI</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "RedChip 在3月19日的虚拟投资者会议上展示了人工智能价值链中的上市公司。 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2EwQ09RTVVTTkp6dkxtTmFGb1BfVmhJMmpURVhDaE9LTzkxdTVhWlNqcVFUYXJZdlh1c2hmSjdSQzJnSGp2WjF2T3BEbXNyYlZxNVBHZnhJRkFMZUJmUnpjOWw0NnNaTHk2YXMyTlhKSGNJT1VhY0tOWmliNUhJYkxBeU1zMWVrLW1nMUpWOXhnZlh6VmY5QWgzWUtVZFlMS1NfamlOZnpxN2ZQaDdJaEhGMzZWNHIyb1I0?oc=5",
-              "source": "富途牛牛",
-              "publishedAt": "Mon, 09 Mar 2026 11:30:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2EwQ09RTVVTTkp6dkxtTmFGb1BfVmhJMmpURVhDaE9LTzkxdTVhWlNqcVFUYXJZdlh1c2hmSjdSQzJnSGp2WjF2T3BEbXNyYlZxNVBHZnhJRkFMZUJmUnpjOWw0NnNaTHk2YXMyTlhKSGNJT1VhY0tOWmliNUhJYkxBeU1zMWVrLW1nMUpWOXhnZlh6VmY5QWgzWUtVZFlMS1NfamlOZnpxN2ZQaDdJaEhGMzZWNHIyb1I0?oc=5\" target=\"_blank\">RedChip 在3月19日的虚拟投资者会议上展示了人工智能价值链中的上市公司。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
               "channelId": "google_news"
             }
           ]
@@ -1458,17 +1458,17 @@
               "channelId": "google_news"
             },
             {
-              "title": "MorphMind: A Steerable AI Platform",
-              "link": "https://www.producthunt.com/products/morphmind-launches-steerable-ai-platform",
-              "source": "RSS",
-              "publishedAt": "2026-03-10T08:34:51-07:00",
-              "channelId": "producthunt_ai"
-            },
-            {
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T05:18:20Z",
+              "publishedAt": "2026-03-12T07:03:10Z",
+              "channelId": "github_trending_ai"
+            },
+            {
+              "title": "x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+              "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+              "source": "GitHub",
+              "publishedAt": "2026-03-12T07:04:09Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1478,15 +1478,23 @@
           "query": "(Microsoft OR Google OR Alphabet OR Amazon OR Meta OR Apple OR IBM OR Oracle OR Salesforce OR NVIDIA OR AMD OR Intel OR Qualcomm OR Arm OR OpenAI OR Anthropic OR Cohere OR xAI OR Hugging Face OR Mistral AI OR Databricks OR Snowflake OR Palantir OR ServiceNow) AI",
           "items": [
             {
-              "title": "Joint Statement from OpenAI and Microsoft",
-              "link": "https://openai.com/index/continuing-microsoft-partnership",
+              "title": "Hugging Face 推出 Community Evals 功能，促进模型测试透明化 - InfoQ 官网",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04MFlkN050VnpOaXNWMzZNTzBsZDJpQWFYTms5QXVzZnEwekxUSHdrZ3EtcFMzRDh1dGFEbjFUU1VmZElIR2JvTExoTXdOeXh3MGI3bkZBbFVLU2Nfa3c?oc=5",
+              "source": "InfoQ 官网",
+              "publishedAt": "Sun, 01 Mar 2026 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE04MFlkN050VnpOaXNWMzZNTzBsZDJpQWFYTms5QXVzZnEwekxUSHdrZ3EtcFMzRDh1dGFEbjFUU1VmZElIR2JvTExoTXdOeXh3MGI3bkZBbFVLU2Nfa3c?oc=5\" target=\"_blank\">Hugging Face 推出 Community Evals 功能，促进模型测试透明化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "OpenAI and Amazon announce strategic partnership",
+              "link": "https://openai.com/index/amazon-partnership",
               "source": "RSS",
               "publishedAt": "Fri, 27 Feb 2026 05:30:00 GMT",
               "channelId": "openai_blog"
             },
             {
-              "title": "OpenAI and Amazon announce strategic partnership",
-              "link": "https://openai.com/index/amazon-partnership",
+              "title": "Joint Statement from OpenAI and Microsoft",
+              "link": "https://openai.com/index/continuing-microsoft-partnership",
               "source": "RSS",
               "publishedAt": "Fri, 27 Feb 2026 05:30:00 GMT",
               "channelId": "openai_blog"
@@ -1511,13 +1519,6 @@
               "source": "RSS",
               "publishedAt": "Tue, 10 Mar 2026 10:00:00 GMT",
               "channelId": "openai_blog"
-            },
-            {
-              "title": "OpenAI to acquire Promptfoo",
-              "link": "https://openai.com/index/openai-to-acquire-promptfoo",
-              "source": "RSS",
-              "publishedAt": "Mon, 09 Mar 2026 10:00:00 GMT",
-              "channelId": "openai_blog"
             }
           ]
         },
@@ -1534,19 +1535,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "以纯电方式回归，奇瑞新QQ3想成为年轻人的生活方式 - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9seldQVGZDelpqN3BTdFg3b3Z6cC15MkUxTG5NS2p2ckV5b2swbDdXa2hKNGtObjl2c2lhWEFHYi00d184R2N6R0RqdG5rN01UWTh1OUhxZG5taWE3S1E?oc=5",
-              "source": "DoNews",
-              "publishedAt": "Thu, 12 Mar 2026 00:33:54 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9seldQVGZDelpqN3BTdFg3b3Z6cC15MkUxTG5NS2p2ckV5b2swbDdXa2hKNGtObjl2c2lhWEFHYi00d184R2N6R0RqdG5rN01UWTh1OUhxZG5taWE3S1E?oc=5\" target=\"_blank\">以纯电方式回归，奇瑞新QQ3想成为年轻人的生活方式</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
+              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - 观察者",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
+              "source": "观察者",
+              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者</font>",
               "channelId": "google_news"
             },
             {
-              "title": "雷军回应小米手机龙虾：要积极拥抱AI时代 - 新浪新闻_手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KVm1qaXNqejhQM3ctVVJGeFNici1ZOUxJSWhWNjVkaVd1elg2QTk5THZ6d2c5TmRrUTMwZkd4LTRBZ3BUSFVGZWhOVlJNNGxlTm9qbmVvTjdmX1hoVkl5Vl9kYUlQYVk0bzl3NzlhOVFDdw?oc=5",
-              "source": "新浪新闻_手机新浪网",
-              "publishedAt": "Thu, 12 Mar 2026 03:09:53 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5KVm1qaXNqejhQM3ctVVJGeFNici1ZOUxJSWhWNjVkaVd1elg2QTk5THZ6d2c5TmRrUTMwZkd4LTRBZ3BUSFVGZWhOVlJNNGxlTm9qbmVvTjdmX1hoVkl5Vl9kYUlQYVk0bzl3NzlhOVFDdw?oc=5\" target=\"_blank\">雷军回应小米手机龙虾：要积极拥抱AI时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪新闻_手机新浪网</font>",
+              "title": "理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破 - 新华报业网",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5",
+              "source": "新华报业网",
+              "publishedAt": "Thu, 12 Mar 2026 06:13:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5\" target=\"_blank\">理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华报业网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "【行业深度研究】比亚迪美团在中东封神背后，中国企业在中东有多牛？ - 维科号",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IRWVlekhaSFJjSkdJVkxSZmlkUjE4NWpNOVRjU2VWLVNlMU9lZk1QVm1VYWtsSkNVVmV2aXhjWFFnQXFzeXZQQkRuNU5DeHNRcC1NRzdaQQ?oc=5",
+              "source": "维科号",
+              "publishedAt": "Thu, 12 Mar 2026 05:37:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IRWVlekhaSFJjSkdJVkxSZmlkUjE4NWpNOVRjU2VWLVNlMU9lZk1QVm1VYWtsSkNVVmV2aXhjWFFnQXFzeXZQQkRuNU5DeHNRcC1NRzdaQQ?oc=5\" target=\"_blank\">【行业深度研究】比亚迪美团在中东封神背后，中国企业在中东有多牛？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">维科号</font>",
               "channelId": "google_news"
             },
             {
@@ -1563,14 +1572,6 @@
               "source": "雪球",
               "publishedAt": "Wed, 11 Mar 2026 02:06:25 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTFBHbWRUbUUzWG5tWVhFZm9rMjRHNlRZRG80OXNUSU9YMWxCNE1acUZLNUVsNWpTWUV4dXpPQTFxNA?oc=5\" target=\"_blank\">腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "华为推出“鸿蒙版龙虾”；英伟达将豪掷260亿美元开发AI大模型；奈飞拟6亿美元收购AI电影制作公司| 日报 - 电子工程专辑",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wMjk1TkFfNHhlZkVGTy1PY0ZMSkx2LWk0WTJxaXpPRFloRFRRUEZNTzJQXy1JNTBSbnZRZ2l0eUlNMi1lUXhRekc3ZGtHZzFfOGpN?oc=5",
-              "source": "电子工程专辑",
-              "publishedAt": "Thu, 12 Mar 2026 04:35:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wMjk1TkFfNHhlZkVGTy1PY0ZMSkx2LWk0WTJxaXpPRFloRFRRUEZNTzJQXy1JNTBSbnZRZ2l0eUlNMi1lUXhRekc3ZGtHZzFfOGpN?oc=5\" target=\"_blank\">华为推出“鸿蒙版龙虾”；英伟达将豪掷260亿美元开发AI大模型；奈飞拟6亿美元收购AI电影制作公司| 日报</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">电子工程专辑</font>",
               "channelId": "google_news"
             }
           ]
@@ -1604,14 +1605,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "华为加入Agentic AI 基金会成为金牌会员，推动智能体AI 系统开放互操作-飞象网 - 飞象网",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5od0JOcFVxRnRNT1N6Ry01VXBjUDV2V3diMm9IZHI4X2MxQ1dMdkFRZEE4R3VOVVU2QlNNSDN5VG1mYlhTTGNkekY1aw?oc=5",
-              "source": "飞象网",
-              "publishedAt": "Thu, 26 Feb 2026 08:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5od0JOcFVxRnRNT1N6Ry01VXBjUDV2V3diMm9IZHI4X2MxQ1dMdkFRZEE4R3VOVVU2QlNNSDN5VG1mYlhTTGNkekY1aw?oc=5\" target=\"_blank\">华为加入Agentic AI 基金会成为金牌会员，推动智能体AI 系统开放互操作-飞象网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">飞象网</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "西门子Questa One 引入代理式 AI功能，加速集成电路设计与验证流程 - Siemens",
               "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOQXFSbmp3cjEtQU40ZHZTaFY5dkN2X3JkeWZ1U0FVamxCWFkzRG1qckljWHQzSzRXYzAzNXdLY0VFWnNaejBXUTV6azYyVE9PS2tsWWlhNl96T2xmbnRJSU5sZGVqRXBMZENhbDlR?oc=5",
               "source": "Siemens",
@@ -1625,6 +1618,14 @@
               "source": "PANews",
               "publishedAt": "Fri, 06 Mar 2026 00:20:52 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1LODZMZDduM0I5aUZlT2hlc2Q4QlJKWF85cWVOUTlVNFY4d1ZTa2FpYUhQWWRfWnkxc3RYbGlyUE5nSkpEdE5waEhBc01LQThaam11TjhqeHVDZl9MdTN1LUI3WlA4eHh4N09NV2M1UEh3dkFSTTNhaDZxb3Jib1E?oc=5\" target=\"_blank\">Agentic AI拐点已至？当AI学会「自己行动」，如何重构Web3的安全边界？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "深度解析：Agentic AI驱动下的CPU 角色重构 - 51CTO",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MMnNZVllNZlh3VFVVRm9LbThtampTYlFNNzNTdjkzSU9YVUxRdElQaTFoSGotSVlCcUlFRXZlU2ZYN1VyaDE2cmdWUlNTZw?oc=5",
+              "source": "51CTO",
+              "publishedAt": "Wed, 11 Mar 2026 09:15:37 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MMnNZVllNZlh3VFVVRm9LbThtampTYlFNNzNTdjkzSU9YVUxRdElQaTFoSGotSVlCcUlFRXZlU2ZYN1VyaDE2cmdWUlNTZw?oc=5\" target=\"_blank\">深度解析：Agentic AI驱动下的CPU 角色重构</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
               "channelId": "google_news"
             }
           ]
@@ -1658,7 +1659,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T05:07:51Z",
+              "publishedAt": "2026-03-12T07:00:08Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1674,13 +1675,6 @@
               "publishedAt": "Tue, 10 Mar 2026 09:46:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5qWHhDYzVlWWFpVGc2YUxPdl93N2ZLbjFMclZvcDRkYlNQMWpOMDV2T1pBNjdBcTJZZjBHQm1NNkJmeG5tN1JNOVRyYzI0cHFxd0hWVHhxd2Y0R0Q0ZUQ0U0FqMC11LXdkSVhQNXk1Q1ZVeW5nbHl1Mk5GMFhCbFk?oc=5\" target=\"_blank\">睿云联旗下Akuvox X937智能对讲AI室内机斩获2026德国iF设计奖</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
-            },
-            {
-              "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
-              "link": "https://openai.com/index/figma-partnership",
-              "source": "RSS",
-              "publishedAt": "Thu, 26 Feb 2026 06:00:00 GMT",
-              "channelId": "openai_blog"
             },
             {
               "title": "Designing AI agents to resist prompt injection",
@@ -1709,6 +1703,13 @@
               "source": "RSS",
               "publishedAt": "Fri, 06 Mar 2026 07:00:00 GMT",
               "channelId": "openai_blog"
+            },
+            {
+              "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+              "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+              "source": "RSS",
+              "publishedAt": "Tue, 03 Mar 2026 16:34:00 +0000",
+              "channelId": "google_ai_blog"
             }
           ]
         },
@@ -1762,47 +1763,47 @@
           "symbol": "002230.SZ",
           "name": "科大讯飞",
           "currency": "CNY",
-          "price": 52.439998626708984,
+          "price": 52.630001068115234,
           "previousClose": 57.79999923706055,
-          "changePct": -9.273357579760667
+          "changePct": -8.944633628351992
         },
         {
           "symbol": "300308.SZ",
           "name": "中际旭创",
           "currency": "CNY",
-          "price": 532.0999755859375,
+          "price": 532.8599853515625,
           "previousClose": 527.4600219726562,
-          "changePct": 0.8796787282433676
+          "changePct": 1.0237673290784846
         },
         {
           "symbol": "688111.SS",
           "name": "金山办公",
           "currency": "CNY",
-          "price": 281.4800109863281,
+          "price": 279.70001220703125,
           "previousClose": 313,
-          "changePct": -10.070284029927116
+          "changePct": -10.638973735772764
         },
         {
           "symbol": "600570.SS",
           "name": "恒生电子",
           "currency": "CNY",
-          "price": 27.739999771118164,
+          "price": 27.81999969482422,
           "previousClose": 30.739999771118164,
-          "changePct": -9.759271380407284
+          "changePct": -9.49902439178753
         },
         {
           "symbol": "002415.SZ",
           "name": "海康威视",
           "currency": "CNY",
-          "price": 31.540000915527344,
+          "price": 31.8700008392334,
           "previousClose": 32.4900016784668,
-          "changePct": -2.9239788053599254
+          "changePct": -1.908281955073929
         }
       ],
       "channels": [
         {
           "channelId": "openai_blog",
-          "count": 30
+          "count": 29
         },
         {
           "channelId": "anthropic_news",
@@ -1822,7 +1823,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 9
+          "count": 10
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1936,11 +1937,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "MorphMind: A Steerable AI Platform",
-              "link": "https://www.producthunt.com/products/morphmind-launches-steerable-ai-platform",
-              "source": "RSS",
-              "publishedAt": "2026-03-10T08:34:51-07:00",
-              "channelId": "producthunt_ai"
+              "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
+              "link": "https://github.com/langgenius/dify",
+              "source": "GitHub",
+              "publishedAt": "2026-03-12T07:03:10Z",
+              "channelId": "github_trending_ai"
             }
           ]
         },
@@ -1949,23 +1950,23 @@
           "query": "(Microsoft OR Google OR Alphabet OR Amazon OR Meta OR Apple OR IBM OR Oracle OR Salesforce OR NVIDIA OR AMD OR Intel OR Qualcomm OR Arm OR OpenAI OR Anthropic OR Cohere OR xAI OR Hugging Face OR Mistral AI OR Databricks OR Snowflake OR Palantir OR ServiceNow) AI",
           "items": [
             {
-              "title": "新的 Apple 系统更新生成严重电池故障和 Face ID 阻止的报告 - Mix Vale",
-              "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOelZxeXR1ZEFPR2d5ZGNqbHlvVjRZdVphSDhMZFBCU3hXSkZNcm5MNzVwcVNMQ1hQWVl3Ukp5eWl6WTFQeENWWWUwZThOOGIwemdvbWhIby1zS3pJYmgySzNLMnZfVWpZRXdsYjQ4Qkd5OEs2U3pGaTVJX3Nsd0tHeV9xOHBzQTNqel9zLWEtZDFsYXU1X0duLURMYjQwZU4wMVVFYkFYWnM2ZUt4eGJnX3poLVJ1RlIxQW9wS0h4QmplemxrbHR2ODlXcDNqZnl0WlVMTW1qS2hBZXBKd2xJTHdYRUQzUTJmdkpPYjVVWVdYYlRwNmw5OExCVFduajBsZzVocFAxTUxJT2NkMVNPNmZVWWstRlBNSGhJdlV2YVVJX2VOODQ0U1dWenVIVF84Q1VDakU1d2UwRG5IblZaOGducmVJRzY0MGtKQV9McktFOU5JMlhzTDVB0gHfAkFVX3lxTE84NFVDZGlGQmV4eU0xYUxhb0hZcWhvNWFXNXpvTC1zYkZsb1VMbjR1aHl2ZFdQVkw2bjNMSDJiOER5N09fMWRlZ01xZVVud3h5bExPQmUzbTVRSW9uQWF1UzFVdkhHdDZKUkJnZnktdVVEeFJ3YjVib1k1bUxBWFVsOHFGT1Qzd1dVb2d5UVU1cERmVFpRVGl4azNHaEhwdGFDX2MxSTBJMTloVmFtOUhjSkZNdFl1TFdFdldqcndSeGo0TVV0ZS1VNTFtQ3Y0WlhRdFhfZkFiY3VWOWdwcnNHVU5zM01FdERXWUE1NUctVGVaRWFnekJkYlhVLWprbFZFaFlWN192ZEc3eGhGdTc1UUFBRkVnYmZFZW9jNDNUUEU5MFNJY2wySFdLRnlWX29SOTZfcTRkemRXV2FkV0R3Ui1zMUF6VHhraFZuSmJfbWFpSzlkaUREMDhuLU5aZw?oc=5",
-              "source": "Mix Vale",
-              "publishedAt": "Thu, 12 Feb 2026 08:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gJBVV95cUxOelZxeXR1ZEFPR2d5ZGNqbHlvVjRZdVphSDhMZFBCU3hXSkZNcm5MNzVwcVNMQ1hQWVl3Ukp5eWl6WTFQeENWWWUwZThOOGIwemdvbWhIby1zS3pJYmgySzNLMnZfVWpZRXdsYjQ4Qkd5OEs2U3pGaTVJX3Nsd0tHeV9xOHBzQTNqel9zLWEtZDFsYXU1X0duLURMYjQwZU4wMVVFYkFYWnM2ZUt4eGJnX3poLVJ1RlIxQW9wS0h4QmplemxrbHR2ODlXcDNqZnl0WlVMTW1qS2hBZXBKd2xJTHdYRUQzUTJmdkpPYjVVWVdYYlRwNmw5OExCVFduajBsZzVocFAxTUxJT2NkMVNPNmZVWWstRlBNSGhJdlV2YVVJX2VOODQ0U1dWenVIVF84Q1VDakU1d2UwRG5IblZaOGducmVJRzY0MGtKQV9McktFOU5JMlhzTDVB0gHfAkFVX3lxTE84NFVDZGlGQmV4eU0xYUxhb0hZcWhvNWFXNXpvTC1zYkZsb1VMbjR1aHl2ZFdQVkw2bjNMSDJiOER5N09fMWRlZ01xZVVud3h5bExPQmUzbTVRSW9uQWF1UzFVdkhHdDZKUkJnZnktdVVEeFJ3YjVib1k1bUxBWFVsOHFGT1Qzd1dVb2d5UVU1cERmVFpRVGl4azNHaEhwdGFDX2MxSTBJMTloVmFtOUhjSkZNdFl1TFdFdldqcndSeGo0TVV0ZS1VNTFtQ3Y0WlhRdFhfZkFiY3VWOWdwcnNHVU5zM01FdERXWUE1NUctVGVaRWFnekJkYlhVLWprbFZFaFlWN192ZEc3eGhGdTc1UUFBRkVnYmZFZW9jNDNUUEU5MFNJY2wySFdLRnlWX29SOTZfcTRkemRXV2FkV0R3Ui1zMUF6VHhraFZuSmJfbWFpSzlkaUREMDhuLU5aZw?oc=5\" target=\"_blank\">新的 Apple 系统更新生成严重电池故障和 Face ID 阻止的报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mix Vale</font>",
+              "title": "Hugging Face 推出 Community Evals 功能，促进模型测试透明化 - InfoQ 官网",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04MFlkN050VnpOaXNWMzZNTzBsZDJpQWFYTms5QXVzZnEwekxUSHdrZ3EtcFMzRDh1dGFEbjFUU1VmZElIR2JvTExoTXdOeXh3MGI3bkZBbFVLU2Nfa3c?oc=5",
+              "source": "InfoQ 官网",
+              "publishedAt": "Sun, 01 Mar 2026 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE04MFlkN050VnpOaXNWMzZNTzBsZDJpQWFYTms5QXVzZnEwekxUSHdrZ3EtcFMzRDh1dGFEbjFUU1VmZElIR2JvTExoTXdOeXh3MGI3bkZBbFVLU2Nfa3c?oc=5\" target=\"_blank\">Hugging Face 推出 Community Evals 功能，促进模型测试透明化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
               "channelId": "google_news"
             },
             {
-              "title": "Joint Statement from OpenAI and Microsoft",
-              "link": "https://openai.com/index/continuing-microsoft-partnership",
+              "title": "OpenAI and Amazon announce strategic partnership",
+              "link": "https://openai.com/index/amazon-partnership",
               "source": "RSS",
               "publishedAt": "Fri, 27 Feb 2026 05:30:00 GMT",
               "channelId": "openai_blog"
             },
             {
-              "title": "OpenAI and Amazon announce strategic partnership",
-              "link": "https://openai.com/index/amazon-partnership",
+              "title": "Joint Statement from OpenAI and Microsoft",
+              "link": "https://openai.com/index/continuing-microsoft-partnership",
               "source": "RSS",
               "publishedAt": "Fri, 27 Feb 2026 05:30:00 GMT",
               "channelId": "openai_blog"
@@ -2006,27 +2007,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "以纯电方式回归，奇瑞新QQ3想成为年轻人的生活方式 - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9seldQVGZDelpqN3BTdFg3b3Z6cC15MkUxTG5NS2p2ckV5b2swbDdXa2hKNGtObjl2c2lhWEFHYi00d184R2N6R0RqdG5rN01UWTh1OUhxZG5taWE3S1E?oc=5",
-              "source": "DoNews",
-              "publishedAt": "Thu, 12 Mar 2026 00:33:54 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9seldQVGZDelpqN3BTdFg3b3Z6cC15MkUxTG5NS2p2ckV5b2swbDdXa2hKNGtObjl2c2lhWEFHYi00d184R2N6R0RqdG5rN01UWTh1OUhxZG5taWE3S1E?oc=5\" target=\"_blank\">以纯电方式回归，奇瑞新QQ3想成为年轻人的生活方式</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
+              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - 观察者",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
+              "source": "观察者",
+              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者</font>",
               "channelId": "google_news"
             },
             {
-              "title": "腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
-              "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBHbWRUbUUzWG5tWVhFZm9rMjRHNlRZRG80OXNUSU9YMWxCNE1acUZLNUVsNWpTWUV4dXpPQTFxNA?oc=5",
-              "source": "雪球",
-              "publishedAt": "Wed, 11 Mar 2026 02:06:25 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTFBHbWRUbUUzWG5tWVhFZm9rMjRHNlRZRG80OXNUSU9YMWxCNE1acUZLNUVsNWpTWUV4dXpPQTFxNA?oc=5\" target=\"_blank\">腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
+              "title": "理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破 - 新华报业网",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5",
+              "source": "新华报业网",
+              "publishedAt": "Thu, 12 Mar 2026 06:13:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5\" target=\"_blank\">理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华报业网</font>",
               "channelId": "google_news"
             },
             {
-              "title": "雷军回应小米手机龙虾：要积极拥抱AI时代 - 新浪新闻_手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KVm1qaXNqejhQM3ctVVJGeFNici1ZOUxJSWhWNjVkaVd1elg2QTk5THZ6d2c5TmRrUTMwZkd4LTRBZ3BUSFVGZWhOVlJNNGxlTm9qbmVvTjdmX1hoVkl5Vl9kYUlQYVk0bzl3NzlhOVFDdw?oc=5",
-              "source": "新浪新闻_手机新浪网",
-              "publishedAt": "Thu, 12 Mar 2026 03:09:53 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5KVm1qaXNqejhQM3ctVVJGeFNici1ZOUxJSWhWNjVkaVd1elg2QTk5THZ6d2c5TmRrUTMwZkd4LTRBZ3BUSFVGZWhOVlJNNGxlTm9qbmVvTjdmX1hoVkl5Vl9kYUlQYVk0bzl3NzlhOVFDdw?oc=5\" target=\"_blank\">雷军回应小米手机龙虾：要积极拥抱AI时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪新闻_手机新浪网</font>",
+              "title": "【行业深度研究】比亚迪美团在中东封神背后，中国企业在中东有多牛？ - 维科号",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IRWVlekhaSFJjSkdJVkxSZmlkUjE4NWpNOVRjU2VWLVNlMU9lZk1QVm1VYWtsSkNVVmV2aXhjWFFnQXFzeXZQQkRuNU5DeHNRcC1NRzdaQQ?oc=5",
+              "source": "维科号",
+              "publishedAt": "Thu, 12 Mar 2026 05:37:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IRWVlekhaSFJjSkdJVkxSZmlkUjE4NWpNOVRjU2VWLVNlMU9lZk1QVm1VYWtsSkNVVmV2aXhjWFFnQXFzeXZQQkRuNU5DeHNRcC1NRzdaQQ?oc=5\" target=\"_blank\">【行业深度研究】比亚迪美团在中东封神背后，中国企业在中东有多牛？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">维科号</font>",
               "channelId": "google_news"
             },
             {
@@ -2038,11 +2039,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "比亚迪发布第二代刀片电池及闪充技术，引领新能源汽车迈入闪充时代 - 新华网",
-              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zdW9oN0ExM29JQ2tDYndZUEFsdVRnM0NFcWxsM3RQam9wUkdvZ3U0Sk55SGxmN2x3aWswdUFPZTFnaVNqaVhqaGR3VUNvMEZ1cFBqY05aSWlaVmFYOG51NzBXY2JUN3VqTUYyb05Kdm9sbmZzRUtlTXFwNWo?oc=5",
-              "source": "新华网",
-              "publishedAt": "Fri, 06 Mar 2026 05:55:51 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9zdW9oN0ExM29JQ2tDYndZUEFsdVRnM0NFcWxsM3RQam9wUkdvZ3U0Sk55SGxmN2x3aWswdUFPZTFnaVNqaVhqaGR3VUNvMEZ1cFBqY05aSWlaVmFYOG51NzBXY2JUN3VqTUYyb05Kdm9sbmZzRUtlTXFwNWo?oc=5\" target=\"_blank\">比亚迪发布第二代刀片电池及闪充技术，引领新能源汽车迈入闪充时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+              "title": "腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
+              "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBHbWRUbUUzWG5tWVhFZm9rMjRHNlRZRG80OXNUSU9YMWxCNE1acUZLNUVsNWpTWUV4dXpPQTFxNA?oc=5",
+              "source": "雪球",
+              "publishedAt": "Wed, 11 Mar 2026 02:06:25 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTFBHbWRUbUUzWG5tWVhFZm9rMjRHNlRZRG80OXNUSU9YMWxCNE1acUZLNUVsNWpTWUV4dXpPQTFxNA?oc=5\" target=\"_blank\">腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
               "channelId": "google_news"
             }
           ]
@@ -2130,7 +2131,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T05:07:51Z",
+              "publishedAt": "2026-03-12T07:00:08Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -2249,41 +2250,41 @@
           "symbol": "002230.SZ",
           "name": "科大讯飞",
           "currency": "CNY",
-          "price": 52.439998626708984,
+          "price": 52.619998931884766,
           "previousClose": 58.09000015258789,
-          "changePct": -9.726289397551673
+          "changePct": -9.416424868884146
         },
         {
           "symbol": "300308.SZ",
           "name": "中际旭创",
           "currency": "CNY",
-          "price": 532.0999755859375,
+          "price": 532.8599853515625,
           "previousClose": 581.9000244140625,
-          "changePct": -8.558179539220777
+          "changePct": -8.427571233027582
         },
         {
           "symbol": "688111.SS",
           "name": "金山办公",
           "currency": "CNY",
-          "price": 281.4800109863281,
+          "price": 279.4100036621094,
           "previousClose": 333.3999938964844,
-          "changePct": -15.572880582078419
+          "changePct": -16.193758615106056
         },
         {
           "symbol": "600570.SS",
           "name": "恒生电子",
           "currency": "CNY",
-          "price": 27.739999771118164,
+          "price": 27.81999969482422,
           "previousClose": 32.310001373291016,
-          "changePct": -14.144232150824458
+          "changePct": -13.896631035671964
         },
         {
           "symbol": "002415.SZ",
           "name": "海康威视",
           "currency": "CNY",
-          "price": 31.540000915527344,
+          "price": 31.8799991607666,
           "previousClose": 32.599998474121094,
-          "changePct": -3.2515264055463358
+          "changePct": -2.208586954155996
         }
       ],
       "channels": [
@@ -2309,7 +2310,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 9
+          "count": 10
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -2317,7 +2318,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 10
+          "count": 11
         }
       ],
       "diagnostics": []
@@ -2342,14 +2343,14 @@
     "totalStocks": 40,
     "stocksWithPrice": 40,
     "channels": {
-      "openai_blog": 85,
+      "openai_blog": 84,
       "anthropic_news": 0,
       "google_ai_blog": 40,
       "huggingface_blog": 37,
       "github_trending_ai": 100,
-      "hackernews_ai": 45,
+      "hackernews_ai": 50,
       "arxiv_cs_daily": 150,
-      "producthunt_ai": 36
+      "producthunt_ai": 48
     },
     "diagnostics": [
       {
