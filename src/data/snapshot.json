@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T08:53:43.006Z",
+  "generatedAt": "2026-03-12T10:49:32.893Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -74,33 +74,33 @@
               "channelId": "google_news"
             },
             {
-              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - TechFlow Post",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQMWxGV3lpRnE1Slo0bXl0UVdERnRMTTNUdF9rdmtiUVViTmxtQkdUSDN5YXBrUjNQTVFiLVJ0SktYWXdtN1hUTjFldHNReVJwaklTaVBKZC1ublZyWGVFMkN3?oc=5",
-              "source": "TechFlow Post",
-              "publishedAt": "Wed, 11 Mar 2026 09:52:56 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQMWxGV3lpRnE1Slo0bXl0UVdERnRMTTNUdF9rdmtiUVViTmxtQkdUSDN5YXBrUjNQTVFiLVJ0SktYWXdtN1hUTjFldHNReVJwaklTaVBKZC1ublZyWGVFMkN3?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechFlow Post</font>",
+              "title": "Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants - ekhbary.com",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5",
+              "source": "ekhbary.com",
+              "publishedAt": "Thu, 12 Mar 2026 06:52:43 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5\" target=\"_blank\">Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ekhbary.com</font>",
               "channelId": "google_news"
             },
             {
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:51:09Z",
+              "publishedAt": "2026-03-12T10:33:39Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:22:57Z",
+              "publishedAt": "2026-03-12T10:47:38Z",
               "channelId": "github_trending_ai"
             },
             {
-              "title": "Agent Browser",
-              "link": "https://www.producthunt.com/products/agent-browser-2",
+              "title": "Ask HN: Should training bottleneck detection be a product or just a feature?",
+              "link": "https://news.ycombinator.com/item?id=47348747",
               "source": "RSS",
-              "publishedAt": "2026-03-11T21:41:42-07:00",
-              "channelId": "producthunt_ai"
+              "publishedAt": "Thu, 12 Mar 2026 10:31:06 +0000",
+              "channelId": "hackernews_ai"
             },
             {
               "title": "NeuralAgent",
@@ -133,7 +133,7 @@
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:52:32Z",
+              "publishedAt": "2026-03-12T10:40:48Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -172,19 +172,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "腾讯发文：非常紧张，尽量争取 - guancha.cn",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0YWNnbjRrR0NRUVgyYTBiU2ZQRHhBdDBnRzNjaWNwTF9CbVcycUpHcFlSblEwajlEYVUxSGVWQmFCWXl0RnZfMTA1eGRGMG9Sb2c4cy1EdzZSQ3owZEFTMUVPbHc?oc=5",
+              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - guancha.cn",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
               "source": "guancha.cn",
-              "publishedAt": "Thu, 12 Mar 2026 06:49:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0YWNnbjRrR0NRUVgyYTBiU2ZQRHhBdDBnRzNjaWNwTF9CbVcycUpHcFlSblEwajlEYVUxSGVWQmFCWXl0RnZfMTA1eGRGMG9Sb2c4cy1EdzZSQ3owZEFTMUVPbHc?oc=5\" target=\"_blank\">腾讯发文：非常紧张，尽量争取</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "全球首款手机龙虾秒光！OpenClaw创始人称愿与百度共同开发龙虾 - 证券时报",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XU2ZHQnQ2MFVJVHVCRVJyeE1CQTdHWFZPc0xVZG0yUXVhd1AzZml3S0lfT3hQV25MRGVQend5MzlheDlGdnFXc2dWRkFjckVDb3g0cHhKTnhmUHVU?oc=5",
-              "source": "证券时报",
-              "publishedAt": "Thu, 12 Mar 2026 07:02:07 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XU2ZHQnQ2MFVJVHVCRVJyeE1CQTdHWFZPc0xVZG0yUXVhd1AzZml3S0lfT3hQV25MRGVQend5MzlheDlGdnFXc2dWRkFjckVDb3g0cHhKTnhmUHVU?oc=5\" target=\"_blank\">全球首款手机龙虾秒光！OpenClaw创始人称愿与百度共同开发龙虾</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
@@ -196,19 +188,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破 - 新华报业网",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5",
-              "source": "新华报业网",
-              "publishedAt": "Thu, 12 Mar 2026 06:13:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5\" target=\"_blank\">理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华报业网</font>",
+              "title": "深汕比亚迪集中招聘2000余名工人 - 人民网",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iejR0VlhGNVB4S1pnZHY3NkRsa2pJdWJiQlNkdHdWMlRvTVBXOVdRUFVRbTZSd1dCNEoxTEp1bUI4eWJRakw1cGVsTktHT2s0enRET2V6WnE5OXRaUkxaelZWNE5rZVRwckE?oc=5",
+              "source": "人民网",
+              "publishedAt": "Thu, 12 Mar 2026 08:25:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5iejR0VlhGNVB4S1pnZHY3NkRsa2pJdWJiQlNkdHdWMlRvTVBXOVdRUFVRbTZSd1dCNEoxTEp1bUI4eWJRakw1cGVsTktHT2s0enRET2V6WnE5OXRaUkxaelZWNE5rZVRwckE?oc=5\" target=\"_blank\">深汕比亚迪集中招聘2000余名工人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民网</font>",
               "channelId": "google_news"
             },
             {
-              "title": "AWE 2026开幕 京东携60+智能机器人惊艳亮相 多款新品京东独家首发 - 品玩",
-              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OeGxNcnlLTFV0dTVCcUROVlpOS0xIN2dWeExvRk9XOFVueUtBbTN3ek5KRjRCQm1XeEhZejFxb3FleC10QzJFag?oc=5",
-              "source": "品玩",
-              "publishedAt": "Thu, 12 Mar 2026 07:56:35 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OeGxNcnlLTFV0dTVCcUROVlpOS0xIN2dWeExvRk9XOFVueUtBbTN3ek5KRjRCQm1XeEhZejFxb3FleC10QzJFag?oc=5\" target=\"_blank\">AWE 2026开幕 京东携60+智能机器人惊艳亮相 多款新品京东独家首发</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">品玩</font>",
+              "title": "主打安全 科大讯飞版“龙虾”AstronClaw上线 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5",
+              "source": "东方财富",
+              "publishedAt": "Thu, 12 Mar 2026 09:35:26 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5\" target=\"_blank\">主打安全 科大讯飞版“龙虾”AstronClaw上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "一款马年摆件走红拼多多，广东商家如何重塑传统文玩？ - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5",
+              "source": "21财经",
+              "publishedAt": "Thu, 12 Mar 2026 09:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5\" target=\"_blank\">一款马年摆件走红拼多多，广东商家如何重塑传统文玩？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
               "channelId": "google_news"
             }
           ]
@@ -242,11 +242,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "2026年，你不是要学AI，而是要学会用AI - 51CTO",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhNURhekFsUGNudDByekJjT0hDRWNFYTFWa01LUC0zWEd0aGRpeGJpNTF4OWZqY0YtaHpxamVscVlLZEV2Z0lMdmtuZ05rZw?oc=5",
+              "title": "Anthropic万字Skills教程，把Agent 工程的核心武功秘籍说明白了 - 51CTO",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81d0Y0d0lxQVNBd05kejlUWmkxc0VyeVk2UUJHeTNTeTk3WFp0RXQyWGozY1N5S0FHZnUxOU9lcXgxODhEVlJCbFEwc1NkUQ?oc=5",
               "source": "51CTO",
-              "publishedAt": "Thu, 12 Mar 2026 08:36:31 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhNURhekFsUGNudDByekJjT0hDRWNFYTFWa01LUC0zWEd0aGRpeGJpNTF4OWZqY0YtaHpxamVscVlLZEV2Z0lMdmtuZ05rZw?oc=5\" target=\"_blank\">2026年，你不是要学AI，而是要学会用AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
+              "publishedAt": "Thu, 12 Mar 2026 08:46:10 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE81d0Y0d0lxQVNBd05kejlUWmkxc0VyeVk2UUJHeTNTeTk3WFp0RXQyWGozY1N5S0FHZnUxOU9lcXgxODhEVlJCbFEwc1NkUQ?oc=5\" target=\"_blank\">Anthropic万字Skills教程，把Agent 工程的核心武功秘籍说明白了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
               "channelId": "google_news"
             },
             {
@@ -282,8 +282,15 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:51:45Z",
+              "publishedAt": "2026-03-12T10:32:10Z",
               "channelId": "github_trending_ai"
+            },
+            {
+              "title": "Show HN: Qwodel – An open-source unified pipeline for LLM quantization",
+              "link": "https://news.ycombinator.com/item?id=47348708",
+              "source": "RSS",
+              "publishedAt": "Thu, 12 Mar 2026 10:26:13 +0000",
+              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -309,28 +316,28 @@
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:45:02Z",
+              "publishedAt": "2026-03-12T10:24:55Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:49:35Z",
+              "publishedAt": "2026-03-12T10:44:08Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
               "link": "https://github.com/langflow-ai/langflow",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:52:01Z",
+              "publishedAt": "2026-03-12T10:42:01Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:47:25Z",
+              "publishedAt": "2026-03-12T10:47:49Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -430,7 +437,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 7
+          "count": 10
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -438,7 +445,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 8
+          "count": 6
         }
       ],
       "diagnostics": [
@@ -525,32 +532,32 @@
               "channelId": "google_news"
             },
             {
-              "title": "China's OpenClaw Craze Amid Tencent's Launch of Related Products - SOHU",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVBYi1pUldBZE1NamhMdkVscTlocE9CRS1ncy12eVlJdDZzdzhSdzkxTXdnRlZUY2Z0SXRzb3NlN0JUUDVaQWFhSjFoVFo1dFZDUXU2SDNwOHpoSzcxOGVOSUFOYzBHSE9BallHR19zeW5PY1NrMThrQTZPdG90Mlh2MkNHV0k?oc=5",
-              "source": "SOHU",
-              "publishedAt": "Tue, 10 Mar 2026 09:14:31 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVBYi1pUldBZE1NamhMdkVscTlocE9CRS1ncy12eVlJdDZzdzhSdzkxTXdnRlZUY2Z0SXRzb3NlN0JUUDVaQWFhSjFoVFo1dFZDUXU2SDNwOHpoSzcxOGVOSUFOYzBHSE9BallHR19zeW5PY1NrMThrQTZPdG90Mlh2MkNHV0k?oc=5\" target=\"_blank\">China's OpenClaw Craze Amid Tencent's Launch of Related Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SOHU</font>",
+              "title": "Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants - ekhbary.com",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5",
+              "source": "ekhbary.com",
+              "publishedAt": "Thu, 12 Mar 2026 06:52:43 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5\" target=\"_blank\">Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ekhbary.com</font>",
               "channelId": "google_news"
             },
             {
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:51:09Z",
+              "publishedAt": "2026-03-12T10:33:39Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
               "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:51:29Z",
+              "publishedAt": "2026-03-12T10:26:38Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:22:57Z",
+              "publishedAt": "2026-03-12T10:47:38Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -581,13 +588,6 @@
               "channelId": "openai_blog"
             },
             {
-              "title": "OpenAI to acquire Promptfoo",
-              "link": "https://openai.com/index/openai-to-acquire-promptfoo",
-              "source": "RSS",
-              "publishedAt": "Mon, 09 Mar 2026 10:00:00 GMT",
-              "channelId": "openai_blog"
-            },
-            {
               "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
               "link": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
               "source": "RSS",
@@ -600,6 +600,13 @@
               "source": "RSS",
               "publishedAt": "Tue, 10 Mar 2026 00:00:00 GMT",
               "channelId": "huggingface_blog"
+            },
+            {
+              "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+              "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+              "source": "GitHub",
+              "publishedAt": "2026-03-12T10:40:48Z",
+              "channelId": "github_trending_ai"
             }
           ]
         },
@@ -616,19 +623,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "腾讯发文：非常紧张，尽量争取 - guancha.cn",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0YWNnbjRrR0NRUVgyYTBiU2ZQRHhBdDBnRzNjaWNwTF9CbVcycUpHcFlSblEwajlEYVUxSGVWQmFCWXl0RnZfMTA1eGRGMG9Sb2c4cy1EdzZSQ3owZEFTMUVPbHc?oc=5",
+              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - guancha.cn",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
               "source": "guancha.cn",
-              "publishedAt": "Thu, 12 Mar 2026 06:49:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0YWNnbjRrR0NRUVgyYTBiU2ZQRHhBdDBnRzNjaWNwTF9CbVcycUpHcFlSblEwajlEYVUxSGVWQmFCWXl0RnZfMTA1eGRGMG9Sb2c4cy1EdzZSQ3owZEFTMUVPbHc?oc=5\" target=\"_blank\">腾讯发文：非常紧张，尽量争取</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "全球首款手机龙虾秒光！OpenClaw创始人称愿与百度共同开发龙虾 - 证券时报",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XU2ZHQnQ2MFVJVHVCRVJyeE1CQTdHWFZPc0xVZG0yUXVhd1AzZml3S0lfT3hQV25MRGVQend5MzlheDlGdnFXc2dWRkFjckVDb3g0cHhKTnhmUHVU?oc=5",
-              "source": "证券时报",
-              "publishedAt": "Thu, 12 Mar 2026 07:02:07 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XU2ZHQnQ2MFVJVHVCRVJyeE1CQTdHWFZPc0xVZG0yUXVhd1AzZml3S0lfT3hQV25MRGVQend5MzlheDlGdnFXc2dWRkFjckVDb3g0cHhKTnhmUHVU?oc=5\" target=\"_blank\">全球首款手机龙虾秒光！OpenClaw创始人称愿与百度共同开发龙虾</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
@@ -640,19 +639,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破 - 新华报业网",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5",
-              "source": "新华报业网",
-              "publishedAt": "Thu, 12 Mar 2026 06:13:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5\" target=\"_blank\">理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华报业网</font>",
+              "title": "深汕比亚迪集中招聘2000余名工人 - 人民网",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iejR0VlhGNVB4S1pnZHY3NkRsa2pJdWJiQlNkdHdWMlRvTVBXOVdRUFVRbTZSd1dCNEoxTEp1bUI4eWJRakw1cGVsTktHT2s0enRET2V6WnE5OXRaUkxaelZWNE5rZVRwckE?oc=5",
+              "source": "人民网",
+              "publishedAt": "Thu, 12 Mar 2026 08:25:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5iejR0VlhGNVB4S1pnZHY3NkRsa2pJdWJiQlNkdHdWMlRvTVBXOVdRUFVRbTZSd1dCNEoxTEp1bUI4eWJRakw1cGVsTktHT2s0enRET2V6WnE5OXRaUkxaelZWNE5rZVRwckE?oc=5\" target=\"_blank\">深汕比亚迪集中招聘2000余名工人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民网</font>",
               "channelId": "google_news"
             },
             {
-              "title": "AWE 2026开幕 京东携60+智能机器人惊艳亮相 多款新品京东独家首发 - 品玩",
-              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OeGxNcnlLTFV0dTVCcUROVlpOS0xIN2dWeExvRk9XOFVueUtBbTN3ek5KRjRCQm1XeEhZejFxb3FleC10QzJFag?oc=5",
-              "source": "品玩",
-              "publishedAt": "Thu, 12 Mar 2026 07:56:35 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OeGxNcnlLTFV0dTVCcUROVlpOS0xIN2dWeExvRk9XOFVueUtBbTN3ek5KRjRCQm1XeEhZejFxb3FleC10QzJFag?oc=5\" target=\"_blank\">AWE 2026开幕 京东携60+智能机器人惊艳亮相 多款新品京东独家首发</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">品玩</font>",
+              "title": "主打安全 科大讯飞版“龙虾”AstronClaw上线 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5",
+              "source": "东方财富",
+              "publishedAt": "Thu, 12 Mar 2026 09:35:26 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5\" target=\"_blank\">主打安全 科大讯飞版“龙虾”AstronClaw上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "一款马年摆件走红拼多多，广东商家如何重塑传统文玩？ - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5",
+              "source": "21财经",
+              "publishedAt": "Thu, 12 Mar 2026 09:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5\" target=\"_blank\">一款马年摆件走红拼多多，广东商家如何重塑传统文玩？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
               "channelId": "google_news"
             }
           ]
@@ -686,19 +693,19 @@
               "channelId": "google_news"
             },
             {
-              "title": "波场TRON加入全球知名AI理事会，成Agentic AI理事会金牌会员 - PANews",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fNjdlWFdMNFI5MGljUkt1a1lqdjdHdWRubEp5SHNNR1VpMmM0MHFZVnBUdE14S3M2b08tZm8wMHI1NVpzZURzOFRnVWh0cXk5MzA5R1dWZmFRYTFVRXIxRWo0YUFueldKSDlRUDJVSU5fTFEyUFZzQXBVa0VnUUU?oc=5",
-              "source": "PANews",
-              "publishedAt": "Wed, 11 Mar 2026 16:29:28 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9fNjdlWFdMNFI5MGljUkt1a1lqdjdHdWRubEp5SHNNR1VpMmM0MHFZVnBUdE14S3M2b08tZm8wMHI1NVpzZURzOFRnVWh0cXk5MzA5R1dWZmFRYTFVRXIxRWo0YUFueldKSDlRUDJVSU5fTFEyUFZzQXBVa0VnUUU?oc=5\" target=\"_blank\">波场TRON加入全球知名AI理事会，成Agentic AI理事会金牌会员</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "深度解析：Agentic AI驱动下的CPU 角色重构 - 51CTO",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MMnNZVllNZlh3VFVVRm9LbThtampTYlFNNzNTdjkzSU9YVUxRdElQaTFoSGotSVlCcUlFRXZlU2ZYN1VyaDE2cmdWUlNTZw?oc=5",
               "source": "51CTO",
               "publishedAt": "Wed, 11 Mar 2026 09:15:37 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MMnNZVllNZlh3VFVVRm9LbThtampTYlFNNzNTdjkzSU9YVUxRdElQaTFoSGotSVlCcUlFRXZlU2ZYN1VyaDE2cmdWUlNTZw?oc=5\" target=\"_blank\">深度解析：Agentic AI驱动下的CPU 角色重构</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "波场TRON加入全球知名AI理事会，成Agentic AI理事会金牌会员 - PANews",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fNjdlWFdMNFI5MGljUkt1a1lqdjdHdWRubEp5SHNNR1VpMmM0MHFZVnBUdE14S3M2b08tZm8wMHI1NVpzZURzOFRnVWh0cXk5MzA5R1dWZmFRYTFVRXIxRWo0YUFueldKSDlRUDJVSU5fTFEyUFZzQXBVa0VnUUU?oc=5",
+              "source": "PANews",
+              "publishedAt": "Wed, 11 Mar 2026 16:29:28 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9fNjdlWFdMNFI5MGljUkt1a1lqdjdHdWRubEp5SHNNR1VpMmM0MHFZVnBUdE14S3M2b08tZm8wMHI1NVpzZURzOFRnVWh0cXk5MzA5R1dWZmFRYTFVRXIxRWo0YUFueldKSDlRUDJVSU5fTFEyUFZzQXBVa0VnUUU?oc=5\" target=\"_blank\">波场TRON加入全球知名AI理事会，成Agentic AI理事会金牌会员</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
               "channelId": "google_news"
             },
             {
@@ -733,8 +740,15 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:51:45Z",
+              "publishedAt": "2026-03-12T10:32:10Z",
               "channelId": "github_trending_ai"
+            },
+            {
+              "title": "Show HN: Qwodel – An open-source unified pipeline for LLM quantization",
+              "link": "https://news.ycombinator.com/item?id=47348708",
+              "source": "RSS",
+              "publishedAt": "Thu, 12 Mar 2026 10:26:13 +0000",
+              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -748,6 +762,14 @@
               "source": "新浪财经",
               "publishedAt": "Tue, 10 Mar 2026 09:46:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5qWHhDYzVlWWFpVGc2YUxPdl93N2ZLbjFMclZvcDRkYlNQMWpOMDV2T1pBNjdBcTJZZjBHQm1NNkJmeG5tN1JNOVRyYzI0cHFxd0hWVHhxd2Y0R0Q0ZUQ0U0FqMC11LXdkSVhQNXk1Q1ZVeW5nbHl1Mk5GMFhCbFk?oc=5\" target=\"_blank\">睿云联旗下Akuvox X937智能对讲AI室内机斩获2026德国iF设计奖</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "Comprehensive Guide to Gambling and Casino Games Featuring solitariospiderarkadium in Hong Kong - Semana.com",
+              "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPR3p0ckhIOTRfaHpjcnFFaEVQSXhfYzd1cm12QkltNHo1Z09fYnpxSlVYR21YOXRTa0VRaHdwX2Y0OXZqUnF5dUo1VzNxck9YeVQ5ZGEwS0g2TFVjbFNxRTZrSUYyRFM3ZmJJWmt2OUYzWHdzWWN3V3VBdGVpX2I0Q1A5c1NOa3FReTlPYld5cDRaVEx1ZV92RHRYZlZWRUNQLVJlUFM4VFVzaFpEM21DUk5fM2hrZEo2b1ZXUGtGS1BUTXRRU0V4LTBvY1pVS1R0UE1zNHdBY21yRVVfdk5NMndFSjVERF9aR3lMTDFZQXhINlNXemVKTjNnTGFYUFFlLVNOcXA1eUhqbW9DNEZJRVZ6UXowMld3ellpNU54Q1QzX3BXSUhoRnBHSGp5d2c?oc=5",
+              "source": "Semana.com",
+              "publishedAt": "Tue, 10 Mar 2026 21:16:07 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxPR3p0ckhIOTRfaHpjcnFFaEVQSXhfYzd1cm12QkltNHo1Z09fYnpxSlVYR21YOXRTa0VRaHdwX2Y0OXZqUnF5dUo1VzNxck9YeVQ5ZGEwS0g2TFVjbFNxRTZrSUYyRFM3ZmJJWmt2OUYzWHdzWWN3V3VBdGVpX2I0Q1A5c1NOa3FReTlPYld5cDRaVEx1ZV92RHRYZlZWRUNQLVJlUFM4VFVzaFpEM21DUk5fM2hrZEo2b1ZXUGtGS1BUTXRRU0V4LTBvY1pVS1R0UE1zNHdBY21yRVVfdk5NMndFSjVERF9aR3lMTDFZQXhINlNXemVKTjNnTGFYUFFlLVNOcXA1eUhqbW9DNEZJRVZ6UXowMld3ellpNU54Q1QzX3BXSUhoRnBHSGp5d2c?oc=5\" target=\"_blank\">Comprehensive Guide to Gambling and Casino Games Featuring solitariospiderarkadium in Hong Kong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Semana.com</font>",
               "channelId": "google_news"
             },
             {
@@ -765,13 +787,6 @@
               "channelId": "openai_blog"
             },
             {
-              "title": "OpenAI to acquire Promptfoo",
-              "link": "https://openai.com/index/openai-to-acquire-promptfoo",
-              "source": "RSS",
-              "publishedAt": "Mon, 09 Mar 2026 10:00:00 GMT",
-              "channelId": "openai_blog"
-            },
-            {
               "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
               "link": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
               "source": "RSS",
@@ -782,7 +797,7 @@
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:45:02Z",
+              "publishedAt": "2026-03-12T10:24:55Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -862,7 +877,7 @@
       "channels": [
         {
           "channelId": "openai_blog",
-          "count": 7
+          "count": 6
         },
         {
           "channelId": "anthropic_news",
@@ -882,7 +897,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 7
+          "count": 10
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -890,7 +905,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 8
+          "count": 6
         }
       ],
       "diagnostics": [
@@ -972,14 +987,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "China's OpenClaw Craze Amid Tencent's Launch of Related Products - SOHU",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVBYi1pUldBZE1NamhMdkVscTlocE9CRS1ncy12eVlJdDZzdzhSdzkxTXdnRlZUY2Z0SXRzb3NlN0JUUDVaQWFhSjFoVFo1dFZDUXU2SDNwOHpoSzcxOGVOSUFOYzBHSE9BallHR19zeW5PY1NrMThrQTZPdG90Mlh2MkNHV0k?oc=5",
-              "source": "SOHU",
-              "publishedAt": "Tue, 10 Mar 2026 09:14:31 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVBYi1pUldBZE1NamhMdkVscTlocE9CRS1ncy12eVlJdDZzdzhSdzkxTXdnRlZUY2Z0SXRzb3NlN0JUUDVaQWFhSjFoVFo1dFZDUXU2SDNwOHpoSzcxOGVOSUFOYzBHSE9BallHR19zeW5PY1NrMThrQTZPdG90Mlh2MkNHV0k?oc=5\" target=\"_blank\">China's OpenClaw Craze Amid Tencent's Launch of Related Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SOHU</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy - Sinocism | Bill Bishop",
               "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UFNFc3VkUUpZS1h2c0hnY1BiMmZaaHJodG42NUZVbDEzTmcyeVZFUTNic2U0TUQwWHd3Q191Nl9vX2M3T2ZmV3JXTld4OTNYVmp5YTREX3VuMUs5N1k3WjRxTUtTWHc?oc=5",
               "source": "Sinocism | Bill Bishop",
@@ -988,24 +995,32 @@
               "channelId": "google_news"
             },
             {
+              "title": "Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants - ekhbary.com",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5",
+              "source": "ekhbary.com",
+              "publishedAt": "Thu, 12 Mar 2026 06:52:43 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5\" target=\"_blank\">Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ekhbary.com</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:51:09Z",
+              "publishedAt": "2026-03-12T10:33:39Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
               "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:51:29Z",
+              "publishedAt": "2026-03-12T10:26:38Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:22:57Z",
+              "publishedAt": "2026-03-12T10:47:38Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1071,43 +1086,43 @@
               "channelId": "google_news"
             },
             {
-              "title": "腾讯发文：非常紧张，尽量争取 - guancha.cn",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0YWNnbjRrR0NRUVgyYTBiU2ZQRHhBdDBnRzNjaWNwTF9CbVcycUpHcFlSblEwajlEYVUxSGVWQmFCWXl0RnZfMTA1eGRGMG9Sb2c4cy1EdzZSQ3owZEFTMUVPbHc?oc=5",
+              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - guancha.cn",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
               "source": "guancha.cn",
-              "publishedAt": "Thu, 12 Mar 2026 06:49:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0YWNnbjRrR0NRUVgyYTBiU2ZQRHhBdDBnRzNjaWNwTF9CbVcycUpHcFlSblEwajlEYVUxSGVWQmFCWXl0RnZfMTA1eGRGMG9Sb2c4cy1EdzZSQ3owZEFTMUVPbHc?oc=5\" target=\"_blank\">腾讯发文：非常紧张，尽量争取</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
+              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
-              "title": "AWE 2026开幕 京东携60+智能机器人惊艳亮相 多款新品京东独家首发 - 品玩",
-              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OeGxNcnlLTFV0dTVCcUROVlpOS0xIN2dWeExvRk9XOFVueUtBbTN3ek5KRjRCQm1XeEhZejFxb3FleC10QzJFag?oc=5",
-              "source": "品玩",
-              "publishedAt": "Thu, 12 Mar 2026 07:56:35 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OeGxNcnlLTFV0dTVCcUROVlpOS0xIN2dWeExvRk9XOFVueUtBbTN3ek5KRjRCQm1XeEhZejFxb3FleC10QzJFag?oc=5\" target=\"_blank\">AWE 2026开幕 京东携60+智能机器人惊艳亮相 多款新品京东独家首发</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">品玩</font>",
+              "title": "秀场背后的产业变革：京东JD FASHION解锁服饰行业增长新路径 - 经济参考报",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2Exd3VmUnE3Z2I3R3dvTzlIR2JZaElWUnhVV092RUJpci1ZRWZMLWRjNkZJM3JISWFTanZHTmhXazd3UXlIVUdYaEJXMTctUXMwZVBDUC14VHpRTURfMktmbmZkNzZ2aFdIeFh5clpfY2ZOZDFxUEhGTVFmWW9WQQ?oc=5",
+              "source": "经济参考报",
+              "publishedAt": "Thu, 12 Mar 2026 07:23:13 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2Exd3VmUnE3Z2I3R3dvTzlIR2JZaElWUnhVV092RUJpci1ZRWZMLWRjNkZJM3JISWFTanZHTmhXazd3UXlIVUdYaEJXMTctUXMwZVBDUC14VHpRTURfMktmbmZkNzZ2aFdIeFh5clpfY2ZOZDFxUEhGTVFmWW9WQQ?oc=5\" target=\"_blank\">秀场背后的产业变革：京东JD FASHION解锁服饰行业增长新路径</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
               "channelId": "google_news"
             },
             {
-              "title": "理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破 - 新华报业网",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5",
-              "source": "新华报业网",
-              "publishedAt": "Thu, 12 Mar 2026 06:13:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5\" target=\"_blank\">理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华报业网</font>",
+              "title": "深汕比亚迪集中招聘2000余名工人 - 人民网",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iejR0VlhGNVB4S1pnZHY3NkRsa2pJdWJiQlNkdHdWMlRvTVBXOVdRUFVRbTZSd1dCNEoxTEp1bUI4eWJRakw1cGVsTktHT2s0enRET2V6WnE5OXRaUkxaelZWNE5rZVRwckE?oc=5",
+              "source": "人民网",
+              "publishedAt": "Thu, 12 Mar 2026 08:25:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5iejR0VlhGNVB4S1pnZHY3NkRsa2pJdWJiQlNkdHdWMlRvTVBXOVdRUFVRbTZSd1dCNEoxTEp1bUI4eWJRakw1cGVsTktHT2s0enRET2V6WnE5OXRaUkxaelZWNE5rZVRwckE?oc=5\" target=\"_blank\">深汕比亚迪集中招聘2000余名工人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民网</font>",
               "channelId": "google_news"
             },
             {
-              "title": "全球首款手机龙虾秒光！OpenClaw创始人称愿与百度共同开发龙虾 - 证券时报",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XU2ZHQnQ2MFVJVHVCRVJyeE1CQTdHWFZPc0xVZG0yUXVhd1AzZml3S0lfT3hQV25MRGVQend5MzlheDlGdnFXc2dWRkFjckVDb3g0cHhKTnhmUHVU?oc=5",
-              "source": "证券时报",
-              "publishedAt": "Thu, 12 Mar 2026 07:02:07 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XU2ZHQnQ2MFVJVHVCRVJyeE1CQTdHWFZPc0xVZG0yUXVhd1AzZml3S0lfT3hQV25MRGVQend5MzlheDlGdnFXc2dWRkFjckVDb3g0cHhKTnhmUHVU?oc=5\" target=\"_blank\">全球首款手机龙虾秒光！OpenClaw创始人称愿与百度共同开发龙虾</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+              "title": "主打安全 科大讯飞版“龙虾”AstronClaw上线 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5",
+              "source": "东方财富",
+              "publishedAt": "Thu, 12 Mar 2026 09:35:26 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5\" target=\"_blank\">主打安全 科大讯飞版“龙虾”AstronClaw上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
               "channelId": "google_news"
             },
             {
-              "title": "雷军回应小米手机龙虾：要积极拥抱AI时代 - 新浪新闻_手机新浪网",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KVm1qaXNqejhQM3ctVVJGeFNici1ZOUxJSWhWNjVkaVd1elg2QTk5THZ6d2c5TmRrUTMwZkd4LTRBZ3BUSFVGZWhOVlJNNGxlTm9qbmVvTjdmX1hoVkl5Vl9kYUlQYVk0bzl3NzlhOVFDdw?oc=5",
-              "source": "新浪新闻_手机新浪网",
-              "publishedAt": "Thu, 12 Mar 2026 03:09:53 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5KVm1qaXNqejhQM3ctVVJGeFNici1ZOUxJSWhWNjVkaVd1elg2QTk5THZ6d2c5TmRrUTMwZkd4LTRBZ3BUSFVGZWhOVlJNNGxlTm9qbmVvTjdmX1hoVkl5Vl9kYUlQYVk0bzl3NzlhOVFDdw?oc=5\" target=\"_blank\">雷军回应小米手机龙虾：要积极拥抱AI时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪新闻_手机新浪网</font>",
+              "title": "一款马年摆件走红拼多多，广东商家如何重塑传统文玩？ - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5",
+              "source": "21财经",
+              "publishedAt": "Thu, 12 Mar 2026 09:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5\" target=\"_blank\">一款马年摆件走红拼多多，广东商家如何重塑传统文玩？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
               "channelId": "google_news"
             }
           ]
@@ -1195,8 +1210,15 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:51:45Z",
+              "publishedAt": "2026-03-12T10:32:10Z",
               "channelId": "github_trending_ai"
+            },
+            {
+              "title": "Show HN: Qwodel – An open-source unified pipeline for LLM quantization",
+              "link": "https://news.ycombinator.com/item?id=47348708",
+              "source": "RSS",
+              "publishedAt": "Thu, 12 Mar 2026 10:26:13 +0000",
+              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -1210,6 +1232,14 @@
               "source": "新浪财经",
               "publishedAt": "Tue, 10 Mar 2026 09:46:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5qWHhDYzVlWWFpVGc2YUxPdl93N2ZLbjFMclZvcDRkYlNQMWpOMDV2T1pBNjdBcTJZZjBHQm1NNkJmeG5tN1JNOVRyYzI0cHFxd0hWVHhxd2Y0R0Q0ZUQ0U0FqMC11LXdkSVhQNXk1Q1ZVeW5nbHl1Mk5GMFhCbFk?oc=5\" target=\"_blank\">睿云联旗下Akuvox X937智能对讲AI室内机斩获2026德国iF设计奖</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "Comprehensive Guide to Gambling and Casino Games Featuring solitariospiderarkadium in Hong Kong - Semana.com",
+              "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPR3p0ckhIOTRfaHpjcnFFaEVQSXhfYzd1cm12QkltNHo1Z09fYnpxSlVYR21YOXRTa0VRaHdwX2Y0OXZqUnF5dUo1VzNxck9YeVQ5ZGEwS0g2TFVjbFNxRTZrSUYyRFM3ZmJJWmt2OUYzWHdzWWN3V3VBdGVpX2I0Q1A5c1NOa3FReTlPYld5cDRaVEx1ZV92RHRYZlZWRUNQLVJlUFM4VFVzaFpEM21DUk5fM2hrZEo2b1ZXUGtGS1BUTXRRU0V4LTBvY1pVS1R0UE1zNHdBY21yRVVfdk5NMndFSjVERF9aR3lMTDFZQXhINlNXemVKTjNnTGFYUFFlLVNOcXA1eUhqbW9DNEZJRVZ6UXowMld3ellpNU54Q1QzX3BXSUhoRnBHSGp5d2c?oc=5",
+              "source": "Semana.com",
+              "publishedAt": "Tue, 10 Mar 2026 21:16:07 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxPR3p0ckhIOTRfaHpjcnFFaEVQSXhfYzd1cm12QkltNHo1Z09fYnpxSlVYR21YOXRTa0VRaHdwX2Y0OXZqUnF5dUo1VzNxck9YeVQ5ZGEwS0g2TFVjbFNxRTZrSUYyRFM3ZmJJWmt2OUYzWHdzWWN3V3VBdGVpX2I0Q1A5c1NOa3FReTlPYld5cDRaVEx1ZV92RHRYZlZWRUNQLVJlUFM4VFVzaFpEM21DUk5fM2hrZEo2b1ZXUGtGS1BUTXRRU0V4LTBvY1pVS1R0UE1zNHdBY21yRVVfdk5NMndFSjVERF9aR3lMTDFZQXhINlNXemVKTjNnTGFYUFFlLVNOcXA1eUhqbW9DNEZJRVZ6UXowMld3ellpNU54Q1QzX3BXSUhoRnBHSGp5d2c?oc=5\" target=\"_blank\">Comprehensive Guide to Gambling and Casino Games Featuring solitariospiderarkadium in Hong Kong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Semana.com</font>",
               "channelId": "google_news"
             },
             {
@@ -1239,13 +1269,6 @@
               "source": "RSS",
               "publishedAt": "Fri, 06 Mar 2026 07:00:00 GMT",
               "channelId": "openai_blog"
-            },
-            {
-              "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
-              "link": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
-              "source": "RSS",
-              "publishedAt": "Mon, 09 Mar 2026 18:36:33 GMT",
-              "channelId": "huggingface_blog"
             }
           ]
         },
@@ -1324,7 +1347,7 @@
       "channels": [
         {
           "channelId": "openai_blog",
-          "count": 14
+          "count": 10
         },
         {
           "channelId": "anthropic_news",
@@ -1344,7 +1367,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 7
+          "count": 10
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1352,7 +1375,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 8
+          "count": 6
         }
       ],
       "diagnostics": [
@@ -1450,24 +1473,25 @@
               "channelId": "google_news"
             },
             {
+              "title": "Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants - ekhbary.com",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5",
+              "source": "ekhbary.com",
+              "publishedAt": "Thu, 12 Mar 2026 06:52:43 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5\" target=\"_blank\">Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ekhbary.com</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:51:09Z",
+              "publishedAt": "2026-03-12T10:33:39Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
               "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:51:29Z",
-              "channelId": "github_trending_ai"
-            },
-            {
-              "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-              "link": "https://github.com/supabase/supabase",
-              "source": "GitHub",
-              "publishedAt": "2026-03-12T08:22:57Z",
+              "publishedAt": "2026-03-12T10:26:38Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1534,27 +1558,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "腾讯发文：非常紧张，尽量争取 - guancha.cn",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0YWNnbjRrR0NRUVgyYTBiU2ZQRHhBdDBnRzNjaWNwTF9CbVcycUpHcFlSblEwajlEYVUxSGVWQmFCWXl0RnZfMTA1eGRGMG9Sb2c4cy1EdzZSQ3owZEFTMUVPbHc?oc=5",
+              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - guancha.cn",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
               "source": "guancha.cn",
-              "publishedAt": "Thu, 12 Mar 2026 06:49:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0YWNnbjRrR0NRUVgyYTBiU2ZQRHhBdDBnRzNjaWNwTF9CbVcycUpHcFlSblEwajlEYVUxSGVWQmFCWXl0RnZfMTA1eGRGMG9Sb2c4cy1EdzZSQ3owZEFTMUVPbHc?oc=5\" target=\"_blank\">腾讯发文：非常紧张，尽量争取</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AWE 2026开幕 京东携60+智能机器人惊艳亮相 多款新品京东独家首发 - 品玩",
-              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OeGxNcnlLTFV0dTVCcUROVlpOS0xIN2dWeExvRk9XOFVueUtBbTN3ek5KRjRCQm1XeEhZejFxb3FleC10QzJFag?oc=5",
-              "source": "品玩",
-              "publishedAt": "Thu, 12 Mar 2026 07:56:35 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OeGxNcnlLTFV0dTVCcUROVlpOS0xIN2dWeExvRk9XOFVueUtBbTN3ek5KRjRCQm1XeEhZejFxb3FleC10QzJFag?oc=5\" target=\"_blank\">AWE 2026开幕 京东携60+智能机器人惊艳亮相 多款新品京东独家首发</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">品玩</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破 - 新华报业网",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5",
-              "source": "新华报业网",
-              "publishedAt": "Thu, 12 Mar 2026 06:13:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5\" target=\"_blank\">理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华报业网</font>",
+              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
@@ -1566,11 +1574,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "全球首款手机龙虾秒光！OpenClaw创始人称愿与百度共同开发龙虾 - 证券时报",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XU2ZHQnQ2MFVJVHVCRVJyeE1CQTdHWFZPc0xVZG0yUXVhd1AzZml3S0lfT3hQV25MRGVQend5MzlheDlGdnFXc2dWRkFjckVDb3g0cHhKTnhmUHVU?oc=5",
-              "source": "证券时报",
-              "publishedAt": "Thu, 12 Mar 2026 07:02:07 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XU2ZHQnQ2MFVJVHVCRVJyeE1CQTdHWFZPc0xVZG0yUXVhd1AzZml3S0lfT3hQV25MRGVQend5MzlheDlGdnFXc2dWRkFjckVDb3g0cHhKTnhmUHVU?oc=5\" target=\"_blank\">全球首款手机龙虾秒光！OpenClaw创始人称愿与百度共同开发龙虾</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+              "title": "深汕比亚迪集中招聘2000余名工人 - 人民网",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iejR0VlhGNVB4S1pnZHY3NkRsa2pJdWJiQlNkdHdWMlRvTVBXOVdRUFVRbTZSd1dCNEoxTEp1bUI4eWJRakw1cGVsTktHT2s0enRET2V6WnE5OXRaUkxaelZWNE5rZVRwckE?oc=5",
+              "source": "人民网",
+              "publishedAt": "Thu, 12 Mar 2026 08:25:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5iejR0VlhGNVB4S1pnZHY3NkRsa2pJdWJiQlNkdHdWMlRvTVBXOVdRUFVRbTZSd1dCNEoxTEp1bUI4eWJRakw1cGVsTktHT2s0enRET2V6WnE5OXRaUkxaelZWNE5rZVRwckE?oc=5\" target=\"_blank\">深汕比亚迪集中招聘2000余名工人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "主打安全 科大讯飞版“龙虾”AstronClaw上线 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5",
+              "source": "东方财富",
+              "publishedAt": "Thu, 12 Mar 2026 09:35:26 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5\" target=\"_blank\">主打安全 科大讯飞版“龙虾”AstronClaw上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "一款马年摆件走红拼多多，广东商家如何重塑传统文玩？ - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5",
+              "source": "21财经",
+              "publishedAt": "Thu, 12 Mar 2026 09:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5\" target=\"_blank\">一款马年摆件走红拼多多，广东商家如何重塑传统文玩？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
               "channelId": "google_news"
             }
           ]
@@ -1620,11 +1644,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "深度解析：Agentic AI驱动下的CPU 角色重构 - 51CTO",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MMnNZVllNZlh3VFVVRm9LbThtampTYlFNNzNTdjkzSU9YVUxRdElQaTFoSGotSVlCcUlFRXZlU2ZYN1VyaDE2cmdWUlNTZw?oc=5",
-              "source": "51CTO",
-              "publishedAt": "Wed, 11 Mar 2026 09:15:37 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MMnNZVllNZlh3VFVVRm9LbThtampTYlFNNzNTdjkzSU9YVUxRdElQaTFoSGotSVlCcUlFRXZlU2ZYN1VyaDE2cmdWUlNTZw?oc=5\" target=\"_blank\">深度解析：Agentic AI驱动下的CPU 角色重构</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
+              "title": "华泰 | Physical AI和Agentic AI起革命 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvdzNNcVFUTzBONE5tbkFRRG95LXdoT3UzMy1MOGdGa2dNWThYMlJYYmVlQWpQOFJjbTdER2ZQU0pJTzFac094dmREMUVYcmlwUGFfTWp6aGRnQWtxNVVnZXEwNlRPQTh5bzhKUXlJOWdab0JGdVE?oc=5",
+              "source": "新浪财经",
+              "publishedAt": "Tue, 10 Mar 2026 22:55:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBvdzNNcVFUTzBONE5tbkFRRG95LXdoT3UzMy1MOGdGa2dNWThYMlJYYmVlQWpQOFJjbTdER2ZQU0pJTzFac094dmREMUVYcmlwUGFfTWp6aGRnQWtxNVVnZXEwNlRPQTh5bzhKUXlJOWdab0JGdVE?oc=5\" target=\"_blank\">华泰 | Physical AI和Agentic AI起革命</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             }
           ]
@@ -1658,8 +1682,15 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:51:45Z",
+              "publishedAt": "2026-03-12T10:32:10Z",
               "channelId": "github_trending_ai"
+            },
+            {
+              "title": "Show HN: Qwodel – An open-source unified pipeline for LLM quantization",
+              "link": "https://news.ycombinator.com/item?id=47348708",
+              "source": "RSS",
+              "publishedAt": "Thu, 12 Mar 2026 10:26:13 +0000",
+              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -1684,6 +1715,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "Comprehensive Guide to Gambling and Casino Games Featuring solitariospiderarkadium in Hong Kong - Semana.com",
+              "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPR3p0ckhIOTRfaHpjcnFFaEVQSXhfYzd1cm12QkltNHo1Z09fYnpxSlVYR21YOXRTa0VRaHdwX2Y0OXZqUnF5dUo1VzNxck9YeVQ5ZGEwS0g2TFVjbFNxRTZrSUYyRFM3ZmJJWmt2OUYzWHdzWWN3V3VBdGVpX2I0Q1A5c1NOa3FReTlPYld5cDRaVEx1ZV92RHRYZlZWRUNQLVJlUFM4VFVzaFpEM21DUk5fM2hrZEo2b1ZXUGtGS1BUTXRRU0V4LTBvY1pVS1R0UE1zNHdBY21yRVVfdk5NMndFSjVERF9aR3lMTDFZQXhINlNXemVKTjNnTGFYUFFlLVNOcXA1eUhqbW9DNEZJRVZ6UXowMld3ellpNU54Q1QzX3BXSUhoRnBHSGp5d2c?oc=5",
+              "source": "Semana.com",
+              "publishedAt": "Tue, 10 Mar 2026 21:16:07 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxPR3p0ckhIOTRfaHpjcnFFaEVQSXhfYzd1cm12QkltNHo1Z09fYnpxSlVYR21YOXRTa0VRaHdwX2Y0OXZqUnF5dUo1VzNxck9YeVQ5ZGEwS0g2TFVjbFNxRTZrSUYyRFM3ZmJJWmt2OUYzWHdzWWN3V3VBdGVpX2I0Q1A5c1NOa3FReTlPYld5cDRaVEx1ZV92RHRYZlZWRUNQLVJlUFM4VFVzaFpEM21DUk5fM2hrZEo2b1ZXUGtGS1BUTXRRU0V4LTBvY1pVS1R0UE1zNHdBY21yRVVfdk5NMndFSjVERF9aR3lMTDFZQXhINlNXemVKTjNnTGFYUFFlLVNOcXA1eUhqbW9DNEZJRVZ6UXowMld3ellpNU54Q1QzX3BXSUhoRnBHSGp5d2c?oc=5\" target=\"_blank\">Comprehensive Guide to Gambling and Casino Games Featuring solitariospiderarkadium in Hong Kong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Semana.com</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "Designing AI agents to resist prompt injection",
               "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
               "source": "RSS",
@@ -1702,13 +1741,6 @@
               "link": "https://openai.com/index/openai-to-acquire-promptfoo",
               "source": "RSS",
               "publishedAt": "Mon, 09 Mar 2026 10:00:00 GMT",
-              "channelId": "openai_blog"
-            },
-            {
-              "title": "How Balyasny Asset Management built an AI research engine for investing",
-              "link": "https://openai.com/index/balyasny-asset-management",
-              "source": "RSS",
-              "publishedAt": "Fri, 06 Mar 2026 07:00:00 GMT",
               "channelId": "openai_blog"
             }
           ]
@@ -1803,7 +1835,7 @@
       "channels": [
         {
           "channelId": "openai_blog",
-          "count": 29
+          "count": 28
         },
         {
           "channelId": "anthropic_news",
@@ -1823,7 +1855,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 7
+          "count": 10
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1831,7 +1863,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 9
+          "count": 7
         }
       ],
       "diagnostics": []
@@ -1848,14 +1880,6 @@
               "source": "ByDrug",
               "publishedAt": "Thu, 05 Mar 2026 04:06:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5aQ1NWOWM2Q0tCVHZ5OXNZcXVuYUtyT3NoY2tfTGZ1NmZxVjIwcmtBWmtLS0ZoTTQ2WHBIOF9mN3dtc0ZvX2VZVTRtQ25COWR3blpralFyQjkxM0JGRm1ZLVd0YXJST0wzbkhnVzdzVG1ZaXEtei1Mbm5jSm13UQ?oc=5\" target=\"_blank\">深度原理完成A2轮融资，加速AI for Materials范式重构 | 星科技•AI及AI应用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ByDrug</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "中国科学家用天文AI模型绘制“极致深空图” - TV BRICS",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVXp0RjNHclZ6a0NWUlRFV2JIVDQ2UDg4OVRnbWZsM2pHSVN1Q2ZxTjczanNQUkR2MU1NNmtPSU1LcGlyVXB4el9ELWZ0Ynd0c1VUMU02R2otcTJBRGJPYjRZdXFRdHZPMW1QdjdMNm9laFRLaEtYMUM5dkZDTVQxenVONDNNUEZJTzVqMGNaSzFfaFVzcC1xejV3MWc4LXVvS19nOHh6WQ?oc=5",
-              "source": "TV BRICS",
-              "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPVXp0RjNHclZ6a0NWUlRFV2JIVDQ2UDg4OVRnbWZsM2pHSVN1Q2ZxTjczanNQUkR2MU1NNmtPSU1LcGlyVXB4el9ELWZ0Ynd0c1VUMU02R2otcTJBRGJPYjRZdXFRdHZPMW1QdjdMNm9laFRLaEtYMUM5dkZDTVQxenVONDNNUEZJTzVqMGNaSzFfaFVzcC1xejV3MWc4LXVvS19nOHh6WQ?oc=5\" target=\"_blank\">中国科学家用天文AI模型绘制“极致深空图”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV BRICS</font>",
               "channelId": "google_news"
             },
             {
@@ -1888,6 +1912,14 @@
               "source": "富途牛牛",
               "publishedAt": "Tue, 03 Mar 2026 02:14:55 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVZoWkhLNEdWVklfbjhEazgzczZhdE5lTUQ0dmh5Wl9Qb0c2NWpDbDhYdDZNZFR0ZXBKTlh1M3FIUW1ScVM4aUZja3diMG5xX3JaX3hjRTRONWhwSVpVQzh4NW9ObVpRZ3hPRTYwS1lGT0h1Q00zNlFMRzZpejZWSlVreERoRGdLdDduVWp4UTlVQWdjYVJDN0NR?oc=5\" target=\"_blank\">英伟达及其合作伙伴展示软件定义的AI-RAN是下一代无线通信技术</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "人工智能突破通过解码复杂脑信号改进脑机接口 - Unite.AI",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWs4dWFHRmpVSmRGYzhLM0RjUi1NU0Z5R28zRm1OdDJwTnhtY0RRbXpKcGV1ZnBRSzM5SFVCX0l3SEtUWU92TFpIVmtJZGpESFo3dFdaOERfQ0U3OVBPOTZoTFRBRC1OYkZzVlJLOUdTblcxcjVweHF1TDV4Rmt5TnVNazEyNk8xNUI3MXo5cE1NMy00U0R3WWY4Wm5IRUFSeEJnTGdfWU9XNFByd09iZ0FR?oc=5",
+              "source": "Unite.AI",
+              "publishedAt": "Wed, 11 Mar 2026 03:53:21 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWs4dWFHRmpVSmRGYzhLM0RjUi1NU0Z5R28zRm1OdDJwTnhtY0RRbXpKcGV1ZnBRSzM5SFVCX0l3SEtUWU92TFpIVmtJZGpESFo3dFdaOERfQ0U3OVBPOTZoTFRBRC1OYkZzVlJLOUdTblcxcjVweHF1TDV4Rmt5TnVNazEyNk8xNUI3MXo5cE1NMy00U0R3WWY4Wm5IRUFSeEJnTGdfWU9XNFByd09iZ0FR?oc=5\" target=\"_blank\">人工智能突破通过解码复杂脑信号改进脑机接口</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unite.AI</font>",
               "channelId": "google_news"
             }
           ]
@@ -1939,7 +1971,7 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:51:09Z",
+              "publishedAt": "2026-03-12T10:33:39Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -2006,19 +2038,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "腾讯发文：非常紧张，尽量争取 - guancha.cn",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0YWNnbjRrR0NRUVgyYTBiU2ZQRHhBdDBnRzNjaWNwTF9CbVcycUpHcFlSblEwajlEYVUxSGVWQmFCWXl0RnZfMTA1eGRGMG9Sb2c4cy1EdzZSQ3owZEFTMUVPbHc?oc=5",
+              "title": "尺寸配置加码，奇瑞全新QQ3预售不到7万元起 - guancha.cn",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5",
               "source": "guancha.cn",
-              "publishedAt": "Thu, 12 Mar 2026 06:49:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0YWNnbjRrR0NRUVgyYTBiU2ZQRHhBdDBnRzNjaWNwTF9CbVcycUpHcFlSblEwajlEYVUxSGVWQmFCWXl0RnZfMTA1eGRGMG9Sb2c4cy1EdzZSQ3owZEFTMUVPbHc?oc=5\" target=\"_blank\">腾讯发文：非常紧张，尽量争取</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "全球首款手机龙虾秒光！OpenClaw创始人称愿与百度共同开发龙虾 - 证券时报",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XU2ZHQnQ2MFVJVHVCRVJyeE1CQTdHWFZPc0xVZG0yUXVhd1AzZml3S0lfT3hQV25MRGVQend5MzlheDlGdnFXc2dWRkFjckVDb3g0cHhKTnhmUHVU?oc=5",
-              "source": "证券时报",
-              "publishedAt": "Thu, 12 Mar 2026 07:02:07 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XU2ZHQnQ2MFVJVHVCRVJyeE1CQTdHWFZPc0xVZG0yUXVhd1AzZml3S0lfT3hQV25MRGVQend5MzlheDlGdnFXc2dWRkFjckVDb3g0cHhKTnhmUHVU?oc=5\" target=\"_blank\">全球首款手机龙虾秒光！OpenClaw创始人称愿与百度共同开发龙虾</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+              "publishedAt": "Thu, 12 Mar 2026 05:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUVZjakt6NVRoRXNGZU5Ta1JxMmVxb0hzWmFfWGZkYkhzbk5YRi10Q0J1UXg3VEhIRGZLSkZKdS1fVlF3OTljdDJlX0NzS2dWTXRjMGlUWUJwRDlPWlFxQnV3?oc=5\" target=\"_blank\">尺寸配置加码，奇瑞全新QQ3预售不到7万元起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
@@ -2030,19 +2054,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破 - 新华报业网",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5",
-              "source": "新华报业网",
-              "publishedAt": "Thu, 12 Mar 2026 06:13:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA1a080X3RmWFV6SEtaZlQyWXFNNFdGRXRDYml4b2gzdFYtV29tVHJVVEhwUjd0U0o5LUtaRU5HbEVyU01oNDZ6dy1mMnZQMTVOeF9WMmNkZERBS3dWTXB2MHA1enRGY0NKeVpR?oc=5\" target=\"_blank\">理赔不折腾，消保有温度！腾讯微保实现医疗创新支付新突破</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华报业网</font>",
+              "title": "深汕比亚迪集中招聘2000余名工人 - 人民网",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iejR0VlhGNVB4S1pnZHY3NkRsa2pJdWJiQlNkdHdWMlRvTVBXOVdRUFVRbTZSd1dCNEoxTEp1bUI4eWJRakw1cGVsTktHT2s0enRET2V6WnE5OXRaUkxaelZWNE5rZVRwckE?oc=5",
+              "source": "人民网",
+              "publishedAt": "Thu, 12 Mar 2026 08:25:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5iejR0VlhGNVB4S1pnZHY3NkRsa2pJdWJiQlNkdHdWMlRvTVBXOVdRUFVRbTZSd1dCNEoxTEp1bUI4eWJRakw1cGVsTktHT2s0enRET2V6WnE5OXRaUkxaelZWNE5rZVRwckE?oc=5\" target=\"_blank\">深汕比亚迪集中招聘2000余名工人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民网</font>",
               "channelId": "google_news"
             },
             {
-              "title": "AWE 2026开幕 京东携60+智能机器人惊艳亮相 多款新品京东独家首发 - 品玩",
-              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OeGxNcnlLTFV0dTVCcUROVlpOS0xIN2dWeExvRk9XOFVueUtBbTN3ek5KRjRCQm1XeEhZejFxb3FleC10QzJFag?oc=5",
-              "source": "品玩",
-              "publishedAt": "Thu, 12 Mar 2026 07:56:35 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OeGxNcnlLTFV0dTVCcUROVlpOS0xIN2dWeExvRk9XOFVueUtBbTN3ek5KRjRCQm1XeEhZejFxb3FleC10QzJFag?oc=5\" target=\"_blank\">AWE 2026开幕 京东携60+智能机器人惊艳亮相 多款新品京东独家首发</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">品玩</font>",
+              "title": "主打安全 科大讯飞版“龙虾”AstronClaw上线 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5",
+              "source": "东方财富",
+              "publishedAt": "Thu, 12 Mar 2026 09:35:26 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNzY5VFJzMUFwYUdtTDVydW41RGE1SVpva2J5c0lxOG4xTlZNY2x2MU5HSGFPTXdCMWRNQXlfbjZWa2taTU4yVjNldTFRR3FDSnhEQzFUamhJT1I4Z0NLXw?oc=5\" target=\"_blank\">主打安全 科大讯飞版“龙虾”AstronClaw上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "一款马年摆件走红拼多多，广东商家如何重塑传统文玩？ - 21财经",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5",
+              "source": "21财经",
+              "publishedAt": "Thu, 12 Mar 2026 09:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5\" target=\"_blank\">一款马年摆件走红拼多多，广东商家如何重塑传统文玩？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
               "channelId": "google_news"
             }
           ]
@@ -2130,8 +2162,15 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T08:51:45Z",
+              "publishedAt": "2026-03-12T10:32:10Z",
               "channelId": "github_trending_ai"
+            },
+            {
+              "title": "Show HN: Qwodel – An open-source unified pipeline for LLM quantization",
+              "link": "https://news.ycombinator.com/item?id=47348708",
+              "source": "RSS",
+              "publishedAt": "Thu, 12 Mar 2026 10:26:13 +0000",
+              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -2164,6 +2203,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "Comprehensive Guide to Gambling and Casino Games Featuring solitariospiderarkadium in Hong Kong - Semana.com",
+              "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPR3p0ckhIOTRfaHpjcnFFaEVQSXhfYzd1cm12QkltNHo1Z09fYnpxSlVYR21YOXRTa0VRaHdwX2Y0OXZqUnF5dUo1VzNxck9YeVQ5ZGEwS0g2TFVjbFNxRTZrSUYyRFM3ZmJJWmt2OUYzWHdzWWN3V3VBdGVpX2I0Q1A5c1NOa3FReTlPYld5cDRaVEx1ZV92RHRYZlZWRUNQLVJlUFM4VFVzaFpEM21DUk5fM2hrZEo2b1ZXUGtGS1BUTXRRU0V4LTBvY1pVS1R0UE1zNHdBY21yRVVfdk5NMndFSjVERF9aR3lMTDFZQXhINlNXemVKTjNnTGFYUFFlLVNOcXA1eUhqbW9DNEZJRVZ6UXowMld3ellpNU54Q1QzX3BXSUhoRnBHSGp5d2c?oc=5",
+              "source": "Semana.com",
+              "publishedAt": "Tue, 10 Mar 2026 21:16:07 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxPR3p0ckhIOTRfaHpjcnFFaEVQSXhfYzd1cm12QkltNHo1Z09fYnpxSlVYR21YOXRTa0VRaHdwX2Y0OXZqUnF5dUo1VzNxck9YeVQ5ZGEwS0g2TFVjbFNxRTZrSUYyRFM3ZmJJWmt2OUYzWHdzWWN3V3VBdGVpX2I0Q1A5c1NOa3FReTlPYld5cDRaVEx1ZV92RHRYZlZWRUNQLVJlUFM4VFVzaFpEM21DUk5fM2hrZEo2b1ZXUGtGS1BUTXRRU0V4LTBvY1pVS1R0UE1zNHdBY21yRVVfdk5NMndFSjVERF9aR3lMTDFZQXhINlNXemVKTjNnTGFYUFFlLVNOcXA1eUhqbW9DNEZJRVZ6UXowMld3ellpNU54Q1QzX3BXSUhoRnBHSGp5d2c?oc=5\" target=\"_blank\">Comprehensive Guide to Gambling and Casino Games Featuring solitariospiderarkadium in Hong Kong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Semana.com</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
               "link": "https://openai.com/index/figma-partnership",
               "source": "RSS",
@@ -2175,13 +2222,6 @@
               "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
               "source": "RSS",
               "publishedAt": "Wed, 11 Mar 2026 11:30:00 GMT",
-              "channelId": "openai_blog"
-            },
-            {
-              "title": "From model to agent: Equipping the Responses API with a computer environment",
-              "link": "https://openai.com/index/equip-responses-api-computer-environment",
-              "source": "RSS",
-              "publishedAt": "Wed, 11 Mar 2026 11:00:00 GMT",
               "channelId": "openai_blog"
             }
           ]
@@ -2310,7 +2350,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 7
+          "count": 10
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -2318,14 +2358,14 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 11
+          "count": 8
         }
       ],
       "diagnostics": []
     }
   },
   "health": {
-    "totalNewsItems": 203,
+    "totalNewsItems": 208,
     "emptySections": [
       {
         "days": 1,
@@ -2343,14 +2383,14 @@
     "totalStocks": 40,
     "stocksWithPrice": 40,
     "channels": {
-      "openai_blog": 84,
+      "openai_blog": 78,
       "anthropic_news": 0,
       "google_ai_blog": 40,
       "huggingface_blog": 37,
       "github_trending_ai": 100,
-      "hackernews_ai": 35,
+      "hackernews_ai": 50,
       "arxiv_cs_daily": 150,
-      "producthunt_ai": 44
+      "producthunt_ai": 33
     },
     "diagnostics": [
       {
