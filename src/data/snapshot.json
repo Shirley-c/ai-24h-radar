@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T20:42:33.742Z",
+  "generatedAt": "2026-03-12T22:32:55.958Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -73,14 +73,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy - Sinocism | Bill Bishop",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UFNFc3VkUUpZS1h2c0hnY1BiMmZaaHJodG42NUZVbDEzTmcyeVZFUTNic2U0TUQwWHd3Q191Nl9vX2M3T2ZmV3JXTld4OTNYVmp5YTREX3VuMUs5N1k3WjRxTUtTWHc?oc=5",
-              "source": "Sinocism | Bill Bishop",
-              "publishedAt": "Wed, 11 Mar 2026 21:56:35 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UFNFc3VkUUpZS1h2c0hnY1BiMmZaaHJodG42NUZVbDEzTmcyeVZFUTNic2U0TUQwWHd3Q191Nl9vX2M3T2ZmV3JXTld4OTNYVmp5YTREX3VuMUs5N1k3WjRxTUtTWHc?oc=5\" target=\"_blank\">China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sinocism | Bill Bishop</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants - ekhbary.com",
               "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5",
               "source": "ekhbary.com",
@@ -92,21 +84,28 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:39:42Z",
+              "publishedAt": "2026-03-12T22:13:34Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:37:35Z",
+              "publishedAt": "2026-03-12T22:23:14Z",
               "channelId": "github_trending_ai"
             },
             {
-              "title": "Aligno AI",
-              "link": "https://www.producthunt.com/products/aligno-ai",
+              "title": "Agent Browser",
+              "link": "https://www.producthunt.com/products/agent-browser-2",
               "source": "RSS",
-              "publishedAt": "2026-03-11T22:31:37-07:00",
+              "publishedAt": "2026-03-11T21:41:42-07:00",
+              "channelId": "producthunt_ai"
+            },
+            {
+              "title": "Agentipedia",
+              "link": "https://www.producthunt.com/products/agentipedia",
+              "source": "RSS",
+              "publishedAt": "2026-03-11T17:18:39-07:00",
               "channelId": "producthunt_ai"
             }
           ]
@@ -126,7 +125,7 @@
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:20:05Z",
+              "publishedAt": "2026-03-12T22:02:56Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -140,21 +139,21 @@
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:25:20Z",
+              "publishedAt": "2026-03-12T21:36:18Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "google-gemini/gemini-cli - An open-source AI agent that brings the power of Gemini directly into your terminal.",
               "link": "https://github.com/google-gemini/gemini-cli",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:42:01Z",
+              "publishedAt": "2026-03-12T22:28:16Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "anthropics/claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
               "link": "https://github.com/anthropics/claude-code",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:40:17Z",
+              "publishedAt": "2026-03-12T22:26:45Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -180,19 +179,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？_凤凰网 - 凤凰网汽车",
+              "title": "“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？ - 凤凰网汽车",
               "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pTWRzck0yT3VuWFpla0JYYVVxWUFtR0o1SEp5ajlDbHVCMVF2YVVxMndmaUx6aW1Cck1SX1VEbzN2VXQ2VGdDMXdzT0c?oc=5",
               "source": "凤凰网汽车",
               "publishedAt": "Thu, 12 Mar 2026 16:19:18 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pTWRzck0yT3VuWFpla0JYYVVxWUFtR0o1SEp5ajlDbHVCMVF2YVVxMndmaUx6aW1Cck1SX1VEbzN2VXQ2VGdDMXdzT0c?oc=5\" target=\"_blank\">“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "京东MALL开店第一大省！湖北坐稳了 - 荆楚网",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5",
-              "source": "荆楚网",
-              "publishedAt": "Thu, 12 Mar 2026 13:51:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5\" target=\"_blank\">京东MALL开店第一大省！湖北坐稳了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">荆楚网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pTWRzck0yT3VuWFpla0JYYVVxWUFtR0o1SEp5ajlDbHVCMVF2YVVxMndmaUx6aW1Cck1SX1VEbzN2VXQ2VGdDMXdzT0c?oc=5\" target=\"_blank\">“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
               "channelId": "google_news"
             },
             {
@@ -201,6 +192,14 @@
               "source": "21财经",
               "publishedAt": "Thu, 12 Mar 2026 09:00:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5\" target=\"_blank\">一款马年摆件走红拼多多，广东商家如何重塑传统文玩？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "京东MALL开店第一大省！湖北坐稳了 - 荆楚网",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5",
+              "source": "荆楚网",
+              "publishedAt": "Thu, 12 Mar 2026 13:51:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5\" target=\"_blank\">京东MALL开店第一大省！湖北坐稳了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">荆楚网</font>",
               "channelId": "google_news"
             },
             {
@@ -282,15 +281,8 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:35:07Z",
+              "publishedAt": "2026-03-12T22:21:01Z",
               "channelId": "github_trending_ai"
-            },
-            {
-              "title": "CostRouter – Cut AI API costs 60% by routing to the cheapest capable model",
-              "link": "https://news.ycombinator.com/item?id=47356604",
-              "source": "RSS",
-              "publishedAt": "Thu, 12 Mar 2026 20:29:01 +0000",
-              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -302,42 +294,42 @@
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:13:44Z",
+              "publishedAt": "2026-03-12T22:16:18Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:40:58Z",
+              "publishedAt": "2026-03-12T22:32:43Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
               "link": "https://github.com/langflow-ai/langflow",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:38:57Z",
+              "publishedAt": "2026-03-12T22:16:51Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:25:20Z",
+              "publishedAt": "2026-03-12T21:36:18Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
               "link": "https://github.com/Comfy-Org/ComfyUI",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:13:48Z",
+              "publishedAt": "2026-03-12T22:29:49Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:37:35Z",
+              "publishedAt": "2026-03-12T22:23:14Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -437,7 +429,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 12
+          "count": 9
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -445,7 +437,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 6
+          "count": 7
         }
       ],
       "diagnostics": [
@@ -523,6 +515,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "BullFrog将举办关于新型精准AI能力的网络研讨会。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Wed, 11 Mar 2026 12:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5\" target=\"_blank\">BullFrog将举办关于新型精准AI能力的网络研讨会。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "Earnings call transcript: Li Auto’s Q4 2025 revenue falls short, stock drops - Investing.com",
               "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUnI3SkRiWFNjczdhMTNET1EyWXQ3SkRTNmNvMmd4UGFkZUROYWFvSHZFcGpjYVdtano4elNoSVU5Z2JNMXVlSFdoX1A5UGFaTWlNa3VCbFo5NnNLWGhpY1ZtcGd5X2swUHpfOS04UlRTQUxBZ203cWNXanl0aW5LbXBVd2lyRGlrdDJZaWdOR21hVExTaXJXTm56c1U5S2pWc3FFMHVvUDNybWozdmJFekdqV1RnbzdrZWFpNXVCR0RiRlJuSS11bA?oc=5",
               "source": "Investing.com",
@@ -542,21 +542,14 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:39:42Z",
+              "publishedAt": "2026-03-12T22:13:34Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
               "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:32:08Z",
-              "channelId": "github_trending_ai"
-            },
-            {
-              "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-              "link": "https://github.com/supabase/supabase",
-              "source": "GitHub",
-              "publishedAt": "2026-03-12T20:37:35Z",
+              "publishedAt": "2026-03-12T22:26:24Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -604,7 +597,7 @@
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:20:05Z",
+              "publishedAt": "2026-03-12T22:02:56Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -630,19 +623,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？_凤凰网 - 凤凰网汽车",
+              "title": "“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？ - 凤凰网汽车",
               "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pTWRzck0yT3VuWFpla0JYYVVxWUFtR0o1SEp5ajlDbHVCMVF2YVVxMndmaUx6aW1Cck1SX1VEbzN2VXQ2VGdDMXdzT0c?oc=5",
               "source": "凤凰网汽车",
               "publishedAt": "Thu, 12 Mar 2026 16:19:18 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pTWRzck0yT3VuWFpla0JYYVVxWUFtR0o1SEp5ajlDbHVCMVF2YVVxMndmaUx6aW1Cck1SX1VEbzN2VXQ2VGdDMXdzT0c?oc=5\" target=\"_blank\">“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "京东MALL开店第一大省！湖北坐稳了 - 荆楚网",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5",
-              "source": "荆楚网",
-              "publishedAt": "Thu, 12 Mar 2026 13:51:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5\" target=\"_blank\">京东MALL开店第一大省！湖北坐稳了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">荆楚网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pTWRzck0yT3VuWFpla0JYYVVxWUFtR0o1SEp5ajlDbHVCMVF2YVVxMndmaUx6aW1Cck1SX1VEbzN2VXQ2VGdDMXdzT0c?oc=5\" target=\"_blank\">“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
               "channelId": "google_news"
             },
             {
@@ -651,6 +636,14 @@
               "source": "21财经",
               "publishedAt": "Thu, 12 Mar 2026 09:00:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5\" target=\"_blank\">一款马年摆件走红拼多多，广东商家如何重塑传统文玩？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "京东MALL开店第一大省！湖北坐稳了 - 荆楚网",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5",
+              "source": "荆楚网",
+              "publishedAt": "Thu, 12 Mar 2026 13:51:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5\" target=\"_blank\">京东MALL开店第一大省！湖北坐稳了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">荆楚网</font>",
               "channelId": "google_news"
             },
             {
@@ -739,15 +732,8 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:35:07Z",
+              "publishedAt": "2026-03-12T22:21:01Z",
               "channelId": "github_trending_ai"
-            },
-            {
-              "title": "CostRouter – Cut AI API costs 60% by routing to the cheapest capable model",
-              "link": "https://news.ycombinator.com/item?id=47356604",
-              "source": "RSS",
-              "publishedAt": "Thu, 12 Mar 2026 20:29:01 +0000",
-              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -789,14 +775,14 @@
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:13:44Z",
+              "publishedAt": "2026-03-12T22:16:18Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:40:58Z",
+              "publishedAt": "2026-03-12T22:32:43Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -896,7 +882,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 12
+          "count": 9
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -904,7 +890,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 6
+          "count": 9
         }
       ],
       "diagnostics": [
@@ -940,14 +926,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "RedChip 在3月19日的虚拟投资者会议上展示了人工智能价值链中的上市公司。 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2EwQ09RTVVTTkp6dkxtTmFGb1BfVmhJMmpURVhDaE9LTzkxdTVhWlNqcVFUYXJZdlh1c2hmSjdSQzJnSGp2WjF2T3BEbXNyYlZxNVBHZnhJRkFMZUJmUnpjOWw0NnNaTHk2YXMyTlhKSGNJT1VhY0tOWmliNUhJYkxBeU1zMWVrLW1nMUpWOXhnZlh6VmY5QWgzWUtVZFlMS1NfamlOZnpxN2ZQaDdJaEhGMzZWNHIyb1I0?oc=5",
-              "source": "富途牛牛",
-              "publishedAt": "Mon, 09 Mar 2026 11:30:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2EwQ09RTVVTTkp6dkxtTmFGb1BfVmhJMmpURVhDaE9LTzkxdTVhWlNqcVFUYXJZdlh1c2hmSjdSQzJnSGp2WjF2T3BEbXNyYlZxNVBHZnhJRkFMZUJmUnpjOWw0NnNaTHk2YXMyTlhKSGNJT1VhY0tOWmliNUhJYkxBeU1zMWVrLW1nMUpWOXhnZlh6VmY5QWgzWUtVZFlMS1NfamlOZnpxN2ZQaDdJaEhGMzZWNHIyb1I0?oc=5\" target=\"_blank\">RedChip 在3月19日的虚拟投资者会议上展示了人工智能价值链中的上市公司。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "人工智能突破通过解码复杂脑信号改进脑机接口 - Unite.AI",
               "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWs4dWFHRmpVSmRGYzhLM0RjUi1NU0Z5R28zRm1OdDJwTnhtY0RRbXpKcGV1ZnBRSzM5SFVCX0l3SEtUWU92TFpIVmtJZGpESFo3dFdaOERfQ0U3OVBPOTZoTFRBRC1OYkZzVlJLOUdTblcxcjVweHF1TDV4Rmt5TnVNazEyNk8xNUI3MXo5cE1NMy00U0R3WWY4Wm5IRUFSeEJnTGdfWU9XNFByd09iZ0FR?oc=5",
               "source": "Unite.AI",
@@ -969,6 +947,14 @@
               "source": "blockchain.news",
               "publishedAt": "Sun, 08 Mar 2026 10:00:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeFNpdnhDUUNiYm43ZGVNN1U2ZTlsYURJTlpGblcxdTZFYUVoWjlvT2Q1TFo1YWhKbVhYSlhjLXdDSzUyc0N0bk9iLWJoZ093UGpRSXRFVWRVbWFxOUt2VF83bGdyUk5TV0RKbG9neEh6cE42SXVSUVh5LU91QmN0S3lCa0tUaU1oRUFrNHRQMnJoYnVSZDNQcVFxZFR4dnRtWVVqd3JkY21rTUdFdWhzbE1uSVAzMHZ6WEVfNndLLXpZa2NFeG1ZczV6UlZnVTRaLUVua0ROd1R5akdsc2FxS3gzSW41cDFQRmloME1lOA?oc=5\" target=\"_blank\">Karpathy提出突破：类SETI@home的异步协作式Autoresearch代理体系——2026深度分析| AI快讯详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "GPT-5.4重大进展：自动识别过时文档并重构知识库——2026企业AI运维实战分析| AI快讯详情 - blockchain.news",
+              "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOamFjMHZ0Rm4teHhteGxDRFZzanBxemRWV2Nzc0lUU284amYzNWxCMmRYWnhSMjJULV9mdklFM1REaVBPZV9ldUk4R21DM0czTlc1NEM5OFlIdXJwVUZsdWpqTTBITzF3b01wdDlKVTdQWnB4YXozSVFBcHZXTEhiYWozeURWUllLVEpDem5pMUJGYXVDbTlGaV9DdWJxNDcxVlJnU2oyb2hhV3RiLXBiVWJJSDhFaWZ0U3NSeS1BRWZFeHlnbGRNaXVOWFliYjhwZGd6SHdPTVpNd2RTODl0NTdB?oc=5",
+              "source": "blockchain.news",
+              "publishedAt": "Sat, 07 Mar 2026 12:46:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOamFjMHZ0Rm4teHhteGxDRFZzanBxemRWV2Nzc0lUU284amYzNWxCMmRYWnhSMjJULV9mdklFM1REaVBPZV9ldUk4R21DM0czTlc1NEM5OFlIdXJwVUZsdWpqTTBITzF3b01wdDlKVTdQWnB4YXozSVFBcHZXTEhiYWozeURWUllLVEpDem5pMUJGYXVDbTlGaV9DdWJxNDcxVlJnU2oyb2hhV3RiLXBiVWJJSDhFaWZ0U3NSeS1BRWZFeHlnbGRNaXVOWFliYjhwZGd6SHdPTVpNd2RTODl0NTdB?oc=5\" target=\"_blank\">GPT-5.4重大进展：自动识别过时文档并重构知识库——2026企业AI运维实战分析| AI快讯详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
               "channelId": "google_news"
             }
           ]
@@ -1013,14 +999,14 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:39:42Z",
+              "publishedAt": "2026-03-12T22:13:34Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
               "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:32:08Z",
+              "publishedAt": "2026-03-12T22:26:24Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1094,19 +1080,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？_凤凰网 - 凤凰网汽车",
+              "title": "“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？ - 凤凰网汽车",
               "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pTWRzck0yT3VuWFpla0JYYVVxWUFtR0o1SEp5ajlDbHVCMVF2YVVxMndmaUx6aW1Cck1SX1VEbzN2VXQ2VGdDMXdzT0c?oc=5",
               "source": "凤凰网汽车",
               "publishedAt": "Thu, 12 Mar 2026 16:19:18 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pTWRzck0yT3VuWFpla0JYYVVxWUFtR0o1SEp5ajlDbHVCMVF2YVVxMndmaUx6aW1Cck1SX1VEbzN2VXQ2VGdDMXdzT0c?oc=5\" target=\"_blank\">“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "京东MALL开店第一大省！湖北坐稳了 - 荆楚网",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5",
-              "source": "荆楚网",
-              "publishedAt": "Thu, 12 Mar 2026 13:51:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5\" target=\"_blank\">京东MALL开店第一大省！湖北坐稳了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">荆楚网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pTWRzck0yT3VuWFpla0JYYVVxWUFtR0o1SEp5ajlDbHVCMVF2YVVxMndmaUx6aW1Cck1SX1VEbzN2VXQ2VGdDMXdzT0c?oc=5\" target=\"_blank\">“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
               "channelId": "google_news"
             },
             {
@@ -1115,6 +1093,14 @@
               "source": "21财经",
               "publishedAt": "Thu, 12 Mar 2026 09:00:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5\" target=\"_blank\">一款马年摆件走红拼多多，广东商家如何重塑传统文玩？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "京东MALL开店第一大省！湖北坐稳了 - 荆楚网",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5",
+              "source": "荆楚网",
+              "publishedAt": "Thu, 12 Mar 2026 13:51:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5\" target=\"_blank\">京东MALL开店第一大省！湖北坐稳了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">荆楚网</font>",
               "channelId": "google_news"
             },
             {
@@ -1140,19 +1126,19 @@
               "channelId": "google_news"
             },
             {
+              "title": "Agentic AI拐点已至？当AI学会「自己行动」，如何重构Web3的安全边界？ - PANews",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LODZMZDduM0I5aUZlT2hlc2Q4QlJKWF85cWVOUTlVNFY4d1ZTa2FpYUhQWWRfWnkxc3RYbGlyUE5nSkpEdE5waEhBc01LQThaam11TjhqeHVDZl9MdTN1LUI3WlA4eHh4N09NV2M1UEh3dkFSTTNhaDZxb3Jib1E?oc=5",
+              "source": "PANews",
+              "publishedAt": "Fri, 06 Mar 2026 00:20:52 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1LODZMZDduM0I5aUZlT2hlc2Q4QlJKWF85cWVOUTlVNFY4d1ZTa2FpYUhQWWRfWnkxc3RYbGlyUE5nSkpEdE5waEhBc01LQThaam11TjhqeHVDZl9MdTN1LUI3WlA4eHh4N09NV2M1UEh3dkFSTTNhaDZxb3Jib1E?oc=5\" target=\"_blank\">Agentic AI拐点已至？当AI学会「自己行动」，如何重构Web3的安全边界？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "汽车之家 AI 助手多 Agent 设计与多阶段优化策略｜QCon 北京 - InfoQ 官网",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ickZIcHd2ZXhuaFpWRXhVNlZOeEd6Qzh4SnFFQ3ZQXzcwb18xaGVncS1qbEFJa2xIZHZQQXBKSHgzMGhZWjZDU0NadHlJOEZEYnBMbEhUZW04dExTNlE?oc=5",
               "source": "InfoQ 官网",
               "publishedAt": "Sat, 07 Mar 2026 08:16:03 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ickZIcHd2ZXhuaFpWRXhVNlZOeEd6Qzh4SnFFQ3ZQXzcwb18xaGVncS1qbEFJa2xIZHZQQXBKSHgzMGhZWjZDU0NadHlJOEZEYnBMbEhUZW04dExTNlE?oc=5\" target=\"_blank\">汽车之家 AI 助手多 Agent 设计与多阶段优化策略｜QCon 北京</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Agentic AI拐点已至？当AI学会「自己行动」，如何重构Web3的安全边界？ - PANews",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHJzXzdXbXJ2TUZfQkgyUThvOTFqMUdCY2RPM1hzcHBhc3JNSVB2RjJabzF6TF9tM1R0Z0o1LUR3cFNWRVNIRTI5eTdpZW9yZ3FoOUNaZ2ZQUlMxU2FKQmNDQU5feloxSGNSVFJCM2RFUEtDdW5qb191R1drYzR4WEk4UGFNZw?oc=5",
-              "source": "PANews",
-              "publishedAt": "Fri, 06 Mar 2026 00:07:12 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHJzXzdXbXJ2TUZfQkgyUThvOTFqMUdCY2RPM1hzcHBhc3JNSVB2RjJabzF6TF9tM1R0Z0o1LUR3cFNWRVNIRTI5eTdpZW9yZ3FoOUNaZ2ZQUlMxU2FKQmNDQU5feloxSGNSVFJCM2RFUEtDdW5qb191R1drYzR4WEk4UGFNZw?oc=5\" target=\"_blank\">Agentic AI拐点已至？当AI学会「自己行动」，如何重构Web3的安全边界？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
               "channelId": "google_news"
             },
             {
@@ -1210,15 +1196,8 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:35:07Z",
+              "publishedAt": "2026-03-12T22:21:01Z",
               "channelId": "github_trending_ai"
-            },
-            {
-              "title": "CostRouter – Cut AI API costs 60% by routing to the cheapest capable model",
-              "link": "https://news.ycombinator.com/item?id=47356604",
-              "source": "RSS",
-              "publishedAt": "Thu, 12 Mar 2026 20:29:01 +0000",
-              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -1367,7 +1346,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 12
+          "count": 9
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1375,7 +1354,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 6
+          "count": 9
         }
       ],
       "diagnostics": [
@@ -1403,11 +1382,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "深度原理完成A2轮融资 - 投中网",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPVXRNekI2NFBqUDg3MVBreE90MXhXM0dSa1lGZFBDNkh1NUptcHhjQ3JZQV9sdEhfSkFTcmVpOFFxeHhsOEZqU1hmN3JQWGp2eDZvWUo2S3EwVFd3ZXlGQ0pQY2Y0TmRocmhj?oc=5",
-              "source": "投中网",
-              "publishedAt": "Fri, 06 Mar 2026 01:23:04 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBPVXRNekI2NFBqUDg3MVBreE90MXhXM0dSa1lGZFBDNkh1NUptcHhjQ3JZQV9sdEhfSkFTcmVpOFFxeHhsOEZqU1hmN3JQWGp2eDZvWUo2S3EwVFd3ZXlGQ0pQY2Y0TmRocmhj?oc=5\" target=\"_blank\">深度原理完成A2轮融资</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">投中网</font>",
+              "title": "深度原理完成A2轮融资 - 手机新浪网",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZmc3N05OS3YzeGE1am91aEwycHIyaENySGplbW9xc0NqUFZ0amJHR0U2VUN1bHhMV0FscjNubzYzXzNMbW1yLTJnS0xIRVF3bHJFVmJKOTRDdWRZSHl2eWt5eHJJYzhwMHVxaDB5emhLWFo5cHFkRHZiZFRoX25XOEhnSUNNMmRKZEtNM0ZWWjYyUk11ZTJyN0NkV2VNWURfeWh2SDctcUV5OHdSXzVLUE9JUzllM0dCWUw1NmpHY193Y2FYcUtqU2RDaw?oc=5",
+              "source": "手机新浪网",
+              "publishedAt": "Sat, 07 Mar 2026 07:53:42 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQZmc3N05OS3YzeGE1am91aEwycHIyaENySGplbW9xc0NqUFZ0amJHR0U2VUN1bHhMV0FscjNubzYzXzNMbW1yLTJnS0xIRVF3bHJFVmJKOTRDdWRZSHl2eWt5eHJJYzhwMHVxaDB5emhLWFo5cHFkRHZiZFRoX25XOEhnSUNNMmRKZEtNM0ZWWjYyUk11ZTJyN0NkV2VNWURfeWh2SDctcUV5OHdSXzVLUE9JUzllM0dCWUw1NmpHY193Y2FYcUtqU2RDaw?oc=5\" target=\"_blank\">深度原理完成A2轮融资</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
               "channelId": "google_news"
             },
             {
@@ -1435,11 +1414,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "RedChip 在3月19日的虚拟投资者会议上展示了人工智能价值链中的上市公司。 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2EwQ09RTVVTTkp6dkxtTmFGb1BfVmhJMmpURVhDaE9LTzkxdTVhWlNqcVFUYXJZdlh1c2hmSjdSQzJnSGp2WjF2T3BEbXNyYlZxNVBHZnhJRkFMZUJmUnpjOWw0NnNaTHk2YXMyTlhKSGNJT1VhY0tOWmliNUhJYkxBeU1zMWVrLW1nMUpWOXhnZlh6VmY5QWgzWUtVZFlMS1NfamlOZnpxN2ZQaDdJaEhGMzZWNHIyb1I0?oc=5",
+              "title": "连续五季盈利破局!声网(API.US)Q4营收超指引上限，对话式AI成增长新引擎 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTVCUWJfWTQ2TlNrYkstOWQxeU1ybUZXel9wWnduZ0pvQnZsSkswS2wyNGdwUmM5VFJqRkVBS2xGd3VSMnBLd3Z1X2wtVWUwZEpNY0VSTGVEcTliM3N4SmZJM1B1WV9KeWZYT3JzVW5PNlVYU3dzSjkxMFpva3lRaUcySUlSWlZNb0x5Z2NERWljX3dxd3NKWjVJY3JMUDJqOEJZeFh1OVNVVFhKYWlLbWFrdjAzdnM?oc=5",
               "source": "富途牛牛",
-              "publishedAt": "Mon, 09 Mar 2026 11:30:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2EwQ09RTVVTTkp6dkxtTmFGb1BfVmhJMmpURVhDaE9LTzkxdTVhWlNqcVFUYXJZdlh1c2hmSjdSQzJnSGp2WjF2T3BEbXNyYlZxNVBHZnhJRkFMZUJmUnpjOWw0NnNaTHk2YXMyTlhKSGNJT1VhY0tOWmliNUhJYkxBeU1zMWVrLW1nMUpWOXhnZlh6VmY5QWgzWUtVZFlMS1NfamlOZnpxN2ZQaDdJaEhGMzZWNHIyb1I0?oc=5\" target=\"_blank\">RedChip 在3月19日的虚拟投资者会议上展示了人工智能价值链中的上市公司。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "publishedAt": "Mon, 02 Mar 2026 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTVCUWJfWTQ2TlNrYkstOWQxeU1ybUZXel9wWnduZ0pvQnZsSkswS2wyNGdwUmM5VFJqRkVBS2xGd3VSMnBLd3Z1X2wtVWUwZEpNY0VSTGVEcTliM3N4SmZJM1B1WV9KeWZYT3JzVW5PNlVYU3dzSjkxMFpva3lRaUcySUlSWlZNb0x5Z2NERWljX3dxd3NKWjVJY3JMUDJqOEJZeFh1OVNVVFhKYWlLbWFrdjAzdnM?oc=5\" target=\"_blank\">连续五季盈利破局!声网(API.US)Q4营收超指引上限，对话式AI成增长新引擎</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
               "channelId": "google_news"
             }
           ]
@@ -1481,18 +1460,17 @@
               "channelId": "google_news"
             },
             {
-              "title": "Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants - ekhbary.com",
-              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5",
-              "source": "ekhbary.com",
-              "publishedAt": "Thu, 12 Mar 2026 06:52:43 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5\" target=\"_blank\">Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ekhbary.com</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:39:42Z",
+              "publishedAt": "2026-03-12T22:13:34Z",
+              "channelId": "github_trending_ai"
+            },
+            {
+              "title": "x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+              "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+              "source": "GitHub",
+              "publishedAt": "2026-03-12T22:26:24Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1567,19 +1545,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？_凤凰网 - 凤凰网汽车",
+              "title": "“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？ - 凤凰网汽车",
               "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pTWRzck0yT3VuWFpla0JYYVVxWUFtR0o1SEp5ajlDbHVCMVF2YVVxMndmaUx6aW1Cck1SX1VEbzN2VXQ2VGdDMXdzT0c?oc=5",
               "source": "凤凰网汽车",
               "publishedAt": "Thu, 12 Mar 2026 16:19:18 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pTWRzck0yT3VuWFpla0JYYVVxWUFtR0o1SEp5ajlDbHVCMVF2YVVxMndmaUx6aW1Cck1SX1VEbzN2VXQ2VGdDMXdzT0c?oc=5\" target=\"_blank\">“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "京东MALL开店第一大省！湖北坐稳了 - 荆楚网",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5",
-              "source": "荆楚网",
-              "publishedAt": "Thu, 12 Mar 2026 13:51:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5\" target=\"_blank\">京东MALL开店第一大省！湖北坐稳了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">荆楚网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pTWRzck0yT3VuWFpla0JYYVVxWUFtR0o1SEp5ajlDbHVCMVF2YVVxMndmaUx6aW1Cck1SX1VEbzN2VXQ2VGdDMXdzT0c?oc=5\" target=\"_blank\">“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
               "channelId": "google_news"
             },
             {
@@ -1588,6 +1558,14 @@
               "source": "21财经",
               "publishedAt": "Thu, 12 Mar 2026 09:00:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5\" target=\"_blank\">一款马年摆件走红拼多多，广东商家如何重塑传统文玩？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "京东MALL开店第一大省！湖北坐稳了 - 荆楚网",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5",
+              "source": "荆楚网",
+              "publishedAt": "Thu, 12 Mar 2026 13:51:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5\" target=\"_blank\">京东MALL开店第一大省！湖北坐稳了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">荆楚网</font>",
               "channelId": "google_news"
             },
             {
@@ -1629,19 +1607,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "西门子Questa One 引入代理式 AI功能，加速集成电路设计与验证流程 - Siemens",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOQXFSbmp3cjEtQU40ZHZTaFY5dkN2X3JkeWZ1U0FVamxCWFkzRG1qckljWHQzSzRXYzAzNXdLY0VFWnNaejBXUTV6azYyVE9PS2tsWWlhNl96T2xmbnRJSU5sZGVqRXBMZENhbDlR?oc=5",
-              "source": "Siemens",
-              "publishedAt": "Fri, 27 Feb 2026 08:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBOQXFSbmp3cjEtQU40ZHZTaFY5dkN2X3JkeWZ1U0FVamxCWFkzRG1qckljWHQzSzRXYzAzNXdLY0VFWnNaejBXUTV6azYyVE9PS2tsWWlhNl96T2xmbnRJSU5sZGVqRXBMZENhbDlR?oc=5\" target=\"_blank\">西门子Questa One 引入代理式 AI功能，加速集成电路设计与验证流程</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Siemens</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "Agentic AI拐点已至？当AI学会「自己行动」，如何重构Web3的安全边界？ - PANews",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHJzXzdXbXJ2TUZfQkgyUThvOTFqMUdCY2RPM1hzcHBhc3JNSVB2RjJabzF6TF9tM1R0Z0o1LUR3cFNWRVNIRTI5eTdpZW9yZ3FoOUNaZ2ZQUlMxU2FKQmNDQU5feloxSGNSVFJCM2RFUEtDdW5qb191R1drYzR4WEk4UGFNZw?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LODZMZDduM0I5aUZlT2hlc2Q4QlJKWF85cWVOUTlVNFY4d1ZTa2FpYUhQWWRfWnkxc3RYbGlyUE5nSkpEdE5waEhBc01LQThaam11TjhqeHVDZl9MdTN1LUI3WlA4eHh4N09NV2M1UEh3dkFSTTNhaDZxb3Jib1E?oc=5",
               "source": "PANews",
-              "publishedAt": "Fri, 06 Mar 2026 00:07:12 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHJzXzdXbXJ2TUZfQkgyUThvOTFqMUdCY2RPM1hzcHBhc3JNSVB2RjJabzF6TF9tM1R0Z0o1LUR3cFNWRVNIRTI5eTdpZW9yZ3FoOUNaZ2ZQUlMxU2FKQmNDQU5feloxSGNSVFJCM2RFUEtDdW5qb191R1drYzR4WEk4UGFNZw?oc=5\" target=\"_blank\">Agentic AI拐点已至？当AI学会「自己行动」，如何重构Web3的安全边界？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
+              "publishedAt": "Fri, 06 Mar 2026 00:20:52 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1LODZMZDduM0I5aUZlT2hlc2Q4QlJKWF85cWVOUTlVNFY4d1ZTa2FpYUhQWWRfWnkxc3RYbGlyUE5nSkpEdE5waEhBc01LQThaam11TjhqeHVDZl9MdTN1LUI3WlA4eHh4N09NV2M1UEh3dkFSTTNhaDZxb3Jib1E?oc=5\" target=\"_blank\">Agentic AI拐点已至？当AI学会「自己行动」，如何重构Web3的安全边界？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
               "channelId": "google_news"
             },
             {
@@ -1650,6 +1620,14 @@
               "source": "Fortune Business Insights",
               "publishedAt": "Wed, 11 Mar 2026 23:21:22 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWh5aEVYNlVUSUdCcnNEVjRSUThMUnhwWm9nci1xTnBhYUp2UWotV25lcUpXd0x1RkJ5Rk5NMEdDN2FSM0ZYYWVLMWR3c3R2NHptSEg5QS1MRGRWaHBOY28xckJzSmpaUk16MGRpZmE1QzVVZ0RSQUl2Y1lGejZCenQzT2pFekNJ?oc=5\" target=\"_blank\">医疗保健市场规模、份额 | Agentic AI预测 [2034]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune Business Insights</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "智能体浪潮逼近！Agent连接达到千亿级 推理算力实现10倍以上增长 - 财联社",
+              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53OXlOamFQMVY3MkZIMGltdFZnODl0Y1VsWUFaSHdRQlRHWU80MURlSmtTTkZoek93ZFRSZkZONUlhbnNkbjBqRQ?oc=5",
+              "source": "财联社",
+              "publishedAt": "Fri, 06 Mar 2026 01:08:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE53OXlOamFQMVY3MkZIMGltdFZnODl0Y1VsWUFaSHdRQlRHWU80MURlSmtTTkZoek93ZFRSZkZONUlhbnNkbjBqRQ?oc=5\" target=\"_blank\">智能体浪潮逼近！Agent连接达到千亿级 推理算力实现10倍以上增长</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
               "channelId": "google_news"
             }
           ]
@@ -1683,15 +1661,8 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:35:07Z",
+              "publishedAt": "2026-03-12T22:21:01Z",
               "channelId": "github_trending_ai"
-            },
-            {
-              "title": "CostRouter – Cut AI API costs 60% by routing to the cheapest capable model",
-              "link": "https://news.ycombinator.com/item?id=47356604",
-              "source": "RSS",
-              "publishedAt": "Thu, 12 Mar 2026 20:29:01 +0000",
-              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -1856,7 +1827,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 12
+          "count": 9
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1864,7 +1835,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 7
+          "count": 10
         }
       ],
       "diagnostics": []
@@ -1884,11 +1855,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "深度原理完成A2轮融资 - 投中网",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPVXRNekI2NFBqUDg3MVBreE90MXhXM0dSa1lGZFBDNkh1NUptcHhjQ3JZQV9sdEhfSkFTcmVpOFFxeHhsOEZqU1hmN3JQWGp2eDZvWUo2S3EwVFd3ZXlGQ0pQY2Y0TmRocmhj?oc=5",
-              "source": "投中网",
-              "publishedAt": "Fri, 06 Mar 2026 01:23:04 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBPVXRNekI2NFBqUDg3MVBreE90MXhXM0dSa1lGZFBDNkh1NUptcHhjQ3JZQV9sdEhfSkFTcmVpOFFxeHhsOEZqU1hmN3JQWGp2eDZvWUo2S3EwVFd3ZXlGQ0pQY2Y0TmRocmhj?oc=5\" target=\"_blank\">深度原理完成A2轮融资</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">投中网</font>",
+              "title": "深度原理完成A2轮融资 - 手机新浪网",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZmc3N05OS3YzeGE1am91aEwycHIyaENySGplbW9xc0NqUFZ0amJHR0U2VUN1bHhMV0FscjNubzYzXzNMbW1yLTJnS0xIRVF3bHJFVmJKOTRDdWRZSHl2eWt5eHJJYzhwMHVxaDB5emhLWFo5cHFkRHZiZFRoX25XOEhnSUNNMmRKZEtNM0ZWWjYyUk11ZTJyN0NkV2VNWURfeWh2SDctcUV5OHdSXzVLUE9JUzllM0dCWUw1NmpHY193Y2FYcUtqU2RDaw?oc=5",
+              "source": "手机新浪网",
+              "publishedAt": "Sat, 07 Mar 2026 07:53:42 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQZmc3N05OS3YzeGE1am91aEwycHIyaENySGplbW9xc0NqUFZ0amJHR0U2VUN1bHhMV0FscjNubzYzXzNMbW1yLTJnS0xIRVF3bHJFVmJKOTRDdWRZSHl2eWt5eHJJYzhwMHVxaDB5emhLWFo5cHFkRHZiZFRoX25XOEhnSUNNMmRKZEtNM0ZWWjYyUk11ZTJyN0NkV2VNWURfeWh2SDctcUV5OHdSXzVLUE9JUzllM0dCWUw1NmpHY193Y2FYcUtqU2RDaw?oc=5\" target=\"_blank\">深度原理完成A2轮融资</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
               "channelId": "google_news"
             },
             {
@@ -2049,19 +2020,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？_凤凰网 - 凤凰网汽车",
+              "title": "“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？ - 凤凰网汽车",
               "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pTWRzck0yT3VuWFpla0JYYVVxWUFtR0o1SEp5ajlDbHVCMVF2YVVxMndmaUx6aW1Cck1SX1VEbzN2VXQ2VGdDMXdzT0c?oc=5",
               "source": "凤凰网汽车",
               "publishedAt": "Thu, 12 Mar 2026 16:19:18 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pTWRzck0yT3VuWFpla0JYYVVxWUFtR0o1SEp5ajlDbHVCMVF2YVVxMndmaUx6aW1Cck1SX1VEbzN2VXQ2VGdDMXdzT0c?oc=5\" target=\"_blank\">“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "京东MALL开店第一大省！湖北坐稳了 - 荆楚网",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5",
-              "source": "荆楚网",
-              "publishedAt": "Thu, 12 Mar 2026 13:51:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5\" target=\"_blank\">京东MALL开店第一大省！湖北坐稳了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">荆楚网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pTWRzck0yT3VuWFpla0JYYVVxWUFtR0o1SEp5ajlDbHVCMVF2YVVxMndmaUx6aW1Cck1SX1VEbzN2VXQ2VGdDMXdzT0c?oc=5\" target=\"_blank\">“碰瓷”比亚迪闪充，自称是超充的创领者，创维汽车这么牛？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
               "channelId": "google_news"
             },
             {
@@ -2070,6 +2033,14 @@
               "source": "21财经",
               "publishedAt": "Thu, 12 Mar 2026 09:00:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjF3SkZmNU55Q0s1QkRSbFpzZTNQYnd3dFRiY0lod0ZaUS1IanJPaEF5NnRodjZJR1FhU1UycjZVcjE4WDN6SjVtTTZHVlBYYV9OLUpDellXSUZTR1JpdzFiWEJTUXVVZUIxcVV3SXZEbTVCSERSSWk5b2IyclFyd2NiaW1ZR2paVFh4Z2dXdw?oc=5\" target=\"_blank\">一款马年摆件走红拼多多，广东商家如何重塑传统文玩？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "京东MALL开店第一大省！湖北坐稳了 - 荆楚网",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5",
+              "source": "荆楚网",
+              "publishedAt": "Thu, 12 Mar 2026 13:51:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA3bVZtM0w2V2VNX1NERktCXzRzTjJyQzIzTE9TS1FSOVpXalRaS0dCVnIzZEF5aWZCVGhZem5JQi1MZS0wWElEWEF2MGZoemYySTY5MlZjSUtZaVJVMWpfc3M5SnVOUDlYSjFaWjlxMnp0UQ?oc=5\" target=\"_blank\">京东MALL开店第一大省！湖北坐稳了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">荆楚网</font>",
               "channelId": "google_news"
             },
             {
@@ -2127,11 +2098,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "西门子Questa One 引入代理式 AI功能，加速集成电路设计与验证流程 - Siemens",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOQXFSbmp3cjEtQU40ZHZTaFY5dkN2X3JkeWZ1U0FVamxCWFkzRG1qckljWHQzSzRXYzAzNXdLY0VFWnNaejBXUTV6azYyVE9PS2tsWWlhNl96T2xmbnRJSU5sZGVqRXBMZENhbDlR?oc=5",
-              "source": "Siemens",
-              "publishedAt": "Fri, 27 Feb 2026 08:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBOQXFSbmp3cjEtQU40ZHZTaFY5dkN2X3JkeWZ1U0FVamxCWFkzRG1qckljWHQzSzRXYzAzNXdLY0VFWnNaejBXUTV6azYyVE9PS2tsWWlhNl96T2xmbnRJSU5sZGVqRXBMZENhbDlR?oc=5\" target=\"_blank\">西门子Questa One 引入代理式 AI功能，加速集成电路设计与验证流程</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Siemens</font>",
+              "title": "Agentic AI拐点已至？当AI学会「自己行动」，如何重构Web3的安全边界？ - PANews",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LODZMZDduM0I5aUZlT2hlc2Q4QlJKWF85cWVOUTlVNFY4d1ZTa2FpYUhQWWRfWnkxc3RYbGlyUE5nSkpEdE5waEhBc01LQThaam11TjhqeHVDZl9MdTN1LUI3WlA4eHh4N09NV2M1UEh3dkFSTTNhaDZxb3Jib1E?oc=5",
+              "source": "PANews",
+              "publishedAt": "Fri, 06 Mar 2026 00:20:52 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1LODZMZDduM0I5aUZlT2hlc2Q4QlJKWF85cWVOUTlVNFY4d1ZTa2FpYUhQWWRfWnkxc3RYbGlyUE5nSkpEdE5waEhBc01LQThaam11TjhqeHVDZl9MdTN1LUI3WlA4eHh4N09NV2M1UEh3dkFSTTNhaDZxb3Jib1E?oc=5\" target=\"_blank\">Agentic AI拐点已至？当AI学会「自己行动」，如何重构Web3的安全边界？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
               "channelId": "google_news"
             }
           ]
@@ -2165,15 +2136,8 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-12T20:35:07Z",
+              "publishedAt": "2026-03-12T22:21:01Z",
               "channelId": "github_trending_ai"
-            },
-            {
-              "title": "CostRouter – Cut AI API costs 60% by routing to the cheapest capable model",
-              "link": "https://news.ycombinator.com/item?id=47356604",
-              "source": "RSS",
-              "publishedAt": "Thu, 12 Mar 2026 20:29:01 +0000",
-              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -2353,7 +2317,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 12
+          "count": 9
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -2361,14 +2325,14 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 9
+          "count": 11
         }
       ],
       "diagnostics": []
     }
   },
   "health": {
-    "totalNewsItems": 208,
+    "totalNewsItems": 203,
     "emptySections": [
       {
         "days": 1,
@@ -2391,9 +2355,9 @@
       "google_ai_blog": 34,
       "huggingface_blog": 35,
       "github_trending_ai": 100,
-      "hackernews_ai": 60,
+      "hackernews_ai": 45,
       "arxiv_cs_daily": 150,
-      "producthunt_ai": 34
+      "producthunt_ai": 46
     },
     "diagnostics": [
       {
