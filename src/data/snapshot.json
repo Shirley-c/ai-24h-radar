@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T20:42:45.644Z",
+  "generatedAt": "2026-03-13T22:34:29.209Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -66,45 +66,46 @@
           "query": "AI product launch",
           "items": [
             {
+              "title": "Sigenergy 启用南通智慧能源中心，引领“全领域AI”战略及下一代能源组合 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEFDbkE3cGV3YWJHYVFNRFpkaFpoTUJEd2lEVDFsOEotUC1Kd2VMaDRtX1VWZ3ZibzVwS01aVEczLS1zZVhjYVA0R0YwX1FObFZENUlyOWFJbHFLREVsYUVxdE5qYkVJNXRORlZhWkRoOTQ5OFRfSEFVZG5qZTlqZldUR01FYWxTZG9XaDROZ0pZSkducXk4QW40SndQN0F0UjdNczFPdWJydjRk?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Fri, 13 Mar 2026 10:21:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEFDbkE3cGV3YWJHYVFNRFpkaFpoTUJEd2lEVDFsOEotUC1Kd2VMaDRtX1VWZ3ZibzVwS01aVEczLS1zZVhjYVA0R0YwX1FObFZENUlyOWFJbHFLREVsYUVxdE5qYkVJNXRORlZhWkRoOTQ5OFRfSEFVZG5qZTlqZldUR01FYWxTZG9XaDROZ0pZSkducXk4QW40SndQN0F0UjdNczFPdWJydjRk?oc=5\" target=\"_blank\">Sigenergy 启用南通智慧能源中心，引领“全领域AI”战略及下一代能源组合</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:07:27Z",
+              "publishedAt": "2026-03-13T21:55:32Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:36:32Z",
+              "publishedAt": "2026-03-13T22:21:24Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "openclaw/openclaw - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
               "link": "https://github.com/openclaw/openclaw",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:41:48Z",
+              "publishedAt": "2026-03-13T22:34:00Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T19:21:03Z",
+              "publishedAt": "2026-03-13T21:49:50Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:40:10Z",
-              "channelId": "github_trending_ai"
-            },
-            {
-              "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-              "link": "https://github.com/langflow-ai/langflow",
-              "source": "GitHub",
-              "publishedAt": "2026-03-13T20:21:11Z",
+              "publishedAt": "2026-03-13T22:22:36Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -124,35 +125,35 @@
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:40:48Z",
+              "publishedAt": "2026-03-13T22:31:58Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:31:10Z",
+              "publishedAt": "2026-03-13T22:05:38Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "google-gemini/gemini-cli - An open-source AI agent that brings the power of Gemini directly into your terminal.",
               "link": "https://github.com/google-gemini/gemini-cli",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:40:12Z",
+              "publishedAt": "2026-03-13T22:29:16Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "anthropics/claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
               "link": "https://github.com/anthropics/claude-code",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:33:14Z",
+              "publishedAt": "2026-03-13T22:27:24Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "ollama/ollama - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
               "link": "https://github.com/ollama/ollama",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:12:15Z",
+              "publishedAt": "2026-03-13T22:27:24Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -170,14 +171,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "腾讯电脑管家发布首个「龙虾管家」功能 - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5",
-              "source": "DoNews",
-              "publishedAt": "Fri, 13 Mar 2026 14:58:33 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5\" target=\"_blank\">腾讯电脑管家发布首个「龙虾管家」功能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "辅助驾驶系统出海！吉利千里浩瀚G-ASD正式获欧盟认证 - 新华网",
               "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HaGJSTFBhb3B5aUlPMGFIV3ljbFVVQ01obS1DcjNHaTVmZXZTcE43X2dfMHN6SFZFLWJxM2V3aTFPMHVqcFdkMkVtWGpDaThoTW5iMGNhbThaSnBiaVduckZHNEpDS2tsX042VzJVQnJWcUlGWnFBZ2pRcWQ?oc=5",
               "source": "新华网",
@@ -186,11 +179,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "比亚迪闪充首款量产车型开始交付，闪充站已建设4597座 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Fri, 13 Mar 2026 14:19:54 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5\" target=\"_blank\">比亚迪闪充首款量产车型开始交付，闪充站已建设4597座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "title": "腾讯电脑管家发布首个「龙虾管家」功能 - DoNews",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5",
+              "source": "DoNews",
+              "publishedAt": "Fri, 13 Mar 2026 14:58:33 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5\" target=\"_blank\">腾讯电脑管家发布首个「龙虾管家」功能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
               "channelId": "google_news"
             },
             {
@@ -199,6 +192,14 @@
               "source": "凤凰网汽车",
               "publishedAt": "Fri, 13 Mar 2026 17:33:09 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE94eHh1R1NtLUZMeTI4bURwLWhBY1NfUUlUQ0tVTVRwcktMUkpCTjEtMW56a1ZyWXQ4Q0Q2QllmaHozRFBKcUItQXlGWlk?oc=5\" target=\"_blank\">比亚迪海豹08申报图将于二季度上市_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "比亚迪闪充首款量产车型开始交付，闪充站已建设4597座 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5",
+              "source": "东方财富",
+              "publishedAt": "Fri, 13 Mar 2026 14:19:54 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5\" target=\"_blank\">比亚迪闪充首款量产车型开始交付，闪充站已建设4597座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
               "channelId": "google_news"
             },
             {
@@ -216,14 +217,6 @@
           "query": "AI agents agentic",
           "items": [
             {
-              "title": "OpenSandbox：重新思考 Agent 时代的 Runtime｜QCon 北京 - InfoQ 官网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9haGNBLU85QXJ5Skl3RjRLR1dBS2hzTVV2U2VvNEhiRGNDRVVhc1NKVGVlMUFPZUpPbzVaSGo1NjFEU21MQThIejQxa25IUDVvTGZBaTl1VzlRejN3REE?oc=5",
-              "source": "InfoQ 官网",
-              "publishedAt": "Fri, 13 Mar 2026 02:05:22 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9haGNBLU85QXJ5Skl3RjRLR1dBS2hzTVV2U2VvNEhiRGNDRVVhc1NKVGVlMUFPZUpPbzVaSGo1NjFEU21MQThIejQxa25IUDVvTGZBaTl1VzlRejN3REE?oc=5\" target=\"_blank\">OpenSandbox：重新思考 Agent 时代的 Runtime｜QCon 北京</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "独家｜清华北大普林斯顿天才少年，用“空间Agent”重构AI健康硬件，高瓴、智元投了 - Sohu",
               "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaTZyeng4SDc2aXJvTmFwczNaZ2s4WUg2NFhJckgxakdWYXliWV81VEMtejc1VEtvaF9rZHJPcE0zTTByMld6bmtzdkxiSkNZdGkzWWRzMTU3OTNoM1pnLUVVT3ZMOGFScXlzQjF4cU13OHduM2lhSG5NOHZYb3FSREsxZ0I0b2daeC1z?oc=5",
               "source": "Sohu",
@@ -237,6 +230,14 @@
               "source": "新浪财经",
               "publishedAt": "Fri, 13 Mar 2026 07:48:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAyRDctbi1EdXVQaVhxRzFKeC1LQmk0VW5UM0hTT1c1T0c2NVN5VVBGcmhoVEVZd0t4WWZHX2ZCM3hyV002LWU5QVpXRkN5dExlejJIX3lrM0RRTXE0N18wRW9mN0Q2aUlUSDlqX1Exa1ZmMlFpUEFPSEhPRmhjOVk?oc=5\" target=\"_blank\">36 氪年度出海白皮书：Agentic Commerce 成趋势，店匠科技入选代表案例</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "26 年 IDE 老厂押注 Agent 编排：JetBrains 公开预览 AI IDE Air - InfoQ 官网",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02dlowejIxREh5UlN4WnZ4a296eW15Z0lIUUotNmJXTzB6cHhjM1dyZUhaOWJYa0pWQWlZSnBpZy16ek1WWDgwbHUxeTFMRGExQXhuNTk4ZzhVUjlQOVE?oc=5",
+              "source": "InfoQ 官网",
+              "publishedAt": "Fri, 13 Mar 2026 01:15:12 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE02dlowejIxREh5UlN4WnZ4a296eW15Z0lIUUotNmJXTzB6cHhjM1dyZUhaOWJYa0pWQWlZSnBpZy16ek1WWDgwbHUxeTFMRGExQXhuNTk4ZzhVUjlQOVE?oc=5\" target=\"_blank\">26 年 IDE 老厂押注 Agent 编排：JetBrains 公开预览 AI IDE Air</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
               "channelId": "google_news"
             },
             {
@@ -256,11 +257,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "26 年 IDE 老厂押注 Agent 编排：JetBrains 公开预览 AI IDE Air - InfoQ 官网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02dlowejIxREh5UlN4WnZ4a296eW15Z0lIUUotNmJXTzB6cHhjM1dyZUhaOWJYa0pWQWlZSnBpZy16ek1WWDgwbHUxeTFMRGExQXhuNTk4ZzhVUjlQOVE?oc=5",
-              "source": "InfoQ 官网",
-              "publishedAt": "Fri, 13 Mar 2026 01:15:12 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE02dlowejIxREh5UlN4WnZ4a296eW15Z0lIUUotNmJXTzB6cHhjM1dyZUhaOWJYa0pWQWlZSnBpZy16ek1WWDgwbHUxeTFMRGExQXhuNTk4ZzhVUjlQOVE?oc=5\" target=\"_blank\">26 年 IDE 老厂押注 Agent 编排：JetBrains 公开预览 AI IDE Air</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
+              "title": "数位分身结伴同行 - CTimes",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDFnTGU4UU0xTmZQZjc4UDg3c2Z0dkVNNzJzcmo1c2tXMVhZUnhJXzJkR0Rqb0ZwSWZSNlZPQzlKZjlKSkJXVzQyNkRFTFMzV2Z3WGNWQl92ZkFpUlBFMVdXR2RaUXJvWVY0THlXdk52YTllSVhpem42ZkRsOHJOcGdqU1UwZjdOLTA5NWhyMlR1dw?oc=5",
+              "source": "CTimes",
+              "publishedAt": "Fri, 13 Mar 2026 11:45:11 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDFnTGU4UU0xTmZQZjc4UDg3c2Z0dkVNNzJzcmo1c2tXMVhZUnhJXzJkR0Rqb0ZwSWZSNlZPQzlKZjlKSkJXVzQyNkRFTFMzV2Z3WGNWQl92ZkFpUlBFMVdXR2RaUXJvWVY0THlXdk52YTllSVhpem42ZkRsOHJOcGdqU1UwZjdOLTA5NWhyMlR1dw?oc=5\" target=\"_blank\">数位分身结伴同行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTimes</font>",
               "channelId": "google_news"
             }
           ]
@@ -273,7 +274,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:39:12Z",
+              "publishedAt": "2026-03-13T22:23:34Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -293,42 +294,42 @@
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T19:21:03Z",
+              "publishedAt": "2026-03-13T21:49:50Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:40:10Z",
+              "publishedAt": "2026-03-13T22:22:36Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
               "link": "https://github.com/langflow-ai/langflow",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:21:11Z",
+              "publishedAt": "2026-03-13T22:10:47Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:31:10Z",
+              "publishedAt": "2026-03-13T22:05:38Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
               "link": "https://github.com/Comfy-Org/ComfyUI",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:37:17Z",
+              "publishedAt": "2026-03-13T22:23:26Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:36:32Z",
+              "publishedAt": "2026-03-13T22:21:24Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -428,7 +429,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 9
+          "count": 11
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -506,11 +507,11 @@
           "query": "AI product launch",
           "items": [
             {
-              "title": "BullFrog将举办关于新型精准AI能力的网络研讨会。 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5",
+              "title": "Sigenergy 启用南通智慧能源中心，引领“全领域AI”战略及下一代能源组合 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEFDbkE3cGV3YWJHYVFNRFpkaFpoTUJEd2lEVDFsOEotUC1Kd2VMaDRtX1VWZ3ZibzVwS01aVEczLS1zZVhjYVA0R0YwX1FObFZENUlyOWFJbHFLREVsYUVxdE5qYkVJNXRORlZhWkRoOTQ5OFRfSEFVZG5qZTlqZldUR01FYWxTZG9XaDROZ0pZSkducXk4QW40SndQN0F0UjdNczFPdWJydjRk?oc=5",
               "source": "富途牛牛",
-              "publishedAt": "Wed, 11 Mar 2026 12:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5\" target=\"_blank\">BullFrog将举办关于新型精准AI能力的网络研讨会。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "publishedAt": "Fri, 13 Mar 2026 10:21:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEFDbkE3cGV3YWJHYVFNRFpkaFpoTUJEd2lEVDFsOEotUC1Kd2VMaDRtX1VWZ3ZibzVwS01aVEczLS1zZVhjYVA0R0YwX1FObFZENUlyOWFJbHFLREVsYUVxdE5qYkVJNXRORlZhWkRoOTQ5OFRfSEFVZG5qZTlqZldUR01FYWxTZG9XaDROZ0pZSkducXk4QW40SndQN0F0UjdNczFPdWJydjRk?oc=5\" target=\"_blank\">Sigenergy 启用南通智慧能源中心，引领“全领域AI”战略及下一代能源组合</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
               "channelId": "google_news"
             },
             {
@@ -530,6 +531,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "BullFrog将举办关于新型精准AI能力的网络研讨会。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Wed, 11 Mar 2026 12:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5\" target=\"_blank\">BullFrog将举办关于新型精准AI能力的网络研讨会。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5",
               "source": "深潮TechFlow",
@@ -544,13 +553,6 @@
               "publishedAt": "Thu, 12 Mar 2026 06:52:43 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5\" target=\"_blank\">Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ekhbary.com</font>",
               "channelId": "google_news"
-            },
-            {
-              "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
-              "link": "https://github.com/langgenius/dify",
-              "source": "GitHub",
-              "publishedAt": "2026-03-13T20:07:27Z",
-              "channelId": "github_trending_ai"
             }
           ]
         },
@@ -576,7 +578,7 @@
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:40:48Z",
+              "publishedAt": "2026-03-13T22:31:58Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -615,14 +617,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "腾讯电脑管家发布首个「龙虾管家」功能 - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5",
-              "source": "DoNews",
-              "publishedAt": "Fri, 13 Mar 2026 14:58:33 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5\" target=\"_blank\">腾讯电脑管家发布首个「龙虾管家」功能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "辅助驾驶系统出海！吉利千里浩瀚G-ASD正式获欧盟认证 - 新华网",
               "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HaGJSTFBhb3B5aUlPMGFIV3ljbFVVQ01obS1DcjNHaTVmZXZTcE43X2dfMHN6SFZFLWJxM2V3aTFPMHVqcFdkMkVtWGpDaThoTW5iMGNhbThaSnBiaVduckZHNEpDS2tsX042VzJVQnJWcUlGWnFBZ2pRcWQ?oc=5",
               "source": "新华网",
@@ -631,11 +625,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "比亚迪闪充首款量产车型开始交付，闪充站已建设4597座 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Fri, 13 Mar 2026 14:19:54 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5\" target=\"_blank\">比亚迪闪充首款量产车型开始交付，闪充站已建设4597座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "title": "腾讯电脑管家发布首个「龙虾管家」功能 - DoNews",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5",
+              "source": "DoNews",
+              "publishedAt": "Fri, 13 Mar 2026 14:58:33 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5\" target=\"_blank\">腾讯电脑管家发布首个「龙虾管家」功能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
               "channelId": "google_news"
             },
             {
@@ -644,6 +638,14 @@
               "source": "凤凰网汽车",
               "publishedAt": "Fri, 13 Mar 2026 17:33:09 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE94eHh1R1NtLUZMeTI4bURwLWhBY1NfUUlUQ0tVTVRwcktMUkpCTjEtMW56a1ZyWXQ4Q0Q2QllmaHozRFBKcUItQXlGWlk?oc=5\" target=\"_blank\">比亚迪海豹08申报图将于二季度上市_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "比亚迪闪充首款量产车型开始交付，闪充站已建设4597座 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5",
+              "source": "东方财富",
+              "publishedAt": "Fri, 13 Mar 2026 14:19:54 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5\" target=\"_blank\">比亚迪闪充首款量产车型开始交付，闪充站已建设4597座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
               "channelId": "google_news"
             },
             {
@@ -660,14 +662,6 @@
           "title": "代理式 AI",
           "query": "AI agents agentic",
           "items": [
-            {
-              "title": "OpenSandbox：重新思考 Agent 时代的 Runtime｜QCon 北京 - InfoQ 官网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9haGNBLU85QXJ5Skl3RjRLR1dBS2hzTVV2U2VvNEhiRGNDRVVhc1NKVGVlMUFPZUpPbzVaSGo1NjFEU21MQThIejQxa25IUDVvTGZBaTl1VzlRejN3REE?oc=5",
-              "source": "InfoQ 官网",
-              "publishedAt": "Fri, 13 Mar 2026 02:05:22 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9haGNBLU85QXJ5Skl3RjRLR1dBS2hzTVV2U2VvNEhiRGNDRVVhc1NKVGVlMUFPZUpPbzVaSGo1NjFEU21MQThIejQxa25IUDVvTGZBaTl1VzlRejN3REE?oc=5\" target=\"_blank\">OpenSandbox：重新思考 Agent 时代的 Runtime｜QCon 北京</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
-              "channelId": "google_news"
-            },
             {
               "title": "独家｜清华北大普林斯顿天才少年，用“空间Agent”重构AI健康硬件，高瓴、智元投了 - Sohu",
               "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaTZyeng4SDc2aXJvTmFwczNaZ2s4WUg2NFhJckgxakdWYXliWV81VEMtejc1VEtvaF9rZHJPcE0zTTByMld6bmtzdkxiSkNZdGkzWWRzMTU3OTNoM1pnLUVVT3ZMOGFScXlzQjF4cU13OHduM2lhSG5NOHZYb3FSREsxZ0I0b2daeC1z?oc=5",
@@ -707,6 +701,14 @@
               "publishedAt": "Wed, 11 Mar 2026 16:29:28 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9fNjdlWFdMNFI5MGljUkt1a1lqdjdHdWRubEp5SHNNR1VpMmM0MHFZVnBUdE14S3M2b08tZm8wMHI1NVpzZURzOFRnVWh0cXk5MzA5R1dWZmFRYTFVRXIxRWo0YUFueldKSDlRUDJVSU5fTFEyUFZzQXBVa0VnUUU?oc=5\" target=\"_blank\">波场TRON加入全球知名AI理事会，成Agentic AI理事会金牌会员</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
               "channelId": "google_news"
+            },
+            {
+              "title": "The Adecco Group 将通过无限Agentforce 许可协议快速扩展代理式AI 的应用。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkEycVQxdDMwMVdnVHBPU1pjRWNsWnh3RFQwTnFRNVh1Y3REY0xfWkRaTWtVZWF1S2YzZEJ0Y2JMbl9tYzI5ZDlIUlIzWDV1ZHR2MUd3QlEzS2VoS2ZjZVZOcURmSHFhZk91OUQwYjl4a29xVGJ2UkZycllldzRkRjd1dnVvLWJPUnU5bzhJUDBpQQ?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Thu, 12 Mar 2026 05:45:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkEycVQxdDMwMVdnVHBPU1pjRWNsWnh3RFQwTnFRNVh1Y3REY0xfWkRaTWtVZWF1S2YzZEJ0Y2JMbl9tYzI5ZDlIUlIzWDV1ZHR2MUd3QlEzS2VoS2ZjZVZOcURmSHFhZk91OUQwYjl4a29xVGJ2UkZycllldzRkRjd1dnVvLWJPUnU5bzhJUDBpQQ?oc=5\" target=\"_blank\">The Adecco Group 将通过无限Agentforce 许可协议快速扩展代理式AI 的应用。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "channelId": "google_news"
             }
           ]
         },
@@ -718,7 +720,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:39:12Z",
+              "publishedAt": "2026-03-13T22:23:34Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -734,14 +736,6 @@
           "title": "AI-UX",
           "query": "AI UX design",
           "items": [
-            {
-              "title": "Comprehensive Guide to Gambling and Casino Games Featuring solitariospiderarkadium in Hong Kong - Semana.com",
-              "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPR3p0ckhIOTRfaHpjcnFFaEVQSXhfYzd1cm12QkltNHo1Z09fYnpxSlVYR21YOXRTa0VRaHdwX2Y0OXZqUnF5dUo1VzNxck9YeVQ5ZGEwS0g2TFVjbFNxRTZrSUYyRFM3ZmJJWmt2OUYzWHdzWWN3V3VBdGVpX2I0Q1A5c1NOa3FReTlPYld5cDRaVEx1ZV92RHRYZlZWRUNQLVJlUFM4VFVzaFpEM21DUk5fM2hrZEo2b1ZXUGtGS1BUTXRRU0V4LTBvY1pVS1R0UE1zNHdBY21yRVVfdk5NMndFSjVERF9aR3lMTDFZQXhINlNXemVKTjNnTGFYUFFlLVNOcXA1eUhqbW9DNEZJRVZ6UXowMld3ellpNU54Q1QzX3BXSUhoRnBHSGp5d2c?oc=5",
-              "source": "Semana.com",
-              "publishedAt": "Tue, 10 Mar 2026 21:16:07 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxPR3p0ckhIOTRfaHpjcnFFaEVQSXhfYzd1cm12QkltNHo1Z09fYnpxSlVYR21YOXRTa0VRaHdwX2Y0OXZqUnF5dUo1VzNxck9YeVQ5ZGEwS0g2TFVjbFNxRTZrSUYyRFM3ZmJJWmt2OUYzWHdzWWN3V3VBdGVpX2I0Q1A5c1NOa3FReTlPYld5cDRaVEx1ZV92RHRYZlZWRUNQLVJlUFM4VFVzaFpEM21DUk5fM2hrZEo2b1ZXUGtGS1BUTXRRU0V4LTBvY1pVS1R0UE1zNHdBY21yRVVfdk5NMndFSjVERF9aR3lMTDFZQXhINlNXemVKTjNnTGFYUFFlLVNOcXA1eUhqbW9DNEZJRVZ6UXowMld3ellpNU54Q1QzX3BXSUhoRnBHSGp5d2c?oc=5\" target=\"_blank\">Comprehensive Guide to Gambling and Casino Games Featuring solitariospiderarkadium in Hong Kong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Semana.com</font>",
-              "channelId": "google_news"
-            },
             {
               "title": "Designing AI agents to resist prompt injection",
               "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
@@ -760,21 +754,28 @@
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T19:21:03Z",
+              "publishedAt": "2026-03-13T21:49:50Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:40:10Z",
+              "publishedAt": "2026-03-13T22:22:36Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
               "link": "https://github.com/langflow-ai/langflow",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:21:11Z",
+              "publishedAt": "2026-03-13T22:10:47Z",
+              "channelId": "github_trending_ai"
+            },
+            {
+              "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+              "link": "https://github.com/open-webui/open-webui",
+              "source": "GitHub",
+              "publishedAt": "2026-03-13T22:05:38Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -874,7 +875,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 9
+          "count": 11
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -882,7 +883,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 3
+          "count": 1
         }
       ],
       "diagnostics": [
@@ -980,14 +981,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5",
-              "source": "深潮TechFlow",
-              "publishedAt": "Wed, 11 Mar 2026 19:13:04 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants - ekhbary.com",
               "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5",
               "source": "ekhbary.com",
@@ -999,7 +992,14 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:07:27Z",
+              "publishedAt": "2026-03-13T21:55:32Z",
+              "channelId": "github_trending_ai"
+            },
+            {
+              "title": "x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+              "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+              "source": "GitHub",
+              "publishedAt": "2026-03-13T22:11:40Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1065,14 +1065,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "腾讯电脑管家发布首个「龙虾管家」功能 - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5",
-              "source": "DoNews",
-              "publishedAt": "Fri, 13 Mar 2026 14:58:33 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5\" target=\"_blank\">腾讯电脑管家发布首个「龙虾管家」功能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "辅助驾驶系统出海！吉利千里浩瀚G-ASD正式获欧盟认证 - 新华网",
               "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HaGJSTFBhb3B5aUlPMGFIV3ljbFVVQ01obS1DcjNHaTVmZXZTcE43X2dfMHN6SFZFLWJxM2V3aTFPMHVqcFdkMkVtWGpDaThoTW5iMGNhbThaSnBiaVduckZHNEpDS2tsX042VzJVQnJWcUlGWnFBZ2pRcWQ?oc=5",
               "source": "新华网",
@@ -1081,11 +1073,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "比亚迪闪充首款量产车型开始交付，闪充站已建设4597座 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Fri, 13 Mar 2026 14:19:54 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5\" target=\"_blank\">比亚迪闪充首款量产车型开始交付，闪充站已建设4597座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "title": "腾讯电脑管家发布首个「龙虾管家」功能 - DoNews",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5",
+              "source": "DoNews",
+              "publishedAt": "Fri, 13 Mar 2026 14:58:33 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5\" target=\"_blank\">腾讯电脑管家发布首个「龙虾管家」功能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
               "channelId": "google_news"
             },
             {
@@ -1094,6 +1086,14 @@
               "source": "凤凰网汽车",
               "publishedAt": "Fri, 13 Mar 2026 17:33:09 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE94eHh1R1NtLUZMeTI4bURwLWhBY1NfUUlUQ0tVTVRwcktMUkpCTjEtMW56a1ZyWXQ4Q0Q2QllmaHozRFBKcUItQXlGWlk?oc=5\" target=\"_blank\">比亚迪海豹08申报图将于二季度上市_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "比亚迪闪充首款量产车型开始交付，闪充站已建设4597座 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5",
+              "source": "东方财富",
+              "publishedAt": "Fri, 13 Mar 2026 14:19:54 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5\" target=\"_blank\">比亚迪闪充首款量产车型开始交付，闪充站已建设4597座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
               "channelId": "google_news"
             },
             {
@@ -1119,11 +1119,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "OpenSandbox：重新思考 Agent 时代的 Runtime｜QCon 北京 - InfoQ 官网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9haGNBLU85QXJ5Skl3RjRLR1dBS2hzTVV2U2VvNEhiRGNDRVVhc1NKVGVlMUFPZUpPbzVaSGo1NjFEU21MQThIejQxa25IUDVvTGZBaTl1VzlRejN3REE?oc=5",
+              "title": "汽车之家 AI 助手多 Agent 设计与多阶段优化策略｜QCon 北京 - InfoQ 官网",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ickZIcHd2ZXhuaFpWRXhVNlZOeEd6Qzh4SnFFQ3ZQXzcwb18xaGVncS1qbEFJa2xIZHZQQXBKSHgzMGhZWjZDU0NadHlJOEZEYnBMbEhUZW04dExTNlE?oc=5",
               "source": "InfoQ 官网",
-              "publishedAt": "Fri, 13 Mar 2026 02:05:22 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9haGNBLU85QXJ5Skl3RjRLR1dBS2hzTVV2U2VvNEhiRGNDRVVhc1NKVGVlMUFPZUpPbzVaSGo1NjFEU21MQThIejQxa25IUDVvTGZBaTl1VzlRejN3REE?oc=5\" target=\"_blank\">OpenSandbox：重新思考 Agent 时代的 Runtime｜QCon 北京</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
+              "publishedAt": "Sat, 07 Mar 2026 08:16:03 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ickZIcHd2ZXhuaFpWRXhVNlZOeEd6Qzh4SnFFQ3ZQXzcwb18xaGVncS1qbEFJa2xIZHZQQXBKSHgzMGhZWjZDU0NadHlJOEZEYnBMbEhUZW04dExTNlE?oc=5\" target=\"_blank\">汽车之家 AI 助手多 Agent 设计与多阶段优化策略｜QCon 北京</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
               "channelId": "google_news"
             },
             {
@@ -1182,7 +1182,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:39:12Z",
+              "publishedAt": "2026-03-13T22:23:34Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -1339,7 +1339,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 9
+          "count": 11
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1347,7 +1347,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 3
+          "count": 1
         }
       ],
       "diagnostics": [
@@ -1445,11 +1445,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "TIAN RUIXIANG 推出了行业首创的BTC 质押服务，结合了人工智能驱动的收益保险，并推出了完全自主的人工智能保险代理，可实现即时承保与理赔结算。 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVdFNkRIOWRiZERaMlVUb1VQenNwN3FlcjdDSmFGVkcwVFFCMDhIb0NlRVA1LXNBQWJscjh6ZEp5SU5FQkFqRWhOeHB3QTBrV3J6cGFMREl0dk5vSFlxMTRhZS1ZXzMtZU9MREl1X0dQUWhabDJGamJmUFl1Vmt0aVVMZWt2MU1fRE9yRDhUSmpVbmMxalhMdnNnR3BJR2Z4bF80cWg3V0pJNFNpRkx6eGJaWk4?oc=5",
+              "title": "Sigenergy 启用南通智慧能源中心，引领“全领域AI”战略及下一代能源组合 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEFDbkE3cGV3YWJHYVFNRFpkaFpoTUJEd2lEVDFsOEotUC1Kd2VMaDRtX1VWZ3ZibzVwS01aVEczLS1zZVhjYVA0R0YwX1FObFZENUlyOWFJbHFLREVsYUVxdE5qYkVJNXRORlZhWkRoOTQ5OFRfSEFVZG5qZTlqZldUR01FYWxTZG9XaDROZ0pZSkducXk4QW40SndQN0F0UjdNczFPdWJydjRk?oc=5",
               "source": "富途牛牛",
-              "publishedAt": "Wed, 04 Mar 2026 14:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVdFNkRIOWRiZERaMlVUb1VQenNwN3FlcjdDSmFGVkcwVFFCMDhIb0NlRVA1LXNBQWJscjh6ZEp5SU5FQkFqRWhOeHB3QTBrV3J6cGFMREl0dk5vSFlxMTRhZS1ZXzMtZU9MREl1X0dQUWhabDJGamJmUFl1Vmt0aVVMZWt2MU1fRE9yRDhUSmpVbmMxalhMdnNnR3BJR2Z4bF80cWg3V0pJNFNpRkx6eGJaWk4?oc=5\" target=\"_blank\">TIAN RUIXIANG 推出了行业首创的BTC 质押服务，结合了人工智能驱动的收益保险，并推出了完全自主的人工智能保险代理，可实现即时承保与理赔结算。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "publishedAt": "Fri, 13 Mar 2026 10:21:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEFDbkE3cGV3YWJHYVFNRFpkaFpoTUJEd2lEVDFsOEotUC1Kd2VMaDRtX1VWZ3ZibzVwS01aVEczLS1zZVhjYVA0R0YwX1FObFZENUlyOWFJbHFLREVsYUVxdE5qYkVJNXRORlZhWkRoOTQ5OFRfSEFVZG5qZTlqZldUR01FYWxTZG9XaDROZ0pZSkducXk4QW40SndQN0F0UjdNczFPdWJydjRk?oc=5\" target=\"_blank\">Sigenergy 启用南通智慧能源中心，引领“全领域AI”战略及下一代能源组合</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
               "channelId": "google_news"
             },
             {
@@ -1461,11 +1461,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants - ekhbary.com",
-              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5",
-              "source": "ekhbary.com",
-              "publishedAt": "Thu, 12 Mar 2026 06:52:43 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5\" target=\"_blank\">Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ekhbary.com</font>",
+              "title": "TIAN RUIXIANG 推出了行业首创的BTC 质押服务，结合了人工智能驱动的收益保险，并推出了完全自主的人工智能保险代理，可实现即时承保与理赔结算。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVdFNkRIOWRiZERaMlVUb1VQenNwN3FlcjdDSmFGVkcwVFFCMDhIb0NlRVA1LXNBQWJscjh6ZEp5SU5FQkFqRWhOeHB3QTBrV3J6cGFMREl0dk5vSFlxMTRhZS1ZXzMtZU9MREl1X0dQUWhabDJGamJmUFl1Vmt0aVVMZWt2MU1fRE9yRDhUSmpVbmMxalhMdnNnR3BJR2Z4bF80cWg3V0pJNFNpRkx6eGJaWk4?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Wed, 04 Mar 2026 14:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVdFNkRIOWRiZERaMlVUb1VQenNwN3FlcjdDSmFGVkcwVFFCMDhIb0NlRVA1LXNBQWJscjh6ZEp5SU5FQkFqRWhOeHB3QTBrV3J6cGFMREl0dk5vSFlxMTRhZS1ZXzMtZU9MREl1X0dQUWhabDJGamJmUFl1Vmt0aVVMZWt2MU1fRE9yRDhUSmpVbmMxalhMdnNnR3BJR2Z4bF80cWg3V0pJNFNpRkx6eGJaWk4?oc=5\" target=\"_blank\">TIAN RUIXIANG 推出了行业首创的BTC 质押服务，结合了人工智能驱动的收益保险，并推出了完全自主的人工智能保险代理，可实现即时承保与理赔结算。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
               "channelId": "google_news"
             }
           ]
@@ -1532,14 +1532,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "腾讯电脑管家发布首个「龙虾管家」功能 - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5",
-              "source": "DoNews",
-              "publishedAt": "Fri, 13 Mar 2026 14:58:33 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5\" target=\"_blank\">腾讯电脑管家发布首个「龙虾管家」功能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "辅助驾驶系统出海！吉利千里浩瀚G-ASD正式获欧盟认证 - 新华网",
               "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HaGJSTFBhb3B5aUlPMGFIV3ljbFVVQ01obS1DcjNHaTVmZXZTcE43X2dfMHN6SFZFLWJxM2V3aTFPMHVqcFdkMkVtWGpDaThoTW5iMGNhbThaSnBiaVduckZHNEpDS2tsX042VzJVQnJWcUlGWnFBZ2pRcWQ?oc=5",
               "source": "新华网",
@@ -1548,11 +1540,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "比亚迪闪充首款量产车型开始交付，闪充站已建设4597座 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Fri, 13 Mar 2026 14:19:54 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5\" target=\"_blank\">比亚迪闪充首款量产车型开始交付，闪充站已建设4597座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "title": "腾讯电脑管家发布首个「龙虾管家」功能 - DoNews",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5",
+              "source": "DoNews",
+              "publishedAt": "Fri, 13 Mar 2026 14:58:33 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5\" target=\"_blank\">腾讯电脑管家发布首个「龙虾管家」功能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
               "channelId": "google_news"
             },
             {
@@ -1561,6 +1553,14 @@
               "source": "凤凰网汽车",
               "publishedAt": "Fri, 13 Mar 2026 17:33:09 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE94eHh1R1NtLUZMeTI4bURwLWhBY1NfUUlUQ0tVTVRwcktMUkpCTjEtMW56a1ZyWXQ4Q0Q2QllmaHozRFBKcUItQXlGWlk?oc=5\" target=\"_blank\">比亚迪海豹08申报图将于二季度上市_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "比亚迪闪充首款量产车型开始交付，闪充站已建设4597座 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5",
+              "source": "东方财富",
+              "publishedAt": "Fri, 13 Mar 2026 14:19:54 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5\" target=\"_blank\">比亚迪闪充首款量产车型开始交付，闪充站已建设4597座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
               "channelId": "google_news"
             },
             {
@@ -1594,6 +1594,22 @@
               "channelId": "google_news"
             },
             {
+              "title": "华为发布Agentic MBB：全面释放网络多维能力，夯实移动AI时代基座- 华为 - Huawei",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jMHBIVVZZa2tSTUdqRVJqMndRWFFfRy1nY044WlBSaThWRlRweWJmaklEMTQtYnJOR0tLMHZTT1JVaWZDc0FuY1VDM3BlUWdtTWlTRFZTSmJBVXBxbVE?oc=5",
+              "source": "Huawei",
+              "publishedAt": "Mon, 02 Mar 2026 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jMHBIVVZZa2tSTUdqRVJqMndRWFFfRy1nY044WlBSaThWRlRweWJmaklEMTQtYnJOR0tLMHZTT1JVaWZDc0FuY1VDM3BlUWdtTWlTRFZTSmJBVXBxbVE?oc=5\" target=\"_blank\">华为发布Agentic MBB：全面释放网络多维能力，夯实移动AI时代基座- 华为</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huawei</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "智源TALK｜SkillsBench，首个系统测评Agent Skills框架 & 首个领域专家人工创建的综合Agentic benchmark - 智源社区",
+              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WeF80MkZwZ29kOVJ1R3A1SEJWZUsxTTVEMlpRVF93QkZtb04tUTJFN1hMYnZ5TGpLOXFLbUZoQUhpMk9WaktwRQ?oc=5",
+              "source": "智源社区",
+              "publishedAt": "Tue, 03 Mar 2026 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WeF80MkZwZ29kOVJ1R3A1SEJWZUsxTTVEMlpRVF93QkZtb04tUTJFN1hMYnZ5TGpLOXFLbUZoQUhpMk9WaktwRQ?oc=5\" target=\"_blank\">智源TALK｜SkillsBench，首个系统测评Agent Skills框架 & 首个领域专家人工创建的综合Agentic benchmark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">智源社区</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "Agentic AI拐点已至？当AI学会「自己行动」，如何重构Web3的安全边界？ - PANews",
               "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHJzXzdXbXJ2TUZfQkgyUThvOTFqMUdCY2RPM1hzcHBhc3JNSVB2RjJabzF6TF9tM1R0Z0o1LUR3cFNWRVNIRTI5eTdpZW9yZ3FoOUNaZ2ZQUlMxU2FKQmNDQU5feloxSGNSVFJCM2RFUEtDdW5qb191R1drYzR4WEk4UGFNZw?oc=5",
               "source": "PANews",
@@ -1607,22 +1623,6 @@
               "source": "51CTO",
               "publishedAt": "Wed, 11 Mar 2026 08:47:27 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xZVdBUFd2MkV4a1paRk00dVNQVEM3QWNzWklIR3RoTV9JYWRpc2liMnd1bEp1Zm5qWTc0RkJVdXR0ZUVVUWwxQW1uay1RcU1HazZj?oc=5\" target=\"_blank\">重磅！OpenClaw+OpenViking 正式登陆鲲鹏，打造端到端AI Agent最佳实践</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "2026AI十大趋势发布:技术场景治理共推未来布局 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMU50RldFeG9kYkhOY0pibURCMVFhWGVVMTNJOXBYY19rUjJCUG9wc3F0YVoxeEx1NTlDdjNVdzhyYU5PX2dRcnU4b3RHVUhmUFVsWnpkOTNDeUFZdy1XeGtjV3F5djBuUTU0bFVtdVhEeDZpR3VvbVlKZGd1blNibVgza3U?oc=5",
-              "source": "新浪财经",
-              "publishedAt": "Tue, 10 Mar 2026 04:25:10 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPMU50RldFeG9kYkhOY0pibURCMVFhWGVVMTNJOXBYY19rUjJCUG9wc3F0YVoxeEx1NTlDdjNVdzhyYU5PX2dRcnU4b3RHVUhmUFVsWnpkOTNDeUFZdy1XeGtjV3F5djBuUTU0bFVtdVhEeDZpR3VvbVlKZGd1blNibVgza3U?oc=5\" target=\"_blank\">2026AI十大趋势发布:技术场景治理共推未来布局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "阿里云百炼专属版登陆国际市场，加速全球企业构建专属AI引擎 - 雷峰网",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XcW5TTEhodTdBMHN6enlTMm5sV2tNR3pueWJLTlZXZ3dEUE1BZ0E4eE95cVc2RHd2T3ZHUDltTTA1aFFHQ1pUaGdqdkwzenlUdlkzaVlyMG9DUkpzYTk0NmpNVE5MakswVHNMUlViR0J3OGFUR3BJ?oc=5",
-              "source": "雷峰网",
-              "publishedAt": "Tue, 03 Mar 2026 06:15:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5XcW5TTEhodTdBMHN6enlTMm5sV2tNR3pueWJLTlZXZ3dEUE1BZ0E4eE95cVc2RHd2T3ZHUDltTTA1aFFHQ1pUaGdqdkwzenlUdlkzaVlyMG9DUkpzYTk0NmpNVE5MakswVHNMUlViR0J3OGFUR3BJ?oc=5\" target=\"_blank\">阿里云百炼专属版登陆国际市场，加速全球企业构建专属AI引擎</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雷峰网</font>",
               "channelId": "google_news"
             }
           ]
@@ -1649,7 +1649,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:39:12Z",
+              "publishedAt": "2026-03-13T22:23:34Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -1822,7 +1822,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 9
+          "count": 11
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1830,7 +1830,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 4
+          "count": 2
         }
       ],
       "diagnostics": []
@@ -1904,6 +1904,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "Aurelion 推出 AI Shop，AI Agent 可 7×24 交易 XAU₮ - 深潮TechFlow",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSV0ZFUEJhZGJrekdLOU8zN3llZEpHcGVyYWVSNVp6cTN5N0x3bnlLdlRCOEdZbWxJcXV3WDRleGR3YW9CV3ZielluTjVybFgtT2Jadk14clVmWTRkLWlMeTVn?oc=5",
+              "source": "深潮TechFlow",
+              "publishedAt": "Sun, 08 Mar 2026 19:50:26 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSV0ZFUEJhZGJrekdLOU8zN3llZEpHcGVyYWVSNVp6cTN5N0x3bnlLdlRCOEdZbWxJcXV3WDRleGR3YW9CV3ZielluTjVybFgtT2Jadk14clVmWTRkLWlMeTVn?oc=5\" target=\"_blank\">Aurelion 推出 AI Shop，AI Agent 可 7×24 交易 XAU₮</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy - Sinocism | Bill Bishop",
               "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ2tBWFFBS3V5Z0FiMVA4V2M3RWFfNmd1ZFBsUEVyTktGODBwSXNwX0xRbzNoMmtreEtlN1Z3dXBPUGY3SEhYTTBSTWdjcGlBQW45YThpTVFqd3pjbDY3YWs3R0pVeFlzbkRuRHJXcmh0Y0ZmSWVXdkZqVEtDclpWX0IwbHpHaVh4ODRVWHJ5SHFoRXByTUZSZk91MUVxNjJRZE5STkJ5OTM?oc=5",
               "source": "Sinocism | Bill Bishop",
@@ -1925,14 +1933,6 @@
               "source": "富途牛牛",
               "publishedAt": "Wed, 04 Mar 2026 14:00:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVdFNkRIOWRiZERaMlVUb1VQenNwN3FlcjdDSmFGVkcwVFFCMDhIb0NlRVA1LXNBQWJscjh6ZEp5SU5FQkFqRWhOeHB3QTBrV3J6cGFMREl0dk5vSFlxMTRhZS1ZXzMtZU9MREl1X0dQUWhabDJGamJmUFl1Vmt0aVVMZWt2MU1fRE9yRDhUSmpVbmMxalhMdnNnR3BJR2Z4bF80cWg3V0pJNFNpRkx6eGJaWk4?oc=5\" target=\"_blank\">TIAN RUIXIANG 推出了行业首创的BTC 质押服务，结合了人工智能驱动的收益保险，并推出了完全自主的人工智能保险代理，可实现即时承保与理赔结算。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5",
-              "source": "深潮TechFlow",
-              "publishedAt": "Wed, 11 Mar 2026 19:13:04 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
               "channelId": "google_news"
             },
             {
@@ -1958,15 +1958,15 @@
               "channelId": "google_news"
             },
             {
-              "title": "Joint Statement from OpenAI and Microsoft",
-              "link": "https://openai.com/index/continuing-microsoft-partnership",
+              "title": "OpenAI and Amazon announce strategic partnership",
+              "link": "https://openai.com/index/amazon-partnership",
               "source": "RSS",
               "publishedAt": "Fri, 27 Feb 2026 05:30:00 GMT",
               "channelId": "openai_blog"
             },
             {
-              "title": "OpenAI and Amazon announce strategic partnership",
-              "link": "https://openai.com/index/amazon-partnership",
+              "title": "Joint Statement from OpenAI and Microsoft",
+              "link": "https://openai.com/index/continuing-microsoft-partnership",
               "source": "RSS",
               "publishedAt": "Fri, 27 Feb 2026 05:30:00 GMT",
               "channelId": "openai_blog"
@@ -2007,14 +2007,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "腾讯电脑管家发布首个「龙虾管家」功能 - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5",
-              "source": "DoNews",
-              "publishedAt": "Fri, 13 Mar 2026 14:58:33 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5\" target=\"_blank\">腾讯电脑管家发布首个「龙虾管家」功能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "辅助驾驶系统出海！吉利千里浩瀚G-ASD正式获欧盟认证 - 新华网",
               "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HaGJSTFBhb3B5aUlPMGFIV3ljbFVVQ01obS1DcjNHaTVmZXZTcE43X2dfMHN6SFZFLWJxM2V3aTFPMHVqcFdkMkVtWGpDaThoTW5iMGNhbThaSnBiaVduckZHNEpDS2tsX042VzJVQnJWcUlGWnFBZ2pRcWQ?oc=5",
               "source": "新华网",
@@ -2023,11 +2015,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "比亚迪闪充首款量产车型开始交付，闪充站已建设4597座 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Fri, 13 Mar 2026 14:19:54 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5\" target=\"_blank\">比亚迪闪充首款量产车型开始交付，闪充站已建设4597座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "title": "腾讯电脑管家发布首个「龙虾管家」功能 - DoNews",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5",
+              "source": "DoNews",
+              "publishedAt": "Fri, 13 Mar 2026 14:58:33 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Qm1OcHdBNkwyRHVmS3pKanFMdFYySHlhRTAwaHVkT2xfb012N2VKVUNRU09xalYwWERvYVljMUFKcDV0akMta3lvYnR1b0xMc2k1allEVmJjaTBEVXc?oc=5\" target=\"_blank\">腾讯电脑管家发布首个「龙虾管家」功能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
               "channelId": "google_news"
             },
             {
@@ -2036,6 +2028,14 @@
               "source": "凤凰网汽车",
               "publishedAt": "Fri, 13 Mar 2026 17:33:09 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE94eHh1R1NtLUZMeTI4bURwLWhBY1NfUUlUQ0tVTVRwcktMUkpCTjEtMW56a1ZyWXQ4Q0Q2QllmaHozRFBKcUItQXlGWlk?oc=5\" target=\"_blank\">比亚迪海豹08申报图将于二季度上市_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "比亚迪闪充首款量产车型开始交付，闪充站已建设4597座 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5",
+              "source": "东方财富",
+              "publishedAt": "Fri, 13 Mar 2026 14:19:54 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5\" target=\"_blank\">比亚迪闪充首款量产车型开始交付，闪充站已建设4597座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
               "channelId": "google_news"
             },
             {
@@ -2124,7 +2124,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T20:39:12Z",
+              "publishedAt": "2026-03-13T22:23:34Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -2312,7 +2312,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 9
+          "count": 11
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -2320,7 +2320,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 5
+          "count": 3
         }
       ],
       "diagnostics": []
@@ -2350,9 +2350,9 @@
       "google_ai_blog": 31,
       "huggingface_blog": 33,
       "github_trending_ai": 100,
-      "hackernews_ai": 45,
+      "hackernews_ai": 55,
       "arxiv_cs_daily": 150,
-      "producthunt_ai": 15
+      "producthunt_ai": 7
     },
     "diagnostics": [
       {
