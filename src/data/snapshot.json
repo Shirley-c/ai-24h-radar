@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T13:13:33.325Z",
+  "generatedAt": "2026-03-13T14:50:39.490Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -66,25 +66,17 @@
           "query": "AI product launch",
           "items": [
             {
-              "title": "Earnings call transcript: Li Auto’s Q4 2025 revenue falls short, stock drops - Investing.com UK",
-              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQUY0T2NjUjduZ0QtSG05al85TDF3b3BKcTg3REVxRkdyZzJveGpHYWN2dFhmSldWVERqSlF6eVRadjIxbV9WSDZET24zeUdnaHFjd2FsZWxDZFd5Vk5ia3ZxbmEzWVE4SVBIM01zNWNhUXFuS1lodE5EZmJfYzBZSUw4S3VucEs5TzJkdTMwam8wR3VjSUprZW9JcXdnQXpUWGs3MXNIcEw5R2Q1NExuODJuTFV4azFBZV9ZY0JMaGdZY1d0a2RN?oc=5",
-              "source": "Investing.com UK",
-              "publishedAt": "Thu, 12 Mar 2026 13:52:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQQUY0T2NjUjduZ0QtSG05al85TDF3b3BKcTg3REVxRkdyZzJveGpHYWN2dFhmSldWVERqSlF6eVRadjIxbV9WSDZET24zeUdnaHFjd2FsZWxDZFd5Vk5ia3ZxbmEzWVE4SVBIM01zNWNhUXFuS1lodE5EZmJfYzBZSUw4S3VucEs5TzJkdTMwam8wR3VjSUprZW9JcXdnQXpUWGs3MXNIcEw5R2Q1NExuODJuTFV4azFBZV9ZY0JMaGdZY1d0a2RN?oc=5\" target=\"_blank\">Earnings call transcript: Li Auto’s Q4 2025 revenue falls short, stock drops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com UK</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:13:14Z",
+              "publishedAt": "2026-03-13T14:48:18Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T12:57:58Z",
+              "publishedAt": "2026-03-13T14:36:26Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -98,14 +90,21 @@
               "title": "openclaw/openclaw - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
               "link": "https://github.com/openclaw/openclaw",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:13:21Z",
+              "publishedAt": "2026-03-13T14:50:13Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:10:46Z",
+              "publishedAt": "2026-03-13T14:27:07Z",
+              "channelId": "github_trending_ai"
+            },
+            {
+              "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+              "link": "https://github.com/n8n-io/n8n",
+              "source": "GitHub",
+              "publishedAt": "2026-03-13T14:47:23Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -118,7 +117,7 @@
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:13:16Z",
+              "publishedAt": "2026-03-13T14:43:10Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -139,21 +138,21 @@
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:03:34Z",
+              "publishedAt": "2026-03-13T14:49:35Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "google-gemini/gemini-cli - An open-source AI agent that brings the power of Gemini directly into your terminal.",
               "link": "https://github.com/google-gemini/gemini-cli",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:08:02Z",
+              "publishedAt": "2026-03-13T14:36:01Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "anthropics/claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
               "link": "https://github.com/anthropics/claude-code",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:11:15Z",
+              "publishedAt": "2026-03-13T14:48:37Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -179,35 +178,35 @@
               "channelId": "google_news"
             },
             {
+              "title": "京东发布AI智慧家装品牌“京东家装” - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ab3RsSE02TVpYekN4NmpoTnpEZUhPSjNJQXV2Nm5BclRqQkxUa2JIa2FQR0JENGFISzIzclRiMFhfOEhrYWJ1aV82aXpPNjNlR204dDRuQzVEMl8zejgzdmNSLWFFNVFRSHMySHJYOEIyUlNxQVVN?oc=5",
+              "source": "新浪财经",
+              "publishedAt": "Fri, 13 Mar 2026 11:13:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5ab3RsSE02TVpYekN4NmpoTnpEZUhPSjNJQXV2Nm5BclRqQkxUa2JIa2FQR0JENGFISzIzclRiMFhfOEhrYWJ1aV82aXpPNjNlR204dDRuQzVEMl8zejgzdmNSLWFFNVFRSHMySHJYOEIyUlNxQVVN?oc=5\" target=\"_blank\">京东发布AI智慧家装品牌“京东家装”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "比亚迪闪充首款量产车型开始交付，闪充站已建设4597座 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5",
+              "source": "东方财富",
+              "publishedAt": "Fri, 13 Mar 2026 14:19:54 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5\" target=\"_blank\">比亚迪闪充首款量产车型开始交付，闪充站已建设4597座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "比亚迪与京东达成合作，便利店、七鲜咖啡开进闪充站 - 手机新浪网",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ScWxoT0NUWGMyX0JVd3FPNDlBQno1dUhEeC15SURHV0hsb1hqdTZsT0xYaEpIYTFvbUtnZW9heDNTSlU0U193cHBXSWIxWk1pbURjbUFQRzA2MGxEbWtyRlZORF9uaHZFTERXbG1pbjBpMl9F?oc=5",
+              "source": "手机新浪网",
+              "publishedAt": "Fri, 13 Mar 2026 13:18:45 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5ScWxoT0NUWGMyX0JVd3FPNDlBQno1dUhEeC15SURHV0hsb1hqdTZsT0xYaEpIYTFvbUtnZW9heDNTSlU0U193cHBXSWIxWk1pbURjbUFQRzA2MGxEbWtyRlZORF9uaHZFTERXbG1pbjBpMl9F?oc=5\" target=\"_blank\">比亚迪与京东达成合作，便利店、七鲜咖啡开进闪充站</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "吉利控股集团和芯位科技共同启动“跨时代跃迁人才培养计划” - chinanews.com.cn",
               "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zR281Qm5HZlhTX011VHI2bUs4N1RRZDhFczZrNkdPQXVoMXpMcmtzSUZPblNZNzZsZ1haUnVvMTlBSlBYTi1HcGNiOVRoUG5QdFdpc19DeUdwTEhQUV92dXlFUmVJOTJH?oc=5",
               "source": "chinanews.com.cn",
               "publishedAt": "Fri, 13 Mar 2026 10:58:30 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zR281Qm5HZlhTX011VHI2bUs4N1RRZDhFczZrNkdPQXVoMXpMcmtzSUZPblNZNzZsZ1haUnVvMTlBSlBYTi1HcGNiOVRoUG5QdFdpc19DeUdwTEhQUV92dXlFUmVJOTJH?oc=5\" target=\"_blank\">吉利控股集团和芯位科技共同启动“跨时代跃迁人才培养计划”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chinanews.com.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "百度搜索Skill下载量超3.6万次，成为全球第一的搜索引擎官方技能插件 - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KLWE2TjFIdmlfSDdwYjRDOUJMcHRSdGlQMnlXZEp5RUNvaFA5amtZa1NUUnFaWDI1YXh0blBHTXlJVGRqYzJOb01VM213YTVtaGVUcnBBSWpZUjdvcnc?oc=5",
-              "source": "DoNews",
-              "publishedAt": "Fri, 13 Mar 2026 12:33:21 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KLWE2TjFIdmlfSDdwYjRDOUJMcHRSdGlQMnlXZEp5RUNvaFA5amtZa1NUUnFaWDI1YXh0blBHTXlJVGRqYzJOb01VM213YTVtaGVUcnBBSWpZUjdvcnc?oc=5\" target=\"_blank\">百度搜索Skill下载量超3.6万次，成为全球第一的搜索引擎官方技能插件</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "腾讯电脑发布业内首个“龙虾管家” - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11cXZHR2FFZFZrQnMxWEVkdDB1WjlQNFJ2ZU9mNWRocjk1b3VhczlZWkhFbmlPUkVDMXRhTlFRaElvbl9hVXhRdU1zbHhWY0JnTHE1Ym92T1NpdG5LalAzRA?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Fri, 13 Mar 2026 11:27:27 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE11cXZHR2FFZFZrQnMxWEVkdDB1WjlQNFJ2ZU9mNWRocjk1b3VhczlZWkhFbmlPUkVDMXRhTlFRaElvbl9hVXhRdU1zbHhWY0JnTHE1Ym92T1NpdG5LalAzRA?oc=5\" target=\"_blank\">腾讯电脑发布业内首个“龙虾管家”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "甘肃、河南、湖南、西安将达成合作！比亚迪高速首批闪充站要来了_凤凰网 - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YWGFWNEp1SDBFaWxlNDVBZUdRQ2xxTHU2ZkJHVk55QXZMQUxpSlpDbmdHYi0wNXhGRGNHNjZobVFaN0hlVjJsSUlhYkk?oc=5",
-              "source": "凤凰网汽车",
-              "publishedAt": "Fri, 13 Mar 2026 11:42:04 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YWGFWNEp1SDBFaWxlNDVBZUdRQ2xxTHU2ZkJHVk55QXZMQUxpSlpDbmdHYi0wNXhGRGNHNjZobVFaN0hlVjJsSUlhYkk?oc=5\" target=\"_blank\">甘肃、河南、湖南、西安将达成合作！比亚迪高速首批闪充站要来了_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
               "channelId": "google_news"
             }
           ]
@@ -274,7 +273,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:07:38Z",
+              "publishedAt": "2026-03-13T14:38:52Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -301,35 +300,35 @@
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:10:46Z",
+              "publishedAt": "2026-03-13T14:27:07Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:05:07Z",
+              "publishedAt": "2026-03-13T14:47:23Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
               "link": "https://github.com/langflow-ai/langflow",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:07:43Z",
+              "publishedAt": "2026-03-13T14:37:23Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:03:34Z",
+              "publishedAt": "2026-03-13T14:49:35Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
               "link": "https://github.com/Comfy-Org/ComfyUI",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:02:11Z",
+              "publishedAt": "2026-03-13T14:44:23Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -345,25 +344,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 183.13999938964844,
+          "price": 182.52999877929688,
           "previousClose": 183.13999938964844,
-          "changePct": 0
+          "changePct": -0.3330788535462021
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 401.8599853515625,
+          "price": 400.50689697265625,
           "previousClose": 401.8599853515625,
-          "changePct": 0
+          "changePct": -0.3367064221939182
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 303.54998779296875,
+          "price": 305.69000244140625,
           "previousClose": 303.54998779296875,
-          "changePct": 0
+          "changePct": 0.7049957945961315
         },
         {
           "symbol": "002230.SZ",
@@ -429,7 +428,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 15
+          "count": 9
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -465,11 +464,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "Xinhua Headlines: China's five-year roadmap bets big on innovation in strategic leap-国内国际-手机江西网 - 大江网",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBabl9FVlhoWVlEQ3VHYUx2NUdwdVJEcmxlNjdwV2VDOXpYRjd2RmxJXzVpLWEwUFI0SFNBNE55em5JaFJvT2dvc0RRYkZNOEFyZlZZRWdOR2E1ZjdnTXpQVk1POFpNcnBqclVuaw?oc=5",
-              "source": "大江网",
-              "publishedAt": "Wed, 11 Mar 2026 16:23:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBabl9FVlhoWVlEQ3VHYUx2NUdwdVJEcmxlNjdwV2VDOXpYRjd2RmxJXzVpLWEwUFI0SFNBNE55em5JaFJvT2dvc0RRYkZNOEFyZlZZRWdOR2E1ZjdnTXpQVk1POFpNcnBqclVuaw?oc=5\" target=\"_blank\">Xinhua Headlines: China's five-year roadmap bets big on innovation in strategic leap-国内国际-手机江西网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">大江网</font>",
+              "title": "China's five-year roadmap bets big on innovation in strategic leap - 环球网",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdkwwUTV0SnRSc3h3ZjJUZlFUR203RUZxYXRfeloxNWp5SVhnNDB4aWViNW5QU2xCdEc3TElHNWR3WlNXRHRxaTk0N2NzMkxUbDZr?oc=5",
+              "source": "环球网",
+              "publishedAt": "Wed, 11 Mar 2026 09:30:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdkwwUTV0SnRSc3h3ZjJUZlFUR203RUZxYXRfeloxNWp5SVhnNDB4aWViNW5QU2xCdEc3TElHNWR3WlNXRHRxaTk0N2NzMkxUbDZr?oc=5\" target=\"_blank\">China's five-year roadmap bets big on innovation in strategic leap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">环球网</font>",
               "channelId": "google_news"
             },
             {
@@ -542,14 +541,14 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:13:14Z",
+              "publishedAt": "2026-03-13T14:48:18Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T12:57:58Z",
+              "publishedAt": "2026-03-13T14:36:26Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -569,7 +568,7 @@
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:13:16Z",
+              "publishedAt": "2026-03-13T14:43:10Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -623,35 +622,35 @@
               "channelId": "google_news"
             },
             {
+              "title": "京东发布AI智慧家装品牌“京东家装” - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ab3RsSE02TVpYekN4NmpoTnpEZUhPSjNJQXV2Nm5BclRqQkxUa2JIa2FQR0JENGFISzIzclRiMFhfOEhrYWJ1aV82aXpPNjNlR204dDRuQzVEMl8zejgzdmNSLWFFNVFRSHMySHJYOEIyUlNxQVVN?oc=5",
+              "source": "新浪财经",
+              "publishedAt": "Fri, 13 Mar 2026 11:13:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5ab3RsSE02TVpYekN4NmpoTnpEZUhPSjNJQXV2Nm5BclRqQkxUa2JIa2FQR0JENGFISzIzclRiMFhfOEhrYWJ1aV82aXpPNjNlR204dDRuQzVEMl8zejgzdmNSLWFFNVFRSHMySHJYOEIyUlNxQVVN?oc=5\" target=\"_blank\">京东发布AI智慧家装品牌“京东家装”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "比亚迪闪充首款量产车型开始交付，闪充站已建设4597座 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5",
+              "source": "东方财富",
+              "publishedAt": "Fri, 13 Mar 2026 14:19:54 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5\" target=\"_blank\">比亚迪闪充首款量产车型开始交付，闪充站已建设4597座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "比亚迪与京东达成合作，便利店、七鲜咖啡开进闪充站 - 手机新浪网",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ScWxoT0NUWGMyX0JVd3FPNDlBQno1dUhEeC15SURHV0hsb1hqdTZsT0xYaEpIYTFvbUtnZW9heDNTSlU0U193cHBXSWIxWk1pbURjbUFQRzA2MGxEbWtyRlZORF9uaHZFTERXbG1pbjBpMl9F?oc=5",
+              "source": "手机新浪网",
+              "publishedAt": "Fri, 13 Mar 2026 13:18:45 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5ScWxoT0NUWGMyX0JVd3FPNDlBQno1dUhEeC15SURHV0hsb1hqdTZsT0xYaEpIYTFvbUtnZW9heDNTSlU0U193cHBXSWIxWk1pbURjbUFQRzA2MGxEbWtyRlZORF9uaHZFTERXbG1pbjBpMl9F?oc=5\" target=\"_blank\">比亚迪与京东达成合作，便利店、七鲜咖啡开进闪充站</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "吉利控股集团和芯位科技共同启动“跨时代跃迁人才培养计划” - chinanews.com.cn",
               "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zR281Qm5HZlhTX011VHI2bUs4N1RRZDhFczZrNkdPQXVoMXpMcmtzSUZPblNZNzZsZ1haUnVvMTlBSlBYTi1HcGNiOVRoUG5QdFdpc19DeUdwTEhQUV92dXlFUmVJOTJH?oc=5",
               "source": "chinanews.com.cn",
               "publishedAt": "Fri, 13 Mar 2026 10:58:30 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zR281Qm5HZlhTX011VHI2bUs4N1RRZDhFczZrNkdPQXVoMXpMcmtzSUZPblNZNzZsZ1haUnVvMTlBSlBYTi1HcGNiOVRoUG5QdFdpc19DeUdwTEhQUV92dXlFUmVJOTJH?oc=5\" target=\"_blank\">吉利控股集团和芯位科技共同启动“跨时代跃迁人才培养计划”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chinanews.com.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "百度搜索Skill下载量超3.6万次，成为全球第一的搜索引擎官方技能插件 - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KLWE2TjFIdmlfSDdwYjRDOUJMcHRSdGlQMnlXZEp5RUNvaFA5amtZa1NUUnFaWDI1YXh0blBHTXlJVGRqYzJOb01VM213YTVtaGVUcnBBSWpZUjdvcnc?oc=5",
-              "source": "DoNews",
-              "publishedAt": "Fri, 13 Mar 2026 12:33:21 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KLWE2TjFIdmlfSDdwYjRDOUJMcHRSdGlQMnlXZEp5RUNvaFA5amtZa1NUUnFaWDI1YXh0blBHTXlJVGRqYzJOb01VM213YTVtaGVUcnBBSWpZUjdvcnc?oc=5\" target=\"_blank\">百度搜索Skill下载量超3.6万次，成为全球第一的搜索引擎官方技能插件</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "腾讯电脑发布业内首个“龙虾管家” - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11cXZHR2FFZFZrQnMxWEVkdDB1WjlQNFJ2ZU9mNWRocjk1b3VhczlZWkhFbmlPUkVDMXRhTlFRaElvbl9hVXhRdU1zbHhWY0JnTHE1Ym92T1NpdG5LalAzRA?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Fri, 13 Mar 2026 11:27:27 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE11cXZHR2FFZFZrQnMxWEVkdDB1WjlQNFJ2ZU9mNWRocjk1b3VhczlZWkhFbmlPUkVDMXRhTlFRaElvbl9hVXhRdU1zbHhWY0JnTHE1Ym92T1NpdG5LalAzRA?oc=5\" target=\"_blank\">腾讯电脑发布业内首个“龙虾管家”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "甘肃、河南、湖南、西安将达成合作！比亚迪高速首批闪充站要来了_凤凰网 - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YWGFWNEp1SDBFaWxlNDVBZUdRQ2xxTHU2ZkJHVk55QXZMQUxpSlpDbmdHYi0wNXhGRGNHNjZobVFaN0hlVjJsSUlhYkk?oc=5",
-              "source": "凤凰网汽车",
-              "publishedAt": "Fri, 13 Mar 2026 11:42:04 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YWGFWNEp1SDBFaWxlNDVBZUdRQ2xxTHU2ZkJHVk55QXZMQUxpSlpDbmdHYi0wNXhGRGNHNjZobVFaN0hlVjJsSUlhYkk?oc=5\" target=\"_blank\">甘肃、河南、湖南、西安将达成合作！比亚迪高速首批闪充站要来了_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
               "channelId": "google_news"
             }
           ]
@@ -660,14 +659,6 @@
           "title": "代理式 AI",
           "query": "AI agents agentic",
           "items": [
-            {
-              "title": "OpenSandbox：重新思考 Agent 时代的 Runtime｜QCon 北京 - InfoQ 官网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9haGNBLU85QXJ5Skl3RjRLR1dBS2hzTVV2U2VvNEhiRGNDRVVhc1NKVGVlMUFPZUpPbzVaSGo1NjFEU21MQThIejQxa25IUDVvTGZBaTl1VzlRejN3REE?oc=5",
-              "source": "InfoQ 官网",
-              "publishedAt": "Fri, 13 Mar 2026 02:05:22 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9haGNBLU85QXJ5Skl3RjRLR1dBS2hzTVV2U2VvNEhiRGNDRVVhc1NKVGVlMUFPZUpPbzVaSGo1NjFEU21MQThIejQxa25IUDVvTGZBaTl1VzlRejN3REE?oc=5\" target=\"_blank\">OpenSandbox：重新思考 Agent 时代的 Runtime｜QCon 北京</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
-              "channelId": "google_news"
-            },
             {
               "title": "独家｜清华北大普林斯顿天才少年，用“空间Agent”重构AI健康硬件，高瓴、智元投了 - Sohu",
               "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaTZyeng4SDc2aXJvTmFwczNaZ2s4WUg2NFhJckgxakdWYXliWV81VEMtejc1VEtvaF9rZHJPcE0zTTByMld6bmtzdkxiSkNZdGkzWWRzMTU3OTNoM1pnLUVVT3ZMOGFScXlzQjF4cU13OHduM2lhSG5NOHZYb3FSREsxZ0I0b2daeC1z?oc=5",
@@ -707,6 +698,14 @@
               "publishedAt": "Fri, 13 Mar 2026 06:38:42 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wRElkSzRGSC1QeHdiLTk5LW5NMVp3QUZDSjdYQUV4QmpYWWxlZjBlNHluTUNWRkNhLTlvemVhT2lYSjgxblA2ZFVvWWZXc3dIek5EdWNR?oc=5\" target=\"_blank\">从管道到智慧生命体：华为Agentic MBB助运营商夯实移动AI时代网络基座- 产业链</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">光通信Pro</font>",
               "channelId": "google_news"
+            },
+            {
+              "title": "波场TRON加入全球知名AI理事会，成Agentic AI理事会金牌会员 - PANews",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fNjdlWFdMNFI5MGljUkt1a1lqdjdHdWRubEp5SHNNR1VpMmM0MHFZVnBUdE14S3M2b08tZm8wMHI1NVpzZURzOFRnVWh0cXk5MzA5R1dWZmFRYTFVRXIxRWo0YUFueldKSDlRUDJVSU5fTFEyUFZzQXBVa0VnUUU?oc=5",
+              "source": "PANews",
+              "publishedAt": "Wed, 11 Mar 2026 16:29:28 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9fNjdlWFdMNFI5MGljUkt1a1lqdjdHdWRubEp5SHNNR1VpMmM0MHFZVnBUdE14S3M2b08tZm8wMHI1NVpzZURzOFRnVWh0cXk5MzA5R1dWZmFRYTFVRXIxRWo0YUFueldKSDlRUDJVSU5fTFEyUFZzQXBVa0VnUUU?oc=5\" target=\"_blank\">波场TRON加入全球知名AI理事会，成Agentic AI理事会金牌会员</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
+              "channelId": "google_news"
             }
           ]
         },
@@ -718,7 +717,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:07:38Z",
+              "publishedAt": "2026-03-13T14:38:52Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -767,14 +766,14 @@
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:10:46Z",
+              "publishedAt": "2026-03-13T14:27:07Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:05:07Z",
+              "publishedAt": "2026-03-13T14:47:23Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -790,25 +789,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 183.13999938964844,
+          "price": 182.47999572753906,
           "previousClose": 184.77000427246094,
-          "changePct": -0.882180464968168
+          "changePct": -1.239383282984093
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 401.8599853515625,
+          "price": 400.4200134277344,
           "previousClose": 405.760009765625,
-          "changePct": -0.9611652997335127
+          "changePct": -1.316047961694183
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 303.54998779296875,
+          "price": 305.6600036621094,
           "previousClose": 307.0400085449219,
-          "changePct": -1.1366664456832547
+          "changePct": -0.44945441779799744
         },
         {
           "symbol": "002230.SZ",
@@ -874,7 +873,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 15
+          "count": 9
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -882,7 +881,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 5
+          "count": 4
         }
       ],
       "diagnostics": [
@@ -918,11 +917,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "Xinhua Headlines: China's five-year roadmap bets big on innovation in strategic leap-国内国际-手机江西网 - 大江网",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBabl9FVlhoWVlEQ3VHYUx2NUdwdVJEcmxlNjdwV2VDOXpYRjd2RmxJXzVpLWEwUFI0SFNBNE55em5JaFJvT2dvc0RRYkZNOEFyZlZZRWdOR2E1ZjdnTXpQVk1POFpNcnBqclVuaw?oc=5",
-              "source": "大江网",
-              "publishedAt": "Wed, 11 Mar 2026 16:23:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBabl9FVlhoWVlEQ3VHYUx2NUdwdVJEcmxlNjdwV2VDOXpYRjd2RmxJXzVpLWEwUFI0SFNBNE55em5JaFJvT2dvc0RRYkZNOEFyZlZZRWdOR2E1ZjdnTXpQVk1POFpNcnBqclVuaw?oc=5\" target=\"_blank\">Xinhua Headlines: China's five-year roadmap bets big on innovation in strategic leap-国内国际-手机江西网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">大江网</font>",
+              "title": "China's five-year roadmap bets big on innovation in strategic leap - 环球网",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdkwwUTV0SnRSc3h3ZjJUZlFUR203RUZxYXRfeloxNWp5SVhnNDB4aWViNW5QU2xCdEc3TElHNWR3WlNXRHRxaTk0N2NzMkxUbDZr?oc=5",
+              "source": "环球网",
+              "publishedAt": "Wed, 11 Mar 2026 09:30:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdkwwUTV0SnRSc3h3ZjJUZlFUR203RUZxYXRfeloxNWp5SVhnNDB4aWViNW5QU2xCdEc3TElHNWR3WlNXRHRxaTk0N2NzMkxUbDZr?oc=5\" target=\"_blank\">China's five-year roadmap bets big on innovation in strategic leap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">环球网</font>",
               "channelId": "google_news"
             },
             {
@@ -980,6 +979,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5",
+              "source": "深潮TechFlow",
+              "publishedAt": "Wed, 11 Mar 2026 19:13:04 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants - ekhbary.com",
               "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5",
               "source": "ekhbary.com",
@@ -991,14 +998,7 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:13:14Z",
-              "channelId": "github_trending_ai"
-            },
-            {
-              "title": "x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-              "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-              "source": "GitHub",
-              "publishedAt": "2026-03-13T13:11:23Z",
+              "publishedAt": "2026-03-13T14:48:18Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1046,7 +1046,7 @@
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:13:16Z",
+              "publishedAt": "2026-03-13T14:43:10Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1072,35 +1072,35 @@
               "channelId": "google_news"
             },
             {
+              "title": "京东发布AI智慧家装品牌“京东家装” - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ab3RsSE02TVpYekN4NmpoTnpEZUhPSjNJQXV2Nm5BclRqQkxUa2JIa2FQR0JENGFISzIzclRiMFhfOEhrYWJ1aV82aXpPNjNlR204dDRuQzVEMl8zejgzdmNSLWFFNVFRSHMySHJYOEIyUlNxQVVN?oc=5",
+              "source": "新浪财经",
+              "publishedAt": "Fri, 13 Mar 2026 11:13:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5ab3RsSE02TVpYekN4NmpoTnpEZUhPSjNJQXV2Nm5BclRqQkxUa2JIa2FQR0JENGFISzIzclRiMFhfOEhrYWJ1aV82aXpPNjNlR204dDRuQzVEMl8zejgzdmNSLWFFNVFRSHMySHJYOEIyUlNxQVVN?oc=5\" target=\"_blank\">京东发布AI智慧家装品牌“京东家装”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "比亚迪闪充首款量产车型开始交付，闪充站已建设4597座 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5",
+              "source": "东方财富",
+              "publishedAt": "Fri, 13 Mar 2026 14:19:54 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5\" target=\"_blank\">比亚迪闪充首款量产车型开始交付，闪充站已建设4597座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "比亚迪与京东达成合作，便利店、七鲜咖啡开进闪充站 - 手机新浪网",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ScWxoT0NUWGMyX0JVd3FPNDlBQno1dUhEeC15SURHV0hsb1hqdTZsT0xYaEpIYTFvbUtnZW9heDNTSlU0U193cHBXSWIxWk1pbURjbUFQRzA2MGxEbWtyRlZORF9uaHZFTERXbG1pbjBpMl9F?oc=5",
+              "source": "手机新浪网",
+              "publishedAt": "Fri, 13 Mar 2026 13:18:45 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5ScWxoT0NUWGMyX0JVd3FPNDlBQno1dUhEeC15SURHV0hsb1hqdTZsT0xYaEpIYTFvbUtnZW9heDNTSlU0U193cHBXSWIxWk1pbURjbUFQRzA2MGxEbWtyRlZORF9uaHZFTERXbG1pbjBpMl9F?oc=5\" target=\"_blank\">比亚迪与京东达成合作，便利店、七鲜咖啡开进闪充站</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "吉利控股集团和芯位科技共同启动“跨时代跃迁人才培养计划” - chinanews.com.cn",
               "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zR281Qm5HZlhTX011VHI2bUs4N1RRZDhFczZrNkdPQXVoMXpMcmtzSUZPblNZNzZsZ1haUnVvMTlBSlBYTi1HcGNiOVRoUG5QdFdpc19DeUdwTEhQUV92dXlFUmVJOTJH?oc=5",
               "source": "chinanews.com.cn",
               "publishedAt": "Fri, 13 Mar 2026 10:58:30 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zR281Qm5HZlhTX011VHI2bUs4N1RRZDhFczZrNkdPQXVoMXpMcmtzSUZPblNZNzZsZ1haUnVvMTlBSlBYTi1HcGNiOVRoUG5QdFdpc19DeUdwTEhQUV92dXlFUmVJOTJH?oc=5\" target=\"_blank\">吉利控股集团和芯位科技共同启动“跨时代跃迁人才培养计划”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chinanews.com.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "百度搜索Skill下载量超3.6万次，成为全球第一的搜索引擎官方技能插件 - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KLWE2TjFIdmlfSDdwYjRDOUJMcHRSdGlQMnlXZEp5RUNvaFA5amtZa1NUUnFaWDI1YXh0blBHTXlJVGRqYzJOb01VM213YTVtaGVUcnBBSWpZUjdvcnc?oc=5",
-              "source": "DoNews",
-              "publishedAt": "Fri, 13 Mar 2026 12:33:21 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KLWE2TjFIdmlfSDdwYjRDOUJMcHRSdGlQMnlXZEp5RUNvaFA5amtZa1NUUnFaWDI1YXh0blBHTXlJVGRqYzJOb01VM213YTVtaGVUcnBBSWpZUjdvcnc?oc=5\" target=\"_blank\">百度搜索Skill下载量超3.6万次，成为全球第一的搜索引擎官方技能插件</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "腾讯电脑发布业内首个“龙虾管家” - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11cXZHR2FFZFZrQnMxWEVkdDB1WjlQNFJ2ZU9mNWRocjk1b3VhczlZWkhFbmlPUkVDMXRhTlFRaElvbl9hVXhRdU1zbHhWY0JnTHE1Ym92T1NpdG5LalAzRA?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Fri, 13 Mar 2026 11:27:27 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE11cXZHR2FFZFZrQnMxWEVkdDB1WjlQNFJ2ZU9mNWRocjk1b3VhczlZWkhFbmlPUkVDMXRhTlFRaElvbl9hVXhRdU1zbHhWY0JnTHE1Ym92T1NpdG5LalAzRA?oc=5\" target=\"_blank\">腾讯电脑发布业内首个“龙虾管家”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "甘肃、河南、湖南、西安将达成合作！比亚迪高速首批闪充站要来了_凤凰网 - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YWGFWNEp1SDBFaWxlNDVBZUdRQ2xxTHU2ZkJHVk55QXZMQUxpSlpDbmdHYi0wNXhGRGNHNjZobVFaN0hlVjJsSUlhYkk?oc=5",
-              "source": "凤凰网汽车",
-              "publishedAt": "Fri, 13 Mar 2026 11:42:04 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YWGFWNEp1SDBFaWxlNDVBZUdRQ2xxTHU2ZkJHVk55QXZMQUxpSlpDbmdHYi0wNXhGRGNHNjZobVFaN0hlVjJsSUlhYkk?oc=5\" target=\"_blank\">甘肃、河南、湖南、西安将达成合作！比亚迪高速首批闪充站要来了_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
               "channelId": "google_news"
             }
           ]
@@ -1181,7 +1181,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:07:38Z",
+              "publishedAt": "2026-03-13T14:38:52Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -1254,25 +1254,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 183.13999938964844,
+          "price": 182.47999572753906,
           "previousClose": 183.0399932861328,
-          "changePct": 0.05463620366249298
+          "changePct": -0.3059427333557358
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 401.8599853515625,
+          "price": 400.4200134277344,
           "previousClose": 405.20001220703125,
-          "changePct": -0.8242909069218414
+          "changePct": -1.1796640264794962
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 303.54998779296875,
+          "price": 305.6600036621094,
           "previousClose": 303.1300048828125,
-          "changePct": 0.13854877557192394
+          "changePct": 0.8346249920970217
         },
         {
           "symbol": "002230.SZ",
@@ -1338,7 +1338,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 15
+          "count": 9
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1346,7 +1346,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 5
+          "count": 4
         }
       ],
       "diagnostics": [
@@ -1398,11 +1398,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "Xinhua Headlines: China's five-year roadmap bets big on innovation in strategic leap-国内国际-手机江西网 - 大江网",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBabl9FVlhoWVlEQ3VHYUx2NUdwdVJEcmxlNjdwV2VDOXpYRjd2RmxJXzVpLWEwUFI0SFNBNE55em5JaFJvT2dvc0RRYkZNOEFyZlZZRWdOR2E1ZjdnTXpQVk1POFpNcnBqclVuaw?oc=5",
-              "source": "大江网",
-              "publishedAt": "Wed, 11 Mar 2026 16:23:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBabl9FVlhoWVlEQ3VHYUx2NUdwdVJEcmxlNjdwV2VDOXpYRjd2RmxJXzVpLWEwUFI0SFNBNE55em5JaFJvT2dvc0RRYkZNOEFyZlZZRWdOR2E1ZjdnTXpQVk1POFpNcnBqclVuaw?oc=5\" target=\"_blank\">Xinhua Headlines: China's five-year roadmap bets big on innovation in strategic leap-国内国际-手机江西网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">大江网</font>",
+              "title": "China's five-year roadmap bets big on innovation in strategic leap - 环球网",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdkwwUTV0SnRSc3h3ZjJUZlFUR203RUZxYXRfeloxNWp5SVhnNDB4aWViNW5QU2xCdEc3TElHNWR3WlNXRHRxaTk0N2NzMkxUbDZr?oc=5",
+              "source": "环球网",
+              "publishedAt": "Wed, 11 Mar 2026 09:30:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdkwwUTV0SnRSc3h3ZjJUZlFUR203RUZxYXRfeloxNWp5SVhnNDB4aWViNW5QU2xCdEc3TElHNWR3WlNXRHRxaTk0N2NzMkxUbDZr?oc=5\" target=\"_blank\">China's five-year roadmap bets big on innovation in strategic leap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">环球网</font>",
               "channelId": "google_news"
             },
             {
@@ -1539,35 +1539,35 @@
               "channelId": "google_news"
             },
             {
+              "title": "京东发布AI智慧家装品牌“京东家装” - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ab3RsSE02TVpYekN4NmpoTnpEZUhPSjNJQXV2Nm5BclRqQkxUa2JIa2FQR0JENGFISzIzclRiMFhfOEhrYWJ1aV82aXpPNjNlR204dDRuQzVEMl8zejgzdmNSLWFFNVFRSHMySHJYOEIyUlNxQVVN?oc=5",
+              "source": "新浪财经",
+              "publishedAt": "Fri, 13 Mar 2026 11:13:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5ab3RsSE02TVpYekN4NmpoTnpEZUhPSjNJQXV2Nm5BclRqQkxUa2JIa2FQR0JENGFISzIzclRiMFhfOEhrYWJ1aV82aXpPNjNlR204dDRuQzVEMl8zejgzdmNSLWFFNVFRSHMySHJYOEIyUlNxQVVN?oc=5\" target=\"_blank\">京东发布AI智慧家装品牌“京东家装”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "比亚迪闪充首款量产车型开始交付，闪充站已建设4597座 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5",
+              "source": "东方财富",
+              "publishedAt": "Fri, 13 Mar 2026 14:19:54 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5\" target=\"_blank\">比亚迪闪充首款量产车型开始交付，闪充站已建设4597座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "比亚迪与京东达成合作，便利店、七鲜咖啡开进闪充站 - 手机新浪网",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ScWxoT0NUWGMyX0JVd3FPNDlBQno1dUhEeC15SURHV0hsb1hqdTZsT0xYaEpIYTFvbUtnZW9heDNTSlU0U193cHBXSWIxWk1pbURjbUFQRzA2MGxEbWtyRlZORF9uaHZFTERXbG1pbjBpMl9F?oc=5",
+              "source": "手机新浪网",
+              "publishedAt": "Fri, 13 Mar 2026 13:18:45 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5ScWxoT0NUWGMyX0JVd3FPNDlBQno1dUhEeC15SURHV0hsb1hqdTZsT0xYaEpIYTFvbUtnZW9heDNTSlU0U193cHBXSWIxWk1pbURjbUFQRzA2MGxEbWtyRlZORF9uaHZFTERXbG1pbjBpMl9F?oc=5\" target=\"_blank\">比亚迪与京东达成合作，便利店、七鲜咖啡开进闪充站</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "吉利控股集团和芯位科技共同启动“跨时代跃迁人才培养计划” - chinanews.com.cn",
               "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zR281Qm5HZlhTX011VHI2bUs4N1RRZDhFczZrNkdPQXVoMXpMcmtzSUZPblNZNzZsZ1haUnVvMTlBSlBYTi1HcGNiOVRoUG5QdFdpc19DeUdwTEhQUV92dXlFUmVJOTJH?oc=5",
               "source": "chinanews.com.cn",
               "publishedAt": "Fri, 13 Mar 2026 10:58:30 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zR281Qm5HZlhTX011VHI2bUs4N1RRZDhFczZrNkdPQXVoMXpMcmtzSUZPblNZNzZsZ1haUnVvMTlBSlBYTi1HcGNiOVRoUG5QdFdpc19DeUdwTEhQUV92dXlFUmVJOTJH?oc=5\" target=\"_blank\">吉利控股集团和芯位科技共同启动“跨时代跃迁人才培养计划”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chinanews.com.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "百度搜索Skill下载量超3.6万次，成为全球第一的搜索引擎官方技能插件 - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KLWE2TjFIdmlfSDdwYjRDOUJMcHRSdGlQMnlXZEp5RUNvaFA5amtZa1NUUnFaWDI1YXh0blBHTXlJVGRqYzJOb01VM213YTVtaGVUcnBBSWpZUjdvcnc?oc=5",
-              "source": "DoNews",
-              "publishedAt": "Fri, 13 Mar 2026 12:33:21 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KLWE2TjFIdmlfSDdwYjRDOUJMcHRSdGlQMnlXZEp5RUNvaFA5amtZa1NUUnFaWDI1YXh0blBHTXlJVGRqYzJOb01VM213YTVtaGVUcnBBSWpZUjdvcnc?oc=5\" target=\"_blank\">百度搜索Skill下载量超3.6万次，成为全球第一的搜索引擎官方技能插件</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "腾讯电脑发布业内首个“龙虾管家” - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11cXZHR2FFZFZrQnMxWEVkdDB1WjlQNFJ2ZU9mNWRocjk1b3VhczlZWkhFbmlPUkVDMXRhTlFRaElvbl9hVXhRdU1zbHhWY0JnTHE1Ym92T1NpdG5LalAzRA?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Fri, 13 Mar 2026 11:27:27 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE11cXZHR2FFZFZrQnMxWEVkdDB1WjlQNFJ2ZU9mNWRocjk1b3VhczlZWkhFbmlPUkVDMXRhTlFRaElvbl9hVXhRdU1zbHhWY0JnTHE1Ym92T1NpdG5LalAzRA?oc=5\" target=\"_blank\">腾讯电脑发布业内首个“龙虾管家”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "甘肃、河南、湖南、西安将达成合作！比亚迪高速首批闪充站要来了_凤凰网 - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YWGFWNEp1SDBFaWxlNDVBZUdRQ2xxTHU2ZkJHVk55QXZMQUxpSlpDbmdHYi0wNXhGRGNHNjZobVFaN0hlVjJsSUlhYkk?oc=5",
-              "source": "凤凰网汽车",
-              "publishedAt": "Fri, 13 Mar 2026 11:42:04 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YWGFWNEp1SDBFaWxlNDVBZUdRQ2xxTHU2ZkJHVk55QXZMQUxpSlpDbmdHYi0wNXhGRGNHNjZobVFaN0hlVjJsSUlhYkk?oc=5\" target=\"_blank\">甘肃、河南、湖南、西安将达成合作！比亚迪高速首批闪充站要来了_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
               "channelId": "google_news"
             }
           ]
@@ -1593,14 +1593,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "华为发布Agentic MBB：全面释放网络多维能力，夯实移动AI时代基座- 华为 - Huawei",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jMHBIVVZZa2tSTUdqRVJqMndRWFFfRy1nY044WlBSaThWRlRweWJmaklEMTQtYnJOR0tLMHZTT1JVaWZDc0FuY1VDM3BlUWdtTWlTRFZTSmJBVXBxbVE?oc=5",
-              "source": "Huawei",
-              "publishedAt": "Mon, 02 Mar 2026 08:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jMHBIVVZZa2tSTUdqRVJqMndRWFFfRy1nY044WlBSaThWRlRweWJmaklEMTQtYnJOR0tLMHZTT1JVaWZDc0FuY1VDM3BlUWdtTWlTRFZTSmJBVXBxbVE?oc=5\" target=\"_blank\">华为发布Agentic MBB：全面释放网络多维能力，夯实移动AI时代基座- 华为</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huawei</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "Agentic AI拐点已至？当AI学会「自己行动」，如何重构Web3的安全边界？ - PANews",
               "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHJzXzdXbXJ2TUZfQkgyUThvOTFqMUdCY2RPM1hzcHBhc3JNSVB2RjJabzF6TF9tM1R0Z0o1LUR3cFNWRVNIRTI5eTdpZW9yZ3FoOUNaZ2ZQUlMxU2FKQmNDQU5feloxSGNSVFJCM2RFUEtDdW5qb191R1drYzR4WEk4UGFNZw?oc=5",
               "source": "PANews",
@@ -1622,6 +1614,14 @@
               "source": "新浪财经",
               "publishedAt": "Tue, 10 Mar 2026 04:25:10 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPMU50RldFeG9kYkhOY0pibURCMVFhWGVVMTNJOXBYY19rUjJCUG9wc3F0YVoxeEx1NTlDdjNVdzhyYU5PX2dRcnU4b3RHVUhmUFVsWnpkOTNDeUFZdy1XeGtjV3F5djBuUTU0bFVtdVhEeDZpR3VvbVlKZGd1blNibVgza3U?oc=5\" target=\"_blank\">2026AI十大趋势发布:技术场景治理共推未来布局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "阿里云百炼专属版登陆国际市场，加速全球企业构建专属AI引擎 - 雷峰网",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XcW5TTEhodTdBMHN6enlTMm5sV2tNR3pueWJLTlZXZ3dEUE1BZ0E4eE95cVc2RHd2T3ZHUDltTTA1aFFHQ1pUaGdqdkwzenlUdlkzaVlyMG9DUkpzYTk0NmpNVE5MakswVHNMUlViR0J3OGFUR3BJ?oc=5",
+              "source": "雷峰网",
+              "publishedAt": "Tue, 03 Mar 2026 06:15:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5XcW5TTEhodTdBMHN6enlTMm5sV2tNR3pueWJLTlZXZ3dEUE1BZ0E4eE95cVc2RHd2T3ZHUDltTTA1aFFHQ1pUaGdqdkwzenlUdlkzaVlyMG9DUkpzYTk0NmpNVE5MakswVHNMUlViR0J3OGFUR3BJ?oc=5\" target=\"_blank\">阿里云百炼专属版登陆国际市场，加速全球企业构建专属AI引擎</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雷峰网</font>",
               "channelId": "google_news"
             }
           ]
@@ -1648,7 +1648,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:07:38Z",
+              "publishedAt": "2026-03-13T14:38:52Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -1737,25 +1737,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 183.13999938964844,
+          "price": 182.52999877929688,
           "previousClose": 191.5500030517578,
-          "changePct": -4.390500406223929
+          "changePct": -4.7089554313521385
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 401.8599853515625,
+          "price": 400.4200134277344,
           "previousClose": 384.4700012207031,
-          "changePct": 4.523105593582252
+          "changePct": 4.1485713206204675
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 303.54998779296875,
+          "price": 305.67999267578125,
           "previousClose": 311.489990234375,
-          "changePct": -2.5490393561064155
+          "changePct": -1.8652276929419536
         },
         {
           "symbol": "002230.SZ",
@@ -1821,7 +1821,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 15
+          "count": 9
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1829,7 +1829,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 6
+          "count": 4
         }
       ],
       "diagnostics": []
@@ -1881,11 +1881,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "Xinhua Headlines: China's five-year roadmap bets big on innovation in strategic leap-国内国际-手机江西网 - 大江网",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBabl9FVlhoWVlEQ3VHYUx2NUdwdVJEcmxlNjdwV2VDOXpYRjd2RmxJXzVpLWEwUFI0SFNBNE55em5JaFJvT2dvc0RRYkZNOEFyZlZZRWdOR2E1ZjdnTXpQVk1POFpNcnBqclVuaw?oc=5",
-              "source": "大江网",
-              "publishedAt": "Wed, 11 Mar 2026 16:23:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBabl9FVlhoWVlEQ3VHYUx2NUdwdVJEcmxlNjdwV2VDOXpYRjd2RmxJXzVpLWEwUFI0SFNBNE55em5JaFJvT2dvc0RRYkZNOEFyZlZZRWdOR2E1ZjdnTXpQVk1POFpNcnBqclVuaw?oc=5\" target=\"_blank\">Xinhua Headlines: China's five-year roadmap bets big on innovation in strategic leap-国内国际-手机江西网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">大江网</font>",
+              "title": "China's five-year roadmap bets big on innovation in strategic leap - 环球网",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdkwwUTV0SnRSc3h3ZjJUZlFUR203RUZxYXRfeloxNWp5SVhnNDB4aWViNW5QU2xCdEc3TElHNWR3WlNXRHRxaTk0N2NzMkxUbDZr?oc=5",
+              "source": "环球网",
+              "publishedAt": "Wed, 11 Mar 2026 09:30:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdkwwUTV0SnRSc3h3ZjJUZlFUR203RUZxYXRfeloxNWp5SVhnNDB4aWViNW5QU2xCdEc3TElHNWR3WlNXRHRxaTk0N2NzMkxUbDZr?oc=5\" target=\"_blank\">China's five-year roadmap bets big on innovation in strategic leap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">环球网</font>",
               "channelId": "google_news"
             }
           ]
@@ -1900,14 +1900,6 @@
               "source": "富途牛牛",
               "publishedAt": "Wed, 11 Mar 2026 12:00:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5\" target=\"_blank\">BullFrog将举办关于新型精准AI能力的网络研讨会。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy - Sinocism | Bill Bishop",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ2tBWFFBS3V5Z0FiMVA4V2M3RWFfNmd1ZFBsUEVyTktGODBwSXNwX0xRbzNoMmtreEtlN1Z3dXBPUGY3SEhYTTBSTWdjcGlBQW45YThpTVFqd3pjbDY3YWs3R0pVeFlzbkRuRHJXcmh0Y0ZmSWVXdkZqVEtDclpWX0IwbHpHaVh4ODRVWHJ5SHFoRXByTUZSZk91MUVxNjJRZE5STkJ5OTM?oc=5",
-              "source": "Sinocism | Bill Bishop",
-              "publishedAt": "Wed, 11 Mar 2026 21:57:58 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ2tBWFFBS3V5Z0FiMVA4V2M3RWFfNmd1ZFBsUEVyTktGODBwSXNwX0xRbzNoMmtreEtlN1Z3dXBPUGY3SEhYTTBSTWdjcGlBQW45YThpTVFqd3pjbDY3YWs3R0pVeFlzbkRuRHJXcmh0Y0ZmSWVXdkZqVEtDclpWX0IwbHpHaVh4ODRVWHJ5SHFoRXByTUZSZk91MUVxNjJRZE5STkJ5OTM?oc=5\" target=\"_blank\">China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sinocism | Bill Bishop</font>",
               "channelId": "google_news"
             },
             {
@@ -1927,19 +1919,28 @@
               "channelId": "google_news"
             },
             {
+              "title": "China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy - Sinocism | Bill Bishop",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UFNFc3VkUUpZS1h2c0hnY1BiMmZaaHJodG42NUZVbDEzTmcyeVZFUTNic2U0TUQwWHd3Q191Nl9vX2M3T2ZmV3JXTld4OTNYVmp5YTREX3VuMUs5N1k3WjRxTUtTWHc?oc=5",
+              "source": "Sinocism | Bill Bishop",
+              "publishedAt": "Wed, 11 Mar 2026 21:56:35 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UFNFc3VkUUpZS1h2c0hnY1BiMmZaaHJodG42NUZVbDEzTmcyeVZFUTNic2U0TUQwWHd3Q191Nl9vX2M3T2ZmV3JXTld4OTNYVmp5YTREX3VuMUs5N1k3WjRxTUtTWHc?oc=5\" target=\"_blank\">China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sinocism | Bill Bishop</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5",
+              "source": "深潮TechFlow",
+              "publishedAt": "Wed, 11 Mar 2026 19:13:04 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants - ekhbary.com",
               "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5",
               "source": "ekhbary.com",
               "publishedAt": "Thu, 12 Mar 2026 06:52:43 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5\" target=\"_blank\">Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ekhbary.com</font>",
               "channelId": "google_news"
-            },
-            {
-              "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
-              "link": "https://github.com/langgenius/dify",
-              "source": "GitHub",
-              "publishedAt": "2026-03-13T13:13:14Z",
-              "channelId": "github_trending_ai"
             }
           ]
         },
@@ -2013,35 +2014,35 @@
               "channelId": "google_news"
             },
             {
+              "title": "京东发布AI智慧家装品牌“京东家装” - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ab3RsSE02TVpYekN4NmpoTnpEZUhPSjNJQXV2Nm5BclRqQkxUa2JIa2FQR0JENGFISzIzclRiMFhfOEhrYWJ1aV82aXpPNjNlR204dDRuQzVEMl8zejgzdmNSLWFFNVFRSHMySHJYOEIyUlNxQVVN?oc=5",
+              "source": "新浪财经",
+              "publishedAt": "Fri, 13 Mar 2026 11:13:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5ab3RsSE02TVpYekN4NmpoTnpEZUhPSjNJQXV2Nm5BclRqQkxUa2JIa2FQR0JENGFISzIzclRiMFhfOEhrYWJ1aV82aXpPNjNlR204dDRuQzVEMl8zejgzdmNSLWFFNVFRSHMySHJYOEIyUlNxQVVN?oc=5\" target=\"_blank\">京东发布AI智慧家装品牌“京东家装”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "比亚迪闪充首款量产车型开始交付，闪充站已建设4597座 - 东方财富",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5",
+              "source": "东方财富",
+              "publishedAt": "Fri, 13 Mar 2026 14:19:54 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54OHJaSnZ1c0M2YzdXQW9sVktHOGxCVmZpcGJvU25TWmtzN1dGVzNTbV9NQ0RrSXdHaTAyVURWdVRCZWxLWWJKYW1XdU9md0RialNEZ3dZeVlTX2Zrazc3Ng?oc=5\" target=\"_blank\">比亚迪闪充首款量产车型开始交付，闪充站已建设4597座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "比亚迪与京东达成合作，便利店、七鲜咖啡开进闪充站 - 手机新浪网",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ScWxoT0NUWGMyX0JVd3FPNDlBQno1dUhEeC15SURHV0hsb1hqdTZsT0xYaEpIYTFvbUtnZW9heDNTSlU0U193cHBXSWIxWk1pbURjbUFQRzA2MGxEbWtyRlZORF9uaHZFTERXbG1pbjBpMl9F?oc=5",
+              "source": "手机新浪网",
+              "publishedAt": "Fri, 13 Mar 2026 13:18:45 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5ScWxoT0NUWGMyX0JVd3FPNDlBQno1dUhEeC15SURHV0hsb1hqdTZsT0xYaEpIYTFvbUtnZW9heDNTSlU0U193cHBXSWIxWk1pbURjbUFQRzA2MGxEbWtyRlZORF9uaHZFTERXbG1pbjBpMl9F?oc=5\" target=\"_blank\">比亚迪与京东达成合作，便利店、七鲜咖啡开进闪充站</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "吉利控股集团和芯位科技共同启动“跨时代跃迁人才培养计划” - chinanews.com.cn",
               "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zR281Qm5HZlhTX011VHI2bUs4N1RRZDhFczZrNkdPQXVoMXpMcmtzSUZPblNZNzZsZ1haUnVvMTlBSlBYTi1HcGNiOVRoUG5QdFdpc19DeUdwTEhQUV92dXlFUmVJOTJH?oc=5",
               "source": "chinanews.com.cn",
               "publishedAt": "Fri, 13 Mar 2026 10:58:30 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zR281Qm5HZlhTX011VHI2bUs4N1RRZDhFczZrNkdPQXVoMXpMcmtzSUZPblNZNzZsZ1haUnVvMTlBSlBYTi1HcGNiOVRoUG5QdFdpc19DeUdwTEhQUV92dXlFUmVJOTJH?oc=5\" target=\"_blank\">吉利控股集团和芯位科技共同启动“跨时代跃迁人才培养计划”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chinanews.com.cn</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "百度搜索Skill下载量超3.6万次，成为全球第一的搜索引擎官方技能插件 - DoNews",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KLWE2TjFIdmlfSDdwYjRDOUJMcHRSdGlQMnlXZEp5RUNvaFA5amtZa1NUUnFaWDI1YXh0blBHTXlJVGRqYzJOb01VM213YTVtaGVUcnBBSWpZUjdvcnc?oc=5",
-              "source": "DoNews",
-              "publishedAt": "Fri, 13 Mar 2026 12:33:21 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KLWE2TjFIdmlfSDdwYjRDOUJMcHRSdGlQMnlXZEp5RUNvaFA5amtZa1NUUnFaWDI1YXh0blBHTXlJVGRqYzJOb01VM213YTVtaGVUcnBBSWpZUjdvcnc?oc=5\" target=\"_blank\">百度搜索Skill下载量超3.6万次，成为全球第一的搜索引擎官方技能插件</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "腾讯电脑发布业内首个“龙虾管家” - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11cXZHR2FFZFZrQnMxWEVkdDB1WjlQNFJ2ZU9mNWRocjk1b3VhczlZWkhFbmlPUkVDMXRhTlFRaElvbl9hVXhRdU1zbHhWY0JnTHE1Ym92T1NpdG5LalAzRA?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Fri, 13 Mar 2026 11:27:27 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE11cXZHR2FFZFZrQnMxWEVkdDB1WjlQNFJ2ZU9mNWRocjk1b3VhczlZWkhFbmlPUkVDMXRhTlFRaElvbl9hVXhRdU1zbHhWY0JnTHE1Ym92T1NpdG5LalAzRA?oc=5\" target=\"_blank\">腾讯电脑发布业内首个“龙虾管家”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "甘肃、河南、湖南、西安将达成合作！比亚迪高速首批闪充站要来了_凤凰网 - 凤凰网汽车",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YWGFWNEp1SDBFaWxlNDVBZUdRQ2xxTHU2ZkJHVk55QXZMQUxpSlpDbmdHYi0wNXhGRGNHNjZobVFaN0hlVjJsSUlhYkk?oc=5",
-              "source": "凤凰网汽车",
-              "publishedAt": "Fri, 13 Mar 2026 11:42:04 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YWGFWNEp1SDBFaWxlNDVBZUdRQ2xxTHU2ZkJHVk55QXZMQUxpSlpDbmdHYi0wNXhGRGNHNjZobVFaN0hlVjJsSUlhYkk?oc=5\" target=\"_blank\">甘肃、河南、湖南、西安将达成合作！比亚迪高速首批闪充站要来了_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网汽车</font>",
               "channelId": "google_news"
             }
           ]
@@ -2122,7 +2123,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-13T13:07:38Z",
+              "publishedAt": "2026-03-13T14:38:52Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -2226,25 +2227,25 @@
           "symbol": "NVDA",
           "name": "NVIDIA",
           "currency": "USD",
-          "price": 183.13999938964844,
+          "price": 182.5493927001953,
           "previousClose": 192.50999450683594,
-          "changePct": -4.867277224328618
+          "changePct": -5.1740699656437465
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
           "currency": "USD",
-          "price": 401.8599853515625,
+          "price": 400.489990234375,
           "previousClose": 433.5,
-          "changePct": -7.2987346363177625
+          "changePct": -7.614765805219147
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
           "currency": "USD",
-          "price": 303.54998779296875,
+          "price": 305.80499267578125,
           "previousClose": 338.25,
-          "changePct": -10.258688013904287
+          "changePct": -9.592019903686252
         },
         {
           "symbol": "002230.SZ",
@@ -2310,7 +2311,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 15
+          "count": 9
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -2318,7 +2319,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 7
+          "count": 5
         }
       ],
       "diagnostics": []
@@ -2348,9 +2349,9 @@
       "google_ai_blog": 33,
       "huggingface_blog": 33,
       "github_trending_ai": 100,
-      "hackernews_ai": 75,
+      "hackernews_ai": 45,
       "arxiv_cs_daily": 150,
-      "producthunt_ai": 23
+      "producthunt_ai": 17
     },
     "diagnostics": [
       {
