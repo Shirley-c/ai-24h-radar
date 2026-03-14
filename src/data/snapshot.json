@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T08:43:15.938Z",
+  "generatedAt": "2026-03-14T10:35:27.647Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -20,28 +20,28 @@
               "title": "ollama/ollama - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
               "link": "https://github.com/ollama/ollama",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:40:17Z",
+              "publishedAt": "2026-03-14T10:18:53Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
               "link": "https://github.com/Comfy-Org/ComfyUI",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:35:00Z",
+              "publishedAt": "2026-03-14T10:16:45Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:42:02Z",
+              "publishedAt": "2026-03-14T10:35:11Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "affaan-m/everything-claude-code - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
               "link": "https://github.com/affaan-m/everything-claude-code",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:43:05Z",
+              "publishedAt": "2026-03-14T10:34:20Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -51,25 +51,17 @@
           "query": "AI product launch",
           "items": [
             {
-              "title": "Sigenergy 启用南通智慧能源中心，引领“全领域AI”战略及下一代能源组合 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEFDbkE3cGV3YWJHYVFNRFpkaFpoTUJEd2lEVDFsOEotUC1Kd2VMaDRtX1VWZ3ZibzVwS01aVEczLS1zZVhjYVA0R0YwX1FObFZENUlyOWFJbHFLREVsYUVxdE5qYkVJNXRORlZhWkRoOTQ5OFRfSEFVZG5qZTlqZldUR01FYWxTZG9XaDROZ0pZSkducXk4QW40SndQN0F0UjdNczFPdWJydjRk?oc=5",
-              "source": "富途牛牛",
-              "publishedAt": "Fri, 13 Mar 2026 10:21:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEFDbkE3cGV3YWJHYVFNRFpkaFpoTUJEd2lEVDFsOEotUC1Kd2VMaDRtX1VWZ3ZibzVwS01aVEczLS1zZVhjYVA0R0YwX1FObFZENUlyOWFJbHFLREVsYUVxdE5qYkVJNXRORlZhWkRoOTQ5OFRfSEFVZG5qZTlqZldUR01FYWxTZG9XaDROZ0pZSkducXk4QW40SndQN0F0UjdNczFPdWJydjRk?oc=5\" target=\"_blank\">Sigenergy 启用南通智慧能源中心，引领“全领域AI”战略及下一代能源组合</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:28:10Z",
+              "publishedAt": "2026-03-14T10:33:38Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:31:19Z",
+              "publishedAt": "2026-03-14T09:54:41Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -83,14 +75,21 @@
               "title": "openclaw/openclaw - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
               "link": "https://github.com/openclaw/openclaw",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:42:29Z",
+              "publishedAt": "2026-03-14T10:35:16Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:39:29Z",
+              "publishedAt": "2026-03-14T09:37:03Z",
+              "channelId": "github_trending_ai"
+            },
+            {
+              "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+              "link": "https://github.com/n8n-io/n8n",
+              "source": "GitHub",
+              "publishedAt": "2026-03-14T10:34:00Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -110,35 +109,35 @@
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:42:02Z",
+              "publishedAt": "2026-03-14T10:35:11Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:42:55Z",
+              "publishedAt": "2026-03-14T10:26:12Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "google-gemini/gemini-cli - An open-source AI agent that brings the power of Gemini directly into your terminal.",
               "link": "https://github.com/google-gemini/gemini-cli",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:38:49Z",
+              "publishedAt": "2026-03-14T10:31:45Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "anthropics/claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
               "link": "https://github.com/anthropics/claude-code",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:42:07Z",
+              "publishedAt": "2026-03-14T10:33:06Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "ollama/ollama - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
               "link": "https://github.com/ollama/ollama",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:40:17Z",
+              "publishedAt": "2026-03-14T10:18:53Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -156,43 +155,43 @@
               "channelId": "google_news"
             },
             {
+              "title": "AWE 2026：华为全场景赋能智慧生活，华为鸿蒙智家进入智慧全生态时代 - 中国日报网",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kSFVrN0tHTGFmeE5mUXZTNC04UGw3ZUlCVWctb0NfQUowX2tEdGpuMF81NXI2dllxSE8tekxWQU1aZGN2NFNUQV90UVlHR01TYkdSNDNHTXg0b2hVY3JvZU1SaEZJLUxvc2hsTERuVHRjSENpUWpkR0lybw?oc=5",
+              "source": "中国日报网",
+              "publishedAt": "Sat, 14 Mar 2026 08:05:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1kSFVrN0tHTGFmeE5mUXZTNC04UGw3ZUlCVWctb0NfQUowX2tEdGpuMF81NXI2dllxSE8tekxWQU1aZGN2NFNUQV90UVlHR01TYkdSNDNHTXg0b2hVY3JvZU1SaEZJLUxvc2hsTERuVHRjSENpUWpkR0lybw?oc=5\" target=\"_blank\">AWE 2026：华为全场景赋能智慧生活，华为鸿蒙智家进入智慧全生态时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国日报网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "腾讯“龙虾”全国免费安装计划启动 - 同花顺财经",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5",
+              "source": "同花顺财经",
+              "publishedAt": "Sat, 14 Mar 2026 09:26:59 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5\" target=\"_blank\">腾讯“龙虾”全国免费安装计划启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "AWE2026|全场景落地加速 华为鸿蒙智家进入智慧全生态时代 - cb.com.cn",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CLXV2d2dUZXdmc1VLaFY2b216dUhEWVZhQXQyVllVSFFLa2tzMEpsaUU3N2VVTzZvWTRaZWNXYWZNRjRnUWNvTXFkTWZKV28zbnJiNVkzSGZQTGFfcnJHU0J3?oc=5",
+              "source": "cb.com.cn",
+              "publishedAt": "Sat, 14 Mar 2026 08:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CLXV2d2dUZXdmc1VLaFY2b216dUhEWVZhQXQyVllVSFFLa2tzMEpsaUU3N2VVTzZvWTRaZWNXYWZNRjRnUWNvTXFkTWZKV28zbnJiNVkzSGZQTGFfcnJHU0J3?oc=5\" target=\"_blank\">AWE2026|全场景落地加速 华为鸿蒙智家进入智慧全生态时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cb.com.cn</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "京东自营家装全新启航，开启AI智慧家装新纪元 - 凤凰网财经",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DaVRsM0luX0JLM2VSQWNEc0VQaDNTemRCNU85RHhwLThjRzNoNDRoNkxuNDdjUl9vNktPWXA3SXg3emNuNHFrUlZDS0IwTFhl?oc=5",
+              "source": "凤凰网财经",
+              "publishedAt": "Sat, 14 Mar 2026 09:50:05 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DaVRsM0luX0JLM2VSQWNEc0VQaDNTemRCNU85RHhwLThjRzNoNDRoNkxuNDdjUl9vNktPWXA3SXg3emNuNHFrUlZDS0IwTFhl?oc=5\" target=\"_blank\">京东自营家装全新启航，开启AI智慧家装新纪元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网财经</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "京东MALL“智享银龄馆”对公众开放_央广网 - 央广网",
               "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9feWpFU2JwR1hpNGF4bEZXdjJaYjN5SWtrU1ZQRVJzNE9yMnJ5SzFPSTRTRzRfblJibmdYRDROdWIyaThTNVgzQzBIdE1vOXAtZkprdnhsZ1Q5bTM5OFVRMU1vaTBfNlQ3V1hLamt1VGdFY19nSmh0d29Ua1dRUQ?oc=5",
               "source": "央广网",
               "publishedAt": "Sat, 14 Mar 2026 00:44:58 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9feWpFU2JwR1hpNGF4bEZXdjJaYjN5SWtrU1ZQRVJzNE9yMnJ5SzFPSTRTRzRfblJibmdYRDROdWIyaThTNVgzQzBIdE1vOXAtZkprdnhsZ1Q5bTM5OFVRMU1vaTBfNlQ3V1hLamt1VGdFY19nSmh0d29Ua1dRUQ?oc=5\" target=\"_blank\">京东MALL“智享银龄馆”对公众开放_央广网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央广网</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "华为鸿蒙智家亮相AWE 2026 从单品到全生态重构智慧生活 - 经济参考报",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQTl4Z2p1U194RjdpSUs5ZU9vX1Y2SmVqZEJzeGpkZkNCVVl4UE1aR2Ixb2tvZkdPckUyd3JjZkw1cXhxMHpIRkJjZjNVYVNtRUx1Mi1pSXpHZkZQUzl3Y1RfdFU2NU83Y1ozcWxtaDRrYldxLTJIcUM1QWdFWEpiRg?oc=5",
-              "source": "经济参考报",
-              "publishedAt": "Sat, 14 Mar 2026 03:53:50 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPQTl4Z2p1U194RjdpSUs5ZU9vX1Y2SmVqZEJzeGpkZkNCVVl4UE1aR2Ixb2tvZkdPckUyd3JjZkw1cXhxMHpIRkJjZjNVYVNtRUx1Mi1pSXpHZkZQUzl3Y1RfdFU2NU83Y1ozcWxtaDRrYldxLTJIcUM1QWdFWEpiRg?oc=5\" target=\"_blank\">华为鸿蒙智家亮相AWE 2026 从单品到全生态重构智慧生活</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "浙江省人民政府与吉利控股集团签署战略框架协议 - 新京报",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11OER4VkJLcld4d0pPakxRT0xHeHQ5RHZZYXdNSWduRDRJdU5UZV9VbmdLNEtRTEsxRXUxckVGLUJNUVFkSEMtWUdYX3JpVmJEb0xVVkNBLUdUamd3TjVyeFhNZFc?oc=5",
-              "source": "新京报",
-              "publishedAt": "Sat, 14 Mar 2026 07:44:31 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE11OER4VkJLcld4d0pPakxRT0xHeHQ5RHZZYXdNSWduRDRJdU5UZV9VbmdLNEtRTEsxRXUxckVGLUJNUVFkSEMtWUdYX3JpVmJEb0xVVkNBLUdUamd3TjVyeFhNZFc?oc=5\" target=\"_blank\">浙江省人民政府与吉利控股集团签署战略框架协议</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新京报</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "华为公司副总裁马悦一行来校交流 - 天际新闻网",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XMHF1NEJxVmItRURWdE9NVzhDM00wal9MRGlaM09TeDZtNUFIXzlOWlptTlJYNXBQVEtFS0RLSy1ZRnlpWEwyV1pEQzhpcmlEYXBIMEVBdmpXUQ?oc=5",
-              "source": "天际新闻网",
-              "publishedAt": "Sat, 14 Mar 2026 05:15:10 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XMHF1NEJxVmItRURWdE9NVzhDM00wal9MRGlaM09TeDZtNUFIXzlOWlptTlJYNXBQVEtFS0RLSy1ZRnlpWEwyV1pEQzhpcmlEYXBIMEVBdmpXUQ?oc=5\" target=\"_blank\">华为公司副总裁马悦一行来校交流</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天际新闻网</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "美团王莆中：让每个商家都能用上自己的智能助理 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52UU9CUVVKcEJiRW14ajdBZ2pIeEU4YVZ1U0tsVkU4Zk9GU0dsYk1oLTQzQjZRc1hucXQwS2stVDl1RFRvRnBkOGM3SkIxR3p2b3pzMHdROF9rNWwtYTEtaA?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Sat, 14 Mar 2026 03:06:12 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE52UU9CUVVKcEJiRW14ajdBZ2pIeEU4YVZ1U0tsVkU4Zk9GU0dsYk1oLTQzQjZRc1hucXQwS2stVDl1RFRvRnBkOGM3SkIxR3p2b3pzMHdROF9rNWwtYTEtaA?oc=5\" target=\"_blank\">美团王莆中：让每个商家都能用上自己的智能助理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
               "channelId": "google_news"
             }
           ]
@@ -218,14 +217,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "DACon 2026上海站启动，驶向AI深水区，构建下一代「Data+AI」基座(1) - 品玩",
-              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2T1kxSU92Z3JNUTBaR2ltVEdkcWQzV0RCTk9NeF9qWm9HTVdTMWZMdnljWUlrNE5PdFdPWGdITXFlTHFDbEJHMQ?oc=5",
-              "source": "品玩",
-              "publishedAt": "Fri, 13 Mar 2026 09:50:24 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2T1kxSU92Z3JNUTBaR2ltVEdkcWQzV0RCTk9NeF9qWm9HTVdTMWZMdnljWUlrNE5PdFdPWGdITXFlTHFDbEJHMQ?oc=5\" target=\"_blank\">DACon 2026上海站启动，驶向AI深水区，构建下一代「Data+AI」基座(1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">品玩</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "您的AI基础设施是否已经为代理型AI的时代做好准备？代理将为AI基础设施团队带来新的难题。 - 富途牛牛",
               "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSUs2Uk1lUmloR09ja1d6S3lVdXdXRndPdkNvNlRsbzNkRnBuek9CaG1QWVR5RDZIeXNDT1NNNFZ1V0tHVEtOeFFQczA3MVRQRzA3ZXNXNFRDZkl2RmpTWEtCNXByMmJra2VUcGNURUlwT1RYUHhIX3pmbnNGUXhIT2pGOWpOek5xMENz?oc=5",
               "source": "富途牛牛",
@@ -245,7 +236,14 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:28:10Z",
+              "publishedAt": "2026-03-14T10:33:38Z",
+              "channelId": "github_trending_ai"
+            },
+            {
+              "title": "anthropics/claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+              "link": "https://github.com/anthropics/claude-code",
+              "source": "GitHub",
+              "publishedAt": "2026-03-14T10:33:06Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -258,7 +256,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:34:23Z",
+              "publishedAt": "2026-03-14T10:28:34Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -271,42 +269,42 @@
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:39:29Z",
+              "publishedAt": "2026-03-14T09:37:03Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:39:40Z",
+              "publishedAt": "2026-03-14T10:34:00Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
               "link": "https://github.com/langflow-ai/langflow",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:36:59Z",
+              "publishedAt": "2026-03-14T09:53:46Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:42:55Z",
+              "publishedAt": "2026-03-14T10:26:12Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
               "link": "https://github.com/Comfy-Org/ComfyUI",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:35:00Z",
+              "publishedAt": "2026-03-14T10:16:45Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:31:19Z",
+              "publishedAt": "2026-03-14T09:54:41Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -406,7 +404,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 5
+          "count": 6
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -442,14 +440,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "China's five-year roadmap bets big on innovation in strategic leap - 环球网",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdkwwUTV0SnRSc3h3ZjJUZlFUR203RUZxYXRfeloxNWp5SVhnNDB4aWViNW5QU2xCdEc3TElHNWR3WlNXRHRxaTk0N2NzMkxUbDZr?oc=5",
-              "source": "环球网",
-              "publishedAt": "Wed, 11 Mar 2026 09:30:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdkwwUTV0SnRSc3h3ZjJUZlFUR203RUZxYXRfeloxNWp5SVhnNDB4aWViNW5QU2xCdEc3TElHNWR3WlNXRHRxaTk0N2NzMkxUbDZr?oc=5\" target=\"_blank\">China's five-year roadmap bets big on innovation in strategic leap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">环球网</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "From model to agent: Equipping the Responses API with a computer environment",
               "link": "https://openai.com/index/equip-responses-api-computer-environment",
               "source": "RSS",
@@ -460,21 +450,21 @@
               "title": "ollama/ollama - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
               "link": "https://github.com/ollama/ollama",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:40:17Z",
+              "publishedAt": "2026-03-14T10:18:53Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
               "link": "https://github.com/Comfy-Org/ComfyUI",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:35:00Z",
+              "publishedAt": "2026-03-14T10:16:45Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:42:02Z",
+              "publishedAt": "2026-03-14T10:35:11Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -516,20 +506,19 @@
               "channelId": "google_news"
             },
             {
-              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5",
-              "source": "深潮TechFlow",
-              "publishedAt": "Wed, 11 Mar 2026 19:13:04 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants - ekhbary.com",
               "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5",
               "source": "ekhbary.com",
               "publishedAt": "Thu, 12 Mar 2026 06:52:43 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5\" target=\"_blank\">Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ekhbary.com</font>",
               "channelId": "google_news"
+            },
+            {
+              "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
+              "link": "https://github.com/langgenius/dify",
+              "source": "GitHub",
+              "publishedAt": "2026-03-14T10:33:38Z",
+              "channelId": "github_trending_ai"
             }
           ]
         },
@@ -555,7 +544,7 @@
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:42:02Z",
+              "publishedAt": "2026-03-14T10:35:11Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -594,43 +583,43 @@
               "channelId": "google_news"
             },
             {
+              "title": "AWE 2026：华为全场景赋能智慧生活，华为鸿蒙智家进入智慧全生态时代 - 中国日报网",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kSFVrN0tHTGFmeE5mUXZTNC04UGw3ZUlCVWctb0NfQUowX2tEdGpuMF81NXI2dllxSE8tekxWQU1aZGN2NFNUQV90UVlHR01TYkdSNDNHTXg0b2hVY3JvZU1SaEZJLUxvc2hsTERuVHRjSENpUWpkR0lybw?oc=5",
+              "source": "中国日报网",
+              "publishedAt": "Sat, 14 Mar 2026 08:05:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1kSFVrN0tHTGFmeE5mUXZTNC04UGw3ZUlCVWctb0NfQUowX2tEdGpuMF81NXI2dllxSE8tekxWQU1aZGN2NFNUQV90UVlHR01TYkdSNDNHTXg0b2hVY3JvZU1SaEZJLUxvc2hsTERuVHRjSENpUWpkR0lybw?oc=5\" target=\"_blank\">AWE 2026：华为全场景赋能智慧生活，华为鸿蒙智家进入智慧全生态时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国日报网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "腾讯“龙虾”全国免费安装计划启动 - 同花顺财经",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5",
+              "source": "同花顺财经",
+              "publishedAt": "Sat, 14 Mar 2026 09:26:59 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5\" target=\"_blank\">腾讯“龙虾”全国免费安装计划启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "AWE2026|全场景落地加速 华为鸿蒙智家进入智慧全生态时代 - cb.com.cn",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CLXV2d2dUZXdmc1VLaFY2b216dUhEWVZhQXQyVllVSFFLa2tzMEpsaUU3N2VVTzZvWTRaZWNXYWZNRjRnUWNvTXFkTWZKV28zbnJiNVkzSGZQTGFfcnJHU0J3?oc=5",
+              "source": "cb.com.cn",
+              "publishedAt": "Sat, 14 Mar 2026 08:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CLXV2d2dUZXdmc1VLaFY2b216dUhEWVZhQXQyVllVSFFLa2tzMEpsaUU3N2VVTzZvWTRaZWNXYWZNRjRnUWNvTXFkTWZKV28zbnJiNVkzSGZQTGFfcnJHU0J3?oc=5\" target=\"_blank\">AWE2026|全场景落地加速 华为鸿蒙智家进入智慧全生态时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cb.com.cn</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "京东自营家装全新启航，开启AI智慧家装新纪元 - 凤凰网财经",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DaVRsM0luX0JLM2VSQWNEc0VQaDNTemRCNU85RHhwLThjRzNoNDRoNkxuNDdjUl9vNktPWXA3SXg3emNuNHFrUlZDS0IwTFhl?oc=5",
+              "source": "凤凰网财经",
+              "publishedAt": "Sat, 14 Mar 2026 09:50:05 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DaVRsM0luX0JLM2VSQWNEc0VQaDNTemRCNU85RHhwLThjRzNoNDRoNkxuNDdjUl9vNktPWXA3SXg3emNuNHFrUlZDS0IwTFhl?oc=5\" target=\"_blank\">京东自营家装全新启航，开启AI智慧家装新纪元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网财经</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "京东MALL“智享银龄馆”对公众开放_央广网 - 央广网",
               "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9feWpFU2JwR1hpNGF4bEZXdjJaYjN5SWtrU1ZQRVJzNE9yMnJ5SzFPSTRTRzRfblJibmdYRDROdWIyaThTNVgzQzBIdE1vOXAtZkprdnhsZ1Q5bTM5OFVRMU1vaTBfNlQ3V1hLamt1VGdFY19nSmh0d29Ua1dRUQ?oc=5",
               "source": "央广网",
               "publishedAt": "Sat, 14 Mar 2026 00:44:58 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9feWpFU2JwR1hpNGF4bEZXdjJaYjN5SWtrU1ZQRVJzNE9yMnJ5SzFPSTRTRzRfblJibmdYRDROdWIyaThTNVgzQzBIdE1vOXAtZkprdnhsZ1Q5bTM5OFVRMU1vaTBfNlQ3V1hLamt1VGdFY19nSmh0d29Ua1dRUQ?oc=5\" target=\"_blank\">京东MALL“智享银龄馆”对公众开放_央广网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央广网</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "华为鸿蒙智家亮相AWE 2026 从单品到全生态重构智慧生活 - 经济参考报",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQTl4Z2p1U194RjdpSUs5ZU9vX1Y2SmVqZEJzeGpkZkNCVVl4UE1aR2Ixb2tvZkdPckUyd3JjZkw1cXhxMHpIRkJjZjNVYVNtRUx1Mi1pSXpHZkZQUzl3Y1RfdFU2NU83Y1ozcWxtaDRrYldxLTJIcUM1QWdFWEpiRg?oc=5",
-              "source": "经济参考报",
-              "publishedAt": "Sat, 14 Mar 2026 03:53:50 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPQTl4Z2p1U194RjdpSUs5ZU9vX1Y2SmVqZEJzeGpkZkNCVVl4UE1aR2Ixb2tvZkdPckUyd3JjZkw1cXhxMHpIRkJjZjNVYVNtRUx1Mi1pSXpHZkZQUzl3Y1RfdFU2NU83Y1ozcWxtaDRrYldxLTJIcUM1QWdFWEpiRg?oc=5\" target=\"_blank\">华为鸿蒙智家亮相AWE 2026 从单品到全生态重构智慧生活</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "浙江省人民政府与吉利控股集团签署战略框架协议 - 新京报",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11OER4VkJLcld4d0pPakxRT0xHeHQ5RHZZYXdNSWduRDRJdU5UZV9VbmdLNEtRTEsxRXUxckVGLUJNUVFkSEMtWUdYX3JpVmJEb0xVVkNBLUdUamd3TjVyeFhNZFc?oc=5",
-              "source": "新京报",
-              "publishedAt": "Sat, 14 Mar 2026 07:44:31 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE11OER4VkJLcld4d0pPakxRT0xHeHQ5RHZZYXdNSWduRDRJdU5UZV9VbmdLNEtRTEsxRXUxckVGLUJNUVFkSEMtWUdYX3JpVmJEb0xVVkNBLUdUamd3TjVyeFhNZFc?oc=5\" target=\"_blank\">浙江省人民政府与吉利控股集团签署战略框架协议</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新京报</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "华为公司副总裁马悦一行来校交流 - 天际新闻网",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XMHF1NEJxVmItRURWdE9NVzhDM00wal9MRGlaM09TeDZtNUFIXzlOWlptTlJYNXBQVEtFS0RLSy1ZRnlpWEwyV1pEQzhpcmlEYXBIMEVBdmpXUQ?oc=5",
-              "source": "天际新闻网",
-              "publishedAt": "Sat, 14 Mar 2026 05:15:10 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XMHF1NEJxVmItRURWdE9NVzhDM00wal9MRGlaM09TeDZtNUFIXzlOWlptTlJYNXBQVEtFS0RLSy1ZRnlpWEwyV1pEQzhpcmlEYXBIMEVBdmpXUQ?oc=5\" target=\"_blank\">华为公司副总裁马悦一行来校交流</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天际新闻网</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "美团王莆中：让每个商家都能用上自己的智能助理 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52UU9CUVVKcEJiRW14ajdBZ2pIeEU4YVZ1U0tsVkU4Zk9GU0dsYk1oLTQzQjZRc1hucXQwS2stVDl1RFRvRnBkOGM3SkIxR3p2b3pzMHdROF9rNWwtYTEtaA?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Sat, 14 Mar 2026 03:06:12 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE52UU9CUVVKcEJiRW14ajdBZ2pIeEU4YVZ1U0tsVkU4Zk9GU0dsYk1oLTQzQjZRc1hucXQwS2stVDl1RFRvRnBkOGM3SkIxR3p2b3pzMHdROF9rNWwtYTEtaA?oc=5\" target=\"_blank\">美团王莆中：让每个商家都能用上自己的智能助理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
               "channelId": "google_news"
             }
           ]
@@ -667,16 +656,8 @@
               "title": "DACon 2026上海站启动，驶向AI深水区，构建下一代「Data+AI」基座(1) - 品玩",
               "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2T1kxSU92Z3JNUTBaR2ltVEdkcWQzV0RCTk9NeF9qWm9HTVdTMWZMdnljWUlrNE5PdFdPWGdITXFlTHFDbEJHMQ?oc=5",
               "source": "品玩",
-              "publishedAt": "Fri, 13 Mar 2026 09:50:24 GMT",
+              "publishedAt": "Fri, 13 Mar 2026 09:08:24 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2T1kxSU92Z3JNUTBaR2ltVEdkcWQzV0RCTk9NeF9qWm9HTVdTMWZMdnljWUlrNE5PdFdPWGdITXFlTHFDbEJHMQ?oc=5\" target=\"_blank\">DACon 2026上海站启动，驶向AI深水区，构建下一代「Data+AI」基座(1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">品玩</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "重磅！OpenClaw+OpenViking 正式登陆鲲鹏，打造端到端AI Agent最佳实践 - 51CTO",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xZVdBUFd2MkV4a1paRk00dVNQVEM3QWNzWklIR3RoTV9JYWRpc2liMnd1bEp1Zm5qWTc0RkJVdXR0ZUVVUWwxQW1uay1RcU1HazZj?oc=5",
-              "source": "51CTO",
-              "publishedAt": "Wed, 11 Mar 2026 08:47:27 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xZVdBUFd2MkV4a1paRk00dVNQVEM3QWNzWklIR3RoTV9JYWRpc2liMnd1bEp1Zm5qWTc0RkJVdXR0ZUVVUWwxQW1uay1RcU1HazZj?oc=5\" target=\"_blank\">重磅！OpenClaw+OpenViking 正式登陆鲲鹏，打造端到端AI Agent最佳实践</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
               "channelId": "google_news"
             },
             {
@@ -685,6 +666,14 @@
               "source": "新浪财经",
               "publishedAt": "Fri, 13 Mar 2026 02:01:49 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4wMXB4dlRVN2xUcFRhVElBSTdzVm1nbWJvQVVfQ25Ka3BRcG1fc1U5aldNRVlpU1QxR3pENjlSMEx5NUJZb0o0LUJmbDBCcTFDU0d5dGlnOGw3dkl1Y3J2MUdxUlBKMTdvdGFmMmdnZjl6TXctRXc?oc=5\" target=\"_blank\">独家｜清华北大普林斯顿天才少年，用“空间Agent”重构AI健康硬件，高瓴、智元投了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "AgenticRAGTracer：首个支持逐步诊断的Agentic RAG 多跳推理基准 - 51CTO",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zejY4Q3hVeVJNTjJra1ZpcVZ6Y2VSMVVPaGtNUW1mbHdIUEdMcy1nanVxNmhBZVZrdjRnR3MwV1dSdndEQnk2ZVZYMG5Mdw?oc=5",
+              "source": "51CTO",
+              "publishedAt": "Fri, 13 Mar 2026 00:55:07 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zejY4Q3hVeVJNTjJra1ZpcVZ6Y2VSMVVPaGtNUW1mbHdIUEdMcy1nanVxNmhBZVZrdjRnR3MwV1dSdndEQnk2ZVZYMG5Mdw?oc=5\" target=\"_blank\">AgenticRAGTracer：首个支持逐步诊断的Agentic RAG 多跳推理基准</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
               "channelId": "google_news"
             }
           ]
@@ -697,7 +686,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:34:23Z",
+              "publishedAt": "2026-03-14T10:28:34Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -724,28 +713,28 @@
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:39:29Z",
+              "publishedAt": "2026-03-14T09:37:03Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:39:40Z",
+              "publishedAt": "2026-03-14T10:34:00Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
               "link": "https://github.com/langflow-ai/langflow",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:36:59Z",
+              "publishedAt": "2026-03-14T09:53:46Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:42:55Z",
+              "publishedAt": "2026-03-14T10:26:12Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -845,7 +834,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 5
+          "count": 6
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -872,14 +861,6 @@
           "title": "技术突破",
           "query": "AI breakthrough",
           "items": [
-            {
-              "title": "深度原理完成A2轮融资 - 新浪网",
-              "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQcERUaHlEU0ROTHZ0Mm1CRUVzV25mVzJLQmdhbmdDZ1V4ZlFudThJREVTQjdSZW5haV80Y3VEZXJDWlhUWU1oMjlzV01uVTQ5cjR4UDA3VDZIdzF4bEVYZzB0OVdEOXVHQVI3M2M5OFo5R2VUTGpKTmhJYnowM2lPcFFzYW9Zd0ZEVFJmUTdKUk90LWpHSXZtcl9DUXZwZmVocW01TEhSRjJCNkMxTWNMbVNySmFBdGwyYW9NZVRCRGFueUxuUnUwc3dwRTFQdV9UcUlMUXc3WEpkUWtBNE9DTTBxdmFQaDZaekpqanlsZGxMZnNfUGhSUjB0d1VXbDlaQXRJNktNOEQ2a19pN1FYb09QS3R5OU5wR1VnTW9tOXI4bHVqWWZDX2JnUFB1TE1fcGNCcGJtdzItMkhkc251cDVaM0VHc1IxMkszcms2TFdDbFg0bmtSZGhsRVh6UmIxaE5yR1pTd3pwb3duTnNNZ3c0dVdqUEtObHdPMWxkU3J0blpIdlpKdEs1N0tCNFY2N0pwY1l1Qmxpb0hNbEsyTDdMTU1sSGkzRHRCLVRMdw?oc=5",
-              "source": "新浪网",
-              "publishedAt": "Sat, 07 Mar 2026 10:17:24 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwNBVV95cUxQcERUaHlEU0ROTHZ0Mm1CRUVzV25mVzJLQmdhbmdDZ1V4ZlFudThJREVTQjdSZW5haV80Y3VEZXJDWlhUWU1oMjlzV01uVTQ5cjR4UDA3VDZIdzF4bEVYZzB0OVdEOXVHQVI3M2M5OFo5R2VUTGpKTmhJYnowM2lPcFFzYW9Zd0ZEVFJmUTdKUk90LWpHSXZtcl9DUXZwZmVocW01TEhSRjJCNkMxTWNMbVNySmFBdGwyYW9NZVRCRGFueUxuUnUwc3dwRTFQdV9UcUlMUXc3WEpkUWtBNE9DTTBxdmFQaDZaekpqanlsZGxMZnNfUGhSUjB0d1VXbDlaQXRJNktNOEQ2a19pN1FYb09QS3R5OU5wR1VnTW9tOXI4bHVqWWZDX2JnUFB1TE1fcGNCcGJtdzItMkhkc251cDVaM0VHc1IxMkszcms2TFdDbFg0bmtSZGhsRVh6UmIxaE5yR1pTd3pwb3duTnNNZ3c0dVdqUEtObHdPMWxkU3J0blpIdlpKdEs1N0tCNFY2N0pwY1l1Qmxpb0hNbEsyTDdMTU1sSGkzRHRCLVRMdw?oc=5\" target=\"_blank\">深度原理完成A2轮融资</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-              "channelId": "google_news"
-            },
             {
               "title": "AI新突破：精准解码脑信号，升级脑机接口技术 - 51CTO",
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1Z0F4YXpTcHhUelBxVllXTnJKcEFycFlmZ01KdmdHMm91Y0tVZ3JwLTNPWFFFVFdjWXlZTGZHcHFMUl81Mk0ydkJCZmlfMjNoMUsw?oc=5",
@@ -919,6 +900,13 @@
               "publishedAt": "Sun, 08 Mar 2026 10:00:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeFNpdnhDUUNiYm43ZGVNN1U2ZTlsYURJTlpGblcxdTZFYUVoWjlvT2Q1TFo1YWhKbVhYSlhjLXdDSzUyc0N0bk9iLWJoZ093UGpRSXRFVWRVbWFxOUt2VF83bGdyUk5TV0RKbG9neEh6cE42SXVSUVh5LU91QmN0S3lCa0tUaU1oRUFrNHRQMnJoYnVSZDNQcVFxZFR4dnRtWVVqd3JkY21rTUdFdWhzbE1uSVAzMHZ6WEVfNndLLXpZa2NFeG1ZczV6UlZnVTRaLUVua0ROd1R5akdsc2FxS3gzSW41cDFQRmloME1lOA?oc=5\" target=\"_blank\">Karpathy提出突破：类SETI@home的异步协作式Autoresearch代理体系——2026深度分析| AI快讯详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
               "channelId": "google_news"
+            },
+            {
+              "title": "From model to agent: Equipping the Responses API with a computer environment",
+              "link": "https://openai.com/index/equip-responses-api-computer-environment",
+              "source": "RSS",
+              "publishedAt": "Wed, 11 Mar 2026 11:00:00 GMT",
+              "channelId": "openai_blog"
             }
           ]
         },
@@ -927,19 +915,19 @@
           "query": "AI product launch",
           "items": [
             {
+              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5",
+              "source": "深潮TechFlow",
+              "publishedAt": "Wed, 11 Mar 2026 09:52:56 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "BullFrog将举办关于新型精准AI能力的网络研讨会。 - 富途牛牛",
               "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5",
               "source": "富途牛牛",
               "publishedAt": "Wed, 11 Mar 2026 12:00:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5\" target=\"_blank\">BullFrog将举办关于新型精准AI能力的网络研讨会。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Aurelion 推出 AI Shop，AI Agent 可 7×24 交易 XAU₮ - 深潮TechFlow",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSV0ZFUEJhZGJrekdLOU8zN3llZEpHcGVyYWVSNVp6cTN5N0x3bnlLdlRCOEdZbWxJcXV3WDRleGR3YW9CV3ZielluTjVybFgtT2Jadk14clVmWTRkLWlMeTVn?oc=5",
-              "source": "深潮TechFlow",
-              "publishedAt": "Sun, 08 Mar 2026 19:50:26 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSV0ZFUEJhZGJrekdLOU8zN3llZEpHcGVyYWVSNVp6cTN5N0x3bnlLdlRCOEdZbWxJcXV3WDRleGR3YW9CV3ZielluTjVybFgtT2Jadk14clVmWTRkLWlMeTVn?oc=5\" target=\"_blank\">Aurelion 推出 AI Shop，AI Agent 可 7×24 交易 XAU₮</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
               "channelId": "google_news"
             },
             {
@@ -967,11 +955,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5",
-              "source": "深潮TechFlow",
-              "publishedAt": "Wed, 11 Mar 2026 19:13:04 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
+              "title": "Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants - ekhbary.com",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5",
+              "source": "ekhbary.com",
+              "publishedAt": "Thu, 12 Mar 2026 06:52:43 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5\" target=\"_blank\">Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ekhbary.com</font>",
               "channelId": "google_news"
             }
           ]
@@ -1037,43 +1025,43 @@
               "channelId": "google_news"
             },
             {
+              "title": "AWE 2026：华为全场景赋能智慧生活，华为鸿蒙智家进入智慧全生态时代 - 中国日报网",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kSFVrN0tHTGFmeE5mUXZTNC04UGw3ZUlCVWctb0NfQUowX2tEdGpuMF81NXI2dllxSE8tekxWQU1aZGN2NFNUQV90UVlHR01TYkdSNDNHTXg0b2hVY3JvZU1SaEZJLUxvc2hsTERuVHRjSENpUWpkR0lybw?oc=5",
+              "source": "中国日报网",
+              "publishedAt": "Sat, 14 Mar 2026 08:05:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1kSFVrN0tHTGFmeE5mUXZTNC04UGw3ZUlCVWctb0NfQUowX2tEdGpuMF81NXI2dllxSE8tekxWQU1aZGN2NFNUQV90UVlHR01TYkdSNDNHTXg0b2hVY3JvZU1SaEZJLUxvc2hsTERuVHRjSENpUWpkR0lybw?oc=5\" target=\"_blank\">AWE 2026：华为全场景赋能智慧生活，华为鸿蒙智家进入智慧全生态时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国日报网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "腾讯“龙虾”全国免费安装计划启动 - 同花顺财经",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5",
+              "source": "同花顺财经",
+              "publishedAt": "Sat, 14 Mar 2026 09:26:59 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5\" target=\"_blank\">腾讯“龙虾”全国免费安装计划启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "AWE2026|全场景落地加速 华为鸿蒙智家进入智慧全生态时代 - cb.com.cn",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CLXV2d2dUZXdmc1VLaFY2b216dUhEWVZhQXQyVllVSFFLa2tzMEpsaUU3N2VVTzZvWTRaZWNXYWZNRjRnUWNvTXFkTWZKV28zbnJiNVkzSGZQTGFfcnJHU0J3?oc=5",
+              "source": "cb.com.cn",
+              "publishedAt": "Sat, 14 Mar 2026 08:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CLXV2d2dUZXdmc1VLaFY2b216dUhEWVZhQXQyVllVSFFLa2tzMEpsaUU3N2VVTzZvWTRaZWNXYWZNRjRnUWNvTXFkTWZKV28zbnJiNVkzSGZQTGFfcnJHU0J3?oc=5\" target=\"_blank\">AWE2026|全场景落地加速 华为鸿蒙智家进入智慧全生态时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cb.com.cn</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "京东自营家装全新启航，开启AI智慧家装新纪元 - 凤凰网财经",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DaVRsM0luX0JLM2VSQWNEc0VQaDNTemRCNU85RHhwLThjRzNoNDRoNkxuNDdjUl9vNktPWXA3SXg3emNuNHFrUlZDS0IwTFhl?oc=5",
+              "source": "凤凰网财经",
+              "publishedAt": "Sat, 14 Mar 2026 09:50:05 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DaVRsM0luX0JLM2VSQWNEc0VQaDNTemRCNU85RHhwLThjRzNoNDRoNkxuNDdjUl9vNktPWXA3SXg3emNuNHFrUlZDS0IwTFhl?oc=5\" target=\"_blank\">京东自营家装全新启航，开启AI智慧家装新纪元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网财经</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "京东MALL“智享银龄馆”对公众开放_央广网 - 央广网",
               "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9feWpFU2JwR1hpNGF4bEZXdjJaYjN5SWtrU1ZQRVJzNE9yMnJ5SzFPSTRTRzRfblJibmdYRDROdWIyaThTNVgzQzBIdE1vOXAtZkprdnhsZ1Q5bTM5OFVRMU1vaTBfNlQ3V1hLamt1VGdFY19nSmh0d29Ua1dRUQ?oc=5",
               "source": "央广网",
               "publishedAt": "Sat, 14 Mar 2026 00:44:58 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9feWpFU2JwR1hpNGF4bEZXdjJaYjN5SWtrU1ZQRVJzNE9yMnJ5SzFPSTRTRzRfblJibmdYRDROdWIyaThTNVgzQzBIdE1vOXAtZkprdnhsZ1Q5bTM5OFVRMU1vaTBfNlQ3V1hLamt1VGdFY19nSmh0d29Ua1dRUQ?oc=5\" target=\"_blank\">京东MALL“智享银龄馆”对公众开放_央广网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央广网</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "华为鸿蒙智家亮相AWE 2026 从单品到全生态重构智慧生活 - 经济参考报",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQTl4Z2p1U194RjdpSUs5ZU9vX1Y2SmVqZEJzeGpkZkNCVVl4UE1aR2Ixb2tvZkdPckUyd3JjZkw1cXhxMHpIRkJjZjNVYVNtRUx1Mi1pSXpHZkZQUzl3Y1RfdFU2NU83Y1ozcWxtaDRrYldxLTJIcUM1QWdFWEpiRg?oc=5",
-              "source": "经济参考报",
-              "publishedAt": "Sat, 14 Mar 2026 03:53:50 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPQTl4Z2p1U194RjdpSUs5ZU9vX1Y2SmVqZEJzeGpkZkNCVVl4UE1aR2Ixb2tvZkdPckUyd3JjZkw1cXhxMHpIRkJjZjNVYVNtRUx1Mi1pSXpHZkZQUzl3Y1RfdFU2NU83Y1ozcWxtaDRrYldxLTJIcUM1QWdFWEpiRg?oc=5\" target=\"_blank\">华为鸿蒙智家亮相AWE 2026 从单品到全生态重构智慧生活</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "浙江省人民政府与吉利控股集团签署战略框架协议 - 新京报",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11OER4VkJLcld4d0pPakxRT0xHeHQ5RHZZYXdNSWduRDRJdU5UZV9VbmdLNEtRTEsxRXUxckVGLUJNUVFkSEMtWUdYX3JpVmJEb0xVVkNBLUdUamd3TjVyeFhNZFc?oc=5",
-              "source": "新京报",
-              "publishedAt": "Sat, 14 Mar 2026 07:44:31 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE11OER4VkJLcld4d0pPakxRT0xHeHQ5RHZZYXdNSWduRDRJdU5UZV9VbmdLNEtRTEsxRXUxckVGLUJNUVFkSEMtWUdYX3JpVmJEb0xVVkNBLUdUamd3TjVyeFhNZFc?oc=5\" target=\"_blank\">浙江省人民政府与吉利控股集团签署战略框架协议</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新京报</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "华为公司副总裁马悦一行来校交流 - 天际新闻网",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XMHF1NEJxVmItRURWdE9NVzhDM00wal9MRGlaM09TeDZtNUFIXzlOWlptTlJYNXBQVEtFS0RLSy1ZRnlpWEwyV1pEQzhpcmlEYXBIMEVBdmpXUQ?oc=5",
-              "source": "天际新闻网",
-              "publishedAt": "Sat, 14 Mar 2026 05:15:10 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XMHF1NEJxVmItRURWdE9NVzhDM00wal9MRGlaM09TeDZtNUFIXzlOWlptTlJYNXBQVEtFS0RLSy1ZRnlpWEwyV1pEQzhpcmlEYXBIMEVBdmpXUQ?oc=5\" target=\"_blank\">华为公司副总裁马悦一行来校交流</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天际新闻网</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "美团王莆中：让每个商家都能用上自己的智能助理 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52UU9CUVVKcEJiRW14ajdBZ2pIeEU4YVZ1U0tsVkU4Zk9GU0dsYk1oLTQzQjZRc1hucXQwS2stVDl1RFRvRnBkOGM3SkIxR3p2b3pzMHdROF9rNWwtYTEtaA?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Sat, 14 Mar 2026 03:06:12 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE52UU9CUVVKcEJiRW14ajdBZ2pIeEU4YVZ1U0tsVkU4Zk9GU0dsYk1oLTQzQjZRc1hucXQwS2stVDl1RFRvRnBkOGM3SkIxR3p2b3pzMHdROF9rNWwtYTEtaA?oc=5\" target=\"_blank\">美团王莆中：让每个商家都能用上自己的智能助理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
               "channelId": "google_news"
             }
           ]
@@ -1083,11 +1071,11 @@
           "query": "AI agents agentic",
           "items": [
             {
-              "title": "从OpenClaw说起：Agentic AI时代CPU价值的回归 - 36kr.com",
+              "title": "从OpenClaw说起：Agentic AI时代CPU价值的回归 - 36 Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5",
-              "source": "36kr.com",
+              "source": "36 Kr",
               "publishedAt": "Tue, 10 Mar 2026 12:15:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5\" target=\"_blank\">从OpenClaw说起：Agentic AI时代CPU价值的回归</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36kr.com</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5\" target=\"_blank\">从OpenClaw说起：Agentic AI时代CPU价值的回归</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
               "channelId": "google_news"
             },
             {
@@ -1123,11 +1111,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "构筑AI时代品牌全球化的增长护城河 易点天下“可见性增长峰会”圆满收官 - 经济参考报",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeFpUTU5Ld2VoYkNzSVpyZ3BRQTNZZjZQSTFGN19PZEhfVWhJZk9IWEtYZS1FalB6bEpjUlB6UzkxYnNKUDdDX0hXY2lxQmdRYlNrdWIxOG45ZFQ4YWFhbDlDdWROZnB4VHVKYTN4dmlfa2JPVUhtbnVEcXFlTHlpWQ?oc=5",
-              "source": "经济参考报",
-              "publishedAt": "Mon, 09 Mar 2026 06:33:14 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOeFpUTU5Ld2VoYkNzSVpyZ3BRQTNZZjZQSTFGN19PZEhfVWhJZk9IWEtYZS1FalB6bEpjUlB6UzkxYnNKUDdDX0hXY2lxQmdRYlNrdWIxOG45ZFQ4YWFhbDlDdWROZnB4VHVKYTN4dmlfa2JPVUhtbnVEcXFlTHlpWQ?oc=5\" target=\"_blank\">构筑AI时代品牌全球化的增长护城河 易点天下“可见性增长峰会”圆满收官</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
+              "title": "波场TRON加入全球知名AI理事会，成Agentic AI理事会金牌会员 - PANews",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fNjdlWFdMNFI5MGljUkt1a1lqdjdHdWRubEp5SHNNR1VpMmM0MHFZVnBUdE14S3M2b08tZm8wMHI1NVpzZURzOFRnVWh0cXk5MzA5R1dWZmFRYTFVRXIxRWo0YUFueldKSDlRUDJVSU5fTFEyUFZzQXBVa0VnUUU?oc=5",
+              "source": "PANews",
+              "publishedAt": "Wed, 11 Mar 2026 16:29:28 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9fNjdlWFdMNFI5MGljUkt1a1lqdjdHdWRubEp5SHNNR1VpMmM0MHFZVnBUdE14S3M2b08tZm8wMHI1NVpzZURzOFRnVWh0cXk5MzA5R1dWZmFRYTFVRXIxRWo0YUFueldKSDlRUDJVSU5fTFEyUFZzQXBVa0VnUUU?oc=5\" target=\"_blank\">波场TRON加入全球知名AI理事会，成Agentic AI理事会金牌会员</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
               "channelId": "google_news"
             }
           ]
@@ -1154,7 +1142,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:34:23Z",
+              "publishedAt": "2026-03-14T10:28:34Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1304,7 +1292,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 5
+          "count": 6
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1386,19 +1374,19 @@
           "query": "AI product launch",
           "items": [
             {
+              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5",
+              "source": "深潮TechFlow",
+              "publishedAt": "Wed, 11 Mar 2026 09:52:56 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "BullFrog将举办关于新型精准AI能力的网络研讨会。 - 富途牛牛",
               "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5",
               "source": "富途牛牛",
               "publishedAt": "Wed, 11 Mar 2026 12:00:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5\" target=\"_blank\">BullFrog将举办关于新型精准AI能力的网络研讨会。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Aurelion 推出 AI Shop，AI Agent 可 7×24 交易 XAU₮ - 深潮TechFlow",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSV0ZFUEJhZGJrekdLOU8zN3llZEpHcGVyYWVSNVp6cTN5N0x3bnlLdlRCOEdZbWxJcXV3WDRleGR3YW9CV3ZielluTjVybFgtT2Jadk14clVmWTRkLWlMeTVn?oc=5",
-              "source": "深潮TechFlow",
-              "publishedAt": "Sun, 08 Mar 2026 19:50:26 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSV0ZFUEJhZGJrekdLOU8zN3llZEpHcGVyYWVSNVp6cTN5N0x3bnlLdlRCOEdZbWxJcXV3WDRleGR3YW9CV3ZielluTjVybFgtT2Jadk14clVmWTRkLWlMeTVn?oc=5\" target=\"_blank\">Aurelion 推出 AI Shop，AI Agent 可 7×24 交易 XAU₮</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
               "channelId": "google_news"
             },
             {
@@ -1497,43 +1485,43 @@
               "channelId": "google_news"
             },
             {
+              "title": "AWE 2026：华为全场景赋能智慧生活，华为鸿蒙智家进入智慧全生态时代 - 中国日报网",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kSFVrN0tHTGFmeE5mUXZTNC04UGw3ZUlCVWctb0NfQUowX2tEdGpuMF81NXI2dllxSE8tekxWQU1aZGN2NFNUQV90UVlHR01TYkdSNDNHTXg0b2hVY3JvZU1SaEZJLUxvc2hsTERuVHRjSENpUWpkR0lybw?oc=5",
+              "source": "中国日报网",
+              "publishedAt": "Sat, 14 Mar 2026 08:05:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1kSFVrN0tHTGFmeE5mUXZTNC04UGw3ZUlCVWctb0NfQUowX2tEdGpuMF81NXI2dllxSE8tekxWQU1aZGN2NFNUQV90UVlHR01TYkdSNDNHTXg0b2hVY3JvZU1SaEZJLUxvc2hsTERuVHRjSENpUWpkR0lybw?oc=5\" target=\"_blank\">AWE 2026：华为全场景赋能智慧生活，华为鸿蒙智家进入智慧全生态时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国日报网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "腾讯“龙虾”全国免费安装计划启动 - 同花顺财经",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5",
+              "source": "同花顺财经",
+              "publishedAt": "Sat, 14 Mar 2026 09:26:59 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5\" target=\"_blank\">腾讯“龙虾”全国免费安装计划启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "AWE2026|全场景落地加速 华为鸿蒙智家进入智慧全生态时代 - cb.com.cn",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CLXV2d2dUZXdmc1VLaFY2b216dUhEWVZhQXQyVllVSFFLa2tzMEpsaUU3N2VVTzZvWTRaZWNXYWZNRjRnUWNvTXFkTWZKV28zbnJiNVkzSGZQTGFfcnJHU0J3?oc=5",
+              "source": "cb.com.cn",
+              "publishedAt": "Sat, 14 Mar 2026 08:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CLXV2d2dUZXdmc1VLaFY2b216dUhEWVZhQXQyVllVSFFLa2tzMEpsaUU3N2VVTzZvWTRaZWNXYWZNRjRnUWNvTXFkTWZKV28zbnJiNVkzSGZQTGFfcnJHU0J3?oc=5\" target=\"_blank\">AWE2026|全场景落地加速 华为鸿蒙智家进入智慧全生态时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cb.com.cn</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "京东自营家装全新启航，开启AI智慧家装新纪元 - 凤凰网财经",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DaVRsM0luX0JLM2VSQWNEc0VQaDNTemRCNU85RHhwLThjRzNoNDRoNkxuNDdjUl9vNktPWXA3SXg3emNuNHFrUlZDS0IwTFhl?oc=5",
+              "source": "凤凰网财经",
+              "publishedAt": "Sat, 14 Mar 2026 09:50:05 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DaVRsM0luX0JLM2VSQWNEc0VQaDNTemRCNU85RHhwLThjRzNoNDRoNkxuNDdjUl9vNktPWXA3SXg3emNuNHFrUlZDS0IwTFhl?oc=5\" target=\"_blank\">京东自营家装全新启航，开启AI智慧家装新纪元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网财经</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "京东MALL“智享银龄馆”对公众开放_央广网 - 央广网",
               "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9feWpFU2JwR1hpNGF4bEZXdjJaYjN5SWtrU1ZQRVJzNE9yMnJ5SzFPSTRTRzRfblJibmdYRDROdWIyaThTNVgzQzBIdE1vOXAtZkprdnhsZ1Q5bTM5OFVRMU1vaTBfNlQ3V1hLamt1VGdFY19nSmh0d29Ua1dRUQ?oc=5",
               "source": "央广网",
               "publishedAt": "Sat, 14 Mar 2026 00:44:58 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9feWpFU2JwR1hpNGF4bEZXdjJaYjN5SWtrU1ZQRVJzNE9yMnJ5SzFPSTRTRzRfblJibmdYRDROdWIyaThTNVgzQzBIdE1vOXAtZkprdnhsZ1Q5bTM5OFVRMU1vaTBfNlQ3V1hLamt1VGdFY19nSmh0d29Ua1dRUQ?oc=5\" target=\"_blank\">京东MALL“智享银龄馆”对公众开放_央广网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央广网</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "华为鸿蒙智家亮相AWE 2026 从单品到全生态重构智慧生活 - 经济参考报",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQTl4Z2p1U194RjdpSUs5ZU9vX1Y2SmVqZEJzeGpkZkNCVVl4UE1aR2Ixb2tvZkdPckUyd3JjZkw1cXhxMHpIRkJjZjNVYVNtRUx1Mi1pSXpHZkZQUzl3Y1RfdFU2NU83Y1ozcWxtaDRrYldxLTJIcUM1QWdFWEpiRg?oc=5",
-              "source": "经济参考报",
-              "publishedAt": "Sat, 14 Mar 2026 03:53:50 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPQTl4Z2p1U194RjdpSUs5ZU9vX1Y2SmVqZEJzeGpkZkNCVVl4UE1aR2Ixb2tvZkdPckUyd3JjZkw1cXhxMHpIRkJjZjNVYVNtRUx1Mi1pSXpHZkZQUzl3Y1RfdFU2NU83Y1ozcWxtaDRrYldxLTJIcUM1QWdFWEpiRg?oc=5\" target=\"_blank\">华为鸿蒙智家亮相AWE 2026 从单品到全生态重构智慧生活</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "浙江省人民政府与吉利控股集团签署战略框架协议 - 新京报",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11OER4VkJLcld4d0pPakxRT0xHeHQ5RHZZYXdNSWduRDRJdU5UZV9VbmdLNEtRTEsxRXUxckVGLUJNUVFkSEMtWUdYX3JpVmJEb0xVVkNBLUdUamd3TjVyeFhNZFc?oc=5",
-              "source": "新京报",
-              "publishedAt": "Sat, 14 Mar 2026 07:44:31 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE11OER4VkJLcld4d0pPakxRT0xHeHQ5RHZZYXdNSWduRDRJdU5UZV9VbmdLNEtRTEsxRXUxckVGLUJNUVFkSEMtWUdYX3JpVmJEb0xVVkNBLUdUamd3TjVyeFhNZFc?oc=5\" target=\"_blank\">浙江省人民政府与吉利控股集团签署战略框架协议</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新京报</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "华为公司副总裁马悦一行来校交流 - 天际新闻网",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XMHF1NEJxVmItRURWdE9NVzhDM00wal9MRGlaM09TeDZtNUFIXzlOWlptTlJYNXBQVEtFS0RLSy1ZRnlpWEwyV1pEQzhpcmlEYXBIMEVBdmpXUQ?oc=5",
-              "source": "天际新闻网",
-              "publishedAt": "Sat, 14 Mar 2026 05:15:10 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XMHF1NEJxVmItRURWdE9NVzhDM00wal9MRGlaM09TeDZtNUFIXzlOWlptTlJYNXBQVEtFS0RLSy1ZRnlpWEwyV1pEQzhpcmlEYXBIMEVBdmpXUQ?oc=5\" target=\"_blank\">华为公司副总裁马悦一行来校交流</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天际新闻网</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "美团王莆中：让每个商家都能用上自己的智能助理 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52UU9CUVVKcEJiRW14ajdBZ2pIeEU4YVZ1U0tsVkU4Zk9GU0dsYk1oLTQzQjZRc1hucXQwS2stVDl1RFRvRnBkOGM3SkIxR3p2b3pzMHdROF9rNWwtYTEtaA?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Sat, 14 Mar 2026 03:06:12 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE52UU9CUVVKcEJiRW14ajdBZ2pIeEU4YVZ1U0tsVkU4Zk9GU0dsYk1oLTQzQjZRc1hucXQwS2stVDl1RFRvRnBkOGM3SkIxR3p2b3pzMHdROF9rNWwtYTEtaA?oc=5\" target=\"_blank\">美团王莆中：让每个商家都能用上自己的智能助理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
               "channelId": "google_news"
             }
           ]
@@ -1551,11 +1539,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "从OpenClaw说起：Agentic AI时代CPU价值的回归 - 36kr.com",
+              "title": "从OpenClaw说起：Agentic AI时代CPU价值的回归 - 36 Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5",
-              "source": "36kr.com",
+              "source": "36 Kr",
               "publishedAt": "Tue, 10 Mar 2026 12:15:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5\" target=\"_blank\">从OpenClaw说起：Agentic AI时代CPU价值的回归</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36kr.com</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5\" target=\"_blank\">从OpenClaw说起：Agentic AI时代CPU价值的回归</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
               "channelId": "google_news"
             },
             {
@@ -1614,7 +1602,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:34:23Z",
+              "publishedAt": "2026-03-14T10:28:34Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1780,7 +1768,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 5
+          "count": 6
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1854,19 +1842,19 @@
           "query": "AI product launch",
           "items": [
             {
+              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5",
+              "source": "深潮TechFlow",
+              "publishedAt": "Wed, 11 Mar 2026 09:52:56 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "BullFrog将举办关于新型精准AI能力的网络研讨会。 - 富途牛牛",
               "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5",
               "source": "富途牛牛",
               "publishedAt": "Wed, 11 Mar 2026 12:00:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5\" target=\"_blank\">BullFrog将举办关于新型精准AI能力的网络研讨会。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Aurelion 推出 AI Shop，AI Agent 可 7×24 交易 XAU₮ - 深潮TechFlow",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSV0ZFUEJhZGJrekdLOU8zN3llZEpHcGVyYWVSNVp6cTN5N0x3bnlLdlRCOEdZbWxJcXV3WDRleGR3YW9CV3ZielluTjVybFgtT2Jadk14clVmWTRkLWlMeTVn?oc=5",
-              "source": "深潮TechFlow",
-              "publishedAt": "Sun, 08 Mar 2026 19:50:26 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSV0ZFUEJhZGJrekdLOU8zN3llZEpHcGVyYWVSNVp6cTN5N0x3bnlLdlRCOEdZbWxJcXV3WDRleGR3YW9CV3ZielluTjVybFgtT2Jadk14clVmWTRkLWlMeTVn?oc=5\" target=\"_blank\">Aurelion 推出 AI Shop，AI Agent 可 7×24 交易 XAU₮</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
               "channelId": "google_news"
             },
             {
@@ -1886,19 +1874,19 @@
               "channelId": "google_news"
             },
             {
+              "title": "Sigenergy 启用南通智慧能源中心，引领“全领域AI”战略及下一代能源组合 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEFDbkE3cGV3YWJHYVFNRFpkaFpoTUJEd2lEVDFsOEotUC1Kd2VMaDRtX1VWZ3ZibzVwS01aVEczLS1zZVhjYVA0R0YwX1FObFZENUlyOWFJbHFLREVsYUVxdE5qYkVJNXRORlZhWkRoOTQ5OFRfSEFVZG5qZTlqZldUR01FYWxTZG9XaDROZ0pZSkducXk4QW40SndQN0F0UjdNczFPdWJydjRk?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Fri, 13 Mar 2026 10:21:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEFDbkE3cGV3YWJHYVFNRFpkaFpoTUJEd2lEVDFsOEotUC1Kd2VMaDRtX1VWZ3ZibzVwS01aVEczLS1zZVhjYVA0R0YwX1FObFZENUlyOWFJbHFLREVsYUVxdE5qYkVJNXRORlZhWkRoOTQ5OFRfSEFVZG5qZTlqZldUR01FYWxTZG9XaDROZ0pZSkducXk4QW40SndQN0F0UjdNczFPdWJydjRk?oc=5\" target=\"_blank\">Sigenergy 启用南通智慧能源中心，引领“全领域AI”战略及下一代能源组合</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "TIAN RUIXIANG 推出了行业首创的BTC 质押服务，结合了人工智能驱动的收益保险，并推出了完全自主的人工智能保险代理，可实现即时承保与理赔结算。 - 富途牛牛",
               "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVdFNkRIOWRiZERaMlVUb1VQenNwN3FlcjdDSmFGVkcwVFFCMDhIb0NlRVA1LXNBQWJscjh6ZEp5SU5FQkFqRWhOeHB3QTBrV3J6cGFMREl0dk5vSFlxMTRhZS1ZXzMtZU9MREl1X0dQUWhabDJGamJmUFl1Vmt0aVVMZWt2MU1fRE9yRDhUSmpVbmMxalhMdnNnR3BJR2Z4bF80cWg3V0pJNFNpRkx6eGJaWk4?oc=5",
               "source": "富途牛牛",
               "publishedAt": "Wed, 04 Mar 2026 14:00:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVdFNkRIOWRiZERaMlVUb1VQenNwN3FlcjdDSmFGVkcwVFFCMDhIb0NlRVA1LXNBQWJscjh6ZEp5SU5FQkFqRWhOeHB3QTBrV3J6cGFMREl0dk5vSFlxMTRhZS1ZXzMtZU9MREl1X0dQUWhabDJGamJmUFl1Vmt0aVVMZWt2MU1fRE9yRDhUSmpVbmMxalhMdnNnR3BJR2Z4bF80cWg3V0pJNFNpRkx6eGJaWk4?oc=5\" target=\"_blank\">TIAN RUIXIANG 推出了行业首创的BTC 质押服务，结合了人工智能驱动的收益保险，并推出了完全自主的人工智能保险代理，可实现即时承保与理赔结算。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5",
-              "source": "深潮TechFlow",
-              "publishedAt": "Wed, 11 Mar 2026 19:13:04 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
               "channelId": "google_news"
             }
           ]
@@ -1965,43 +1953,43 @@
               "channelId": "google_news"
             },
             {
+              "title": "AWE 2026：华为全场景赋能智慧生活，华为鸿蒙智家进入智慧全生态时代 - 中国日报网",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kSFVrN0tHTGFmeE5mUXZTNC04UGw3ZUlCVWctb0NfQUowX2tEdGpuMF81NXI2dllxSE8tekxWQU1aZGN2NFNUQV90UVlHR01TYkdSNDNHTXg0b2hVY3JvZU1SaEZJLUxvc2hsTERuVHRjSENpUWpkR0lybw?oc=5",
+              "source": "中国日报网",
+              "publishedAt": "Sat, 14 Mar 2026 08:05:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1kSFVrN0tHTGFmeE5mUXZTNC04UGw3ZUlCVWctb0NfQUowX2tEdGpuMF81NXI2dllxSE8tekxWQU1aZGN2NFNUQV90UVlHR01TYkdSNDNHTXg0b2hVY3JvZU1SaEZJLUxvc2hsTERuVHRjSENpUWpkR0lybw?oc=5\" target=\"_blank\">AWE 2026：华为全场景赋能智慧生活，华为鸿蒙智家进入智慧全生态时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国日报网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "腾讯“龙虾”全国免费安装计划启动 - 同花顺财经",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5",
+              "source": "同花顺财经",
+              "publishedAt": "Sat, 14 Mar 2026 09:26:59 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5\" target=\"_blank\">腾讯“龙虾”全国免费安装计划启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "AWE2026|全场景落地加速 华为鸿蒙智家进入智慧全生态时代 - cb.com.cn",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CLXV2d2dUZXdmc1VLaFY2b216dUhEWVZhQXQyVllVSFFLa2tzMEpsaUU3N2VVTzZvWTRaZWNXYWZNRjRnUWNvTXFkTWZKV28zbnJiNVkzSGZQTGFfcnJHU0J3?oc=5",
+              "source": "cb.com.cn",
+              "publishedAt": "Sat, 14 Mar 2026 08:32:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CLXV2d2dUZXdmc1VLaFY2b216dUhEWVZhQXQyVllVSFFLa2tzMEpsaUU3N2VVTzZvWTRaZWNXYWZNRjRnUWNvTXFkTWZKV28zbnJiNVkzSGZQTGFfcnJHU0J3?oc=5\" target=\"_blank\">AWE2026|全场景落地加速 华为鸿蒙智家进入智慧全生态时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cb.com.cn</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "京东自营家装全新启航，开启AI智慧家装新纪元 - 凤凰网财经",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DaVRsM0luX0JLM2VSQWNEc0VQaDNTemRCNU85RHhwLThjRzNoNDRoNkxuNDdjUl9vNktPWXA3SXg3emNuNHFrUlZDS0IwTFhl?oc=5",
+              "source": "凤凰网财经",
+              "publishedAt": "Sat, 14 Mar 2026 09:50:05 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DaVRsM0luX0JLM2VSQWNEc0VQaDNTemRCNU85RHhwLThjRzNoNDRoNkxuNDdjUl9vNktPWXA3SXg3emNuNHFrUlZDS0IwTFhl?oc=5\" target=\"_blank\">京东自营家装全新启航，开启AI智慧家装新纪元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网财经</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "京东MALL“智享银龄馆”对公众开放_央广网 - 央广网",
               "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9feWpFU2JwR1hpNGF4bEZXdjJaYjN5SWtrU1ZQRVJzNE9yMnJ5SzFPSTRTRzRfblJibmdYRDROdWIyaThTNVgzQzBIdE1vOXAtZkprdnhsZ1Q5bTM5OFVRMU1vaTBfNlQ3V1hLamt1VGdFY19nSmh0d29Ua1dRUQ?oc=5",
               "source": "央广网",
               "publishedAt": "Sat, 14 Mar 2026 00:44:58 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9feWpFU2JwR1hpNGF4bEZXdjJaYjN5SWtrU1ZQRVJzNE9yMnJ5SzFPSTRTRzRfblJibmdYRDROdWIyaThTNVgzQzBIdE1vOXAtZkprdnhsZ1Q5bTM5OFVRMU1vaTBfNlQ3V1hLamt1VGdFY19nSmh0d29Ua1dRUQ?oc=5\" target=\"_blank\">京东MALL“智享银龄馆”对公众开放_央广网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央广网</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "华为鸿蒙智家亮相AWE 2026 从单品到全生态重构智慧生活 - 经济参考报",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQTl4Z2p1U194RjdpSUs5ZU9vX1Y2SmVqZEJzeGpkZkNCVVl4UE1aR2Ixb2tvZkdPckUyd3JjZkw1cXhxMHpIRkJjZjNVYVNtRUx1Mi1pSXpHZkZQUzl3Y1RfdFU2NU83Y1ozcWxtaDRrYldxLTJIcUM1QWdFWEpiRg?oc=5",
-              "source": "经济参考报",
-              "publishedAt": "Sat, 14 Mar 2026 03:53:50 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPQTl4Z2p1U194RjdpSUs5ZU9vX1Y2SmVqZEJzeGpkZkNCVVl4UE1aR2Ixb2tvZkdPckUyd3JjZkw1cXhxMHpIRkJjZjNVYVNtRUx1Mi1pSXpHZkZQUzl3Y1RfdFU2NU83Y1ozcWxtaDRrYldxLTJIcUM1QWdFWEpiRg?oc=5\" target=\"_blank\">华为鸿蒙智家亮相AWE 2026 从单品到全生态重构智慧生活</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "浙江省人民政府与吉利控股集团签署战略框架协议 - 新京报",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11OER4VkJLcld4d0pPakxRT0xHeHQ5RHZZYXdNSWduRDRJdU5UZV9VbmdLNEtRTEsxRXUxckVGLUJNUVFkSEMtWUdYX3JpVmJEb0xVVkNBLUdUamd3TjVyeFhNZFc?oc=5",
-              "source": "新京报",
-              "publishedAt": "Sat, 14 Mar 2026 07:44:31 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE11OER4VkJLcld4d0pPakxRT0xHeHQ5RHZZYXdNSWduRDRJdU5UZV9VbmdLNEtRTEsxRXUxckVGLUJNUVFkSEMtWUdYX3JpVmJEb0xVVkNBLUdUamd3TjVyeFhNZFc?oc=5\" target=\"_blank\">浙江省人民政府与吉利控股集团签署战略框架协议</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新京报</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "华为公司副总裁马悦一行来校交流 - 天际新闻网",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XMHF1NEJxVmItRURWdE9NVzhDM00wal9MRGlaM09TeDZtNUFIXzlOWlptTlJYNXBQVEtFS0RLSy1ZRnlpWEwyV1pEQzhpcmlEYXBIMEVBdmpXUQ?oc=5",
-              "source": "天际新闻网",
-              "publishedAt": "Sat, 14 Mar 2026 05:15:10 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XMHF1NEJxVmItRURWdE9NVzhDM00wal9MRGlaM09TeDZtNUFIXzlOWlptTlJYNXBQVEtFS0RLSy1ZRnlpWEwyV1pEQzhpcmlEYXBIMEVBdmpXUQ?oc=5\" target=\"_blank\">华为公司副总裁马悦一行来校交流</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天际新闻网</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "美团王莆中：让每个商家都能用上自己的智能助理 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52UU9CUVVKcEJiRW14ajdBZ2pIeEU4YVZ1U0tsVkU4Zk9GU0dsYk1oLTQzQjZRc1hucXQwS2stVDl1RFRvRnBkOGM3SkIxR3p2b3pzMHdROF9rNWwtYTEtaA?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Sat, 14 Mar 2026 03:06:12 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE52UU9CUVVKcEJiRW14ajdBZ2pIeEU4YVZ1U0tsVkU4Zk9GU0dsYk1oLTQzQjZRc1hucXQwS2stVDl1RFRvRnBkOGM3SkIxR3p2b3pzMHdROF9rNWwtYTEtaA?oc=5\" target=\"_blank\">美团王莆中：让每个商家都能用上自己的智能助理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
               "channelId": "google_news"
             }
           ]
@@ -2027,11 +2015,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "从OpenClaw说起：Agentic AI时代CPU价值的回归 - 36kr.com",
+              "title": "从OpenClaw说起：Agentic AI时代CPU价值的回归 - 36 Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5",
-              "source": "36kr.com",
+              "source": "36 Kr",
               "publishedAt": "Tue, 10 Mar 2026 12:15:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5\" target=\"_blank\">从OpenClaw说起：Agentic AI时代CPU价值的回归</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36kr.com</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5\" target=\"_blank\">从OpenClaw说起：Agentic AI时代CPU价值的回归</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
               "channelId": "google_news"
             },
             {
@@ -2082,7 +2070,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T08:34:23Z",
+              "publishedAt": "2026-03-14T10:28:34Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -2262,7 +2250,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 5
+          "count": 6
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -2277,7 +2265,7 @@
     }
   },
   "health": {
-    "totalNewsItems": 195,
+    "totalNewsItems": 194,
     "emptySections": [
       {
         "days": 1,
@@ -2300,7 +2288,7 @@
       "google_ai_blog": 31,
       "huggingface_blog": 32,
       "github_trending_ai": 100,
-      "hackernews_ai": 25,
+      "hackernews_ai": 30,
       "arxiv_cs_daily": 0,
       "producthunt_ai": 18
     },
