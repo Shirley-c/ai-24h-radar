@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T13:05:57.741Z",
+  "generatedAt": "2026-03-14T14:35:35.341Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -20,35 +20,35 @@
               "title": "ollama/ollama - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
               "link": "https://github.com/ollama/ollama",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T12:39:47Z",
+              "publishedAt": "2026-03-14T14:31:45Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
               "link": "https://github.com/Comfy-Org/ComfyUI",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T12:53:48Z",
+              "publishedAt": "2026-03-14T14:10:38Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T11:48:18Z",
+              "publishedAt": "2026-03-14T14:26:52Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "affaan-m/everything-claude-code - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
               "link": "https://github.com/affaan-m/everything-claude-code",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T13:05:24Z",
+              "publishedAt": "2026-03-14T14:33:46Z",
               "channelId": "github_trending_ai"
             },
             {
-              "title": "Meta Delays Rollout of New A.I. Model After Performance Concerns",
-              "link": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html",
+              "title": "Show HN: Autoresearch-WebGPU uses agents to iteratively train LMs in the browser",
+              "link": "https://twitter.com/gucaslelfond/status/2032824470209986746",
               "source": "RSS",
-              "publishedAt": "Sat, 14 Mar 2026 12:53:21 +0000",
+              "publishedAt": "Sat, 14 Mar 2026 14:26:27 +0000",
               "channelId": "hackernews_ai"
             }
           ]
@@ -61,14 +61,14 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T12:59:55Z",
+              "publishedAt": "2026-03-14T14:35:31Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T12:53:48Z",
+              "publishedAt": "2026-03-14T14:08:17Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -82,21 +82,21 @@
               "title": "openclaw/openclaw - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
               "link": "https://github.com/openclaw/openclaw",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T13:05:24Z",
+              "publishedAt": "2026-03-14T14:35:29Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T11:36:17Z",
+              "publishedAt": "2026-03-14T14:34:56Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T12:52:50Z",
+              "publishedAt": "2026-03-14T14:35:01Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -116,35 +116,35 @@
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T11:48:18Z",
+              "publishedAt": "2026-03-14T14:26:52Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T12:53:55Z",
+              "publishedAt": "2026-03-14T14:29:46Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "google-gemini/gemini-cli - An open-source AI agent that brings the power of Gemini directly into your terminal.",
               "link": "https://github.com/google-gemini/gemini-cli",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T13:01:07Z",
+              "publishedAt": "2026-03-14T14:30:41Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "anthropics/claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
               "link": "https://github.com/anthropics/claude-code",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T13:04:02Z",
+              "publishedAt": "2026-03-14T14:35:12Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "ollama/ollama - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
               "link": "https://github.com/ollama/ollama",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T12:39:47Z",
+              "publishedAt": "2026-03-14T14:31:45Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -162,6 +162,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "腾讯宣布：17城免费安装“龙虾”！ - 证券时报",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iNVlyajZaVXZ6VVliMU4yOS1pYmtoSlFBdDFZZXJQQzNEWnFOUHdwWkZKSkJacGZPdU9vQ3Yzd2FGYlJjaUtPbS1yVkxxZHZWSWQ0NWRaaktUMkM5?oc=5",
+              "source": "证券时报",
+              "publishedAt": "Sat, 14 Mar 2026 12:45:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iNVlyajZaVXZ6VVliMU4yOS1pYmtoSlFBdDFZZXJQQzNEWnFOUHdwWkZKSkJacGZPdU9vQ3Yzd2FGYlJjaUtPbS1yVkxxZHZWSWQ0NWRaaktUMkM5?oc=5\" target=\"_blank\">腾讯宣布：17城免费安装“龙虾”！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "方程豹钛系列成为比亚迪闪充首个量产车型 - 新浪网",
               "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc2VxMGEtS1RLR0phdnh5WFgtb0VTcXV4MGN6dHhPaGlVdGZHQzFZOTRhZjdxWDkyanJKZ3hCVDgzOUdseXZUYlVvQTZOMXhxSkt0MmVRbXJFWE5lZThvRTY4QnZGYzdhZWpMTndmRWI2VklEU3plbEFFYXNWb3l0dE1PRGdidw?oc=5",
               "source": "新浪网",
@@ -170,11 +178,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网 - 观察者",
+              "title": "鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网 - guancha.cn",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uZ2tVUnp0R3QyTHJ2R3cza2lMcEJmRUNmUjB1UzFIcmFhQ01UWVI2SHREanZlN3V1YzBRdU41aW1CMDIwQVR0ejlSUHE5Z0xza1pIYjBRVGRPT3hualBpMGhBeUc?oc=5",
-              "source": "观察者",
+              "source": "guancha.cn",
               "publishedAt": "Sat, 14 Mar 2026 06:25:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uZ2tVUnp0R3QyTHJ2R3cza2lMcEJmRUNmUjB1UzFIcmFhQ01UWVI2SHREanZlN3V1YzBRdU41aW1CMDIwQVR0ejlSUHE5Z0xza1pIYjBRVGRPT3hualBpMGhBeUc?oc=5\" target=\"_blank\">鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uZ2tVUnp0R3QyTHJ2R3cza2lMcEJmRUNmUjB1UzFIcmFhQ01UWVI2SHREanZlN3V1YzBRdU41aW1CMDIwQVR0ejlSUHE5Z0xza1pIYjBRVGRPT3hualBpMGhBeUc?oc=5\" target=\"_blank\">鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
@@ -191,14 +199,6 @@
               "source": "东方财富",
               "publishedAt": "Sat, 14 Mar 2026 11:19:31 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WNFEzZEs2VjQwcy13YkFKQzhYUl9adW5IbGNXUVV4MTQ0aWJRZlpwNVNwd2YtYVVqWGpCQk1SS1hKQ0oxSXE1NDg0UkQ0QjI5dTZVdXY1UzZJQktvUmRtYQ?oc=5\" target=\"_blank\">余承东谈华为全场景生态 已覆盖了3200+品牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "腾讯“龙虾”全国免费安装计划启动 - 同花顺财经",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5",
-              "source": "同花顺财经",
-              "publishedAt": "Sat, 14 Mar 2026 09:26:59 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5\" target=\"_blank\">腾讯“龙虾”全国免费安装计划启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
               "channelId": "google_news"
             }
           ]
@@ -232,26 +232,25 @@
               "channelId": "google_news"
             },
             {
-              "title": "您的AI基础设施是否已经为代理型AI的时代做好准备？代理将为AI基础设施团队带来新的难题。 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSUs2Uk1lUmloR09ja1d6S3lVdXdXRndPdkNvNlRsbzNkRnBuek9CaG1QWVR5RDZIeXNDT1NNNFZ1V0tHVEtOeFFQczA3MVRQRzA3ZXNXNFRDZkl2RmpTWEtCNXByMmJra2VUcGNURUlwT1RYUHhIX3pmbnNGUXhIT2pGOWpOek5xMENz?oc=5",
-              "source": "富途牛牛",
-              "publishedAt": "Fri, 13 Mar 2026 14:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSUs2Uk1lUmloR09ja1d6S3lVdXdXRndPdkNvNlRsbzNkRnBuek9CaG1QWVR5RDZIeXNDT1NNNFZ1V0tHVEtOeFFQczA3MVRQRzA3ZXNXNFRDZkl2RmpTWEtCNXByMmJra2VUcGNURUlwT1RYUHhIX3pmbnNGUXhIT2pGOWpOek5xMENz?oc=5\" target=\"_blank\">您的AI基础设施是否已经为代理型AI的时代做好准备？代理将为AI基础设施团队带来新的难题。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T12:59:55Z",
+              "publishedAt": "2026-03-14T14:35:31Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "anthropics/claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
               "link": "https://github.com/anthropics/claude-code",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T13:04:02Z",
+              "publishedAt": "2026-03-14T14:35:12Z",
               "channelId": "github_trending_ai"
+            },
+            {
+              "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
+              "link": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
+              "source": "RSS",
+              "publishedAt": "Fri, 13 Mar 2026 20:00:00 GMT",
+              "channelId": "huggingface_blog"
             }
           ]
         },
@@ -263,8 +262,15 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T13:01:23Z",
+              "publishedAt": "2026-03-14T14:09:22Z",
               "channelId": "github_trending_ai"
+            },
+            {
+              "title": "Show HN: Kremis – Rust graph DB; every answer is fact, inference, or unknown",
+              "link": "https://github.com/TyKolt/kremis",
+              "source": "RSS",
+              "publishedAt": "Sat, 14 Mar 2026 14:21:24 +0000",
+              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -273,45 +279,45 @@
           "query": "AI UX design",
           "items": [
             {
+              "title": "The Programmers's Guide to Co-Designing with Agents",
+              "link": "https://davidwhitney.co.uk/blog/2026/03/11/co_design_with_agents/",
+              "source": "RSS",
+              "publishedAt": "Sat, 14 Mar 2026 14:15:00 +0000",
+              "channelId": "hackernews_ai"
+            },
+            {
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T11:36:17Z",
+              "publishedAt": "2026-03-14T14:34:56Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T12:52:50Z",
+              "publishedAt": "2026-03-14T14:35:01Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
               "link": "https://github.com/langflow-ai/langflow",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T13:03:37Z",
+              "publishedAt": "2026-03-14T14:31:21Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T12:53:55Z",
+              "publishedAt": "2026-03-14T14:29:46Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
               "link": "https://github.com/Comfy-Org/ComfyUI",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T12:53:48Z",
-              "channelId": "github_trending_ai"
-            },
-            {
-              "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-              "link": "https://github.com/supabase/supabase",
-              "source": "GitHub",
-              "publishedAt": "2026-03-14T12:53:48Z",
+              "publishedAt": "2026-03-14T14:10:38Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -319,7 +325,15 @@
         {
           "title": "商业 ROI",
           "query": "AI ROI enterprise",
-          "items": []
+          "items": [
+            {
+              "title": "Show HN: I added barcode scanning to my AI pricing app – 92% cheaper per scan",
+              "link": "https://underpricedai.com",
+              "source": "RSS",
+              "publishedAt": "Sat, 14 Mar 2026 14:20:47 +0000",
+              "channelId": "hackernews_ai"
+            }
+          ]
         }
       ],
       "stocks": [
@@ -411,7 +425,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 8
+          "count": 12
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -422,15 +436,7 @@
           "count": 1
         }
       ],
-      "diagnostics": [
-        {
-          "days": 1,
-          "section": "商业 ROI",
-          "reason": "still-empty",
-          "googleBaseCount": 0,
-          "scoredPoolSize": 0
-        }
-      ]
+      "diagnostics": []
     },
     "3": {
       "sections": [
@@ -450,28 +456,28 @@
               "title": "ollama/ollama - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
               "link": "https://github.com/ollama/ollama",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T12:39:47Z",
+              "publishedAt": "2026-03-14T14:31:45Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
               "link": "https://github.com/Comfy-Org/ComfyUI",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T12:53:48Z",
+              "publishedAt": "2026-03-14T14:10:38Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T11:48:18Z",
+              "publishedAt": "2026-03-14T14:26:52Z",
               "channelId": "github_trending_ai"
             },
             {
-              "title": "Meta Delays Rollout of New A.I. Model After Performance Concerns",
-              "link": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html",
+              "title": "Show HN: Autoresearch-WebGPU uses agents to iteratively train LMs in the browser",
+              "link": "https://twitter.com/gucaslelfond/status/2032824470209986746",
               "source": "RSS",
-              "publishedAt": "Sat, 14 Mar 2026 12:53:21 +0000",
+              "publishedAt": "Sat, 14 Mar 2026 14:26:27 +0000",
               "channelId": "hackernews_ai"
             }
           ]
@@ -505,14 +511,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5",
-              "source": "深潮TechFlow",
-              "publishedAt": "Wed, 11 Mar 2026 19:13:04 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants - ekhbary.com",
               "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5",
               "source": "ekhbary.com",
@@ -524,7 +522,14 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T12:59:55Z",
+              "publishedAt": "2026-03-14T14:35:31Z",
+              "channelId": "github_trending_ai"
+            },
+            {
+              "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+              "link": "https://github.com/supabase/supabase",
+              "source": "GitHub",
+              "publishedAt": "2026-03-14T14:08:17Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -544,7 +549,7 @@
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T11:48:18Z",
+              "publishedAt": "2026-03-14T14:26:52Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -558,21 +563,21 @@
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T12:53:55Z",
+              "publishedAt": "2026-03-14T14:29:46Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "google-gemini/gemini-cli - An open-source AI agent that brings the power of Gemini directly into your terminal.",
               "link": "https://github.com/google-gemini/gemini-cli",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T13:01:07Z",
+              "publishedAt": "2026-03-14T14:30:41Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "anthropics/claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
               "link": "https://github.com/anthropics/claude-code",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T13:04:02Z",
+              "publishedAt": "2026-03-14T14:35:12Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -590,6 +595,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "腾讯宣布：17城免费安装“龙虾”！ - 证券时报",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iNVlyajZaVXZ6VVliMU4yOS1pYmtoSlFBdDFZZXJQQzNEWnFOUHdwWkZKSkJacGZPdU9vQ3Yzd2FGYlJjaUtPbS1yVkxxZHZWSWQ0NWRaaktUMkM5?oc=5",
+              "source": "证券时报",
+              "publishedAt": "Sat, 14 Mar 2026 12:45:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iNVlyajZaVXZ6VVliMU4yOS1pYmtoSlFBdDFZZXJQQzNEWnFOUHdwWkZKSkJacGZPdU9vQ3Yzd2FGYlJjaUtPbS1yVkxxZHZWSWQ0NWRaaktUMkM5?oc=5\" target=\"_blank\">腾讯宣布：17城免费安装“龙虾”！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "方程豹钛系列成为比亚迪闪充首个量产车型 - 新浪网",
               "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc2VxMGEtS1RLR0phdnh5WFgtb0VTcXV4MGN6dHhPaGlVdGZHQzFZOTRhZjdxWDkyanJKZ3hCVDgzOUdseXZUYlVvQTZOMXhxSkt0MmVRbXJFWE5lZThvRTY4QnZGYzdhZWpMTndmRWI2VklEU3plbEFFYXNWb3l0dE1PRGdidw?oc=5",
               "source": "新浪网",
@@ -598,11 +611,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网 - 观察者",
+              "title": "鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网 - guancha.cn",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uZ2tVUnp0R3QyTHJ2R3cza2lMcEJmRUNmUjB1UzFIcmFhQ01UWVI2SHREanZlN3V1YzBRdU41aW1CMDIwQVR0ejlSUHE5Z0xza1pIYjBRVGRPT3hualBpMGhBeUc?oc=5",
-              "source": "观察者",
+              "source": "guancha.cn",
               "publishedAt": "Sat, 14 Mar 2026 06:25:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uZ2tVUnp0R3QyTHJ2R3cza2lMcEJmRUNmUjB1UzFIcmFhQ01UWVI2SHREanZlN3V1YzBRdU41aW1CMDIwQVR0ejlSUHE5Z0xza1pIYjBRVGRPT3hualBpMGhBeUc?oc=5\" target=\"_blank\">鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uZ2tVUnp0R3QyTHJ2R3cza2lMcEJmRUNmUjB1UzFIcmFhQ01UWVI2SHREanZlN3V1YzBRdU41aW1CMDIwQVR0ejlSUHE5Z0xza1pIYjBRVGRPT3hualBpMGhBeUc?oc=5\" target=\"_blank\">鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
@@ -620,14 +633,6 @@
               "publishedAt": "Sat, 14 Mar 2026 11:19:31 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WNFEzZEs2VjQwcy13YkFKQzhYUl9adW5IbGNXUVV4MTQ0aWJRZlpwNVNwd2YtYVVqWGpCQk1SS1hKQ0oxSXE1NDg0UkQ0QjI5dTZVdXY1UzZJQktvUmRtYQ?oc=5\" target=\"_blank\">余承东谈华为全场景生态 已覆盖了3200+品牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
               "channelId": "google_news"
-            },
-            {
-              "title": "腾讯“龙虾”全国免费安装计划启动 - 同花顺财经",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5",
-              "source": "同花顺财经",
-              "publishedAt": "Sat, 14 Mar 2026 09:26:59 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5\" target=\"_blank\">腾讯“龙虾”全国免费安装计划启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-              "channelId": "google_news"
             }
           ]
         },
@@ -644,19 +649,19 @@
               "channelId": "google_news"
             },
             {
-              "title": "OpenSandbox：重新思考 Agent 时代的 Runtime｜QCon 北京 - InfoQ 官网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9haGNBLU85QXJ5Skl3RjRLR1dBS2hzTVV2U2VvNEhiRGNDRVVhc1NKVGVlMUFPZUpPbzVaSGo1NjFEU21MQThIejQxa25IUDVvTGZBaTl1VzlRejN3REE?oc=5",
-              "source": "InfoQ 官网",
-              "publishedAt": "Fri, 13 Mar 2026 02:05:22 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9haGNBLU85QXJ5Skl3RjRLR1dBS2hzTVV2U2VvNEhiRGNDRVVhc1NKVGVlMUFPZUpPbzVaSGo1NjFEU21MQThIejQxa25IUDVvTGZBaTl1VzlRejN3REE?oc=5\" target=\"_blank\">OpenSandbox：重新思考 Agent 时代的 Runtime｜QCon 北京</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "Systematic debugging for AI agents: Introducing the AgentRx framework - Microsoft",
               "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3c2eW1hZVZZUTRiSl9NSFlEZVdkVkdQNkxpdFJXbWdkRzVJMWZEWjRNV1pjYTRfQmlGUVQtWE5ubnBKS1BKRnlFMk1Md3FkSl9WSHpFVkZfYkxKUVFGZUdwRkM2VlRaUkx4SkhHeDVkR1lvdmRPXzhBNzBSQW9BYm1KdGxHVXItdVdyWDJMU3VIY0hNYUcwRWUtdTcyZ0dRZmczcjFFVmNpb2xnS0NnZVRaQzFGZzBtUG9MNjRYZkVBZFg1?oc=5",
               "source": "Microsoft",
               "publishedAt": "Thu, 12 Mar 2026 16:38:45 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3c2eW1hZVZZUTRiSl9NSFlEZVdkVkdQNkxpdFJXbWdkRzVJMWZEWjRNV1pjYTRfQmlGUVQtWE5ubnBKS1BKRnlFMk1Md3FkSl9WSHpFVkZfYkxKUVFGZUdwRkM2VlRaUkx4SkhHeDVkR1lvdmRPXzhBNzBSQW9BYm1KdGxHVXItdVdyWDJMU3VIY0hNYUcwRWUtdTcyZ0dRZmczcjFFVmNpb2xnS0NnZVRaQzFGZzBtUG9MNjRYZkVBZFg1?oc=5\" target=\"_blank\">Systematic debugging for AI agents: Introducing the AgentRx framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "OpenSandbox：重新思考 Agent 时代的 Runtime｜QCon 北京 - InfoQ 官网",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9haGNBLU85QXJ5Skl3RjRLR1dBS2hzTVV2U2VvNEhiRGNDRVVhc1NKVGVlMUFPZUpPbzVaSGo1NjFEU21MQThIejQxa25IUDVvTGZBaTl1VzlRejN3REE?oc=5",
+              "source": "InfoQ 官网",
+              "publishedAt": "Fri, 13 Mar 2026 02:05:22 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9haGNBLU85QXJ5Skl3RjRLR1dBS2hzTVV2U2VvNEhiRGNDRVVhc1NKVGVlMUFPZUpPbzVaSGo1NjFEU21MQThIejQxa25IUDVvTGZBaTl1VzlRejN3REE?oc=5\" target=\"_blank\">OpenSandbox：重新思考 Agent 时代的 Runtime｜QCon 北京</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
               "channelId": "google_news"
             },
             {
@@ -693,8 +698,15 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T13:01:23Z",
+              "publishedAt": "2026-03-14T14:09:22Z",
               "channelId": "github_trending_ai"
+            },
+            {
+              "title": "Show HN: Kremis – Rust graph DB; every answer is fact, inference, or unknown",
+              "link": "https://github.com/TyKolt/kremis",
+              "source": "RSS",
+              "publishedAt": "Sat, 14 Mar 2026 14:21:24 +0000",
+              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -711,38 +723,38 @@
               "channelId": "google_news"
             },
             {
+              "title": "The Programmers's Guide to Co-Designing with Agents",
+              "link": "https://davidwhitney.co.uk/blog/2026/03/11/co_design_with_agents/",
+              "source": "RSS",
+              "publishedAt": "Sat, 14 Mar 2026 14:15:00 +0000",
+              "channelId": "hackernews_ai"
+            },
+            {
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T11:36:17Z",
+              "publishedAt": "2026-03-14T14:34:56Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T12:52:50Z",
+              "publishedAt": "2026-03-14T14:35:01Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
               "link": "https://github.com/langflow-ai/langflow",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T13:03:37Z",
+              "publishedAt": "2026-03-14T14:31:21Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T12:53:55Z",
-              "channelId": "github_trending_ai"
-            },
-            {
-              "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-              "link": "https://github.com/Comfy-Org/ComfyUI",
-              "source": "GitHub",
-              "publishedAt": "2026-03-14T12:53:48Z",
+              "publishedAt": "2026-03-14T14:29:46Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -750,7 +762,15 @@
         {
           "title": "商业 ROI",
           "query": "AI ROI enterprise",
-          "items": []
+          "items": [
+            {
+              "title": "Show HN: I added barcode scanning to my AI pricing app – 92% cheaper per scan",
+              "link": "https://underpricedai.com",
+              "source": "RSS",
+              "publishedAt": "Sat, 14 Mar 2026 14:20:47 +0000",
+              "channelId": "hackernews_ai"
+            }
+          ]
         }
       ],
       "stocks": [
@@ -842,7 +862,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 8
+          "count": 12
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -853,15 +873,7 @@
           "count": 4
         }
       ],
-      "diagnostics": [
-        {
-          "days": 3,
-          "section": "商业 ROI",
-          "reason": "still-empty",
-          "googleBaseCount": 0,
-          "scoredPoolSize": 0
-        }
-      ]
+      "diagnostics": []
     },
     "7": {
       "sections": [
@@ -1033,6 +1045,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "腾讯宣布：17城免费安装“龙虾”！ - 证券时报",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iNVlyajZaVXZ6VVliMU4yOS1pYmtoSlFBdDFZZXJQQzNEWnFOUHdwWkZKSkJacGZPdU9vQ3Yzd2FGYlJjaUtPbS1yVkxxZHZWSWQ0NWRaaktUMkM5?oc=5",
+              "source": "证券时报",
+              "publishedAt": "Sat, 14 Mar 2026 12:45:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iNVlyajZaVXZ6VVliMU4yOS1pYmtoSlFBdDFZZXJQQzNEWnFOUHdwWkZKSkJacGZPdU9vQ3Yzd2FGYlJjaUtPbS1yVkxxZHZWSWQ0NWRaaktUMkM5?oc=5\" target=\"_blank\">腾讯宣布：17城免费安装“龙虾”！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "方程豹钛系列成为比亚迪闪充首个量产车型 - 新浪网",
               "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc2VxMGEtS1RLR0phdnh5WFgtb0VTcXV4MGN6dHhPaGlVdGZHQzFZOTRhZjdxWDkyanJKZ3hCVDgzOUdseXZUYlVvQTZOMXhxSkt0MmVRbXJFWE5lZThvRTY4QnZGYzdhZWpMTndmRWI2VklEU3plbEFFYXNWb3l0dE1PRGdidw?oc=5",
               "source": "新浪网",
@@ -1041,11 +1061,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网 - 观察者",
+              "title": "鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网 - guancha.cn",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uZ2tVUnp0R3QyTHJ2R3cza2lMcEJmRUNmUjB1UzFIcmFhQ01UWVI2SHREanZlN3V1YzBRdU41aW1CMDIwQVR0ejlSUHE5Z0xza1pIYjBRVGRPT3hualBpMGhBeUc?oc=5",
-              "source": "观察者",
+              "source": "guancha.cn",
               "publishedAt": "Sat, 14 Mar 2026 06:25:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uZ2tVUnp0R3QyTHJ2R3cza2lMcEJmRUNmUjB1UzFIcmFhQ01UWVI2SHREanZlN3V1YzBRdU41aW1CMDIwQVR0ejlSUHE5Z0xza1pIYjBRVGRPT3hualBpMGhBeUc?oc=5\" target=\"_blank\">鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uZ2tVUnp0R3QyTHJ2R3cza2lMcEJmRUNmUjB1UzFIcmFhQ01UWVI2SHREanZlN3V1YzBRdU41aW1CMDIwQVR0ejlSUHE5Z0xza1pIYjBRVGRPT3hualBpMGhBeUc?oc=5\" target=\"_blank\">鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
@@ -1062,14 +1082,6 @@
               "source": "东方财富",
               "publishedAt": "Sat, 14 Mar 2026 11:19:31 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WNFEzZEs2VjQwcy13YkFKQzhYUl9adW5IbGNXUVV4MTQ0aWJRZlpwNVNwd2YtYVVqWGpCQk1SS1hKQ0oxSXE1NDg0UkQ0QjI5dTZVdXY1UzZJQktvUmRtYQ?oc=5\" target=\"_blank\">余承东谈华为全场景生态 已覆盖了3200+品牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "腾讯“龙虾”全国免费安装计划启动 - 同花顺财经",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5",
-              "source": "同花顺财经",
-              "publishedAt": "Sat, 14 Mar 2026 09:26:59 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5\" target=\"_blank\">腾讯“龙虾”全国免费安装计划启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
               "channelId": "google_news"
             }
           ]
@@ -1150,8 +1162,15 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T13:01:23Z",
+              "publishedAt": "2026-03-14T14:09:22Z",
               "channelId": "github_trending_ai"
+            },
+            {
+              "title": "Show HN: Kremis – Rust graph DB; every answer is fact, inference, or unknown",
+              "link": "https://github.com/TyKolt/kremis",
+              "source": "RSS",
+              "publishedAt": "Sat, 14 Mar 2026 14:21:24 +0000",
+              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -1184,6 +1203,13 @@
               "channelId": "google_news"
             },
             {
+              "title": "The Programmers's Guide to Co-Designing with Agents",
+              "link": "https://davidwhitney.co.uk/blog/2026/03/11/co_design_with_agents/",
+              "source": "RSS",
+              "publishedAt": "Sat, 14 Mar 2026 14:15:00 +0000",
+              "channelId": "hackernews_ai"
+            },
+            {
               "title": "Designing AI agents to resist prompt injection",
               "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
               "source": "RSS",
@@ -1196,20 +1222,21 @@
               "source": "RSS",
               "publishedAt": "Wed, 11 Mar 2026 11:00:00 GMT",
               "channelId": "openai_blog"
-            },
-            {
-              "title": "OpenAI to acquire Promptfoo",
-              "link": "https://openai.com/index/openai-to-acquire-promptfoo",
-              "source": "RSS",
-              "publishedAt": "Mon, 09 Mar 2026 10:00:00 GMT",
-              "channelId": "openai_blog"
             }
           ]
         },
         {
           "title": "商业 ROI",
           "query": "AI ROI enterprise",
-          "items": []
+          "items": [
+            {
+              "title": "Show HN: I added barcode scanning to my AI pricing app – 92% cheaper per scan",
+              "link": "https://underpricedai.com",
+              "source": "RSS",
+              "publishedAt": "Sat, 14 Mar 2026 14:20:47 +0000",
+              "channelId": "hackernews_ai"
+            }
+          ]
         }
       ],
       "stocks": [
@@ -1301,7 +1328,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 8
+          "count": 12
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1312,15 +1339,7 @@
           "count": 4
         }
       ],
-      "diagnostics": [
-        {
-          "days": 7,
-          "section": "商业 ROI",
-          "reason": "still-empty",
-          "googleBaseCount": 0,
-          "scoredPoolSize": 0
-        }
-      ]
+      "diagnostics": []
     },
     "14": {
       "sections": [
@@ -1369,11 +1388,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "港台电视 32 Hong Kong Connection - Child Home Alone - 香港電台",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0NPQzZ5VGlkazFQRnVQVmtrVzRvTlhMRGZjckFjdndJRl9XXzhBSHVFenA4R2hWTGNPRTd2ZDdoalhSQ3VHT3JFbUsydHJfMzlGVVJQaWQza2FVaGpUZEctUWx4T3Jmc2FKWjFydGh0Uk5lb2hxMU1iT2ZoTzNhbktzdXZRZzA?oc=5",
-              "source": "香港電台",
-              "publishedAt": "Mon, 09 Mar 2026 07:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0NPQzZ5VGlkazFQRnVQVmtrVzRvTlhMRGZjckFjdndJRl9XXzhBSHVFenA4R2hWTGNPRTd2ZDdoalhSQ3VHT3JFbUsydHJfMzlGVVJQaWQza2FVaGpUZEctUWx4T3Jmc2FKWjFydGh0Uk5lb2hxMU1iT2ZoTzNhbktzdXZRZzA?oc=5\" target=\"_blank\">港台电视 32 Hong Kong Connection - Child Home Alone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">香港電台</font>",
+              "title": "英伟达及其合作伙伴展示软件定义的AI-RAN是下一代无线通信技术 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVZoWkhLNEdWVklfbjhEazgzczZhdE5lTUQ0dmh5Wl9Qb0c2NWpDbDhYdDZNZFR0ZXBKTlh1M3FIUW1ScVM4aUZja3diMG5xX3JaX3hjRTRONWhwSVpVQzh4NW9ObVpRZ3hPRTYwS1lGT0h1Q00zNlFMRzZpejZWSlVreERoRGdLdDduVWp4UTlVQWdjYVJDN0NR?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Tue, 03 Mar 2026 02:14:55 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVZoWkhLNEdWVklfbjhEazgzczZhdE5lTUQ0dmh5Wl9Qb0c2NWpDbDhYdDZNZFR0ZXBKTlh1M3FIUW1ScVM4aUZja3diMG5xX3JaX3hjRTRONWhwSVpVQzh4NW9ObVpRZ3hPRTYwS1lGT0h1Q00zNlFMRzZpejZWSlVreERoRGdLdDduVWp4UTlVQWdjYVJDN0NR?oc=5\" target=\"_blank\">英伟达及其合作伙伴展示软件定义的AI-RAN是下一代无线通信技术</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
               "channelId": "google_news"
             }
           ]
@@ -1382,6 +1401,14 @@
           "title": "产品范式",
           "query": "AI product launch",
           "items": [
+            {
+              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5",
+              "source": "深潮TechFlow",
+              "publishedAt": "Wed, 11 Mar 2026 09:52:56 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
+              "channelId": "google_news"
+            },
             {
               "title": "BullFrog将举办关于新型精准AI能力的网络研讨会。 - 富途牛牛",
               "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5",
@@ -1412,14 +1439,6 @@
               "source": "富途牛牛",
               "publishedAt": "Fri, 13 Mar 2026 10:21:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEFDbkE3cGV3YWJHYVFNRFpkaFpoTUJEd2lEVDFsOEotUC1Kd2VMaDRtX1VWZ3ZibzVwS01aVEczLS1zZVhjYVA0R0YwX1FObFZENUlyOWFJbHFLREVsYUVxdE5qYkVJNXRORlZhWkRoOTQ5OFRfSEFVZG5qZTlqZldUR01FYWxTZG9XaDROZ0pZSkducXk4QW40SndQN0F0UjdNczFPdWJydjRk?oc=5\" target=\"_blank\">Sigenergy 启用南通智慧能源中心，引领“全领域AI”战略及下一代能源组合</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions - 深潮TechFlow",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5",
-              "source": "深潮TechFlow",
-              "publishedAt": "Wed, 11 Mar 2026 19:13:04 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRnNOSzNOTHAwZWR1YXZmSUFFNUNNQi1OSXpmN1FZaG1UQXJVMVEweGN6NXJVNWVDem5IazVldk9GRTJvZ0EwUTZ2T2FBTnAyS3Rvd0laYXlWYWxYdnZ5YTNB?oc=5\" target=\"_blank\">Perplexity Launches New Product Personal Computer, Supporting Round-the-Clock Operations Across Files, Applications, and Sessions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
               "channelId": "google_news"
             },
             {
@@ -1494,6 +1513,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "腾讯宣布：17城免费安装“龙虾”！ - 证券时报",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iNVlyajZaVXZ6VVliMU4yOS1pYmtoSlFBdDFZZXJQQzNEWnFOUHdwWkZKSkJacGZPdU9vQ3Yzd2FGYlJjaUtPbS1yVkxxZHZWSWQ0NWRaaktUMkM5?oc=5",
+              "source": "证券时报",
+              "publishedAt": "Sat, 14 Mar 2026 12:45:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iNVlyajZaVXZ6VVliMU4yOS1pYmtoSlFBdDFZZXJQQzNEWnFOUHdwWkZKSkJacGZPdU9vQ3Yzd2FGYlJjaUtPbS1yVkxxZHZWSWQ0NWRaaktUMkM5?oc=5\" target=\"_blank\">腾讯宣布：17城免费安装“龙虾”！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "方程豹钛系列成为比亚迪闪充首个量产车型 - 新浪网",
               "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc2VxMGEtS1RLR0phdnh5WFgtb0VTcXV4MGN6dHhPaGlVdGZHQzFZOTRhZjdxWDkyanJKZ3hCVDgzOUdseXZUYlVvQTZOMXhxSkt0MmVRbXJFWE5lZThvRTY4QnZGYzdhZWpMTndmRWI2VklEU3plbEFFYXNWb3l0dE1PRGdidw?oc=5",
               "source": "新浪网",
@@ -1502,11 +1529,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网 - 观察者",
+              "title": "鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网 - guancha.cn",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uZ2tVUnp0R3QyTHJ2R3cza2lMcEJmRUNmUjB1UzFIcmFhQ01UWVI2SHREanZlN3V1YzBRdU41aW1CMDIwQVR0ejlSUHE5Z0xza1pIYjBRVGRPT3hualBpMGhBeUc?oc=5",
-              "source": "观察者",
+              "source": "guancha.cn",
               "publishedAt": "Sat, 14 Mar 2026 06:25:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uZ2tVUnp0R3QyTHJ2R3cza2lMcEJmRUNmUjB1UzFIcmFhQ01UWVI2SHREanZlN3V1YzBRdU41aW1CMDIwQVR0ejlSUHE5Z0xza1pIYjBRVGRPT3hualBpMGhBeUc?oc=5\" target=\"_blank\">鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uZ2tVUnp0R3QyTHJ2R3cza2lMcEJmRUNmUjB1UzFIcmFhQ01UWVI2SHREanZlN3V1YzBRdU41aW1CMDIwQVR0ejlSUHE5Z0xza1pIYjBRVGRPT3hualBpMGhBeUc?oc=5\" target=\"_blank\">鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
@@ -1523,14 +1550,6 @@
               "source": "东方财富",
               "publishedAt": "Sat, 14 Mar 2026 11:19:31 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WNFEzZEs2VjQwcy13YkFKQzhYUl9adW5IbGNXUVV4MTQ0aWJRZlpwNVNwd2YtYVVqWGpCQk1SS1hKQ0oxSXE1NDg0UkQ0QjI5dTZVdXY1UzZJQktvUmRtYQ?oc=5\" target=\"_blank\">余承东谈华为全场景生态 已覆盖了3200+品牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "腾讯“龙虾”全国免费安装计划启动 - 同花顺财经",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5",
-              "source": "同花顺财经",
-              "publishedAt": "Sat, 14 Mar 2026 09:26:59 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5\" target=\"_blank\">腾讯“龙虾”全国免费安装计划启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
               "channelId": "google_news"
             }
           ]
@@ -1564,14 +1583,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "Systematic debugging for AI agents: Introducing the AgentRx framework - Microsoft",
-              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3c2eW1hZVZZUTRiSl9NSFlEZVdkVkdQNkxpdFJXbWdkRzVJMWZEWjRNV1pjYTRfQmlGUVQtWE5ubnBKS1BKRnlFMk1Md3FkSl9WSHpFVkZfYkxKUVFGZUdwRkM2VlRaUkx4SkhHeDVkR1lvdmRPXzhBNzBSQW9BYm1KdGxHVXItdVdyWDJMU3VIY0hNYUcwRWUtdTcyZ0dRZmczcjFFVmNpb2xnS0NnZVRaQzFGZzBtUG9MNjRYZkVBZFg1?oc=5",
-              "source": "Microsoft",
-              "publishedAt": "Thu, 12 Mar 2026 16:38:45 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3c2eW1hZVZZUTRiSl9NSFlEZVdkVkdQNkxpdFJXbWdkRzVJMWZEWjRNV1pjYTRfQmlGUVQtWE5ubnBKS1BKRnlFMk1Md3FkSl9WSHpFVkZfYkxKUVFGZUdwRkM2VlRaUkx4SkhHeDVkR1lvdmRPXzhBNzBSQW9BYm1KdGxHVXItdVdyWDJMU3VIY0hNYUcwRWUtdTcyZ0dRZmczcjFFVmNpb2xnS0NnZVRaQzFGZzBtUG9MNjRYZkVBZFg1?oc=5\" target=\"_blank\">Systematic debugging for AI agents: Introducing the AgentRx framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "如何理解“养龙虾”浪潮的本质与演进边界 - 上海科技报",
               "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GV3hQN2JFd3VSU2ZhekJnc0I5WlVDN3BOTHA0aWprd285ZU8wbi1uT3dJY0NWcVZ4ZGNEM3NQM0o5aUNvOHZJT1VfY0o3czViRDlUNVpUYw?oc=5",
               "source": "上海科技报",
@@ -1585,6 +1596,14 @@
               "source": "51CTO",
               "publishedAt": "Wed, 11 Mar 2026 08:47:27 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xZVdBUFd2MkV4a1paRk00dVNQVEM3QWNzWklIR3RoTV9JYWRpc2liMnd1bEp1Zm5qWTc0RkJVdXR0ZUVVUWwxQW1uay1RcU1HazZj?oc=5\" target=\"_blank\">重磅！OpenClaw+OpenViking 正式登陆鲲鹏，打造端到端AI Agent最佳实践</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "2026AI十大趋势发布:技术场景治理共推未来布局 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMU50RldFeG9kYkhOY0pibURCMVFhWGVVMTNJOXBYY19rUjJCUG9wc3F0YVoxeEx1NTlDdjNVdzhyYU5PX2dRcnU4b3RHVUhmUFVsWnpkOTNDeUFZdy1XeGtjV3F5djBuUTU0bFVtdVhEeDZpR3VvbVlKZGd1blNibVgza3U?oc=5",
+              "source": "新浪财经",
+              "publishedAt": "Tue, 10 Mar 2026 04:25:10 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPMU50RldFeG9kYkhOY0pibURCMVFhWGVVMTNJOXBYY19rUjJCUG9wc3F0YVoxeEx1NTlDdjNVdzhyYU5PX2dRcnU4b3RHVUhmUFVsWnpkOTNDeUFZdy1XeGtjV3F5djBuUTU0bFVtdVhEeDZpR3VvbVlKZGd1blNibVgza3U?oc=5\" target=\"_blank\">2026AI十大趋势发布:技术场景治理共推未来布局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             }
           ]
@@ -1611,8 +1630,15 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T13:01:23Z",
+              "publishedAt": "2026-03-14T14:09:22Z",
               "channelId": "github_trending_ai"
+            },
+            {
+              "title": "Show HN: Kremis – Rust graph DB; every answer is fact, inference, or unknown",
+              "link": "https://github.com/TyKolt/kremis",
+              "source": "RSS",
+              "publishedAt": "Sat, 14 Mar 2026 14:21:24 +0000",
+              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -1637,6 +1663,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15RlBCeG5zMHlJRzRlUEw5eXBHaHh2SWtETnNVWTJpdS14WFJoN3hMbjd1TjBoUElIWmtFQS1vbDktYjc4ZGgxYnZaM0s1aW91bWFrdEc5NE1ubnpIeVc2Y24xLU9lT0RZb2ZONm5QeEhON3hqS01fTk9oMkZHUQ?oc=5",
+              "source": "新浪财经",
+              "publishedAt": "Fri, 13 Mar 2026 02:52:18 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE15RlBCeG5zMHlJRzRlUEw5eXBHaHh2SWtETnNVWTJpdS14WFJoN3hMbjd1TjBoUElIWmtFQS1vbDktYjc4ZGgxYnZaM0s1aW91bWFrdEc5NE1ubnpIeVc2Y24xLU9lT0RZb2ZONm5QeEhON3hqS01fTk9oMkZHUQ?oc=5\" target=\"_blank\">2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "Comprehensive Guide to Gambling and Casino Games Featuring solitariospiderarkadium in Hong Kong - Semana.com",
               "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPR3p0ckhIOTRfaHpjcnFFaEVQSXhfYzd1cm12QkltNHo1Z09fYnpxSlVYR21YOXRTa0VRaHdwX2Y0OXZqUnF5dUo1VzNxck9YeVQ5ZGEwS0g2TFVjbFNxRTZrSUYyRFM3ZmJJWmt2OUYzWHdzWWN3V3VBdGVpX2I0Q1A5c1NOa3FReTlPYld5cDRaVEx1ZV92RHRYZlZWRUNQLVJlUFM4VFVzaFpEM21DUk5fM2hrZEo2b1ZXUGtGS1BUTXRRU0V4LTBvY1pVS1R0UE1zNHdBY21yRVVfdk5NMndFSjVERF9aR3lMTDFZQXhINlNXemVKTjNnTGFYUFFlLVNOcXA1eUhqbW9DNEZJRVZ6UXowMld3ellpNU54Q1QzX3BXSUhoRnBHSGp5d2c?oc=5",
               "source": "Semana.com",
@@ -1645,24 +1679,17 @@
               "channelId": "google_news"
             },
             {
+              "title": "The Programmers's Guide to Co-Designing with Agents",
+              "link": "https://davidwhitney.co.uk/blog/2026/03/11/co_design_with_agents/",
+              "source": "RSS",
+              "publishedAt": "Sat, 14 Mar 2026 14:15:00 +0000",
+              "channelId": "hackernews_ai"
+            },
+            {
               "title": "Designing AI agents to resist prompt injection",
               "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
               "source": "RSS",
               "publishedAt": "Wed, 11 Mar 2026 11:30:00 GMT",
-              "channelId": "openai_blog"
-            },
-            {
-              "title": "From model to agent: Equipping the Responses API with a computer environment",
-              "link": "https://openai.com/index/equip-responses-api-computer-environment",
-              "source": "RSS",
-              "publishedAt": "Wed, 11 Mar 2026 11:00:00 GMT",
-              "channelId": "openai_blog"
-            },
-            {
-              "title": "OpenAI to acquire Promptfoo",
-              "link": "https://openai.com/index/openai-to-acquire-promptfoo",
-              "source": "RSS",
-              "publishedAt": "Mon, 09 Mar 2026 10:00:00 GMT",
               "channelId": "openai_blog"
             }
           ]
@@ -1684,6 +1711,13 @@
               "source": "RSS",
               "publishedAt": "Thu, 05 Mar 2026 00:00:00 GMT",
               "channelId": "openai_blog"
+            },
+            {
+              "title": "Show HN: I added barcode scanning to my AI pricing app – 92% cheaper per scan",
+              "link": "https://underpricedai.com",
+              "source": "RSS",
+              "publishedAt": "Sat, 14 Mar 2026 14:20:47 +0000",
+              "channelId": "hackernews_ai"
             }
           ]
         }
@@ -1777,7 +1811,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 8
+          "count": 12
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1875,11 +1909,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "TIAN RUIXIANG 推出了行业首创的BTC 质押服务，结合了人工智能驱动的收益保险，并推出了完全自主的人工智能保险代理，可实现即时承保与理赔结算。 - 富途牛牛",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVdFNkRIOWRiZERaMlVUb1VQenNwN3FlcjdDSmFGVkcwVFFCMDhIb0NlRVA1LXNBQWJscjh6ZEp5SU5FQkFqRWhOeHB3QTBrV3J6cGFMREl0dk5vSFlxMTRhZS1ZXzMtZU9MREl1X0dQUWhabDJGamJmUFl1Vmt0aVVMZWt2MU1fRE9yRDhUSmpVbmMxalhMdnNnR3BJR2Z4bF80cWg3V0pJNFNpRkx6eGJaWk4?oc=5",
+              "title": "Sigenergy 启用南通智慧能源中心，引领“全领域AI”战略及下一代能源组合 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEFDbkE3cGV3YWJHYVFNRFpkaFpoTUJEd2lEVDFsOEotUC1Kd2VMaDRtX1VWZ3ZibzVwS01aVEczLS1zZVhjYVA0R0YwX1FObFZENUlyOWFJbHFLREVsYUVxdE5qYkVJNXRORlZhWkRoOTQ5OFRfSEFVZG5qZTlqZldUR01FYWxTZG9XaDROZ0pZSkducXk4QW40SndQN0F0UjdNczFPdWJydjRk?oc=5",
               "source": "富途牛牛",
-              "publishedAt": "Wed, 04 Mar 2026 14:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVdFNkRIOWRiZERaMlVUb1VQenNwN3FlcjdDSmFGVkcwVFFCMDhIb0NlRVA1LXNBQWJscjh6ZEp5SU5FQkFqRWhOeHB3QTBrV3J6cGFMREl0dk5vSFlxMTRhZS1ZXzMtZU9MREl1X0dQUWhabDJGamJmUFl1Vmt0aVVMZWt2MU1fRE9yRDhUSmpVbmMxalhMdnNnR3BJR2Z4bF80cWg3V0pJNFNpRkx6eGJaWk4?oc=5\" target=\"_blank\">TIAN RUIXIANG 推出了行业首创的BTC 质押服务，结合了人工智能驱动的收益保险，并推出了完全自主的人工智能保险代理，可实现即时承保与理赔结算。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "publishedAt": "Fri, 13 Mar 2026 10:21:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEFDbkE3cGV3YWJHYVFNRFpkaFpoTUJEd2lEVDFsOEotUC1Kd2VMaDRtX1VWZ3ZibzVwS01aVEczLS1zZVhjYVA0R0YwX1FObFZENUlyOWFJbHFLREVsYUVxdE5qYkVJNXRORlZhWkRoOTQ5OFRfSEFVZG5qZTlqZldUR01FYWxTZG9XaDROZ0pZSkducXk4QW40SndQN0F0UjdNczFPdWJydjRk?oc=5\" target=\"_blank\">Sigenergy 启用南通智慧能源中心，引领“全领域AI”战略及下一代能源组合</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
               "channelId": "google_news"
             },
             {
@@ -1891,11 +1925,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants - ekhbary.com",
-              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5",
-              "source": "ekhbary.com",
-              "publishedAt": "Thu, 12 Mar 2026 06:52:43 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5\" target=\"_blank\">Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ekhbary.com</font>",
+              "title": "TIAN RUIXIANG 推出了行业首创的BTC 质押服务，结合了人工智能驱动的收益保险，并推出了完全自主的人工智能保险代理，可实现即时承保与理赔结算。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVdFNkRIOWRiZERaMlVUb1VQenNwN3FlcjdDSmFGVkcwVFFCMDhIb0NlRVA1LXNBQWJscjh6ZEp5SU5FQkFqRWhOeHB3QTBrV3J6cGFMREl0dk5vSFlxMTRhZS1ZXzMtZU9MREl1X0dQUWhabDJGamJmUFl1Vmt0aVVMZWt2MU1fRE9yRDhUSmpVbmMxalhMdnNnR3BJR2Z4bF80cWg3V0pJNFNpRkx6eGJaWk4?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Wed, 04 Mar 2026 14:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVdFNkRIOWRiZERaMlVUb1VQenNwN3FlcjdDSmFGVkcwVFFCMDhIb0NlRVA1LXNBQWJscjh6ZEp5SU5FQkFqRWhOeHB3QTBrV3J6cGFMREl0dk5vSFlxMTRhZS1ZXzMtZU9MREl1X0dQUWhabDJGamJmUFl1Vmt0aVVMZWt2MU1fRE9yRDhUSmpVbmMxalhMdnNnR3BJR2Z4bF80cWg3V0pJNFNpRkx6eGJaWk4?oc=5\" target=\"_blank\">TIAN RUIXIANG 推出了行业首创的BTC 质押服务，结合了人工智能驱动的收益保险，并推出了完全自主的人工智能保险代理，可实现即时承保与理赔结算。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
               "channelId": "google_news"
             }
           ]
@@ -1962,6 +1996,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "腾讯宣布：17城免费安装“龙虾”！ - 证券时报",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iNVlyajZaVXZ6VVliMU4yOS1pYmtoSlFBdDFZZXJQQzNEWnFOUHdwWkZKSkJacGZPdU9vQ3Yzd2FGYlJjaUtPbS1yVkxxZHZWSWQ0NWRaaktUMkM5?oc=5",
+              "source": "证券时报",
+              "publishedAt": "Sat, 14 Mar 2026 12:45:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iNVlyajZaVXZ6VVliMU4yOS1pYmtoSlFBdDFZZXJQQzNEWnFOUHdwWkZKSkJacGZPdU9vQ3Yzd2FGYlJjaUtPbS1yVkxxZHZWSWQ0NWRaaktUMkM5?oc=5\" target=\"_blank\">腾讯宣布：17城免费安装“龙虾”！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "方程豹钛系列成为比亚迪闪充首个量产车型 - 新浪网",
               "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc2VxMGEtS1RLR0phdnh5WFgtb0VTcXV4MGN6dHhPaGlVdGZHQzFZOTRhZjdxWDkyanJKZ3hCVDgzOUdseXZUYlVvQTZOMXhxSkt0MmVRbXJFWE5lZThvRTY4QnZGYzdhZWpMTndmRWI2VklEU3plbEFFYXNWb3l0dE1PRGdidw?oc=5",
               "source": "新浪网",
@@ -1970,11 +2012,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网 - 观察者",
+              "title": "鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网 - guancha.cn",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uZ2tVUnp0R3QyTHJ2R3cza2lMcEJmRUNmUjB1UzFIcmFhQ01UWVI2SHREanZlN3V1YzBRdU41aW1CMDIwQVR0ejlSUHE5Z0xza1pIYjBRVGRPT3hualBpMGhBeUc?oc=5",
-              "source": "观察者",
+              "source": "guancha.cn",
               "publishedAt": "Sat, 14 Mar 2026 06:25:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uZ2tVUnp0R3QyTHJ2R3cza2lMcEJmRUNmUjB1UzFIcmFhQ01UWVI2SHREanZlN3V1YzBRdU41aW1CMDIwQVR0ejlSUHE5Z0xza1pIYjBRVGRPT3hualBpMGhBeUc?oc=5\" target=\"_blank\">鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uZ2tVUnp0R3QyTHJ2R3cza2lMcEJmRUNmUjB1UzFIcmFhQ01UWVI2SHREanZlN3V1YzBRdU41aW1CMDIwQVR0ejlSUHE5Z0xza1pIYjBRVGRPT3hualBpMGhBeUc?oc=5\" target=\"_blank\">鸿蒙6+麒麟芯片，首次登上华为千元机-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
@@ -1991,14 +2033,6 @@
               "source": "东方财富",
               "publishedAt": "Sat, 14 Mar 2026 11:19:31 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WNFEzZEs2VjQwcy13YkFKQzhYUl9adW5IbGNXUVV4MTQ0aWJRZlpwNVNwd2YtYVVqWGpCQk1SS1hKQ0oxSXE1NDg0UkQ0QjI5dTZVdXY1UzZJQktvUmRtYQ?oc=5\" target=\"_blank\">余承东谈华为全场景生态 已覆盖了3200+品牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "腾讯“龙虾”全国免费安装计划启动 - 同花顺财经",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5",
-              "source": "同花顺财经",
-              "publishedAt": "Sat, 14 Mar 2026 09:26:59 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVXREMFpfYzVBR3c5WmtVV2NFcng2UHZGSDVmOElNa2VRbzNEU3dHZWZGUUFLTEpOZzBPUFczOV9YTzJUR2tDV3lTSGpVN2xvUE5INzhZTHdZZmtQ?oc=5\" target=\"_blank\">腾讯“龙虾”全国免费安装计划启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
               "channelId": "google_news"
             }
           ]
@@ -2032,27 +2066,27 @@
               "channelId": "google_news"
             },
             {
+              "title": "华为加入 Agentic AI 基金会成为金牌会员，推动智能体 AI 系统开放互操作 - 新浪网",
+              "link": "https://news.google.com/rss/articles/CBMi-glBVV95cUxQcmpRM2hwazgwa19fVjFpZWF6QXA1bF9kYTlJd1N1bjhua1ZhWW1MZTBmajQ2YkpEWG1ySFhGY0NWcmZPQ0tiSVVjWUtFUFpNVE1xd1FNUENNYzQtVWtQc05JWm1UbS1GUDJqMjdYSk43Wm5yU01nMkZyMkdOb01vOHdpMVhIN2FQNWdtQVRBRmZXTGNHQzFsdE1RS0dNeVJzTVdlN1VuSk9MSVNRcWRmMnJyOUp0Nm04TEVuNlVNZnhkZi1IZFppV083WVppT3RwcUtJeTcweTN4dTU5MjdMVmpwS2RTLTQ4cWdVQm9lLUVZOHo3cmhqdzBZeTNDU1dRLU9MaXZ4WFlhOVNPcXJHSnpVX3FGRUdrVk9ZM2NZLTgxSTJJUm01YmRGNkZLR0RhTHNaTFFDRllhY0VjLTVMZkRTTzA2Yjl5b2xCZE13NUpmRDl2M3pFLTRqTUo0aDdzTVJTZGwxWWNfdDFfMlFONF9IZC1yc1B1WVNXREdxMDRWZVpoYmQtNUNMbVJxRkFwVTZkN29zTGNrai1zdlhoOGhLa0dGWnppX216REMzUWNxWDBCbjM4MkNFcG1ybUhBRlQ0Z3I0ZU4tbFAza2lRakxRNFlFVnI1Q2doOW1mcUVPU3M5Ykh1dkxRNkhqY0J5aUtXTElzNTRIX1ZEMU1tRDdLREtKbDFxbGhsb2pVNkNkd3ZGVF9vZWs5N3R1VXlnU2RhYWxaTnZrSEktblItakh5WWdIbFJmalM3NjlBQ1oxajJNc3dZX1NyTHpkMmZmalRSSmp4TGY5VWdNQVE4LWtyVTBZTmJtVFFtMDI3d2YzbVhtcHJXNDlYZ2lRZGlxc1BBSno5bkk4UkdhMnh1MXNOVnZ0cXZiZE5LOC13TmRPX2h0WWlhOW04Vlc1TllWU2FQdGFSTmZaVzlsekw2TnBxdVdWYk5rcG9qMlJMQmM1eGdoMUxvYmhuTklVMVZMS0M4TktIYjNyRTFTTHZOQXo0NnBKZjAyV1lnZVNwSTJId2ZWS2oyelRHVW55WFhPdlNlVGUtbi1nTGw0dC1yMXdRa1NaQWpNVmNuVmpzVjJZcDQyNVBnb3FDVnJPRmlmR0VWVWJ5QW1Ib0pueGpSckQ3SGwzaTRvX2ZTbGtNR09CSlhQZzZUeXN0d1hlc2s2Z0dmYUxTRmhEVGdqS0YyZjN1REFlYWd1TzE5d05BVS1WV1ZwMmxScmpGaU9UNVdGc3pfaVJGVm1NUTFpVHFBcnFNUlZLVk5WYy13azVFWnJOUTg1RV8xbW1QY0pWM1doZlU2RS00WTBFeDR1Zm4wQ0J0OVgyWFdLMFR6akxsZFFzSHRiLVVkaXZ6eHZiREJyTzZLX1FVQ1lxS0VpLTZ3cjBLUzV0cEV4TGowdWp2VjkyZVIwQTV5THI0cTFuelpfX1IxY0JzendGVDl4ZHd1VlBtTTVIdVpldUNsUzQ0MjJoVHBmVVdlLUhZWF82ZlB5dFJnNnZvMzlyMnJpRTNlSFdEVzM4RDc4RzJ5RXczWmhNaTJWMjZjMjh1NWRKVnFJeV9iWmNPa1doS1FwVGZzdW1zcmU3N0pZVnFoT08tQUZCNjVRckRmdUIxaElhMnZWNERRUjFMdVBvNWhXVTkyQmtZUHNVbnQ0UWxmQ2ZqcWgyOVc5UjZzX0t4WmFUTHRUalZEX1ZiTmxOZw?oc=5",
+              "source": "新浪网",
+              "publishedAt": "Wed, 25 Feb 2026 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-glBVV95cUxQcmpRM2hwazgwa19fVjFpZWF6QXA1bF9kYTlJd1N1bjhua1ZhWW1MZTBmajQ2YkpEWG1ySFhGY0NWcmZPQ0tiSVVjWUtFUFpNVE1xd1FNUENNYzQtVWtQc05JWm1UbS1GUDJqMjdYSk43Wm5yU01nMkZyMkdOb01vOHdpMVhIN2FQNWdtQVRBRmZXTGNHQzFsdE1RS0dNeVJzTVdlN1VuSk9MSVNRcWRmMnJyOUp0Nm04TEVuNlVNZnhkZi1IZFppV083WVppT3RwcUtJeTcweTN4dTU5MjdMVmpwS2RTLTQ4cWdVQm9lLUVZOHo3cmhqdzBZeTNDU1dRLU9MaXZ4WFlhOVNPcXJHSnpVX3FGRUdrVk9ZM2NZLTgxSTJJUm01YmRGNkZLR0RhTHNaTFFDRllhY0VjLTVMZkRTTzA2Yjl5b2xCZE13NUpmRDl2M3pFLTRqTUo0aDdzTVJTZGwxWWNfdDFfMlFONF9IZC1yc1B1WVNXREdxMDRWZVpoYmQtNUNMbVJxRkFwVTZkN29zTGNrai1zdlhoOGhLa0dGWnppX216REMzUWNxWDBCbjM4MkNFcG1ybUhBRlQ0Z3I0ZU4tbFAza2lRakxRNFlFVnI1Q2doOW1mcUVPU3M5Ykh1dkxRNkhqY0J5aUtXTElzNTRIX1ZEMU1tRDdLREtKbDFxbGhsb2pVNkNkd3ZGVF9vZWs5N3R1VXlnU2RhYWxaTnZrSEktblItakh5WWdIbFJmalM3NjlBQ1oxajJNc3dZX1NyTHpkMmZmalRSSmp4TGY5VWdNQVE4LWtyVTBZTmJtVFFtMDI3d2YzbVhtcHJXNDlYZ2lRZGlxc1BBSno5bkk4UkdhMnh1MXNOVnZ0cXZiZE5LOC13TmRPX2h0WWlhOW04Vlc1TllWU2FQdGFSTmZaVzlsekw2TnBxdVdWYk5rcG9qMlJMQmM1eGdoMUxvYmhuTklVMVZMS0M4TktIYjNyRTFTTHZOQXo0NnBKZjAyV1lnZVNwSTJId2ZWS2oyelRHVW55WFhPdlNlVGUtbi1nTGw0dC1yMXdRa1NaQWpNVmNuVmpzVjJZcDQyNVBnb3FDVnJPRmlmR0VWVWJ5QW1Ib0pueGpSckQ3SGwzaTRvX2ZTbGtNR09CSlhQZzZUeXN0d1hlc2s2Z0dmYUxTRmhEVGdqS0YyZjN1REFlYWd1TzE5d05BVS1WV1ZwMmxScmpGaU9UNVdGc3pfaVJGVm1NUTFpVHFBcnFNUlZLVk5WYy13azVFWnJOUTg1RV8xbW1QY0pWM1doZlU2RS00WTBFeDR1Zm4wQ0J0OVgyWFdLMFR6akxsZFFzSHRiLVVkaXZ6eHZiREJyTzZLX1FVQ1lxS0VpLTZ3cjBLUzV0cEV4TGowdWp2VjkyZVIwQTV5THI0cTFuelpfX1IxY0JzendGVDl4ZHd1VlBtTTVIdVpldUNsUzQ0MjJoVHBmVVdlLUhZWF82ZlB5dFJnNnZvMzlyMnJpRTNlSFdEVzM4RDc4RzJ5RXczWmhNaTJWMjZjMjh1NWRKVnFJeV9iWmNPa1doS1FwVGZzdW1zcmU3N0pZVnFoT08tQUZCNjVRckRmdUIxaElhMnZWNERRUjFMdVBvNWhXVTkyQmtZUHNVbnQ0UWxmQ2ZqcWgyOVc5UjZzX0t4WmFUTHRUalZEX1ZiTmxOZw?oc=5\" target=\"_blank\">华为加入 Agentic AI 基金会成为金牌会员，推动智能体 AI 系统开放互操作</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "独家｜Flowith 完成千万美元种子轮融资，打造 Agentic AI 时代的首个“行动派”操作系统-腾讯新闻 - QQ News",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yYWxjajZENDBnNVJ1TS1tMjA1QUY5QjFFNWszRWFXRjNOVzlvTURaemNHa3RORjJmOHRPazI2dUY2Y0xaaS1vOHpOWVk5NkJjc2pJV0xB?oc=5",
+              "source": "QQ News",
+              "publishedAt": "Wed, 04 Mar 2026 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yYWxjajZENDBnNVJ1TS1tMjA1QUY5QjFFNWszRWFXRjNOVzlvTURaemNHa3RORjJmOHRPazI2dUY2Y0xaaS1vOHpOWVk5NkJjc2pJV0xB?oc=5\" target=\"_blank\">独家｜Flowith 完成千万美元种子轮融资，打造 Agentic AI 时代的首个“行动派”操作系统-腾讯新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">QQ News</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？ - Bitget",
               "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn0gFrQVVfeXFMTkk1SjZKUDdjek52YWxHUTR6TFdiaUN6UF95U3R4Qjh5UFQ4NG1ZUkx6NUkzWTBQaHRBdUpnTlFZVnNTMm5tNDA1NXhBZGd1N3k5cENKeE9ocUJ4SmNDZjhLcVhHRGdUM2Z5amc?oc=5",
               "source": "Bitget",
               "publishedAt": "Thu, 05 Mar 2026 03:45:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn0gFrQVVfeXFMTkk1SjZKUDdjek52YWxHUTR6TFdiaUN6UF95U3R4Qjh5UFQ4NG1ZUkx6NUkzWTBQaHRBdUpnTlFZVnNTMm5tNDA1NXhBZGd1N3k5cENKeE9ocUJ4SmNDZjhLcVhHRGdUM2Z5amc?oc=5\" target=\"_blank\">Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Systematic debugging for AI agents: Introducing the AgentRx framework - Microsoft",
-              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3c2eW1hZVZZUTRiSl9NSFlEZVdkVkdQNkxpdFJXbWdkRzVJMWZEWjRNV1pjYTRfQmlGUVQtWE5ubnBKS1BKRnlFMk1Md3FkSl9WSHpFVkZfYkxKUVFGZUdwRkM2VlRaUkx4SkhHeDVkR1lvdmRPXzhBNzBSQW9BYm1KdGxHVXItdVdyWDJMU3VIY0hNYUcwRWUtdTcyZ0dRZmczcjFFVmNpb2xnS0NnZVRaQzFGZzBtUG9MNjRYZkVBZFg1?oc=5",
-              "source": "Microsoft",
-              "publishedAt": "Thu, 12 Mar 2026 16:38:45 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3c2eW1hZVZZUTRiSl9NSFlEZVdkVkdQNkxpdFJXbWdkRzVJMWZEWjRNV1pjYTRfQmlGUVQtWE5ubnBKS1BKRnlFMk1Md3FkSl9WSHpFVkZfYkxKUVFGZUdwRkM2VlRaUkx4SkhHeDVkR1lvdmRPXzhBNzBSQW9BYm1KdGxHVXItdVdyWDJMU3VIY0hNYUcwRWUtdTcyZ0dRZmczcjFFVmNpb2xnS0NnZVRaQzFGZzBtUG9MNjRYZkVBZFg1?oc=5\" target=\"_blank\">Systematic debugging for AI agents: Introducing the AgentRx framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "如何理解“养龙虾”浪潮的本质与演进边界 - 上海科技报",
-              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GV3hQN2JFd3VSU2ZhekJnc0I5WlVDN3BOTHA0aWprd285ZU8wbi1uT3dJY0NWcVZ4ZGNEM3NQM0o5aUNvOHZJT1VfY0o3czViRDlUNVpUYw?oc=5",
-              "source": "上海科技报",
-              "publishedAt": "Thu, 12 Mar 2026 07:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GV3hQN2JFd3VSU2ZhekJnc0I5WlVDN3BOTHA0aWprd285ZU8wbi1uT3dJY0NWcVZ4ZGNEM3NQM0o5aUNvOHZJT1VfY0o3czViRDlUNVpUYw?oc=5\" target=\"_blank\">如何理解“养龙虾”浪潮的本质与演进边界</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海科技报</font>",
               "channelId": "google_news"
             }
           ]
@@ -2079,8 +2113,15 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-14T13:01:23Z",
+              "publishedAt": "2026-03-14T14:09:22Z",
               "channelId": "github_trending_ai"
+            },
+            {
+              "title": "Show HN: Kremis – Rust graph DB; every answer is fact, inference, or unknown",
+              "link": "https://github.com/TyKolt/kremis",
+              "source": "RSS",
+              "publishedAt": "Sat, 14 Mar 2026 14:21:24 +0000",
+              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -2105,6 +2146,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15RlBCeG5zMHlJRzRlUEw5eXBHaHh2SWtETnNVWTJpdS14WFJoN3hMbjd1TjBoUElIWmtFQS1vbDktYjc4ZGgxYnZaM0s1aW91bWFrdEc5NE1ubnpIeVc2Y24xLU9lT0RZb2ZONm5QeEhON3hqS01fTk9oMkZHUQ?oc=5",
+              "source": "新浪财经",
+              "publishedAt": "Fri, 13 Mar 2026 02:52:18 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE15RlBCeG5zMHlJRzRlUEw5eXBHaHh2SWtETnNVWTJpdS14WFJoN3hMbjd1TjBoUElIWmtFQS1vbDktYjc4ZGgxYnZaM0s1aW91bWFrdEc5NE1ubnpIeVc2Y24xLU9lT0RZb2ZONm5QeEhON3hqS01fTk9oMkZHUQ?oc=5\" target=\"_blank\">2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "Comprehensive Guide to Gambling and Casino Games Featuring solitariospiderarkadium in Hong Kong - Semana.com",
               "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPR3p0ckhIOTRfaHpjcnFFaEVQSXhfYzd1cm12QkltNHo1Z09fYnpxSlVYR21YOXRTa0VRaHdwX2Y0OXZqUnF5dUo1VzNxck9YeVQ5ZGEwS0g2TFVjbFNxRTZrSUYyRFM3ZmJJWmt2OUYzWHdzWWN3V3VBdGVpX2I0Q1A5c1NOa3FReTlPYld5cDRaVEx1ZV92RHRYZlZWRUNQLVJlUFM4VFVzaFpEM21DUk5fM2hrZEo2b1ZXUGtGS1BUTXRRU0V4LTBvY1pVS1R0UE1zNHdBY21yRVVfdk5NMndFSjVERF9aR3lMTDFZQXhINlNXemVKTjNnTGFYUFFlLVNOcXA1eUhqbW9DNEZJRVZ6UXowMld3ellpNU54Q1QzX3BXSUhoRnBHSGp5d2c?oc=5",
               "source": "Semana.com",
@@ -2120,18 +2169,11 @@
               "channelId": "openai_blog"
             },
             {
-              "title": "Designing AI agents to resist prompt injection",
-              "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+              "title": "The Programmers's Guide to Co-Designing with Agents",
+              "link": "https://davidwhitney.co.uk/blog/2026/03/11/co_design_with_agents/",
               "source": "RSS",
-              "publishedAt": "Wed, 11 Mar 2026 11:30:00 GMT",
-              "channelId": "openai_blog"
-            },
-            {
-              "title": "From model to agent: Equipping the Responses API with a computer environment",
-              "link": "https://openai.com/index/equip-responses-api-computer-environment",
-              "source": "RSS",
-              "publishedAt": "Wed, 11 Mar 2026 11:00:00 GMT",
-              "channelId": "openai_blog"
+              "publishedAt": "Sat, 14 Mar 2026 14:15:00 +0000",
+              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -2166,6 +2208,13 @@
               "source": "RSS",
               "publishedAt": "Wed, 18 Feb 2026 16:15:45 GMT",
               "channelId": "huggingface_blog"
+            },
+            {
+              "title": "Show HN: I added barcode scanning to my AI pricing app – 92% cheaper per scan",
+              "link": "https://underpricedai.com",
+              "source": "RSS",
+              "publishedAt": "Sat, 14 Mar 2026 14:20:47 +0000",
+              "channelId": "hackernews_ai"
             }
           ]
         }
@@ -2259,7 +2308,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 8
+          "count": 12
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -2274,21 +2323,8 @@
     }
   },
   "health": {
-    "totalNewsItems": 195,
-    "emptySections": [
-      {
-        "days": 1,
-        "title": "商业 ROI"
-      },
-      {
-        "days": 3,
-        "title": "商业 ROI"
-      },
-      {
-        "days": 7,
-        "title": "商业 ROI"
-      }
-    ],
+    "totalNewsItems": 205,
+    "emptySections": [],
     "totalStocks": 40,
     "stocksWithPrice": 40,
     "channels": {
@@ -2297,32 +2333,10 @@
       "google_ai_blog": 31,
       "huggingface_blog": 32,
       "github_trending_ai": 100,
-      "hackernews_ai": 40,
+      "hackernews_ai": 60,
       "arxiv_cs_daily": 0,
       "producthunt_ai": 22
     },
-    "diagnostics": [
-      {
-        "days": 1,
-        "section": "商业 ROI",
-        "reason": "still-empty",
-        "googleBaseCount": 0,
-        "scoredPoolSize": 0
-      },
-      {
-        "days": 3,
-        "section": "商业 ROI",
-        "reason": "still-empty",
-        "googleBaseCount": 0,
-        "scoredPoolSize": 0
-      },
-      {
-        "days": 7,
-        "section": "商业 ROI",
-        "reason": "still-empty",
-        "googleBaseCount": 0,
-        "scoredPoolSize": 0
-      }
-    ]
+    "diagnostics": []
   }
 }
