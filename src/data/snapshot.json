@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T16:40:14.810Z",
+  "generatedAt": "2026-03-15T18:50:17.717Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -20,22 +20,29 @@
               "title": "ollama/ollama - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
               "link": "https://github.com/ollama/ollama",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:25:37Z",
+              "publishedAt": "2026-03-15T18:47:39Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
               "link": "https://github.com/Comfy-Org/ComfyUI",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:37:37Z",
+              "publishedAt": "2026-03-15T18:49:56Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "affaan-m/everything-claude-code - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
               "link": "https://github.com/affaan-m/everything-claude-code",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:40:07Z",
+              "publishedAt": "2026-03-15T18:47:48Z",
               "channelId": "github_trending_ai"
+            },
+            {
+              "title": "Multi-model AI API for detecting stereotypes and toxic language",
+              "link": "https://news.ycombinator.com/item?id=47390451",
+              "source": "RSS",
+              "publishedAt": "Sun, 15 Mar 2026 18:42:28 +0000",
+              "channelId": "hackernews_ai"
             }
           ]
         },
@@ -55,35 +62,35 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:20:50Z",
+              "publishedAt": "2026-03-15T18:47:18Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:20:12Z",
+              "publishedAt": "2026-03-15T18:46:55Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "openclaw/openclaw - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
               "link": "https://github.com/openclaw/openclaw",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:39:53Z",
+              "publishedAt": "2026-03-15T18:50:11Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:31:18Z",
+              "publishedAt": "2026-03-15T18:45:33Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:39:24Z",
+              "publishedAt": "2026-03-15T18:44:43Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -96,42 +103,42 @@
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T15:47:40Z",
+              "publishedAt": "2026-03-15T18:39:34Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "google-gemini/gemini-cli - An open-source AI agent that brings the power of Gemini directly into your terminal.",
               "link": "https://github.com/google-gemini/gemini-cli",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:26:32Z",
+              "publishedAt": "2026-03-15T18:39:58Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "anthropics/claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
               "link": "https://github.com/anthropics/claude-code",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:37:06Z",
+              "publishedAt": "2026-03-15T18:47:46Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "ollama/ollama - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
               "link": "https://github.com/ollama/ollama",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:25:37Z",
+              "publishedAt": "2026-03-15T18:47:39Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "f/prompts.chat - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
               "link": "https://github.com/f/prompts.chat",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:26:58Z",
+              "publishedAt": "2026-03-15T18:47:14Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:30:13Z",
+              "publishedAt": "2026-03-15T18:37:33Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -149,11 +156,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗 - 新浪网",
+              "title": "辽宁省人民政府 - ln.gov.cn",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTVNWUTJENjI2dzJuZEw0cXRFZmFuSS13eFNOUnlfLXlVZTFuQzByd2x5WHFsd2pSNUE5TldmdGt4UkQ4VjdFWE8tS1dadk5hamFVYUhwZmtkdmZMTWdkcFY4VHpNX1ItX2ZvR3FOSnVBcmcwY3JBSVFMczMzbV9MRE8xMA?oc=5",
+              "source": "ln.gov.cn",
+              "publishedAt": "Sun, 15 Mar 2026 12:09:51 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNTVNWUTJENjI2dzJuZEw0cXRFZmFuSS13eFNOUnlfLXlVZTFuQzByd2x5WHFsd2pSNUE5TldmdGt4UkQ4VjdFWE8tS1dadk5hamFVYUhwZmtkdmZMTWdkcFY4VHpNX1ItX2ZvR3FOSnVBcmcwY3JBSVFMczMzbV9MRE8xMA?oc=5\" target=\"_blank\">辽宁省人民政府</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ln.gov.cn</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV041ekg1Z01zb1RfX0dOWXRlRk1RbFU4Mzc3T21icnB1U2wzSVJMX3h6bXBLLXQyVURIOXpuMTZIM25wU1Y3U3VEVDU4UExONzJVcUtlYXZvY0tkMUJETWJhT0tuTjJXOUpUZWNjM0hMYmxJbkh0Mi03T0cwa1pyREp6MTJxTUJuaUxIelFGQUphRUN0clpwWXlmRGg1WHlXMzlkZTFmYw?oc=5",
-              "source": "新浪网",
+              "source": "新浪财经",
               "publishedAt": "Sun, 15 Mar 2026 13:07:51 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOV041ekg1Z01zb1RfX0dOWXRlRk1RbFU4Mzc3T21icnB1U2wzSVJMX3h6bXBLLXQyVURIOXpuMTZIM25wU1Y3U3VEVDU4UExONzJVcUtlYXZvY0tkMUJETWJhT0tuTjJXOUpUZWNjM0hMYmxJbkh0Mi03T0cwa1pyREp6MTJxTUJuaUxIelFGQUphRUN0clpwWXlmRGg1WHlXMzlkZTFmYw?oc=5\" target=\"_blank\">玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOV041ekg1Z01zb1RfX0dOWXRlRk1RbFU4Mzc3T21icnB1U2wzSVJMX3h6bXBLLXQyVURIOXpuMTZIM25wU1Y3U3VEVDU4UExONzJVcUtlYXZvY0tkMUJETWJhT0tuTjJXOUpUZWNjM0hMYmxJbkh0Mi03T0cwa1pyREp6MTJxTUJuaUxIelFGQUphRUN0clpwWXlmRGg1WHlXMzlkZTFmYw?oc=5\" target=\"_blank\">玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "港股AI异动！腾讯云定价暴涨，Agent加速大模型商业化进程，华宝基金港股互联网ETF（513770）核心受益 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYXJ5S3pVa216UFBTSTRkWlBYQ2RIT2htZVJVQlY2QW1SX0xQRWZxT052Z254UEZFY3prS3VkcUVycW9PR0JDdFdqWXdfY1FJaFlKUng0WTlncVV6SU54dEc1UTFKX1ZPQWh2cFJJWm1RUzdnMF9hM1V1SGhrM2tEbEl6VFBsZw?oc=5",
+              "source": "新浪财经",
+              "publishedAt": "Sun, 15 Mar 2026 11:18:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQYXJ5S3pVa216UFBTSTRkWlBYQ2RIT2htZVJVQlY2QW1SX0xQRWZxT052Z254UEZFY3prS3VkcUVycW9PR0JDdFdqWXdfY1FJaFlKUng0WTlncVV6SU54dEc1UTFKX1ZPQWh2cFJJWm1RUzdnMF9hM1V1SGhrM2tEbEl6VFBsZw?oc=5\" target=\"_blank\">港股AI异动！腾讯云定价暴涨，Agent加速大模型商业化进程，华宝基金港股互联网ETF（513770）核心受益</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             },
             {
@@ -165,27 +188,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "京东：近百个家电家居品牌正在接入JoyInside-观察者网 - 观察者网",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5",
-              "source": "观察者网",
-              "publishedAt": "Sun, 15 Mar 2026 01:21:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5\" target=\"_blank\">京东：近百个家电家居品牌正在接入JoyInside-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者网</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "字节跳动辟谣武汉研发中心谢幕全员被裁 - 联合早报",
               "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LRm50dnJXNmdlaDhlbFFNWlRpQmtjNWI2cWN2U2NnNE5FMGIwMTNIN1NWZVN0SEQwMmNNYXdPQTEwUEE0UXptbDh3MWdUWjZ2N212WWQweGZfRTh6VVRCMnFSYU1Yd1FBUnc?oc=5",
               "source": "联合早报",
               "publishedAt": "Sun, 15 Mar 2026 08:03:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5LRm50dnJXNmdlaDhlbFFNWlRpQmtjNWI2cWN2U2NnNE5FMGIwMTNIN1NWZVN0SEQwMmNNYXdPQTEwUEE0UXptbDh3MWdUWjZ2N212WWQweGZfRTh6VVRCMnFSYU1Yd1FBUnc?oc=5\" target=\"_blank\">字节跳动辟谣武汉研发中心谢幕全员被裁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "腾讯已正式成为OpenClaw社区赞助商 - 观点网",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10THdYQm5McUNRblRhS2hkRGtrLWlSWjRSeWFZUzBLSGIya0tBcDRlaU9FZWljVzJzZEdyblg2TTF0UFM1VUE5WU93eWk0QQ?oc=5",
-              "source": "观点网",
-              "publishedAt": "Sun, 15 Mar 2026 09:52:37 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE10THdYQm5McUNRblRhS2hkRGtrLWlSWjRSeWFZUzBLSGIya0tBcDRlaU9FZWljVzJzZEdyblg2TTF0UFM1VUE5WU93eWk0QQ?oc=5\" target=\"_blank\">腾讯已正式成为OpenClaw社区赞助商</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观点网</font>",
               "channelId": "google_news"
             }
           ]
@@ -203,38 +210,39 @@
               "channelId": "google_news"
             },
             {
+              "title": "TRC20-USDT 发行量突破 863 亿枚，续刷历史新高 - CryptoRank",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kZVlrQWdJR1BLV3pfNmttNDFibWtzU0FFWDlPWHFOTEVTWGdWT3VNWTVPQ2NkTnFQdDVaOXY3SG5DWWlRbzc2cG9VcWlGcjhzelJHNkQ3VThaTElF?oc=5",
+              "source": "CryptoRank",
+              "publishedAt": "Sun, 15 Mar 2026 09:53:12 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kZVlrQWdJR1BLV3pfNmttNDFibWtzU0FFWDlPWHFOTEVTWGdWT3VNWTVPQ2NkTnFQdDVaOXY3SG5DWWlRbzc2cG9VcWlGcjhzelJHNkQ3VThaTElF?oc=5\" target=\"_blank\">TRC20-USDT 发行量突破 863 亿枚，续刷历史新高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:20:50Z",
+              "publishedAt": "2026-03-15T18:47:18Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "anthropics/claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
               "link": "https://github.com/anthropics/claude-code",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:37:06Z",
+              "publishedAt": "2026-03-15T18:47:46Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:39:24Z",
+              "publishedAt": "2026-03-15T18:44:43Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
               "link": "https://github.com/langflow-ai/langflow",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:08:56Z",
-              "channelId": "github_trending_ai"
-            },
-            {
-              "title": "lobehub/lobehub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-              "link": "https://github.com/lobehub/lobehub",
-              "source": "GitHub",
-              "publishedAt": "2026-03-15T16:21:41Z",
+              "publishedAt": "2026-03-15T18:46:28Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -244,17 +252,10 @@
           "query": "LLM inference cost token economics",
           "items": [
             {
-              "title": "vllm-project/vllm - A high-throughput and memory-efficient inference and serving engine for LLMs",
-              "link": "https://github.com/vllm-project/vllm",
-              "source": "GitHub",
-              "publishedAt": "2026-03-15T16:25:31Z",
-              "channelId": "github_trending_ai"
-            },
-            {
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:30:13Z",
+              "publishedAt": "2026-03-15T18:37:33Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -267,42 +268,42 @@
               "title": "lobehub/lobehub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
               "link": "https://github.com/lobehub/lobehub",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:21:41Z",
+              "publishedAt": "2026-03-15T18:01:23Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:31:18Z",
+              "publishedAt": "2026-03-15T18:45:33Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:39:24Z",
+              "publishedAt": "2026-03-15T18:44:43Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
               "link": "https://github.com/langflow-ai/langflow",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:08:56Z",
+              "publishedAt": "2026-03-15T18:46:28Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T15:47:40Z",
+              "publishedAt": "2026-03-15T18:39:34Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
               "link": "https://github.com/Comfy-Org/ComfyUI",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:37:37Z",
+              "publishedAt": "2026-03-15T18:49:56Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -402,7 +403,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 9
+          "count": 7
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -465,14 +466,14 @@
               "title": "ollama/ollama - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
               "link": "https://github.com/ollama/ollama",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:25:37Z",
+              "publishedAt": "2026-03-15T18:47:39Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
               "link": "https://github.com/Comfy-Org/ComfyUI",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:37:37Z",
+              "publishedAt": "2026-03-15T18:49:56Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -493,28 +494,28 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:20:50Z",
+              "publishedAt": "2026-03-15T18:47:18Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:20:12Z",
+              "publishedAt": "2026-03-15T18:46:55Z",
               "channelId": "github_trending_ai"
-            },
-            {
-              "title": "LaterAI",
-              "link": "https://www.producthunt.com/products/laterai-save-read-listen",
-              "source": "RSS",
-              "publishedAt": "2026-03-14T04:02:09-07:00",
-              "channelId": "producthunt_ai"
             },
             {
               "title": "Cal.com Agents",
               "link": "https://www.producthunt.com/products/cal",
               "source": "RSS",
               "publishedAt": "2026-03-13T13:35:17-07:00",
+              "channelId": "producthunt_ai"
+            },
+            {
+              "title": "LaterAI",
+              "link": "https://www.producthunt.com/products/laterai-save-read-listen",
+              "source": "RSS",
+              "publishedAt": "2026-03-14T04:02:09-07:00",
               "channelId": "producthunt_ai"
             },
             {
@@ -541,35 +542,35 @@
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:23:38Z",
+              "publishedAt": "2026-03-15T18:39:33Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T15:47:40Z",
+              "publishedAt": "2026-03-15T18:39:34Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "google-gemini/gemini-cli - An open-source AI agent that brings the power of Gemini directly into your terminal.",
               "link": "https://github.com/google-gemini/gemini-cli",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:26:32Z",
+              "publishedAt": "2026-03-15T18:39:58Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "anthropics/claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
               "link": "https://github.com/anthropics/claude-code",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:37:06Z",
+              "publishedAt": "2026-03-15T18:47:46Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "ollama/ollama - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
               "link": "https://github.com/ollama/ollama",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:25:37Z",
+              "publishedAt": "2026-03-15T18:47:39Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -587,11 +588,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗 - 新浪网",
+              "title": "辽宁省人民政府 - ln.gov.cn",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTVNWUTJENjI2dzJuZEw0cXRFZmFuSS13eFNOUnlfLXlVZTFuQzByd2x5WHFsd2pSNUE5TldmdGt4UkQ4VjdFWE8tS1dadk5hamFVYUhwZmtkdmZMTWdkcFY4VHpNX1ItX2ZvR3FOSnVBcmcwY3JBSVFMczMzbV9MRE8xMA?oc=5",
+              "source": "ln.gov.cn",
+              "publishedAt": "Sun, 15 Mar 2026 12:09:51 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNTVNWUTJENjI2dzJuZEw0cXRFZmFuSS13eFNOUnlfLXlVZTFuQzByd2x5WHFsd2pSNUE5TldmdGt4UkQ4VjdFWE8tS1dadk5hamFVYUhwZmtkdmZMTWdkcFY4VHpNX1ItX2ZvR3FOSnVBcmcwY3JBSVFMczMzbV9MRE8xMA?oc=5\" target=\"_blank\">辽宁省人民政府</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ln.gov.cn</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV041ekg1Z01zb1RfX0dOWXRlRk1RbFU4Mzc3T21icnB1U2wzSVJMX3h6bXBLLXQyVURIOXpuMTZIM25wU1Y3U3VEVDU4UExONzJVcUtlYXZvY0tkMUJETWJhT0tuTjJXOUpUZWNjM0hMYmxJbkh0Mi03T0cwa1pyREp6MTJxTUJuaUxIelFGQUphRUN0clpwWXlmRGg1WHlXMzlkZTFmYw?oc=5",
-              "source": "新浪网",
+              "source": "新浪财经",
               "publishedAt": "Sun, 15 Mar 2026 13:07:51 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOV041ekg1Z01zb1RfX0dOWXRlRk1RbFU4Mzc3T21icnB1U2wzSVJMX3h6bXBLLXQyVURIOXpuMTZIM25wU1Y3U3VEVDU4UExONzJVcUtlYXZvY0tkMUJETWJhT0tuTjJXOUpUZWNjM0hMYmxJbkh0Mi03T0cwa1pyREp6MTJxTUJuaUxIelFGQUphRUN0clpwWXlmRGg1WHlXMzlkZTFmYw?oc=5\" target=\"_blank\">玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOV041ekg1Z01zb1RfX0dOWXRlRk1RbFU4Mzc3T21icnB1U2wzSVJMX3h6bXBLLXQyVURIOXpuMTZIM25wU1Y3U3VEVDU4UExONzJVcUtlYXZvY0tkMUJETWJhT0tuTjJXOUpUZWNjM0hMYmxJbkh0Mi03T0cwa1pyREp6MTJxTUJuaUxIelFGQUphRUN0clpwWXlmRGg1WHlXMzlkZTFmYw?oc=5\" target=\"_blank\">玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "港股AI异动！腾讯云定价暴涨，Agent加速大模型商业化进程，华宝基金港股互联网ETF（513770）核心受益 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYXJ5S3pVa216UFBTSTRkWlBYQ2RIT2htZVJVQlY2QW1SX0xQRWZxT052Z254UEZFY3prS3VkcUVycW9PR0JDdFdqWXdfY1FJaFlKUng0WTlncVV6SU54dEc1UTFKX1ZPQWh2cFJJWm1RUzdnMF9hM1V1SGhrM2tEbEl6VFBsZw?oc=5",
+              "source": "新浪财经",
+              "publishedAt": "Sun, 15 Mar 2026 11:18:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQYXJ5S3pVa216UFBTSTRkWlBYQ2RIT2htZVJVQlY2QW1SX0xQRWZxT052Z254UEZFY3prS3VkcUVycW9PR0JDdFdqWXdfY1FJaFlKUng0WTlncVV6SU54dEc1UTFKX1ZPQWh2cFJJWm1RUzdnMF9hM1V1SGhrM2tEbEl6VFBsZw?oc=5\" target=\"_blank\">港股AI异动！腾讯云定价暴涨，Agent加速大模型商业化进程，华宝基金港股互联网ETF（513770）核心受益</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             },
             {
@@ -603,27 +620,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "京东：近百个家电家居品牌正在接入JoyInside-观察者网 - 观察者网",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5",
-              "source": "观察者网",
-              "publishedAt": "Sun, 15 Mar 2026 01:21:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5\" target=\"_blank\">京东：近百个家电家居品牌正在接入JoyInside-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者网</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "字节跳动辟谣武汉研发中心谢幕全员被裁 - 联合早报",
               "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LRm50dnJXNmdlaDhlbFFNWlRpQmtjNWI2cWN2U2NnNE5FMGIwMTNIN1NWZVN0SEQwMmNNYXdPQTEwUEE0UXptbDh3MWdUWjZ2N212WWQweGZfRTh6VVRCMnFSYU1Yd1FBUnc?oc=5",
               "source": "联合早报",
               "publishedAt": "Sun, 15 Mar 2026 08:03:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5LRm50dnJXNmdlaDhlbFFNWlRpQmtjNWI2cWN2U2NnNE5FMGIwMTNIN1NWZVN0SEQwMmNNYXdPQTEwUEE0UXptbDh3MWdUWjZ2N212WWQweGZfRTh6VVRCMnFSYU1Yd1FBUnc?oc=5\" target=\"_blank\">字节跳动辟谣武汉研发中心谢幕全员被裁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "腾讯已正式成为OpenClaw社区赞助商 - 观点网",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10THdYQm5McUNRblRhS2hkRGtrLWlSWjRSeWFZUzBLSGIya0tBcDRlaU9FZWljVzJzZEdyblg2TTF0UFM1VUE5WU93eWk0QQ?oc=5",
-              "source": "观点网",
-              "publishedAt": "Sun, 15 Mar 2026 09:52:37 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE10THdYQm5McUNRblRhS2hkRGtrLWlSWjRSeWFZUzBLSGIya0tBcDRlaU9FZWljVzJzZEdyblg2TTF0UFM1VUE5WU93eWk0QQ?oc=5\" target=\"_blank\">腾讯已正式成为OpenClaw社区赞助商</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观点网</font>",
               "channelId": "google_news"
             }
           ]
@@ -665,19 +666,19 @@
               "channelId": "google_news"
             },
             {
-              "title": "为何加密多头认为人工智能代理将使稳定币成为默认支付层 - CoinDesk",
-              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRnBmd01XbE1zMXBmUGJQQnhvZFJqS194SDg4eGFZdEE0d1RTVDJsSDBQR2RQWWY3TklubDhBaEZ4YzZubkc3ZGk4cVZyN1VKSUlCcEl1RUhRUHQ2UlQwTmxEUlZuWW1pNlptZGZ5cTVjTVpCelRQdVB3RDg5N0pkSjJramdlNFktZDBqMmxSNGJ3cmxsamdVS2RSSzVnSHVUS1FJaGpqRUJjSGVvRmlMdDVlUDc4MEpXc3RjSmtqblRaZERNRGNJ?oc=5",
-              "source": "CoinDesk",
-              "publishedAt": "Sat, 14 Mar 2026 22:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPRnBmd01XbE1zMXBmUGJQQnhvZFJqS194SDg4eGFZdEE0d1RTVDJsSDBQR2RQWWY3TklubDhBaEZ4YzZubkc3ZGk4cVZyN1VKSUlCcEl1RUhRUHQ2UlQwTmxEUlZuWW1pNlptZGZ5cTVjTVpCelRQdVB3RDg5N0pkSjJramdlNFktZDBqMmxSNGJ3cmxsamdVS2RSSzVnSHVUS1FJaGpqRUJjSGVvRmlMdDVlUDc4MEpXc3RjSmtqblRaZERNRGNJ?oc=5\" target=\"_blank\">为何加密多头认为人工智能代理将使稳定币成为默认支付层</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+              "title": "独家｜清华北大普林斯顿天才少年，用“空间Agent”重构AI健康硬件，高瓴、智元投了 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wMXB4dlRVN2xUcFRhVElBSTdzVm1nbWJvQVVfQ25Ka3BRcG1fc1U5aldNRVlpU1QxR3pENjlSMEx5NUJZb0o0LUJmbDBCcTFDU0d5dGlnOGw3dkl1Y3J2MUdxUlBKMTdvdGFmMmdnZjl6TXctRXc?oc=5",
+              "source": "新浪财经",
+              "publishedAt": "Fri, 13 Mar 2026 02:01:49 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4wMXB4dlRVN2xUcFRhVElBSTdzVm1nbWJvQVVfQ25Ka3BRcG1fc1U5aldNRVlpU1QxR3pENjlSMEx5NUJZb0o0LUJmbDBCcTFDU0d5dGlnOGw3dkl1Y3J2MUdxUlBKMTdvdGFmMmdnZjl6TXctRXc?oc=5\" target=\"_blank\">独家｜清华北大普林斯顿天才少年，用“空间Agent”重构AI健康硬件，高瓴、智元投了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             },
             {
-              "title": "独家｜清华北大普林斯顿天才少年，用“空间Agent”重构AI健康硬件，高瓴、智元投了 - 新浪网",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wMXB4dlRVN2xUcFRhVElBSTdzVm1nbWJvQVVfQ25Ka3BRcG1fc1U5aldNRVlpU1QxR3pENjlSMEx5NUJZb0o0LUJmbDBCcTFDU0d5dGlnOGw3dkl1Y3J2MUdxUlBKMTdvdGFmMmdnZjl6TXctRXc?oc=5",
-              "source": "新浪网",
-              "publishedAt": "Fri, 13 Mar 2026 02:01:49 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4wMXB4dlRVN2xUcFRhVElBSTdzVm1nbWJvQVVfQ25Ka3BRcG1fc1U5aldNRVlpU1QxR3pENjlSMEx5NUJZb0o0LUJmbDBCcTFDU0d5dGlnOGw3dkl1Y3J2MUdxUlBKMTdvdGFmMmdnZjl6TXctRXc?oc=5\" target=\"_blank\">独家｜清华北大普林斯顿天才少年，用“空间Agent”重构AI健康硬件，高瓴、智元投了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+              "title": "AgenticRAGTracer：首个支持逐步诊断的Agentic RAG 多跳推理基准 - 51CTO",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zejY4Q3hVeVJNTjJra1ZpcVZ6Y2VSMVVPaGtNUW1mbHdIUEdMcy1nanVxNmhBZVZrdjRnR3MwV1dSdndEQnk2ZVZYMG5Mdw?oc=5",
+              "source": "51CTO",
+              "publishedAt": "Fri, 13 Mar 2026 00:55:07 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zejY4Q3hVeVJNTjJra1ZpcVZ6Y2VSMVVPaGtNUW1mbHdIUEdMcy1nanVxNmhBZVZrdjRnR3MwV1dSdndEQnk2ZVZYMG5Mdw?oc=5\" target=\"_blank\">AgenticRAGTracer：首个支持逐步诊断的Agentic RAG 多跳推理基准</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">51CTO</font>",
               "channelId": "google_news"
             }
           ]
@@ -690,7 +691,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:30:13Z",
+              "publishedAt": "2026-03-15T18:37:33Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -700,46 +701,46 @@
           "query": "AI UX design",
           "items": [
             {
-              "title": "2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客 - 新浪网",
+              "title": "2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15RlBCeG5zMHlJRzRlUEw5eXBHaHh2SWtETnNVWTJpdS14WFJoN3hMbjd1TjBoUElIWmtFQS1vbDktYjc4ZGgxYnZaM0s1aW91bWFrdEc5NE1ubnpIeVc2Y24xLU9lT0RZb2ZONm5QeEhON3hqS01fTk9oMkZHUQ?oc=5",
-              "source": "新浪网",
+              "source": "新浪财经",
               "publishedAt": "Fri, 13 Mar 2026 02:52:18 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE15RlBCeG5zMHlJRzRlUEw5eXBHaHh2SWtETnNVWTJpdS14WFJoN3hMbjd1TjBoUElIWmtFQS1vbDktYjc4ZGgxYnZaM0s1aW91bWFrdEc5NE1ubnpIeVc2Y24xLU9lT0RZb2ZONm5QeEhON3hqS01fTk9oMkZHUQ?oc=5\" target=\"_blank\">2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE15RlBCeG5zMHlJRzRlUEw5eXBHaHh2SWtETnNVWTJpdS14WFJoN3hMbjd1TjBoUElIWmtFQS1vbDktYjc4ZGgxYnZaM0s1aW91bWFrdEc5NE1ubnpIeVc2Y24xLU9lT0RZb2ZONm5QeEhON3hqS01fTk9oMkZHUQ?oc=5\" target=\"_blank\">2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             },
             {
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:31:18Z",
+              "publishedAt": "2026-03-15T18:45:33Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:39:24Z",
+              "publishedAt": "2026-03-15T18:44:43Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
               "link": "https://github.com/langflow-ai/langflow",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:08:56Z",
+              "publishedAt": "2026-03-15T18:46:28Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T15:47:40Z",
+              "publishedAt": "2026-03-15T18:39:34Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
               "link": "https://github.com/Comfy-Org/ComfyUI",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:37:37Z",
+              "publishedAt": "2026-03-15T18:49:56Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -839,7 +840,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 9
+          "count": 7
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -929,14 +930,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "为什么 Mira Network 正在构建人工智能缺失的信任层| JEENNA发布于币安广场 - Binance",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UdkNRbk5nRllnRXR2N1d1MkNLRTQyVlhxVFRYQ0JMVWtKRnJQQjJKWWV1T1hkZkFSVGoxUWZhTEZBTnh3T0JUVzBrT3N1eXJHMDJzM2N6SFgzbWhBWkE4Q3VVQXRfNW5P?oc=5",
-              "source": "Binance",
-              "publishedAt": "Sun, 08 Mar 2026 18:42:51 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UdkNRbk5nRllnRXR2N1d1MkNLRTQyVlhxVFRYQ0JMVWtKRnJQQjJKWWV1T1hkZkFSVGoxUWZhTEZBTnh3T0JUVzBrT3N1eXJHMDJzM2N6SFgzbWhBWkE4Q3VVQXRfNW5P?oc=5\" target=\"_blank\">为什么 Mira Network 正在构建人工智能缺失的信任层| JEENNA发布于币安广场</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy - Sinocism | Bill Bishop",
               "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ2tBWFFBS3V5Z0FiMVA4V2M3RWFfNmd1ZFBsUEVyTktGODBwSXNwX0xRbzNoMmtreEtlN1Z3dXBPUGY3SEhYTTBSTWdjcGlBQW45YThpTVFqd3pjbDY3YWs3R0pVeFlzbkRuRHJXcmh0Y0ZmSWVXdkZqVEtDclpWX0IwbHpHaVh4ODRVWHJ5SHFoRXByTUZSZk91MUVxNjJRZE5STkJ5OTM?oc=5",
               "source": "Sinocism | Bill Bishop",
@@ -967,6 +960,13 @@
               "publishedAt": "Thu, 12 Mar 2026 06:52:43 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORW11N250UmkxMkI0TUJBQjJ2U004S0dNU2lRNkMwRWsyZEdlS0E3NjlaNm5pNlZpd2NZVUtNeFVUM1ZWUkRReVYzM3JaeTNadmMydnRsN3dBX2dhWC1hN3ZkSndzSlg1TGhuU0NSYkNjNDZxV21ibWpHT2t1ejhSX0pBRFM0eTVWUEhiMDJRTk04VUctXzQyVVNPdUZpSm1mWHNnUzlZN1JqTmdtc0s5TnpYOFpxNk04R0E?oc=5\" target=\"_blank\">Salesforce Unveils Revamped Slackbot AI Agent to Challenge Tech Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ekhbary.com</font>",
               "channelId": "google_news"
+            },
+            {
+              "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
+              "link": "https://github.com/langgenius/dify",
+              "source": "GitHub",
+              "publishedAt": "2026-03-15T18:47:18Z",
+              "channelId": "github_trending_ai"
             }
           ]
         },
@@ -1031,11 +1031,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗 - 新浪网",
+              "title": "辽宁省人民政府 - ln.gov.cn",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTVNWUTJENjI2dzJuZEw0cXRFZmFuSS13eFNOUnlfLXlVZTFuQzByd2x5WHFsd2pSNUE5TldmdGt4UkQ4VjdFWE8tS1dadk5hamFVYUhwZmtkdmZMTWdkcFY4VHpNX1ItX2ZvR3FOSnVBcmcwY3JBSVFMczMzbV9MRE8xMA?oc=5",
+              "source": "ln.gov.cn",
+              "publishedAt": "Sun, 15 Mar 2026 12:09:51 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNTVNWUTJENjI2dzJuZEw0cXRFZmFuSS13eFNOUnlfLXlVZTFuQzByd2x5WHFsd2pSNUE5TldmdGt4UkQ4VjdFWE8tS1dadk5hamFVYUhwZmtkdmZMTWdkcFY4VHpNX1ItX2ZvR3FOSnVBcmcwY3JBSVFMczMzbV9MRE8xMA?oc=5\" target=\"_blank\">辽宁省人民政府</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ln.gov.cn</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV041ekg1Z01zb1RfX0dOWXRlRk1RbFU4Mzc3T21icnB1U2wzSVJMX3h6bXBLLXQyVURIOXpuMTZIM25wU1Y3U3VEVDU4UExONzJVcUtlYXZvY0tkMUJETWJhT0tuTjJXOUpUZWNjM0hMYmxJbkh0Mi03T0cwa1pyREp6MTJxTUJuaUxIelFGQUphRUN0clpwWXlmRGg1WHlXMzlkZTFmYw?oc=5",
-              "source": "新浪网",
+              "source": "新浪财经",
               "publishedAt": "Sun, 15 Mar 2026 13:07:51 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOV041ekg1Z01zb1RfX0dOWXRlRk1RbFU4Mzc3T21icnB1U2wzSVJMX3h6bXBLLXQyVURIOXpuMTZIM25wU1Y3U3VEVDU4UExONzJVcUtlYXZvY0tkMUJETWJhT0tuTjJXOUpUZWNjM0hMYmxJbkh0Mi03T0cwa1pyREp6MTJxTUJuaUxIelFGQUphRUN0clpwWXlmRGg1WHlXMzlkZTFmYw?oc=5\" target=\"_blank\">玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOV041ekg1Z01zb1RfX0dOWXRlRk1RbFU4Mzc3T21icnB1U2wzSVJMX3h6bXBLLXQyVURIOXpuMTZIM25wU1Y3U3VEVDU4UExONzJVcUtlYXZvY0tkMUJETWJhT0tuTjJXOUpUZWNjM0hMYmxJbkh0Mi03T0cwa1pyREp6MTJxTUJuaUxIelFGQUphRUN0clpwWXlmRGg1WHlXMzlkZTFmYw?oc=5\" target=\"_blank\">玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "港股AI异动！腾讯云定价暴涨，Agent加速大模型商业化进程，华宝基金港股互联网ETF（513770）核心受益 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYXJ5S3pVa216UFBTSTRkWlBYQ2RIT2htZVJVQlY2QW1SX0xQRWZxT052Z254UEZFY3prS3VkcUVycW9PR0JDdFdqWXdfY1FJaFlKUng0WTlncVV6SU54dEc1UTFKX1ZPQWh2cFJJWm1RUzdnMF9hM1V1SGhrM2tEbEl6VFBsZw?oc=5",
+              "source": "新浪财经",
+              "publishedAt": "Sun, 15 Mar 2026 11:18:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQYXJ5S3pVa216UFBTSTRkWlBYQ2RIT2htZVJVQlY2QW1SX0xQRWZxT052Z254UEZFY3prS3VkcUVycW9PR0JDdFdqWXdfY1FJaFlKUng0WTlncVV6SU54dEc1UTFKX1ZPQWh2cFJJWm1RUzdnMF9hM1V1SGhrM2tEbEl6VFBsZw?oc=5\" target=\"_blank\">港股AI异动！腾讯云定价暴涨，Agent加速大模型商业化进程，华宝基金港股互联网ETF（513770）核心受益</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             },
             {
@@ -1047,27 +1063,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "京东：近百个家电家居品牌正在接入JoyInside-观察者网 - 观察者网",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5",
-              "source": "观察者网",
-              "publishedAt": "Sun, 15 Mar 2026 01:21:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5\" target=\"_blank\">京东：近百个家电家居品牌正在接入JoyInside-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者网</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "字节跳动辟谣武汉研发中心谢幕全员被裁 - 联合早报",
               "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LRm50dnJXNmdlaDhlbFFNWlRpQmtjNWI2cWN2U2NnNE5FMGIwMTNIN1NWZVN0SEQwMmNNYXdPQTEwUEE0UXptbDh3MWdUWjZ2N212WWQweGZfRTh6VVRCMnFSYU1Yd1FBUnc?oc=5",
               "source": "联合早报",
               "publishedAt": "Sun, 15 Mar 2026 08:03:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5LRm50dnJXNmdlaDhlbFFNWlRpQmtjNWI2cWN2U2NnNE5FMGIwMTNIN1NWZVN0SEQwMmNNYXdPQTEwUEE0UXptbDh3MWdUWjZ2N212WWQweGZfRTh6VVRCMnFSYU1Yd1FBUnc?oc=5\" target=\"_blank\">字节跳动辟谣武汉研发中心谢幕全员被裁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "腾讯已正式成为OpenClaw社区赞助商 - 观点网",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10THdYQm5McUNRblRhS2hkRGtrLWlSWjRSeWFZUzBLSGIya0tBcDRlaU9FZWljVzJzZEdyblg2TTF0UFM1VUE5WU93eWk0QQ?oc=5",
-              "source": "观点网",
-              "publishedAt": "Sun, 15 Mar 2026 09:52:37 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE10THdYQm5McUNRblRhS2hkRGtrLWlSWjRSeWFZUzBLSGIya0tBcDRlaU9FZWljVzJzZEdyblg2TTF0UFM1VUE5WU93eWk0QQ?oc=5\" target=\"_blank\">腾讯已正式成为OpenClaw社区赞助商</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观点网</font>",
               "channelId": "google_news"
             }
           ]
@@ -1117,11 +1117,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "2026AI十大趋势发布:技术场景治理共推未来布局 - 新浪网",
+              "title": "2026AI十大趋势发布:技术场景治理共推未来布局 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMU50RldFeG9kYkhOY0pibURCMVFhWGVVMTNJOXBYY19rUjJCUG9wc3F0YVoxeEx1NTlDdjNVdzhyYU5PX2dRcnU4b3RHVUhmUFVsWnpkOTNDeUFZdy1XeGtjV3F5djBuUTU0bFVtdVhEeDZpR3VvbVlKZGd1blNibVgza3U?oc=5",
-              "source": "新浪网",
+              "source": "新浪财经",
               "publishedAt": "Tue, 10 Mar 2026 04:25:10 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPMU50RldFeG9kYkhOY0pibURCMVFhWGVVMTNJOXBYY19rUjJCUG9wc3F0YVoxeEx1NTlDdjNVdzhyYU5PX2dRcnU4b3RHVUhmUFVsWnpkOTNDeUFZdy1XeGtjV3F5djBuUTU0bFVtdVhEeDZpR3VvbVlKZGd1blNibVgza3U?oc=5\" target=\"_blank\">2026AI十大趋势发布:技术场景治理共推未来布局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPMU50RldFeG9kYkhOY0pibURCMVFhWGVVMTNJOXBYY19rUjJCUG9wc3F0YVoxeEx1NTlDdjNVdzhyYU5PX2dRcnU4b3RHVUhmUFVsWnpkOTNDeUFZdy1XeGtjV3F5djBuUTU0bFVtdVhEeDZpR3VvbVlKZGd1blNibVgza3U?oc=5\" target=\"_blank\">2026AI十大趋势发布:技术场景治理共推未来布局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             }
           ]
@@ -1148,7 +1148,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:30:13Z",
+              "publishedAt": "2026-03-15T18:37:33Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1166,11 +1166,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客 - 新浪网",
+              "title": "2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15RlBCeG5zMHlJRzRlUEw5eXBHaHh2SWtETnNVWTJpdS14WFJoN3hMbjd1TjBoUElIWmtFQS1vbDktYjc4ZGgxYnZaM0s1aW91bWFrdEc5NE1ubnpIeVc2Y24xLU9lT0RZb2ZONm5QeEhON3hqS01fTk9oMkZHUQ?oc=5",
-              "source": "新浪网",
+              "source": "新浪财经",
               "publishedAt": "Fri, 13 Mar 2026 02:52:18 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE15RlBCeG5zMHlJRzRlUEw5eXBHaHh2SWtETnNVWTJpdS14WFJoN3hMbjd1TjBoUElIWmtFQS1vbDktYjc4ZGgxYnZaM0s1aW91bWFrdEc5NE1ubnpIeVc2Y24xLU9lT0RZb2ZONm5QeEhON3hqS01fTk9oMkZHUQ?oc=5\" target=\"_blank\">2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE15RlBCeG5zMHlJRzRlUEw5eXBHaHh2SWtETnNVWTJpdS14WFJoN3hMbjd1TjBoUElIWmtFQS1vbDktYjc4ZGgxYnZaM0s1aW91bWFrdEc5NE1ubnpIeVc2Y24xLU9lT0RZb2ZONm5QeEhON3hqS01fTk9oMkZHUQ?oc=5\" target=\"_blank\">2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             },
             {
@@ -1298,7 +1298,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 9
+          "count": 7
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1306,7 +1306,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 4
+          "count": 3
         }
       ],
       "diagnostics": [
@@ -1396,6 +1396,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "BullFrog将举办关于新型精准AI能力的网络研讨会。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Wed, 11 Mar 2026 12:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5\" target=\"_blank\">BullFrog将举办关于新型精准AI能力的网络研讨会。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy - Sinocism | Bill Bishop",
               "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ2tBWFFBS3V5Z0FiMVA4V2M3RWFfNmd1ZFBsUEVyTktGODBwSXNwX0xRbzNoMmtreEtlN1Z3dXBPUGY3SEhYTTBSTWdjcGlBQW45YThpTVFqd3pjbDY3YWs3R0pVeFlzbkRuRHJXcmh0Y0ZmSWVXdkZqVEtDclpWX0IwbHpHaVh4ODRVWHJ5SHFoRXByTUZSZk91MUVxNjJRZE5STkJ5OTM?oc=5",
               "source": "Sinocism | Bill Bishop",
@@ -1412,19 +1420,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "Tencent unveils five OpenClaw agents in race to control AI interfaces - Jiemian.com",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PVUR5WVN0SERGR2dTUFJQNzA5enNLY3JBdlJLbWVaVzJheUtvUU5FdGFzN0NIMFlvMmdRUzh1NGJKajE5NGRxUjBMRzBpektELW53aDRn?oc=5",
-              "source": "Jiemian.com",
-              "publishedAt": "Sun, 15 Mar 2026 02:21:40 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PVUR5WVN0SERGR2dTUFJQNzA5enNLY3JBdlJLbWVaVzJheUtvUU5FdGFzN0NIMFlvMmdRUzh1NGJKajE5NGRxUjBMRzBpektELW53aDRn?oc=5\" target=\"_blank\">Tencent unveils five OpenClaw agents in race to control AI interfaces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jiemian.com</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "谷歌、Anthropic和OpenAI齐陷“僵局”，AI模型开发瓶颈如何破？ - Bitget",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxYlFfM0s0Wm5tZDZvTkZ5R3JUVnNBR0thTnNxWlk5cnU5bWxhMmlxa09YakY4NHVJeVpKeUF4NzRnOWltS0dyZWRQU2F3eVUyNkZsTTg3Tk9ZeFdvMUHSAWNBVV95cUxNZW5OUVNvc1BlM3pOaUgzZUNFZ24tWlkweUI1Y2VybHRCWUk2N2ZJZjBqQ2FveG9mNU9fYjV6cUNRdl9kZWVFc1VPUnFxSFRWOXh4RHlNNTVhXzdqdmZfY0ZIcEk?oc=5",
-              "source": "Bitget",
-              "publishedAt": "Tue, 03 Mar 2026 08:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxYlFfM0s0Wm5tZDZvTkZ5R3JUVnNBR0thTnNxWlk5cnU5bWxhMmlxa09YakY4NHVJeVpKeUF4NzRnOWltS0dyZWRQU2F3eVUyNkZsTTg3Tk9ZeFdvMUHSAWNBVV95cUxNZW5OUVNvc1BlM3pOaUgzZUNFZ24tWlkweUI1Y2VybHRCWUk2N2ZJZjBqQ2FveG9mNU9fYjV6cUNRdl9kZWVFc1VPUnFxSFRWOXh4RHlNNTVhXzdqdmZfY0ZIcEk?oc=5\" target=\"_blank\">谷歌、Anthropic和OpenAI齐陷“僵局”，AI模型开发瓶颈如何破？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+              "title": "Sigenergy 启用南通智慧能源中心，引领“全领域AI”战略及下一代能源组合 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEFDbkE3cGV3YWJHYVFNRFpkaFpoTUJEd2lEVDFsOEotUC1Kd2VMaDRtX1VWZ3ZibzVwS01aVEczLS1zZVhjYVA0R0YwX1FObFZENUlyOWFJbHFLREVsYUVxdE5qYkVJNXRORlZhWkRoOTQ5OFRfSEFVZG5qZTlqZldUR01FYWxTZG9XaDROZ0pZSkducXk4QW40SndQN0F0UjdNczFPdWJydjRk?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Fri, 13 Mar 2026 10:21:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEFDbkE3cGV3YWJHYVFNRFpkaFpoTUJEd2lEVDFsOEotUC1Kd2VMaDRtX1VWZ3ZibzVwS01aVEczLS1zZVhjYVA0R0YwX1FObFZENUlyOWFJbHFLREVsYUVxdE5qYkVJNXRORlZhWkRoOTQ5OFRfSEFVZG5qZTlqZldUR01FYWxTZG9XaDROZ0pZSkducXk4QW40SndQN0F0UjdNczFPdWJydjRk?oc=5\" target=\"_blank\">Sigenergy 启用南通智慧能源中心，引领“全领域AI”战略及下一代能源组合</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
               "channelId": "google_news"
             }
           ]
@@ -1433,6 +1433,14 @@
           "title": "国外大厂动作",
           "query": "(Microsoft OR Google OR Alphabet OR Amazon OR Meta OR Apple OR IBM OR Oracle OR Salesforce OR NVIDIA OR AMD OR Intel OR Qualcomm OR Arm OR OpenAI OR Anthropic OR Cohere OR xAI OR Hugging Face OR Mistral AI OR Databricks OR Snowflake OR Palantir OR ServiceNow) AI",
           "items": [
+            {
+              "title": "暴涨 8.3k Stars！Hugging Face官方开源Skills，让Claude Code一句话完成70B模型GRPO训练 - QQ News",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Oc3VhZDRqcExWZUhEYkJmQUpNQ3A0LW1WT3ZQcmRSTEQ4cEx0aGlyUTNyVnozb0RueTRibmV6cklyYUZuZWhtM3o5STJpMXFhbWxOLUNB?oc=5",
+              "source": "QQ News",
+              "publishedAt": "Sat, 07 Mar 2026 02:48:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Oc3VhZDRqcExWZUhEYkJmQUpNQ3A0LW1WT3ZQcmRSTEQ4cEx0aGlyUTNyVnozb0RueTRibmV6cklyYUZuZWhtM3o5STJpMXFhbWxOLUNB?oc=5\" target=\"_blank\">暴涨 8.3k Stars！Hugging Face官方开源Skills，让Claude Code一句话完成70B模型GRPO训练</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">QQ News</font>",
+              "channelId": "google_news"
+            },
             {
               "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
               "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
@@ -1467,13 +1475,6 @@
               "source": "RSS",
               "publishedAt": "Thu, 05 Mar 2026 00:00:00 GMT",
               "channelId": "openai_blog"
-            },
-            {
-              "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-              "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
-              "source": "RSS",
-              "publishedAt": "Tue, 03 Mar 2026 16:34:00 +0000",
-              "channelId": "google_ai_blog"
             }
           ]
         },
@@ -1490,11 +1491,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗 - 新浪网",
+              "title": "辽宁省人民政府 - ln.gov.cn",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTVNWUTJENjI2dzJuZEw0cXRFZmFuSS13eFNOUnlfLXlVZTFuQzByd2x5WHFsd2pSNUE5TldmdGt4UkQ4VjdFWE8tS1dadk5hamFVYUhwZmtkdmZMTWdkcFY4VHpNX1ItX2ZvR3FOSnVBcmcwY3JBSVFMczMzbV9MRE8xMA?oc=5",
+              "source": "ln.gov.cn",
+              "publishedAt": "Sun, 15 Mar 2026 12:09:51 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNTVNWUTJENjI2dzJuZEw0cXRFZmFuSS13eFNOUnlfLXlVZTFuQzByd2x5WHFsd2pSNUE5TldmdGt4UkQ4VjdFWE8tS1dadk5hamFVYUhwZmtkdmZMTWdkcFY4VHpNX1ItX2ZvR3FOSnVBcmcwY3JBSVFMczMzbV9MRE8xMA?oc=5\" target=\"_blank\">辽宁省人民政府</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ln.gov.cn</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV041ekg1Z01zb1RfX0dOWXRlRk1RbFU4Mzc3T21icnB1U2wzSVJMX3h6bXBLLXQyVURIOXpuMTZIM25wU1Y3U3VEVDU4UExONzJVcUtlYXZvY0tkMUJETWJhT0tuTjJXOUpUZWNjM0hMYmxJbkh0Mi03T0cwa1pyREp6MTJxTUJuaUxIelFGQUphRUN0clpwWXlmRGg1WHlXMzlkZTFmYw?oc=5",
-              "source": "新浪网",
+              "source": "新浪财经",
               "publishedAt": "Sun, 15 Mar 2026 13:07:51 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOV041ekg1Z01zb1RfX0dOWXRlRk1RbFU4Mzc3T21icnB1U2wzSVJMX3h6bXBLLXQyVURIOXpuMTZIM25wU1Y3U3VEVDU4UExONzJVcUtlYXZvY0tkMUJETWJhT0tuTjJXOUpUZWNjM0hMYmxJbkh0Mi03T0cwa1pyREp6MTJxTUJuaUxIelFGQUphRUN0clpwWXlmRGg1WHlXMzlkZTFmYw?oc=5\" target=\"_blank\">玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOV041ekg1Z01zb1RfX0dOWXRlRk1RbFU4Mzc3T21icnB1U2wzSVJMX3h6bXBLLXQyVURIOXpuMTZIM25wU1Y3U3VEVDU4UExONzJVcUtlYXZvY0tkMUJETWJhT0tuTjJXOUpUZWNjM0hMYmxJbkh0Mi03T0cwa1pyREp6MTJxTUJuaUxIelFGQUphRUN0clpwWXlmRGg1WHlXMzlkZTFmYw?oc=5\" target=\"_blank\">玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "港股AI异动！腾讯云定价暴涨，Agent加速大模型商业化进程，华宝基金港股互联网ETF（513770）核心受益 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYXJ5S3pVa216UFBTSTRkWlBYQ2RIT2htZVJVQlY2QW1SX0xQRWZxT052Z254UEZFY3prS3VkcUVycW9PR0JDdFdqWXdfY1FJaFlKUng0WTlncVV6SU54dEc1UTFKX1ZPQWh2cFJJWm1RUzdnMF9hM1V1SGhrM2tEbEl6VFBsZw?oc=5",
+              "source": "新浪财经",
+              "publishedAt": "Sun, 15 Mar 2026 11:18:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQYXJ5S3pVa216UFBTSTRkWlBYQ2RIT2htZVJVQlY2QW1SX0xQRWZxT052Z254UEZFY3prS3VkcUVycW9PR0JDdFdqWXdfY1FJaFlKUng0WTlncVV6SU54dEc1UTFKX1ZPQWh2cFJJWm1RUzdnMF9hM1V1SGhrM2tEbEl6VFBsZw?oc=5\" target=\"_blank\">港股AI异动！腾讯云定价暴涨，Agent加速大模型商业化进程，华宝基金港股互联网ETF（513770）核心受益</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             },
             {
@@ -1506,27 +1523,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "京东：近百个家电家居品牌正在接入JoyInside-观察者网 - 观察者网",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5",
-              "source": "观察者网",
-              "publishedAt": "Sun, 15 Mar 2026 01:21:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5\" target=\"_blank\">京东：近百个家电家居品牌正在接入JoyInside-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者网</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "字节跳动辟谣武汉研发中心谢幕全员被裁 - 联合早报",
               "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LRm50dnJXNmdlaDhlbFFNWlRpQmtjNWI2cWN2U2NnNE5FMGIwMTNIN1NWZVN0SEQwMmNNYXdPQTEwUEE0UXptbDh3MWdUWjZ2N212WWQweGZfRTh6VVRCMnFSYU1Yd1FBUnc?oc=5",
               "source": "联合早报",
               "publishedAt": "Sun, 15 Mar 2026 08:03:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5LRm50dnJXNmdlaDhlbFFNWlRpQmtjNWI2cWN2U2NnNE5FMGIwMTNIN1NWZVN0SEQwMmNNYXdPQTEwUEE0UXptbDh3MWdUWjZ2N212WWQweGZfRTh6VVRCMnFSYU1Yd1FBUnc?oc=5\" target=\"_blank\">字节跳动辟谣武汉研发中心谢幕全员被裁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "腾讯已正式成为OpenClaw社区赞助商 - 观点网",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10THdYQm5McUNRblRhS2hkRGtrLWlSWjRSeWFZUzBLSGIya0tBcDRlaU9FZWljVzJzZEdyblg2TTF0UFM1VUE5WU93eWk0QQ?oc=5",
-              "source": "观点网",
-              "publishedAt": "Sun, 15 Mar 2026 09:52:37 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE10THdYQm5McUNRblRhS2hkRGtrLWlSWjRSeWFZUzBLSGIya0tBcDRlaU9FZWljVzJzZEdyblg2TTF0UFM1VUE5WU93eWk0QQ?oc=5\" target=\"_blank\">腾讯已正式成为OpenClaw社区赞助商</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观点网</font>",
               "channelId": "google_news"
             }
           ]
@@ -1552,22 +1553,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "华为发布Agentic MBB：全面释放网络多维能力，夯实移动AI时代基座- 华为 - Huawei",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jMHBIVVZZa2tSTUdqRVJqMndRWFFfRy1nY044WlBSaThWRlRweWJmaklEMTQtYnJOR0tLMHZTT1JVaWZDc0FuY1VDM3BlUWdtTWlTRFZTSmJBVXBxbVE?oc=5",
-              "source": "Huawei",
-              "publishedAt": "Mon, 02 Mar 2026 08:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jMHBIVVZZa2tSTUdqRVJqMndRWFFfRy1nY044WlBSaThWRlRweWJmaklEMTQtYnJOR0tLMHZTT1JVaWZDc0FuY1VDM3BlUWdtTWlTRFZTSmJBVXBxbVE?oc=5\" target=\"_blank\">华为发布Agentic MBB：全面释放网络多维能力，夯实移动AI时代基座- 华为</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huawei</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "智源TALK｜SkillsBench，首个系统测评Agent Skills框架 & 首个领域专家人工创建的综合Agentic benchmark - 智源社区",
-              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WeF80MkZwZ29kOVJ1R3A1SEJWZUsxTTVEMlpRVF93QkZtb04tUTJFN1hMYnZ5TGpLOXFLbUZoQUhpMk9WaktwRQ?oc=5",
-              "source": "智源社区",
-              "publishedAt": "Tue, 03 Mar 2026 08:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WeF80MkZwZ29kOVJ1R3A1SEJWZUsxTTVEMlpRVF93QkZtb04tUTJFN1hMYnZ5TGpLOXFLbUZoQUhpMk9WaktwRQ?oc=5\" target=\"_blank\">智源TALK｜SkillsBench，首个系统测评Agent Skills框架 & 首个领域专家人工创建的综合Agentic benchmark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">智源社区</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "独家｜Flowith 完成千万美元种子轮融资，打造 Agentic AI 时代的首个“行动派”操作系统-腾讯新闻 - QQ News",
               "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yYWxjajZENDBnNVJ1TS1tMjA1QUY5QjFFNWszRWFXRjNOVzlvTURaemNHa3RORjJmOHRPazI2dUY2Y0xaaS1vOHpOWVk5NkJjc2pJV0xB?oc=5",
               "source": "QQ News",
@@ -1581,6 +1566,22 @@
               "source": "Fortune Business Insights",
               "publishedAt": "Wed, 11 Mar 2026 23:21:22 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWh5aEVYNlVUSUdCcnNEVjRSUThMUnhwWm9nci1xTnBhYUp2UWotV25lcUpXd0x1RkJ5Rk5NMEdDN2FSM0ZYYWVLMWR3c3R2NHptSEg5QS1MRGRWaHBOY28xckJzSmpaUk16MGRpZmE1QzVVZ0RSQUl2Y1lGejZCenQzT2pFekNJ?oc=5\" target=\"_blank\">医疗保健市场规模、份额 | Agentic AI预测 [2034]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune Business Insights</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？ - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iVVFsWWoyM3h5bVNzQ2trUUhKZWRlZVExaWd2ZkhWVUdMMEpIYVdPdUpxNkY5RTFNZ2JDVDU5dW5pS3pGWTFpeGwyVzRGNjZ3VDNxRWgzWHRwVHZwcVczMU9adDdyQdIBa0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn?oc=5",
+              "source": "Bitget",
+              "publishedAt": "Wed, 04 Mar 2026 19:45:36 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iVVFsWWoyM3h5bVNzQ2trUUhKZWRlZVExaWd2ZkhWVUdMMEpIYVdPdUpxNkY5RTFNZ2JDVDU5dW5pS3pGWTFpeGwyVzRGNjZ3VDNxRWgzWHRwVHZwcVczMU9adDdyQdIBa0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn?oc=5\" target=\"_blank\">Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "Systematic debugging for AI agents: Introducing the AgentRx framework - Microsoft",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3c2eW1hZVZZUTRiSl9NSFlEZVdkVkdQNkxpdFJXbWdkRzVJMWZEWjRNV1pjYTRfQmlGUVQtWE5ubnBKS1BKRnlFMk1Md3FkSl9WSHpFVkZfYkxKUVFGZUdwRkM2VlRaUkx4SkhHeDVkR1lvdmRPXzhBNzBSQW9BYm1KdGxHVXItdVdyWDJMU3VIY0hNYUcwRWUtdTcyZ0dRZmczcjFFVmNpb2xnS0NnZVRaQzFGZzBtUG9MNjRYZkVBZFg1?oc=5",
+              "source": "Microsoft",
+              "publishedAt": "Thu, 12 Mar 2026 16:38:45 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3c2eW1hZVZZUTRiSl9NSFlEZVdkVkdQNkxpdFJXbWdkRzVJMWZEWjRNV1pjYTRfQmlGUVQtWE5ubnBKS1BKRnlFMk1Md3FkSl9WSHpFVkZfYkxKUVFGZUdwRkM2VlRaUkx4SkhHeDVkR1lvdmRPXzhBNzBSQW9BYm1KdGxHVXItdVdyWDJMU3VIY0hNYUcwRWUtdTcyZ0dRZmczcjFFVmNpb2xnS0NnZVRaQzFGZzBtUG9MNjRYZkVBZFg1?oc=5\" target=\"_blank\">Systematic debugging for AI agents: Introducing the AgentRx framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
               "channelId": "google_news"
             }
           ]
@@ -1607,7 +1608,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:30:13Z",
+              "publishedAt": "2026-03-15T18:37:33Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1633,11 +1634,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客 - 新浪网",
+              "title": "2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15RlBCeG5zMHlJRzRlUEw5eXBHaHh2SWtETnNVWTJpdS14WFJoN3hMbjd1TjBoUElIWmtFQS1vbDktYjc4ZGgxYnZaM0s1aW91bWFrdEc5NE1ubnpIeVc2Y24xLU9lT0RZb2ZONm5QeEhON3hqS01fTk9oMkZHUQ?oc=5",
-              "source": "新浪网",
+              "source": "新浪财经",
               "publishedAt": "Fri, 13 Mar 2026 02:52:18 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE15RlBCeG5zMHlJRzRlUEw5eXBHaHh2SWtETnNVWTJpdS14WFJoN3hMbjd1TjBoUElIWmtFQS1vbDktYjc4ZGgxYnZaM0s1aW91bWFrdEc5NE1ubnpIeVc2Y24xLU9lT0RZb2ZONm5QeEhON3hqS01fTk9oMkZHUQ?oc=5\" target=\"_blank\">2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE15RlBCeG5zMHlJRzRlUEw5eXBHaHh2SWtETnNVWTJpdS14WFJoN3hMbjd1TjBoUElIWmtFQS1vbDktYjc4ZGgxYnZaM0s1aW91bWFrdEc5NE1ubnpIeVc2Y24xLU9lT0RZb2ZONm5QeEhON3hqS01fTk9oMkZHUQ?oc=5\" target=\"_blank\">2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             },
             {
@@ -1773,7 +1774,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 9
+          "count": 7
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1781,7 +1782,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 6
+          "count": 5
         }
       ],
       "diagnostics": []
@@ -1863,11 +1864,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy - Sinocism | Bill Bishop",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ2tBWFFBS3V5Z0FiMVA4V2M3RWFfNmd1ZFBsUEVyTktGODBwSXNwX0xRbzNoMmtreEtlN1Z3dXBPUGY3SEhYTTBSTWdjcGlBQW45YThpTVFqd3pjbDY3YWs3R0pVeFlzbkRuRHJXcmh0Y0ZmSWVXdkZqVEtDclpWX0IwbHpHaVh4ODRVWHJ5SHFoRXByTUZSZk91MUVxNjJRZE5STkJ5OTM?oc=5",
-              "source": "Sinocism | Bill Bishop",
-              "publishedAt": "Wed, 11 Mar 2026 21:57:58 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ2tBWFFBS3V5Z0FiMVA4V2M3RWFfNmd1ZFBsUEVyTktGODBwSXNwX0xRbzNoMmtreEtlN1Z3dXBPUGY3SEhYTTBSTWdjcGlBQW45YThpTVFqd3pjbDY3YWs3R0pVeFlzbkRuRHJXcmh0Y0ZmSWVXdkZqVEtDclpWX0IwbHpHaVh4ODRVWHJ5SHFoRXByTUZSZk91MUVxNjJRZE5STkJ5OTM?oc=5\" target=\"_blank\">China-Iran; MoD on US military use of AI; Guiding the OpenClaw frenzy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sinocism | Bill Bishop</font>",
+              "title": "BullFrog将举办关于新型精准AI能力的网络研讨会。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Wed, 11 Mar 2026 12:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQMi1kWGplMDJZTmt0X0ROSXJPWVBoem92cDQwWlZucmx3Wi1pYjhjNjAxeUJGNlpNeFBWUXd3WHBkWTNESW9wRzFhcHJ6X0J3R2N2amljUkRGcV9MMjNaNjdKUUsxVXdfVXQ5cHduMEZlX0hBTFpGbW1aT3NjQmZrTDVEVDJzckJ5SzRxbUFBRjhrX3d6QU80WA?oc=5\" target=\"_blank\">BullFrog将举办关于新型精准AI能力的网络研讨会。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
               "channelId": "google_news"
             },
             {
@@ -1887,11 +1888,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "Tencent unveils five OpenClaw agents in race to control AI interfaces - Jiemian.com",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PVUR5WVN0SERGR2dTUFJQNzA5enNLY3JBdlJLbWVaVzJheUtvUU5FdGFzN0NIMFlvMmdRUzh1NGJKajE5NGRxUjBMRzBpektELW53aDRn?oc=5",
-              "source": "Jiemian.com",
-              "publishedAt": "Sun, 15 Mar 2026 02:21:40 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PVUR5WVN0SERGR2dTUFJQNzA5enNLY3JBdlJLbWVaVzJheUtvUU5FdGFzN0NIMFlvMmdRUzh1NGJKajE5NGRxUjBMRzBpektELW53aDRn?oc=5\" target=\"_blank\">Tencent unveils five OpenClaw agents in race to control AI interfaces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jiemian.com</font>",
+              "title": "Sigenergy 启用南通智慧能源中心，引领“全领域AI”战略及下一代能源组合 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEFDbkE3cGV3YWJHYVFNRFpkaFpoTUJEd2lEVDFsOEotUC1Kd2VMaDRtX1VWZ3ZibzVwS01aVEczLS1zZVhjYVA0R0YwX1FObFZENUlyOWFJbHFLREVsYUVxdE5qYkVJNXRORlZhWkRoOTQ5OFRfSEFVZG5qZTlqZldUR01FYWxTZG9XaDROZ0pZSkducXk4QW40SndQN0F0UjdNczFPdWJydjRk?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Fri, 13 Mar 2026 10:21:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEFDbkE3cGV3YWJHYVFNRFpkaFpoTUJEd2lEVDFsOEotUC1Kd2VMaDRtX1VWZ3ZibzVwS01aVEczLS1zZVhjYVA0R0YwX1FObFZENUlyOWFJbHFLREVsYUVxdE5qYkVJNXRORlZhWkRoOTQ5OFRfSEFVZG5qZTlqZldUR01FYWxTZG9XaDROZ0pZSkducXk4QW40SndQN0F0UjdNczFPdWJydjRk?oc=5\" target=\"_blank\">Sigenergy 启用南通智慧能源中心，引领“全领域AI”战略及下一代能源组合</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
               "channelId": "google_news"
             }
           ]
@@ -1906,6 +1907,14 @@
               "source": "InfoQ 官网",
               "publishedAt": "Sun, 01 Mar 2026 08:00:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE04MFlkN050VnpOaXNWMzZNTzBsZDJpQWFYTms5QXVzZnEwekxUSHdrZ3EtcFMzRDh1dGFEbjFUU1VmZElIR2JvTExoTXdOeXh3MGI3bkZBbFVLU2Nfa3c?oc=5\" target=\"_blank\">Hugging Face 推出 Community Evals 功能，促进模型测试透明化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "暴涨 8.3k Stars！Hugging Face官方开源Skills，让Claude Code一句话完成70B模型GRPO训练 - QQ News",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Oc3VhZDRqcExWZUhEYkJmQUpNQ3A0LW1WT3ZQcmRSTEQ4cEx0aGlyUTNyVnozb0RueTRibmV6cklyYUZuZWhtM3o5STJpMXFhbWxOLUNB?oc=5",
+              "source": "QQ News",
+              "publishedAt": "Sat, 07 Mar 2026 02:48:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Oc3VhZDRqcExWZUhEYkJmQUpNQ3A0LW1WT3ZQcmRSTEQ4cEx0aGlyUTNyVnozb0RueTRibmV6cklyYUZuZWhtM3o5STJpMXFhbWxOLUNB?oc=5\" target=\"_blank\">暴涨 8.3k Stars！Hugging Face官方开源Skills，让Claude Code一句话完成70B模型GRPO训练</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">QQ News</font>",
               "channelId": "google_news"
             },
             {
@@ -1935,13 +1944,6 @@
               "source": "RSS",
               "publishedAt": "Wed, 11 Mar 2026 11:00:00 GMT",
               "channelId": "openai_blog"
-            },
-            {
-              "title": "New ways to learn math and science in ChatGPT",
-              "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
-              "source": "RSS",
-              "publishedAt": "Tue, 10 Mar 2026 10:00:00 GMT",
-              "channelId": "openai_blog"
             }
           ]
         },
@@ -1958,11 +1960,27 @@
               "channelId": "google_news"
             },
             {
-              "title": "玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗 - 新浪网",
+              "title": "辽宁省人民政府 - ln.gov.cn",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTVNWUTJENjI2dzJuZEw0cXRFZmFuSS13eFNOUnlfLXlVZTFuQzByd2x5WHFsd2pSNUE5TldmdGt4UkQ4VjdFWE8tS1dadk5hamFVYUhwZmtkdmZMTWdkcFY4VHpNX1ItX2ZvR3FOSnVBcmcwY3JBSVFMczMzbV9MRE8xMA?oc=5",
+              "source": "ln.gov.cn",
+              "publishedAt": "Sun, 15 Mar 2026 12:09:51 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNTVNWUTJENjI2dzJuZEw0cXRFZmFuSS13eFNOUnlfLXlVZTFuQzByd2x5WHFsd2pSNUE5TldmdGt4UkQ4VjdFWE8tS1dadk5hamFVYUhwZmtkdmZMTWdkcFY4VHpNX1ItX2ZvR3FOSnVBcmcwY3JBSVFMczMzbV9MRE8xMA?oc=5\" target=\"_blank\">辽宁省人民政府</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ln.gov.cn</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV041ekg1Z01zb1RfX0dOWXRlRk1RbFU4Mzc3T21icnB1U2wzSVJMX3h6bXBLLXQyVURIOXpuMTZIM25wU1Y3U3VEVDU4UExONzJVcUtlYXZvY0tkMUJETWJhT0tuTjJXOUpUZWNjM0hMYmxJbkh0Mi03T0cwa1pyREp6MTJxTUJuaUxIelFGQUphRUN0clpwWXlmRGg1WHlXMzlkZTFmYw?oc=5",
-              "source": "新浪网",
+              "source": "新浪财经",
               "publishedAt": "Sun, 15 Mar 2026 13:07:51 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOV041ekg1Z01zb1RfX0dOWXRlRk1RbFU4Mzc3T21icnB1U2wzSVJMX3h6bXBLLXQyVURIOXpuMTZIM25wU1Y3U3VEVDU4UExONzJVcUtlYXZvY0tkMUJETWJhT0tuTjJXOUpUZWNjM0hMYmxJbkh0Mi03T0cwa1pyREp6MTJxTUJuaUxIelFGQUphRUN0clpwWXlmRGg1WHlXMzlkZTFmYw?oc=5\" target=\"_blank\">玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOV041ekg1Z01zb1RfX0dOWXRlRk1RbFU4Mzc3T21icnB1U2wzSVJMX3h6bXBLLXQyVURIOXpuMTZIM25wU1Y3U3VEVDU4UExONzJVcUtlYXZvY0tkMUJETWJhT0tuTjJXOUpUZWNjM0hMYmxJbkh0Mi03T0cwa1pyREp6MTJxTUJuaUxIelFGQUphRUN0clpwWXlmRGg1WHlXMzlkZTFmYw?oc=5\" target=\"_blank\">玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "港股AI异动！腾讯云定价暴涨，Agent加速大模型商业化进程，华宝基金港股互联网ETF（513770）核心受益 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYXJ5S3pVa216UFBTSTRkWlBYQ2RIT2htZVJVQlY2QW1SX0xQRWZxT052Z254UEZFY3prS3VkcUVycW9PR0JDdFdqWXdfY1FJaFlKUng0WTlncVV6SU54dEc1UTFKX1ZPQWh2cFJJWm1RUzdnMF9hM1V1SGhrM2tEbEl6VFBsZw?oc=5",
+              "source": "新浪财经",
+              "publishedAt": "Sun, 15 Mar 2026 11:18:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQYXJ5S3pVa216UFBTSTRkWlBYQ2RIT2htZVJVQlY2QW1SX0xQRWZxT052Z254UEZFY3prS3VkcUVycW9PR0JDdFdqWXdfY1FJaFlKUng0WTlncVV6SU54dEc1UTFKX1ZPQWh2cFJJWm1RUzdnMF9hM1V1SGhrM2tEbEl6VFBsZw?oc=5\" target=\"_blank\">港股AI异动！腾讯云定价暴涨，Agent加速大模型商业化进程，华宝基金港股互联网ETF（513770）核心受益</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             },
             {
@@ -1974,27 +1992,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "京东：近百个家电家居品牌正在接入JoyInside-观察者网 - 观察者网",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5",
-              "source": "观察者网",
-              "publishedAt": "Sun, 15 Mar 2026 01:21:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5\" target=\"_blank\">京东：近百个家电家居品牌正在接入JoyInside-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者网</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "字节跳动辟谣武汉研发中心谢幕全员被裁 - 联合早报",
               "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LRm50dnJXNmdlaDhlbFFNWlRpQmtjNWI2cWN2U2NnNE5FMGIwMTNIN1NWZVN0SEQwMmNNYXdPQTEwUEE0UXptbDh3MWdUWjZ2N212WWQweGZfRTh6VVRCMnFSYU1Yd1FBUnc?oc=5",
               "source": "联合早报",
               "publishedAt": "Sun, 15 Mar 2026 08:03:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5LRm50dnJXNmdlaDhlbFFNWlRpQmtjNWI2cWN2U2NnNE5FMGIwMTNIN1NWZVN0SEQwMmNNYXdPQTEwUEE0UXptbDh3MWdUWjZ2N212WWQweGZfRTh6VVRCMnFSYU1Yd1FBUnc?oc=5\" target=\"_blank\">字节跳动辟谣武汉研发中心谢幕全员被裁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "腾讯已正式成为OpenClaw社区赞助商 - 观点网",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10THdYQm5McUNRblRhS2hkRGtrLWlSWjRSeWFZUzBLSGIya0tBcDRlaU9FZWljVzJzZEdyblg2TTF0UFM1VUE5WU93eWk0QQ?oc=5",
-              "source": "观点网",
-              "publishedAt": "Sun, 15 Mar 2026 09:52:37 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE10THdYQm5McUNRblRhS2hkRGtrLWlSWjRSeWFZUzBLSGIya0tBcDRlaU9FZWljVzJzZEdyblg2TTF0UFM1VUE5WU93eWk0QQ?oc=5\" target=\"_blank\">腾讯已正式成为OpenClaw社区赞助商</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观点网</font>",
               "channelId": "google_news"
             }
           ]
@@ -2028,14 +2030,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "华为发布Agentic MBB：全面释放网络多维能力，夯实移动AI时代基座- 华为 - Huawei",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jMHBIVVZZa2tSTUdqRVJqMndRWFFfRy1nY044WlBSaThWRlRweWJmaklEMTQtYnJOR0tLMHZTT1JVaWZDc0FuY1VDM3BlUWdtTWlTRFZTSmJBVXBxbVE?oc=5",
-              "source": "Huawei",
-              "publishedAt": "Mon, 02 Mar 2026 08:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jMHBIVVZZa2tSTUdqRVJqMndRWFFfRy1nY044WlBSaThWRlRweWJmaklEMTQtYnJOR0tLMHZTT1JVaWZDc0FuY1VDM3BlUWdtTWlTRFZTSmJBVXBxbVE?oc=5\" target=\"_blank\">华为发布Agentic MBB：全面释放网络多维能力，夯实移动AI时代基座- 华为</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huawei</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "独家｜Flowith 完成千万美元种子轮融资，打造 Agentic AI 时代的首个“行动派”操作系统-腾讯新闻 - QQ News",
               "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yYWxjajZENDBnNVJ1TS1tMjA1QUY5QjFFNWszRWFXRjNOVzlvTURaemNHa3RORjJmOHRPazI2dUY2Y0xaaS1vOHpOWVk5NkJjc2pJV0xB?oc=5",
               "source": "QQ News",
@@ -2049,6 +2043,14 @@
               "source": "Bitget",
               "publishedAt": "Wed, 04 Mar 2026 19:45:36 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iVVFsWWoyM3h5bVNzQ2trUUhKZWRlZVExaWd2ZkhWVUdMMEpIYVdPdUpxNkY5RTFNZ2JDVDU5dW5pS3pGWTFpeGwyVzRGNjZ3VDNxRWgzWHRwVHZwcVczMU9adDdyQdIBa0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn?oc=5\" target=\"_blank\">Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "Systematic debugging for AI agents: Introducing the AgentRx framework - Microsoft",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3c2eW1hZVZZUTRiSl9NSFlEZVdkVkdQNkxpdFJXbWdkRzVJMWZEWjRNV1pjYTRfQmlGUVQtWE5ubnBKS1BKRnlFMk1Md3FkSl9WSHpFVkZfYkxKUVFGZUdwRkM2VlRaUkx4SkhHeDVkR1lvdmRPXzhBNzBSQW9BYm1KdGxHVXItdVdyWDJMU3VIY0hNYUcwRWUtdTcyZ0dRZmczcjFFVmNpb2xnS0NnZVRaQzFGZzBtUG9MNjRYZkVBZFg1?oc=5",
+              "source": "Microsoft",
+              "publishedAt": "Thu, 12 Mar 2026 16:38:45 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3c2eW1hZVZZUTRiSl9NSFlEZVdkVkdQNkxpdFJXbWdkRzVJMWZEWjRNV1pjYTRfQmlGUVQtWE5ubnBKS1BKRnlFMk1Md3FkSl9WSHpFVkZfYkxKUVFGZUdwRkM2VlRaUkx4SkhHeDVkR1lvdmRPXzhBNzBSQW9BYm1KdGxHVXItdVdyWDJMU3VIY0hNYUcwRWUtdTcyZ0dRZmczcjFFVmNpb2xnS0NnZVRaQzFGZzBtUG9MNjRYZkVBZFg1?oc=5\" target=\"_blank\">Systematic debugging for AI agents: Introducing the AgentRx framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
               "channelId": "google_news"
             }
           ]
@@ -2075,7 +2077,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T16:30:13Z",
+              "publishedAt": "2026-03-15T18:37:33Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -2101,11 +2103,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客 - 新浪网",
+              "title": "2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客 - 新浪财经",
               "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15RlBCeG5zMHlJRzRlUEw5eXBHaHh2SWtETnNVWTJpdS14WFJoN3hMbjd1TjBoUElIWmtFQS1vbDktYjc4ZGgxYnZaM0s1aW91bWFrdEc5NE1ubnpIeVc2Y24xLU9lT0RZb2ZONm5QeEhON3hqS01fTk9oMkZHUQ?oc=5",
-              "source": "新浪网",
+              "source": "新浪财经",
               "publishedAt": "Fri, 13 Mar 2026 02:52:18 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE15RlBCeG5zMHlJRzRlUEw5eXBHaHh2SWtETnNVWTJpdS14WFJoN3hMbjd1TjBoUElIWmtFQS1vbDktYjc4ZGgxYnZaM0s1aW91bWFrdEc5NE1ubnpIeVc2Y24xLU9lT0RZb2ZONm5QeEhON3hqS01fTk9oMkZHUQ?oc=5\" target=\"_blank\">2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE15RlBCeG5zMHlJRzRlUEw5eXBHaHh2SWtETnNVWTJpdS14WFJoN3hMbjd1TjBoUElIWmtFQS1vbDktYjc4ZGgxYnZaM0s1aW91bWFrdEc5NE1ubnpIeVc2Y24xLU9lT0RZb2ZONm5QeEhON3hqS01fTk9oMkZHUQ?oc=5\" target=\"_blank\">2026年高性价比教资软件推荐:5款好用不贵的教资APP盘点与深度技术测评_教资刷题系统-CSDN博客</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             },
             {
@@ -2255,7 +2257,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 9
+          "count": 7
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -2263,7 +2265,7 @@
         },
         {
           "channelId": "producthunt_ai",
-          "count": 7
+          "count": 6
         }
       ],
       "diagnostics": []
@@ -2293,9 +2295,9 @@
       "google_ai_blog": 29,
       "huggingface_blog": 30,
       "github_trending_ai": 100,
-      "hackernews_ai": 45,
+      "hackernews_ai": 35,
       "arxiv_cs_daily": 0,
-      "producthunt_ai": 20
+      "producthunt_ai": 17
     },
     "diagnostics": [
       {
