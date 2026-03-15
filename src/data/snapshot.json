@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T02:56:30.093Z",
+  "generatedAt": "2026-03-15T05:39:24.141Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -52,14 +52,14 @@
               "title": "ollama/ollama - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
               "link": "https://github.com/ollama/ollama",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:52:14Z",
+              "publishedAt": "2026-03-15T05:30:21Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
               "link": "https://github.com/Comfy-Org/ComfyUI",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:48:31Z",
+              "publishedAt": "2026-03-15T05:26:02Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -80,14 +80,14 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:48:58Z",
+              "publishedAt": "2026-03-15T05:25:08Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:48:48Z",
+              "publishedAt": "2026-03-15T05:28:13Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -101,14 +101,14 @@
               "title": "openclaw/openclaw - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
               "link": "https://github.com/openclaw/openclaw",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:54:42Z",
+              "publishedAt": "2026-03-15T05:39:07Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:24:41Z",
+              "publishedAt": "2026-03-15T05:22:08Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -121,42 +121,42 @@
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:52:06Z",
+              "publishedAt": "2026-03-15T05:24:39Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "google-gemini/gemini-cli - An open-source AI agent that brings the power of Gemini directly into your terminal.",
               "link": "https://github.com/google-gemini/gemini-cli",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:55:54Z",
+              "publishedAt": "2026-03-15T05:30:57Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "anthropics/claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
               "link": "https://github.com/anthropics/claude-code",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:44:38Z",
+              "publishedAt": "2026-03-15T05:37:46Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "ollama/ollama - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
               "link": "https://github.com/ollama/ollama",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:52:14Z",
+              "publishedAt": "2026-03-15T05:30:21Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "f/prompts.chat - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
               "link": "https://github.com/f/prompts.chat",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:48:14Z",
+              "publishedAt": "2026-03-15T05:36:22Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:54:26Z",
+              "publishedAt": "2026-03-15T05:36:03Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -166,51 +166,51 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "京东：近百个家电家居品牌正在接入JoyInside-观察者网 - 观察者",
+              "title": "京东：近百个家电家居品牌正在接入JoyInside-观察者网 - guancha.cn",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5",
-              "source": "观察者",
+              "source": "guancha.cn",
               "publishedAt": "Sun, 15 Mar 2026 01:21:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5\" target=\"_blank\">京东：近百个家电家居品牌正在接入JoyInside-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5\" target=\"_blank\">京东：近百个家电家居品牌正在接入JoyInside-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
-              "title": "在阿里巴巴1688平台上买空调被骗，南昌消费者维权无路可走_凤凰网 - 凤凰网江西",
-              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UTjd2UFoxaHVWLWdGbXJPTHBYUTNVVVFxM0ZnQ19WUGRaVXdXZDhfbk1rTzlTWXAtRGJ4QXNhN3lQdjRPdk9ENEtR?oc=5",
-              "source": "凤凰网江西",
-              "publishedAt": "Sun, 15 Mar 2026 00:56:15 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UTjd2UFoxaHVWLWdGbXJPTHBYUTNVVVFxM0ZnQ19WUGRaVXdXZDhfbk1rTzlTWXAtRGJ4QXNhN3lQdjRPdk9ENEtR?oc=5\" target=\"_blank\">在阿里巴巴1688平台上买空调被骗，南昌消费者维权无路可走_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网江西</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "小米推出米家冰箱Pro 双系统十字平嵌560L，首发国补价4504.15 元|数码家电|大家电|电器|京东|家电补贴_手机新浪网 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYzBhYnVCdFk3aVNCa0VlSnVNMzA1WUhHUWY1TzgtSWh1OE5keVhkNjV3SVh5cFg4WFAzb3VnclZYMkx6VmZsUmt3REg3empUTjdUX3ZWR1oyVXU2cUlFLUJoRzM3ZVlGanEtbnl2VVhSdE1hekZDaGRmX2lfRXl6T1E0TjhwYmNUQVRlTnpISi1SQ2p4YW9Eb0RSQTJRZ1Zxdi1NUEdpV2dmY0lNOTN0QWEtU1pfWkRkbjY3alRNc2lNQ2U1bUNSRFV3dDN0dmdJd3lHRTgtM05mX0JpN2E3a2NGMzNZTWdIUXR6NnZYN0huck9yUmZHRmxuZzJPYkZzQ1dLZQ?oc=5",
+              "title": "小米宣布米家空调智能体检上线，滤网脏堵空调自己会提醒 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmFUYXZxbjJKNHNnbnFfdkxDTklaekY4V09WZDBwcDIzUzRUb3dEQTBtc0lONGtVMVlDM2pDUnpOdDZqX1dnbGQ4cWlqVVYtUUNBeEJWVWpXc3cyTHZETC1uY051R052emFWZjVrbFdSNGVsbjQ0VDMyLWRuZkg2NkJodVd5dGVqb0xSUVdXTktkRzhjTmZXRGpUbmpmWlZia0JTM29BMA?oc=5",
               "source": "新浪财经",
-              "publishedAt": "Sun, 15 Mar 2026 02:45:14 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPYzBhYnVCdFk3aVNCa0VlSnVNMzA1WUhHUWY1TzgtSWh1OE5keVhkNjV3SVh5cFg4WFAzb3VnclZYMkx6VmZsUmt3REg3empUTjdUX3ZWR1oyVXU2cUlFLUJoRzM3ZVlGanEtbnl2VVhSdE1hekZDaGRmX2lfRXl6T1E0TjhwYmNUQVRlTnpISi1SQ2p4YW9Eb0RSQTJRZ1Zxdi1NUEdpV2dmY0lNOTN0QWEtU1pfWkRkbjY3alRNc2lNQ2U1bUNSRFV3dDN0dmdJd3lHRTgtM05mX0JpN2E3a2NGMzNZTWdIUXR6NnZYN0huck9yUmZHRmxuZzJPYkZzQ1dLZQ?oc=5\" target=\"_blank\">小米推出米家冰箱Pro 双系统十字平嵌560L，首发国补价4504.15 元|数码家电|大家电|电器|京东|家电补贴_手机新浪网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "publishedAt": "Sun, 15 Mar 2026 04:21:47 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmFUYXZxbjJKNHNnbnFfdkxDTklaekY4V09WZDBwcDIzUzRUb3dEQTBtc0lONGtVMVlDM2pDUnpOdDZqX1dnbGQ4cWlqVVYtUUNBeEJWVWpXc3cyTHZETC1uY051R052emFWZjVrbFdSNGVsbjQ0VDMyLWRuZkg2NkJodVd5dGVqb0xSUVdXTktkRzhjTmZXRGpUbmpmWlZia0JTM29BMA?oc=5\" target=\"_blank\">小米宣布米家空调智能体检上线，滤网脏堵空调自己会提醒</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             },
             {
-              "title": "2025年比亚迪荣膺香港全品牌销冠 中国品牌首次登顶 - Sohu",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaUoxV05CbUdGanA5VFJRSi1PRjRYbUJQZGxfeVBvOWFhMnFHTHBDVzdhX3UwaTJZcm5XcHd4TUR6UWZtYzViSkFVMXUyTzg4WjJtZzA3YmlITVZlODZrNk16c2xSMktySEFWLXhIdHBqeDVEbDdrbUFtSGF3LUQzaHRaY3RRcGtaQ2VR?oc=5",
-              "source": "Sohu",
-              "publishedAt": "Sun, 15 Mar 2026 02:41:53 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaUoxV05CbUdGanA5VFJRSi1PRjRYbUJQZGxfeVBvOWFhMnFHTHBDVzdhX3UwaTJZcm5XcHd4TUR6UWZtYzViSkFVMXUyTzg4WjJtZzA3YmlITVZlODZrNk16c2xSMktySEFWLXhIdHBqeDVEbDdrbUFtSGF3LUQzaHRaY3RRcGtaQ2VR?oc=5\" target=\"_blank\">2025年比亚迪荣膺香港全品牌销冠 中国品牌首次登顶</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sohu</font>",
+              "title": "快手人事调整：郭亮接替陈彬出任研发线负责人 - DoNews",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VaE01QVJoc0dHblBlOVZuNFQ0ZlE0NlROYVVsWExqQzU0Y1FCUUpISWR2NUUtTGx3WHV1VjJ2YXV5cEFpbXRQdDk3djR0UV9zZmJnbExjT3g2bXVqckE?oc=5",
+              "source": "DoNews",
+              "publishedAt": "Sun, 15 Mar 2026 04:31:59 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VaE01QVJoc0dHblBlOVZuNFQ0ZlE0NlROYVVsWExqQzU0Y1FCUUpISWR2NUUtTGx3WHV1VjJ2YXV5cEFpbXRQdDk3djR0UV9zZmJnbExjT3g2bXVqckE?oc=5\" target=\"_blank\">快手人事调整：郭亮接替陈彬出任研发线负责人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
               "channelId": "google_news"
             },
             {
-              "title": "【视频】一条视频告诉你比亚迪宋prodmi怎么选？ - 汽车之家",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93RXk2QXFYYUtZR1FiWU5NY1d3STlmQnBqMWZ0RVZUbmowTTNIM0ZTcGo2R0hmSkd3d2tBQ2dnUkFLdzZDS0NmelhPS09xTU9XVDh3eURVck80RVN3OUIzM3Y2VU45QnRJY1dj?oc=5",
+              "title": "中国车企冲顶F1：蔚来试水、吉利铺路，比亚迪来收尾？ - 凤凰网科技",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVR0stNG9vckpldmJrejQ3UWZlQmRsTDJfM3IyMnpnQjFyUmxRTXVDNWRtai04TUF0dVlXTFN0VjFKYzZEWWZjWllNX1A?oc=5",
+              "source": "凤凰网科技",
+              "publishedAt": "Sat, 14 Mar 2026 23:28:23 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVR0stNG9vckpldmJrejQ3UWZlQmRsTDJfM3IyMnpnQjFyUmxRTXVDNWRtai04TUF0dVlXTFN0VjFKYzZEWWZjWllNX1A?oc=5\" target=\"_blank\">中国车企冲顶F1：蔚来试水、吉利铺路，比亚迪来收尾？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网科技</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "​从“照骗”门店到“克隆”店铺，谁在喂养美团上的“幽灵外卖”？【问政四川·天天315⑤】 - 川观新闻",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQVXlCS3FXZnhhWW1aWWxJSjNtRHlwSFFUVWY4Y1BuWko1TC10QTBhQWFIRzl0MzFRR1I3enJjZ1FCMXh2dDR6REt5Zjl6QQ?oc=5",
+              "source": "川观新闻",
+              "publishedAt": "Sun, 15 Mar 2026 03:41:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQVXlCS3FXZnhhWW1aWWxJSjNtRHlwSFFUVWY4Y1BuWko1TC10QTBhQWFIRzl0MzFRR1I3enJjZ1FCMXh2dDR6REt5Zjl6QQ?oc=5\" target=\"_blank\">​从“照骗”门店到“克隆”店铺，谁在喂养美团上的“幽灵外卖”？【问政四川·天天315⑤】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">川观新闻</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "比亚迪闪充首批量产交付车型上市，方程豹钛3闪充版15万元起售 - 汽车之家",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOTnQ5WGtfQ1ZPRjhROUh0V3NWNjE1SENUdmZubDVxQktCSVMxbFBTazF1WUcxZjlPZ0dPNWRUUWJnMzh4WWJGVEE2TVNncHZaXzJVZEdjRE9JV2s?oc=5",
               "source": "汽车之家",
-              "publishedAt": "Sun, 15 Mar 2026 02:56:06 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE93RXk2QXFYYUtZR1FiWU5NY1d3STlmQnBqMWZ0RVZUbmowTTNIM0ZTcGo2R0hmSkd3d2tBQ2dnUkFLdzZDS0NmelhPS09xTU9XVDh3eURVck80RVN3OUIzM3Y2VU45QnRJY1dj?oc=5\" target=\"_blank\">【视频】一条视频告诉你比亚迪宋prodmi怎么选？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">汽车之家</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "南昌一男子在阿里巴巴1688下单10台空调，8000多元仅换来榨汁杯和梳子 - 凤凰网江西",
-              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IRGthemNaWGFVcmlRLVE3VExKMThmcnJNNnZ5c2JCSFNOTzZxWHQ3OEszSHlvS2NXSVhWQWQ1c0VnX3hBTjdHZ1dn?oc=5",
-              "source": "凤凰网江西",
-              "publishedAt": "Sat, 14 Mar 2026 23:41:01 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IRGthemNaWGFVcmlRLVE3VExKMThmcnJNNnZ5c2JCSFNOTzZxWHQ3OEszSHlvS2NXSVhWQWQ1c0VnX3hBTjdHZ1dn?oc=5\" target=\"_blank\">南昌一男子在阿里巴巴1688下单10台空调，8000多元仅换来榨汁杯和梳子</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网江西</font>",
+              "publishedAt": "Sun, 15 Mar 2026 03:55:37 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOTnQ5WGtfQ1ZPRjhROUh0V3NWNjE1SENUdmZubDVxQktCSVMxbFBTazF1WUcxZjlPZ0dPNWRUUWJnMzh4WWJGVEE2TVNncHZaXzJVZEdjRE9JV2s?oc=5\" target=\"_blank\">比亚迪闪充首批量产交付车型上市，方程豹钛3闪充版15万元起售</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">汽车之家</font>",
               "channelId": "google_news"
             }
           ]
@@ -247,21 +247,21 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:48:58Z",
+              "publishedAt": "2026-03-15T05:25:08Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "anthropics/claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
               "link": "https://github.com/anthropics/claude-code",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:44:38Z",
+              "publishedAt": "2026-03-15T05:37:46Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:52:02Z",
+              "publishedAt": "2026-03-15T05:25:14Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -274,14 +274,14 @@
               "title": "vllm-project/vllm - A high-throughput and memory-efficient inference and serving engine for LLMs",
               "link": "https://github.com/vllm-project/vllm",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:56:27Z",
+              "publishedAt": "2026-03-15T05:30:39Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:54:26Z",
+              "publishedAt": "2026-03-15T05:36:03Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -294,42 +294,42 @@
               "title": "lobehub/lobehub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
               "link": "https://github.com/lobehub/lobehub",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:19:02Z",
+              "publishedAt": "2026-03-15T05:35:41Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:24:41Z",
+              "publishedAt": "2026-03-15T05:22:08Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:52:02Z",
+              "publishedAt": "2026-03-15T05:25:14Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
               "link": "https://github.com/langflow-ai/langflow",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:14:12Z",
+              "publishedAt": "2026-03-15T05:03:42Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:52:06Z",
+              "publishedAt": "2026-03-15T05:24:39Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
               "link": "https://github.com/Comfy-Org/ComfyUI",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:48:31Z",
+              "publishedAt": "2026-03-15T05:26:02Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -429,7 +429,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 5
+          "count": 7
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -456,6 +456,14 @@
           "title": "技术突破",
           "query": "AI breakthrough",
           "items": [
+            {
+              "title": "Core AI Holdings和Optimus Tech推出OptiCore数据中心，为R1大学的人工智能研究提供动力。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1lUdjNIOWxSSDJLSzdZSUFnQlhNNzd0Rkl1bmhYLUVBYXlaeEZHRkVkcGFNX1dueE5JWGhWaGs3amstLXRhOXh4T3ZEMjZIbDBFTzYzQUZTOXJvemZKZlh3WXAtN0xKVG1kRTFtdFI1RXg1eHVnOUhNVTNLcnUzVm5tbFZrbzhYa3UzSkxRcUR1Q0wtV19ob2JpY0ZlbkpMR3ZjeA?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Thu, 12 Mar 2026 12:20:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1lUdjNIOWxSSDJLSzdZSUFnQlhNNzd0Rkl1bmhYLUVBYXlaeEZHRkVkcGFNX1dueE5JWGhWaGs3amstLXRhOXh4T3ZEMjZIbDBFTzYzQUZTOXJvemZKZlh3WXAtN0xKVG1kRTFtdFI1RXg1eHVnOUhNVTNLcnUzVm5tbFZrbzhYa3UzSkxRcUR1Q0wtV19ob2JpY0ZlbkpMR3ZjeA?oc=5\" target=\"_blank\">Core AI Holdings和Optimus Tech推出OptiCore数据中心，为R1大学的人工智能研究提供动力。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "channelId": "google_news"
+            },
             {
               "title": "AI新突破：精准解码脑信号，升级脑机接口技术 - 51CTO",
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1Z0F4YXpTcHhUelBxVllXTnJKcEFycFlmZ01KdmdHMm91Y0tVZ3JwLTNPWFFFVFdjWXlZTGZHcHFMUl81Mk0ydkJCZmlfMjNoMUsw?oc=5",
@@ -486,14 +494,6 @@
               "source": "blockchain.news",
               "publishedAt": "Sat, 14 Mar 2026 09:12:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTkF3QmF6TjV4TlRVeHo5OUloUlZwVTI2UGt1YlhLZE9ReGVOMlpBVklqRkNKT2JsMnE2dkMxa09RdG5URUEyOVBQWGprOVpzS0JuNUhSMFJsa3BMdnhDNmtYLXRaMjNlNGFXcEVmYWZXZjlDQ3lfOVN0ZHBXNzNyR0JkX2ptOUQ3QW11b0dzaXhkODZ1RFpZaG9LdEZRdnBJUDV5cjFrNXFWT1dsWHVRdVh1VkhCTVJlc1NzZ05idmMzYV9MbXhtbXFkeUNJemVpVVNEWmVrdmpvNjlMVE1Nbi1NS203UG94dG5QWmtVVldBNlBRQWc?oc=5\" target=\"_blank\">ChatGPT与mRNA设计工具助力首个犬用个性化癌症疫苗：案例解析与商业机遇| AI快讯详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Claude视觉思维升级：5个入门提示与Claude精通指南（2026深度解析） - blockchain.news",
-              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnBkbnRUSmV4Wkx4LVlHVU5PajVEN1BlQ25vZEEzWWhiampJMGdUMmVkdGNPRlkybDVOclFVd3Ztc0RmSkMtUzlRQlhSVzBxQWdCdWxiX3JsNUotLWNOdDBablhlYU0yeldQU0xENVNHV0pVNE1qQS05UkYyTHBDQTNwcUlDQWh5U3V0TmxtSDg3MUFabFdReGdZZUZwR0JSV2NtbTBOSlMzM0dEdGdaRjJUQ3A0YUtwRHdtN01qWDE0TGdhNUR0RF9wTUpscGVyZ1E?oc=5",
-              "source": "blockchain.news",
-              "publishedAt": "Fri, 13 Mar 2026 07:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnBkbnRUSmV4Wkx4LVlHVU5PajVEN1BlQ25vZEEzWWhiampJMGdUMmVkdGNPRlkybDVOclFVd3Ztc0RmSkMtUzlRQlhSVzBxQWdCdWxiX3JsNUotLWNOdDBablhlYU0yeldQU0xENVNHV0pVNE1qQS05UkYyTHBDQTNwcUlDQWh5U3V0TmxtSDg3MUFabFdReGdZZUZwR0JSV2NtbTBOSlMzM0dEdGdaRjJUQ3A0YUtwRHdtN01qWDE0TGdhNUR0RF9wTUpscGVyZ1E?oc=5\" target=\"_blank\">Claude视觉思维升级：5个入门提示与Claude精通指南（2026深度解析）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
               "channelId": "google_news"
             },
             {
@@ -546,14 +546,14 @@
               "title": "langgenius/dify - Production-ready platform for agentic workflow development.",
               "link": "https://github.com/langgenius/dify",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:48:58Z",
+              "publishedAt": "2026-03-15T05:25:08Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "supabase/supabase - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
               "link": "https://github.com/supabase/supabase",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:48:48Z",
+              "publishedAt": "2026-03-15T05:28:13Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -573,7 +573,7 @@
               "title": "Shubhamsaboo/awesome-llm-apps - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
               "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:55:19Z",
+              "publishedAt": "2026-03-15T05:37:40Z",
               "channelId": "github_trending_ai"
             },
             {
@@ -587,21 +587,21 @@
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:52:06Z",
+              "publishedAt": "2026-03-15T05:24:39Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "google-gemini/gemini-cli - An open-source AI agent that brings the power of Gemini directly into your terminal.",
               "link": "https://github.com/google-gemini/gemini-cli",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:55:54Z",
+              "publishedAt": "2026-03-15T05:30:57Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "anthropics/claude-code - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
               "link": "https://github.com/anthropics/claude-code",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:44:38Z",
+              "publishedAt": "2026-03-15T05:37:46Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -611,51 +611,51 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "京东：近百个家电家居品牌正在接入JoyInside-观察者网 - 观察者",
+              "title": "京东：近百个家电家居品牌正在接入JoyInside-观察者网 - guancha.cn",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5",
-              "source": "观察者",
+              "source": "guancha.cn",
               "publishedAt": "Sun, 15 Mar 2026 01:21:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5\" target=\"_blank\">京东：近百个家电家居品牌正在接入JoyInside-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5\" target=\"_blank\">京东：近百个家电家居品牌正在接入JoyInside-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
-              "title": "在阿里巴巴1688平台上买空调被骗，南昌消费者维权无路可走_凤凰网 - 凤凰网江西",
-              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UTjd2UFoxaHVWLWdGbXJPTHBYUTNVVVFxM0ZnQ19WUGRaVXdXZDhfbk1rTzlTWXAtRGJ4QXNhN3lQdjRPdk9ENEtR?oc=5",
-              "source": "凤凰网江西",
-              "publishedAt": "Sun, 15 Mar 2026 00:56:15 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UTjd2UFoxaHVWLWdGbXJPTHBYUTNVVVFxM0ZnQ19WUGRaVXdXZDhfbk1rTzlTWXAtRGJ4QXNhN3lQdjRPdk9ENEtR?oc=5\" target=\"_blank\">在阿里巴巴1688平台上买空调被骗，南昌消费者维权无路可走_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网江西</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "小米推出米家冰箱Pro 双系统十字平嵌560L，首发国补价4504.15 元|数码家电|大家电|电器|京东|家电补贴_手机新浪网 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYzBhYnVCdFk3aVNCa0VlSnVNMzA1WUhHUWY1TzgtSWh1OE5keVhkNjV3SVh5cFg4WFAzb3VnclZYMkx6VmZsUmt3REg3empUTjdUX3ZWR1oyVXU2cUlFLUJoRzM3ZVlGanEtbnl2VVhSdE1hekZDaGRmX2lfRXl6T1E0TjhwYmNUQVRlTnpISi1SQ2p4YW9Eb0RSQTJRZ1Zxdi1NUEdpV2dmY0lNOTN0QWEtU1pfWkRkbjY3alRNc2lNQ2U1bUNSRFV3dDN0dmdJd3lHRTgtM05mX0JpN2E3a2NGMzNZTWdIUXR6NnZYN0huck9yUmZHRmxuZzJPYkZzQ1dLZQ?oc=5",
+              "title": "小米宣布米家空调智能体检上线，滤网脏堵空调自己会提醒 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmFUYXZxbjJKNHNnbnFfdkxDTklaekY4V09WZDBwcDIzUzRUb3dEQTBtc0lONGtVMVlDM2pDUnpOdDZqX1dnbGQ4cWlqVVYtUUNBeEJWVWpXc3cyTHZETC1uY051R052emFWZjVrbFdSNGVsbjQ0VDMyLWRuZkg2NkJodVd5dGVqb0xSUVdXTktkRzhjTmZXRGpUbmpmWlZia0JTM29BMA?oc=5",
               "source": "新浪财经",
-              "publishedAt": "Sun, 15 Mar 2026 02:45:14 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPYzBhYnVCdFk3aVNCa0VlSnVNMzA1WUhHUWY1TzgtSWh1OE5keVhkNjV3SVh5cFg4WFAzb3VnclZYMkx6VmZsUmt3REg3empUTjdUX3ZWR1oyVXU2cUlFLUJoRzM3ZVlGanEtbnl2VVhSdE1hekZDaGRmX2lfRXl6T1E0TjhwYmNUQVRlTnpISi1SQ2p4YW9Eb0RSQTJRZ1Zxdi1NUEdpV2dmY0lNOTN0QWEtU1pfWkRkbjY3alRNc2lNQ2U1bUNSRFV3dDN0dmdJd3lHRTgtM05mX0JpN2E3a2NGMzNZTWdIUXR6NnZYN0huck9yUmZHRmxuZzJPYkZzQ1dLZQ?oc=5\" target=\"_blank\">小米推出米家冰箱Pro 双系统十字平嵌560L，首发国补价4504.15 元|数码家电|大家电|电器|京东|家电补贴_手机新浪网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "publishedAt": "Sun, 15 Mar 2026 04:21:47 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmFUYXZxbjJKNHNnbnFfdkxDTklaekY4V09WZDBwcDIzUzRUb3dEQTBtc0lONGtVMVlDM2pDUnpOdDZqX1dnbGQ4cWlqVVYtUUNBeEJWVWpXc3cyTHZETC1uY051R052emFWZjVrbFdSNGVsbjQ0VDMyLWRuZkg2NkJodVd5dGVqb0xSUVdXTktkRzhjTmZXRGpUbmpmWlZia0JTM29BMA?oc=5\" target=\"_blank\">小米宣布米家空调智能体检上线，滤网脏堵空调自己会提醒</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             },
             {
-              "title": "2025年比亚迪荣膺香港全品牌销冠 中国品牌首次登顶 - Sohu",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaUoxV05CbUdGanA5VFJRSi1PRjRYbUJQZGxfeVBvOWFhMnFHTHBDVzdhX3UwaTJZcm5XcHd4TUR6UWZtYzViSkFVMXUyTzg4WjJtZzA3YmlITVZlODZrNk16c2xSMktySEFWLXhIdHBqeDVEbDdrbUFtSGF3LUQzaHRaY3RRcGtaQ2VR?oc=5",
-              "source": "Sohu",
-              "publishedAt": "Sun, 15 Mar 2026 02:41:53 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaUoxV05CbUdGanA5VFJRSi1PRjRYbUJQZGxfeVBvOWFhMnFHTHBDVzdhX3UwaTJZcm5XcHd4TUR6UWZtYzViSkFVMXUyTzg4WjJtZzA3YmlITVZlODZrNk16c2xSMktySEFWLXhIdHBqeDVEbDdrbUFtSGF3LUQzaHRaY3RRcGtaQ2VR?oc=5\" target=\"_blank\">2025年比亚迪荣膺香港全品牌销冠 中国品牌首次登顶</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sohu</font>",
+              "title": "快手人事调整：郭亮接替陈彬出任研发线负责人 - DoNews",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VaE01QVJoc0dHblBlOVZuNFQ0ZlE0NlROYVVsWExqQzU0Y1FCUUpISWR2NUUtTGx3WHV1VjJ2YXV5cEFpbXRQdDk3djR0UV9zZmJnbExjT3g2bXVqckE?oc=5",
+              "source": "DoNews",
+              "publishedAt": "Sun, 15 Mar 2026 04:31:59 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VaE01QVJoc0dHblBlOVZuNFQ0ZlE0NlROYVVsWExqQzU0Y1FCUUpISWR2NUUtTGx3WHV1VjJ2YXV5cEFpbXRQdDk3djR0UV9zZmJnbExjT3g2bXVqckE?oc=5\" target=\"_blank\">快手人事调整：郭亮接替陈彬出任研发线负责人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
               "channelId": "google_news"
             },
             {
-              "title": "【视频】一条视频告诉你比亚迪宋prodmi怎么选？ - 汽车之家",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93RXk2QXFYYUtZR1FiWU5NY1d3STlmQnBqMWZ0RVZUbmowTTNIM0ZTcGo2R0hmSkd3d2tBQ2dnUkFLdzZDS0NmelhPS09xTU9XVDh3eURVck80RVN3OUIzM3Y2VU45QnRJY1dj?oc=5",
-              "source": "汽车之家",
-              "publishedAt": "Sun, 15 Mar 2026 02:56:06 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE93RXk2QXFYYUtZR1FiWU5NY1d3STlmQnBqMWZ0RVZUbmowTTNIM0ZTcGo2R0hmSkd3d2tBQ2dnUkFLdzZDS0NmelhPS09xTU9XVDh3eURVck80RVN3OUIzM3Y2VU45QnRJY1dj?oc=5\" target=\"_blank\">【视频】一条视频告诉你比亚迪宋prodmi怎么选？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">汽车之家</font>",
+              "title": "中国车企冲顶F1：蔚来试水、吉利铺路，比亚迪来收尾？ - 凤凰网科技",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVR0stNG9vckpldmJrejQ3UWZlQmRsTDJfM3IyMnpnQjFyUmxRTXVDNWRtai04TUF0dVlXTFN0VjFKYzZEWWZjWllNX1A?oc=5",
+              "source": "凤凰网科技",
+              "publishedAt": "Sat, 14 Mar 2026 23:28:23 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVR0stNG9vckpldmJrejQ3UWZlQmRsTDJfM3IyMnpnQjFyUmxRTXVDNWRtai04TUF0dVlXTFN0VjFKYzZEWWZjWllNX1A?oc=5\" target=\"_blank\">中国车企冲顶F1：蔚来试水、吉利铺路，比亚迪来收尾？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网科技</font>",
               "channelId": "google_news"
             },
             {
-              "title": "南昌一男子在阿里巴巴1688下单10台空调，8000多元仅换来榨汁杯和梳子 - 凤凰网江西",
-              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IRGthemNaWGFVcmlRLVE3VExKMThmcnJNNnZ5c2JCSFNOTzZxWHQ3OEszSHlvS2NXSVhWQWQ1c0VnX3hBTjdHZ1dn?oc=5",
-              "source": "凤凰网江西",
-              "publishedAt": "Sat, 14 Mar 2026 23:41:01 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IRGthemNaWGFVcmlRLVE3VExKMThmcnJNNnZ5c2JCSFNOTzZxWHQ3OEszSHlvS2NXSVhWQWQ1c0VnX3hBTjdHZ1dn?oc=5\" target=\"_blank\">南昌一男子在阿里巴巴1688下单10台空调，8000多元仅换来榨汁杯和梳子</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网江西</font>",
+              "title": "​从“照骗”门店到“克隆”店铺，谁在喂养美团上的“幽灵外卖”？【问政四川·天天315⑤】 - 川观新闻",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQVXlCS3FXZnhhWW1aWWxJSjNtRHlwSFFUVWY4Y1BuWko1TC10QTBhQWFIRzl0MzFRR1I3enJjZ1FCMXh2dDR6REt5Zjl6QQ?oc=5",
+              "source": "川观新闻",
+              "publishedAt": "Sun, 15 Mar 2026 03:41:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQVXlCS3FXZnhhWW1aWWxJSjNtRHlwSFFUVWY4Y1BuWko1TC10QTBhQWFIRzl0MzFRR1I3enJjZ1FCMXh2dDR6REt5Zjl6QQ?oc=5\" target=\"_blank\">​从“照骗”门店到“克隆”店铺，谁在喂养美团上的“幽灵外卖”？【问政四川·天天315⑤】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">川观新闻</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "平台出手，京东AWE现场打假洗地机评测造假-观察者网 - guancha.cn",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hRlNDRUNnSWhKTnJ2ZndEX0hFODFWMVhKOXY4TUJZTUo2MVczeVFXXzlGMnpHYkQ0MlV6NW5KdWhwaXlxQndkQlBOUFc5MUJLUlNXQnBORXc3dTI0Q2xsdmk1cjY?oc=5",
+              "source": "guancha.cn",
+              "publishedAt": "Sun, 15 Mar 2026 01:21:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hRlNDRUNnSWhKTnJ2ZndEX0hFODFWMVhKOXY4TUJZTUo2MVczeVFXXzlGMnpHYkQ0MlV6NW5KdWhwaXlxQndkQlBOUFc5MUJLUlNXQnBORXc3dTI0Q2xsdmk1cjY?oc=5\" target=\"_blank\">平台出手，京东AWE现场打假洗地机评测造假-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             }
           ]
@@ -681,14 +681,6 @@
               "channelId": "google_news"
             },
             {
-              "title": "独家｜清华北大普林斯顿天才少年，用“空间Agent”重构AI健康硬件，高瓴、智元投了 - Sohu",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaTZyeng4SDc2aXJvTmFwczNaZ2s4WUg2NFhJckgxakdWYXliWV81VEMtejc1VEtvaF9rZHJPcE0zTTByMld6bmtzdkxiSkNZdGkzWWRzMTU3OTNoM1pnLUVVT3ZMOGFScXlzQjF4cU13OHduM2lhSG5NOHZYb3FSREsxZ0I0b2daeC1z?oc=5",
-              "source": "Sohu",
-              "publishedAt": "Fri, 13 Mar 2026 02:01:49 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaTZyeng4SDc2aXJvTmFwczNaZ2s4WUg2NFhJckgxakdWYXliWV81VEMtejc1VEtvaF9rZHJPcE0zTTByMld6bmtzdkxiSkNZdGkzWWRzMTU3OTNoM1pnLUVVT3ZMOGFScXlzQjF4cU13OHduM2lhSG5NOHZYb3FSREsxZ0I0b2daeC1z?oc=5\" target=\"_blank\">独家｜清华北大普林斯顿天才少年，用“空间Agent”重构AI健康硬件，高瓴、智元投了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sohu</font>",
-              "channelId": "google_news"
-            },
-            {
               "title": "Systematic debugging for AI agents: Introducing the AgentRx framework - Microsoft",
               "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3c2eW1hZVZZUTRiSl9NSFlEZVdkVkdQNkxpdFJXbWdkRzVJMWZEWjRNV1pjYTRfQmlGUVQtWE5ubnBKS1BKRnlFMk1Md3FkSl9WSHpFVkZfYkxKUVFGZUdwRkM2VlRaUkx4SkhHeDVkR1lvdmRPXzhBNzBSQW9BYm1KdGxHVXItdVdyWDJMU3VIY0hNYUcwRWUtdTcyZ0dRZmczcjFFVmNpb2xnS0NnZVRaQzFGZzBtUG9MNjRYZkVBZFg1?oc=5",
               "source": "Microsoft",
@@ -702,6 +694,14 @@
               "source": "InfoQ 官网",
               "publishedAt": "Fri, 13 Mar 2026 02:05:22 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9haGNBLU85QXJ5Skl3RjRLR1dBS2hzTVV2U2VvNEhiRGNDRVVhc1NKVGVlMUFPZUpPbzVaSGo1NjFEU21MQThIejQxa25IUDVvTGZBaTl1VzlRejN3REE?oc=5\" target=\"_blank\">OpenSandbox：重新思考 Agent 时代的 Runtime｜QCon 北京</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ 官网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "独家｜清华北大普林斯顿天才少年，用“空间Agent”重构AI健康硬件，高瓴、智元投了 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wMXB4dlRVN2xUcFRhVElBSTdzVm1nbWJvQVVfQ25Ka3BRcG1fc1U5aldNRVlpU1QxR3pENjlSMEx5NUJZb0o0LUJmbDBCcTFDU0d5dGlnOGw3dkl1Y3J2MUdxUlBKMTdvdGFmMmdnZjl6TXctRXc?oc=5",
+              "source": "新浪财经",
+              "publishedAt": "Fri, 13 Mar 2026 02:01:49 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4wMXB4dlRVN2xUcFRhVElBSTdzVm1nbWJvQVVfQ25Ka3BRcG1fc1U5aldNRVlpU1QxR3pENjlSMEx5NUJZb0o0LUJmbDBCcTFDU0d5dGlnOGw3dkl1Y3J2MUdxUlBKMTdvdGFmMmdnZjl6TXctRXc?oc=5\" target=\"_blank\">独家｜清华北大普林斯顿天才少年，用“空间Agent”重构AI健康硬件，高瓴、智元投了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             },
             {
@@ -722,7 +722,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:54:26Z",
+              "publishedAt": "2026-03-15T05:36:03Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -743,35 +743,35 @@
               "title": "Significant-Gravitas/AutoGPT - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
               "link": "https://github.com/Significant-Gravitas/AutoGPT",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:24:41Z",
+              "publishedAt": "2026-03-15T05:22:08Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "n8n-io/n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
               "link": "https://github.com/n8n-io/n8n",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:52:02Z",
+              "publishedAt": "2026-03-15T05:25:14Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
               "link": "https://github.com/langflow-ai/langflow",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:14:12Z",
+              "publishedAt": "2026-03-15T05:03:42Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
               "link": "https://github.com/open-webui/open-webui",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:52:06Z",
+              "publishedAt": "2026-03-15T05:24:39Z",
               "channelId": "github_trending_ai"
             },
             {
               "title": "Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
               "link": "https://github.com/Comfy-Org/ComfyUI",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:48:31Z",
+              "publishedAt": "2026-03-15T05:26:02Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -871,7 +871,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 5
+          "count": 7
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -915,6 +915,14 @@
               "channelId": "google_news"
             },
             {
+              "title": "Core AI Holdings和Optimus Tech推出OptiCore数据中心，为R1大学的人工智能研究提供动力。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1lUdjNIOWxSSDJLSzdZSUFnQlhNNzd0Rkl1bmhYLUVBYXlaeEZHRkVkcGFNX1dueE5JWGhWaGs3amstLXRhOXh4T3ZEMjZIbDBFTzYzQUZTOXJvemZKZlh3WXAtN0xKVG1kRTFtdFI1RXg1eHVnOUhNVTNLcnUzVm5tbFZrbzhYa3UzSkxRcUR1Q0wtV19ob2JpY0ZlbkpMR3ZjeA?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Thu, 12 Mar 2026 12:20:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1lUdjNIOWxSSDJLSzdZSUFnQlhNNzd0Rkl1bmhYLUVBYXlaeEZHRkVkcGFNX1dueE5JWGhWaGs3amstLXRhOXh4T3ZEMjZIbDBFTzYzQUZTOXJvemZKZlh3WXAtN0xKVG1kRTFtdFI1RXg1eHVnOUhNVTNLcnUzVm5tbFZrbzhYa3UzSkxRcUR1Q0wtV19ob2JpY0ZlbkpMR3ZjeA?oc=5\" target=\"_blank\">Core AI Holdings和Optimus Tech推出OptiCore数据中心，为R1大学的人工智能研究提供动力。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+              "channelId": "google_news"
+            },
+            {
               "title": "港台电视 32 Hong Kong Connection - Child Home Alone - 香港電台",
               "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0NPQzZ5VGlkazFQRnVQVmtrVzRvTlhMRGZjckFjdndJRl9XXzhBSHVFenA4R2hWTGNPRTd2ZDdoalhSQ3VHT3JFbUsydHJfMzlGVVJQaWQza2FVaGpUZEctUWx4T3Jmc2FKWjFydGh0Uk5lb2hxMU1iT2ZoTzNhbktzdXZRZzA?oc=5",
               "source": "香港電台",
@@ -936,14 +944,6 @@
               "source": "blockchain.news",
               "publishedAt": "Sun, 08 Mar 2026 23:54:00 GMT",
               "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQN0xZNE5JN2dWLW5sYnVhQ3NJODZJRGxDUktRdno2TjhIakF1NjU1alBJX0lMdmtRNGI5ZndBWlRwM3hzakg3SjRNdkxEY1BVbXpfSnM1RnBTMXJwZ3RqOHByWV8wZE1CNHltaW5EclVWTkE0cHZUdVI1c0M5dTJVU1ptcm41NU8wVFVFa05xU0U3VTdXQ1hPLUw3T2g2cWJqa2tIbXhDSUVFVTltR1pjUUpHRFNEMnhFUWNWd0pXejktSWVJUTFYMlBR?oc=5\" target=\"_blank\">Mootion AI视频突破：戏剧化文案到影片的实时转换与短视频创作分析| AI快讯详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Karpathy提出突破：类SETI@home的异步协作式Autoresearch代理体系——2026深度分析| AI快讯详情 - blockchain.news",
-              "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeFNpdnhDUUNiYm43ZGVNN1U2ZTlsYURJTlpGblcxdTZFYUVoWjlvT2Q1TFo1YWhKbVhYSlhjLXdDSzUyc0N0bk9iLWJoZ093UGpRSXRFVWRVbWFxOUt2VF83bGdyUk5TV0RKbG9neEh6cE42SXVSUVh5LU91QmN0S3lCa0tUaU1oRUFrNHRQMnJoYnVSZDNQcVFxZFR4dnRtWVVqd3JkY21rTUdFdWhzbE1uSVAzMHZ6WEVfNndLLXpZa2NFeG1ZczV6UlZnVTRaLUVua0ROd1R5akdsc2FxS3gzSW41cDFQRmloME1lOA?oc=5",
-              "source": "blockchain.news",
-              "publishedAt": "Sun, 08 Mar 2026 10:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeFNpdnhDUUNiYm43ZGVNN1U2ZTlsYURJTlpGblcxdTZFYUVoWjlvT2Q1TFo1YWhKbVhYSlhjLXdDSzUyc0N0bk9iLWJoZ093UGpRSXRFVWRVbWFxOUt2VF83bGdyUk5TV0RKbG9neEh6cE42SXVSUVh5LU91QmN0S3lCa0tUaU1oRUFrNHRQMnJoYnVSZDNQcVFxZFR4dnRtWVVqd3JkY21rTUdFdWhzbE1uSVAzMHZ6WEVfNndLLXpZa2NFeG1ZczV6UlZnVTRaLUVua0ROd1R5akdsc2FxS3gzSW41cDFQRmloME1lOA?oc=5\" target=\"_blank\">Karpathy提出突破：类SETI@home的异步协作式Autoresearch代理体系——2026深度分析| AI快讯详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
               "channelId": "google_news"
             }
           ]
@@ -1055,51 +1055,51 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "京东：近百个家电家居品牌正在接入JoyInside-观察者网 - 观察者",
+              "title": "京东：近百个家电家居品牌正在接入JoyInside-观察者网 - guancha.cn",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5",
-              "source": "观察者",
+              "source": "guancha.cn",
               "publishedAt": "Sun, 15 Mar 2026 01:21:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5\" target=\"_blank\">京东：近百个家电家居品牌正在接入JoyInside-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5\" target=\"_blank\">京东：近百个家电家居品牌正在接入JoyInside-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
-              "title": "在阿里巴巴1688平台上买空调被骗，南昌消费者维权无路可走_凤凰网 - 凤凰网江西",
-              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UTjd2UFoxaHVWLWdGbXJPTHBYUTNVVVFxM0ZnQ19WUGRaVXdXZDhfbk1rTzlTWXAtRGJ4QXNhN3lQdjRPdk9ENEtR?oc=5",
-              "source": "凤凰网江西",
-              "publishedAt": "Sun, 15 Mar 2026 00:56:15 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UTjd2UFoxaHVWLWdGbXJPTHBYUTNVVVFxM0ZnQ19WUGRaVXdXZDhfbk1rTzlTWXAtRGJ4QXNhN3lQdjRPdk9ENEtR?oc=5\" target=\"_blank\">在阿里巴巴1688平台上买空调被骗，南昌消费者维权无路可走_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网江西</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "小米推出米家冰箱Pro 双系统十字平嵌560L，首发国补价4504.15 元|数码家电|大家电|电器|京东|家电补贴_手机新浪网 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYzBhYnVCdFk3aVNCa0VlSnVNMzA1WUhHUWY1TzgtSWh1OE5keVhkNjV3SVh5cFg4WFAzb3VnclZYMkx6VmZsUmt3REg3empUTjdUX3ZWR1oyVXU2cUlFLUJoRzM3ZVlGanEtbnl2VVhSdE1hekZDaGRmX2lfRXl6T1E0TjhwYmNUQVRlTnpISi1SQ2p4YW9Eb0RSQTJRZ1Zxdi1NUEdpV2dmY0lNOTN0QWEtU1pfWkRkbjY3alRNc2lNQ2U1bUNSRFV3dDN0dmdJd3lHRTgtM05mX0JpN2E3a2NGMzNZTWdIUXR6NnZYN0huck9yUmZHRmxuZzJPYkZzQ1dLZQ?oc=5",
+              "title": "小米宣布米家空调智能体检上线，滤网脏堵空调自己会提醒 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmFUYXZxbjJKNHNnbnFfdkxDTklaekY4V09WZDBwcDIzUzRUb3dEQTBtc0lONGtVMVlDM2pDUnpOdDZqX1dnbGQ4cWlqVVYtUUNBeEJWVWpXc3cyTHZETC1uY051R052emFWZjVrbFdSNGVsbjQ0VDMyLWRuZkg2NkJodVd5dGVqb0xSUVdXTktkRzhjTmZXRGpUbmpmWlZia0JTM29BMA?oc=5",
               "source": "新浪财经",
-              "publishedAt": "Sun, 15 Mar 2026 02:45:14 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPYzBhYnVCdFk3aVNCa0VlSnVNMzA1WUhHUWY1TzgtSWh1OE5keVhkNjV3SVh5cFg4WFAzb3VnclZYMkx6VmZsUmt3REg3empUTjdUX3ZWR1oyVXU2cUlFLUJoRzM3ZVlGanEtbnl2VVhSdE1hekZDaGRmX2lfRXl6T1E0TjhwYmNUQVRlTnpISi1SQ2p4YW9Eb0RSQTJRZ1Zxdi1NUEdpV2dmY0lNOTN0QWEtU1pfWkRkbjY3alRNc2lNQ2U1bUNSRFV3dDN0dmdJd3lHRTgtM05mX0JpN2E3a2NGMzNZTWdIUXR6NnZYN0huck9yUmZHRmxuZzJPYkZzQ1dLZQ?oc=5\" target=\"_blank\">小米推出米家冰箱Pro 双系统十字平嵌560L，首发国补价4504.15 元|数码家电|大家电|电器|京东|家电补贴_手机新浪网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "publishedAt": "Sun, 15 Mar 2026 04:21:47 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmFUYXZxbjJKNHNnbnFfdkxDTklaekY4V09WZDBwcDIzUzRUb3dEQTBtc0lONGtVMVlDM2pDUnpOdDZqX1dnbGQ4cWlqVVYtUUNBeEJWVWpXc3cyTHZETC1uY051R052emFWZjVrbFdSNGVsbjQ0VDMyLWRuZkg2NkJodVd5dGVqb0xSUVdXTktkRzhjTmZXRGpUbmpmWlZia0JTM29BMA?oc=5\" target=\"_blank\">小米宣布米家空调智能体检上线，滤网脏堵空调自己会提醒</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             },
             {
-              "title": "2025年比亚迪荣膺香港全品牌销冠 中国品牌首次登顶 - Sohu",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaUoxV05CbUdGanA5VFJRSi1PRjRYbUJQZGxfeVBvOWFhMnFHTHBDVzdhX3UwaTJZcm5XcHd4TUR6UWZtYzViSkFVMXUyTzg4WjJtZzA3YmlITVZlODZrNk16c2xSMktySEFWLXhIdHBqeDVEbDdrbUFtSGF3LUQzaHRaY3RRcGtaQ2VR?oc=5",
-              "source": "Sohu",
-              "publishedAt": "Sun, 15 Mar 2026 02:41:53 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaUoxV05CbUdGanA5VFJRSi1PRjRYbUJQZGxfeVBvOWFhMnFHTHBDVzdhX3UwaTJZcm5XcHd4TUR6UWZtYzViSkFVMXUyTzg4WjJtZzA3YmlITVZlODZrNk16c2xSMktySEFWLXhIdHBqeDVEbDdrbUFtSGF3LUQzaHRaY3RRcGtaQ2VR?oc=5\" target=\"_blank\">2025年比亚迪荣膺香港全品牌销冠 中国品牌首次登顶</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sohu</font>",
+              "title": "快手人事调整：郭亮接替陈彬出任研发线负责人 - DoNews",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VaE01QVJoc0dHblBlOVZuNFQ0ZlE0NlROYVVsWExqQzU0Y1FCUUpISWR2NUUtTGx3WHV1VjJ2YXV5cEFpbXRQdDk3djR0UV9zZmJnbExjT3g2bXVqckE?oc=5",
+              "source": "DoNews",
+              "publishedAt": "Sun, 15 Mar 2026 04:31:59 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VaE01QVJoc0dHblBlOVZuNFQ0ZlE0NlROYVVsWExqQzU0Y1FCUUpISWR2NUUtTGx3WHV1VjJ2YXV5cEFpbXRQdDk3djR0UV9zZmJnbExjT3g2bXVqckE?oc=5\" target=\"_blank\">快手人事调整：郭亮接替陈彬出任研发线负责人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
               "channelId": "google_news"
             },
             {
-              "title": "【视频】一条视频告诉你比亚迪宋prodmi怎么选？ - 汽车之家",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93RXk2QXFYYUtZR1FiWU5NY1d3STlmQnBqMWZ0RVZUbmowTTNIM0ZTcGo2R0hmSkd3d2tBQ2dnUkFLdzZDS0NmelhPS09xTU9XVDh3eURVck80RVN3OUIzM3Y2VU45QnRJY1dj?oc=5",
-              "source": "汽车之家",
-              "publishedAt": "Sun, 15 Mar 2026 02:56:06 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE93RXk2QXFYYUtZR1FiWU5NY1d3STlmQnBqMWZ0RVZUbmowTTNIM0ZTcGo2R0hmSkd3d2tBQ2dnUkFLdzZDS0NmelhPS09xTU9XVDh3eURVck80RVN3OUIzM3Y2VU45QnRJY1dj?oc=5\" target=\"_blank\">【视频】一条视频告诉你比亚迪宋prodmi怎么选？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">汽车之家</font>",
+              "title": "中国车企冲顶F1：蔚来试水、吉利铺路，比亚迪来收尾？ - 凤凰网科技",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVR0stNG9vckpldmJrejQ3UWZlQmRsTDJfM3IyMnpnQjFyUmxRTXVDNWRtai04TUF0dVlXTFN0VjFKYzZEWWZjWllNX1A?oc=5",
+              "source": "凤凰网科技",
+              "publishedAt": "Sat, 14 Mar 2026 23:28:23 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVR0stNG9vckpldmJrejQ3UWZlQmRsTDJfM3IyMnpnQjFyUmxRTXVDNWRtai04TUF0dVlXTFN0VjFKYzZEWWZjWllNX1A?oc=5\" target=\"_blank\">中国车企冲顶F1：蔚来试水、吉利铺路，比亚迪来收尾？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网科技</font>",
               "channelId": "google_news"
             },
             {
-              "title": "南昌一男子在阿里巴巴1688下单10台空调，8000多元仅换来榨汁杯和梳子 - 凤凰网江西",
-              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IRGthemNaWGFVcmlRLVE3VExKMThmcnJNNnZ5c2JCSFNOTzZxWHQ3OEszSHlvS2NXSVhWQWQ1c0VnX3hBTjdHZ1dn?oc=5",
-              "source": "凤凰网江西",
-              "publishedAt": "Sat, 14 Mar 2026 23:41:01 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IRGthemNaWGFVcmlRLVE3VExKMThmcnJNNnZ5c2JCSFNOTzZxWHQ3OEszSHlvS2NXSVhWQWQ1c0VnX3hBTjdHZ1dn?oc=5\" target=\"_blank\">南昌一男子在阿里巴巴1688下单10台空调，8000多元仅换来榨汁杯和梳子</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网江西</font>",
+              "title": "网易有道龙虾发布新版本 接入企业微信、QQ、飞书、钉钉 - 新华网",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEJJb1lHdFBZR0dsaHR2RVVWOWdxa1lvejVhczBZMFo3dnhoaHFPdnhnY0psdWdPUGZDaVgzVEJfNHJ1djNCaVhJWEVGLUZub3JIZG5wVmdsbUhQaEl2a0lSVVNFOXRTdHFLdnZManJwbzNKVkZhNUcxVVFteFE0aA?oc=5",
+              "source": "新华网",
+              "publishedAt": "Tue, 10 Mar 2026 03:38:21 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEJJb1lHdFBZR0dsaHR2RVVWOWdxa1lvejVhczBZMFo3dnhoaHFPdnhnY0psdWdPUGZDaVgzVEJfNHJ1djNCaVhJWEVGLUZub3JIZG5wVmdsbUhQaEl2a0lSVVNFOXRTdHFLdnZManJwbzNKVkZhNUcxVVFteFE0aA?oc=5\" target=\"_blank\">网易有道龙虾发布新版本 接入企业微信、QQ、飞书、钉钉</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "​从“照骗”门店到“克隆”店铺，谁在喂养美团上的“幽灵外卖”？【问政四川·天天315⑤】 - 川观新闻",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQVXlCS3FXZnhhWW1aWWxJSjNtRHlwSFFUVWY4Y1BuWko1TC10QTBhQWFIRzl0MzFRR1I3enJjZ1FCMXh2dDR6REt5Zjl6QQ?oc=5",
+              "source": "川观新闻",
+              "publishedAt": "Sun, 15 Mar 2026 03:41:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQVXlCS3FXZnhhWW1aWWxJSjNtRHlwSFFUVWY4Y1BuWko1TC10QTBhQWFIRzl0MzFRR1I3enJjZ1FCMXh2dDR6REt5Zjl6QQ?oc=5\" target=\"_blank\">​从“照骗”门店到“克隆”店铺，谁在喂养美团上的“幽灵外卖”？【问政四川·天天315⑤】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">川观新闻</font>",
               "channelId": "google_news"
             }
           ]
@@ -1109,11 +1109,11 @@
           "query": "AI agents agentic",
           "items": [
             {
-              "title": "从OpenClaw说起：Agentic AI时代CPU价值的回归 - 36 Kr",
+              "title": "从OpenClaw说起：Agentic AI时代CPU价值的回归 - 36Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5",
-              "source": "36 Kr",
+              "source": "36Kr",
               "publishedAt": "Tue, 10 Mar 2026 12:15:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5\" target=\"_blank\">从OpenClaw说起：Agentic AI时代CPU价值的回归</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5\" target=\"_blank\">从OpenClaw说起：Agentic AI时代CPU价值的回归</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr</font>",
               "channelId": "google_news"
             },
             {
@@ -1180,7 +1180,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:54:26Z",
+              "publishedAt": "2026-03-15T05:36:03Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1331,7 +1331,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 5
+          "count": 7
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1399,11 +1399,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "港台电视 32 Hong Kong Connection - Child Home Alone - 香港電台",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0NPQzZ5VGlkazFQRnVQVmtrVzRvTlhMRGZjckFjdndJRl9XXzhBSHVFenA4R2hWTGNPRTd2ZDdoalhSQ3VHT3JFbUsydHJfMzlGVVJQaWQza2FVaGpUZEctUWx4T3Jmc2FKWjFydGh0Uk5lb2hxMU1iT2ZoTzNhbktzdXZRZzA?oc=5",
-              "source": "香港電台",
-              "publishedAt": "Mon, 09 Mar 2026 07:00:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0NPQzZ5VGlkazFQRnVQVmtrVzRvTlhMRGZjckFjdndJRl9XXzhBSHVFenA4R2hWTGNPRTd2ZDdoalhSQ3VHT3JFbUsydHJfMzlGVVJQaWQza2FVaGpUZEctUWx4T3Jmc2FKWjFydGh0Uk5lb2hxMU1iT2ZoTzNhbktzdXZRZzA?oc=5\" target=\"_blank\">港台电视 32 Hong Kong Connection - Child Home Alone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">香港電台</font>",
+              "title": "Core AI Holdings和Optimus Tech推出OptiCore数据中心，为R1大学的人工智能研究提供动力。 - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1lUdjNIOWxSSDJLSzdZSUFnQlhNNzd0Rkl1bmhYLUVBYXlaeEZHRkVkcGFNX1dueE5JWGhWaGs3amstLXRhOXh4T3ZEMjZIbDBFTzYzQUZTOXJvemZKZlh3WXAtN0xKVG1kRTFtdFI1RXg1eHVnOUhNVTNLcnUzVm5tbFZrbzhYa3UzSkxRcUR1Q0wtV19ob2JpY0ZlbkpMR3ZjeA?oc=5",
+              "source": "富途牛牛",
+              "publishedAt": "Thu, 12 Mar 2026 12:20:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1lUdjNIOWxSSDJLSzdZSUFnQlhNNzd0Rkl1bmhYLUVBYXlaeEZHRkVkcGFNX1dueE5JWGhWaGs3amstLXRhOXh4T3ZEMjZIbDBFTzYzQUZTOXJvemZKZlh3WXAtN0xKVG1kRTFtdFI1RXg1eHVnOUhNVTNLcnUzVm5tbFZrbzhYa3UzSkxRcUR1Q0wtV19ob2JpY0ZlbkpMR3ZjeA?oc=5\" target=\"_blank\">Core AI Holdings和Optimus Tech推出OptiCore数据中心，为R1大学的人工智能研究提供动力。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
               "channelId": "google_news"
             }
           ]
@@ -1516,51 +1516,51 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "京东：近百个家电家居品牌正在接入JoyInside-观察者网 - 观察者",
+              "title": "京东：近百个家电家居品牌正在接入JoyInside-观察者网 - guancha.cn",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5",
-              "source": "观察者",
+              "source": "guancha.cn",
               "publishedAt": "Sun, 15 Mar 2026 01:21:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5\" target=\"_blank\">京东：近百个家电家居品牌正在接入JoyInside-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5\" target=\"_blank\">京东：近百个家电家居品牌正在接入JoyInside-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
-              "title": "在阿里巴巴1688平台上买空调被骗，南昌消费者维权无路可走_凤凰网 - 凤凰网江西",
-              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UTjd2UFoxaHVWLWdGbXJPTHBYUTNVVVFxM0ZnQ19WUGRaVXdXZDhfbk1rTzlTWXAtRGJ4QXNhN3lQdjRPdk9ENEtR?oc=5",
-              "source": "凤凰网江西",
-              "publishedAt": "Sun, 15 Mar 2026 00:56:15 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UTjd2UFoxaHVWLWdGbXJPTHBYUTNVVVFxM0ZnQ19WUGRaVXdXZDhfbk1rTzlTWXAtRGJ4QXNhN3lQdjRPdk9ENEtR?oc=5\" target=\"_blank\">在阿里巴巴1688平台上买空调被骗，南昌消费者维权无路可走_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网江西</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "小米推出米家冰箱Pro 双系统十字平嵌560L，首发国补价4504.15 元|数码家电|大家电|电器|京东|家电补贴_手机新浪网 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYzBhYnVCdFk3aVNCa0VlSnVNMzA1WUhHUWY1TzgtSWh1OE5keVhkNjV3SVh5cFg4WFAzb3VnclZYMkx6VmZsUmt3REg3empUTjdUX3ZWR1oyVXU2cUlFLUJoRzM3ZVlGanEtbnl2VVhSdE1hekZDaGRmX2lfRXl6T1E0TjhwYmNUQVRlTnpISi1SQ2p4YW9Eb0RSQTJRZ1Zxdi1NUEdpV2dmY0lNOTN0QWEtU1pfWkRkbjY3alRNc2lNQ2U1bUNSRFV3dDN0dmdJd3lHRTgtM05mX0JpN2E3a2NGMzNZTWdIUXR6NnZYN0huck9yUmZHRmxuZzJPYkZzQ1dLZQ?oc=5",
+              "title": "小米宣布米家空调智能体检上线，滤网脏堵空调自己会提醒 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmFUYXZxbjJKNHNnbnFfdkxDTklaekY4V09WZDBwcDIzUzRUb3dEQTBtc0lONGtVMVlDM2pDUnpOdDZqX1dnbGQ4cWlqVVYtUUNBeEJWVWpXc3cyTHZETC1uY051R052emFWZjVrbFdSNGVsbjQ0VDMyLWRuZkg2NkJodVd5dGVqb0xSUVdXTktkRzhjTmZXRGpUbmpmWlZia0JTM29BMA?oc=5",
               "source": "新浪财经",
-              "publishedAt": "Sun, 15 Mar 2026 02:45:14 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPYzBhYnVCdFk3aVNCa0VlSnVNMzA1WUhHUWY1TzgtSWh1OE5keVhkNjV3SVh5cFg4WFAzb3VnclZYMkx6VmZsUmt3REg3empUTjdUX3ZWR1oyVXU2cUlFLUJoRzM3ZVlGanEtbnl2VVhSdE1hekZDaGRmX2lfRXl6T1E0TjhwYmNUQVRlTnpISi1SQ2p4YW9Eb0RSQTJRZ1Zxdi1NUEdpV2dmY0lNOTN0QWEtU1pfWkRkbjY3alRNc2lNQ2U1bUNSRFV3dDN0dmdJd3lHRTgtM05mX0JpN2E3a2NGMzNZTWdIUXR6NnZYN0huck9yUmZHRmxuZzJPYkZzQ1dLZQ?oc=5\" target=\"_blank\">小米推出米家冰箱Pro 双系统十字平嵌560L，首发国补价4504.15 元|数码家电|大家电|电器|京东|家电补贴_手机新浪网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "publishedAt": "Sun, 15 Mar 2026 04:21:47 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmFUYXZxbjJKNHNnbnFfdkxDTklaekY4V09WZDBwcDIzUzRUb3dEQTBtc0lONGtVMVlDM2pDUnpOdDZqX1dnbGQ4cWlqVVYtUUNBeEJWVWpXc3cyTHZETC1uY051R052emFWZjVrbFdSNGVsbjQ0VDMyLWRuZkg2NkJodVd5dGVqb0xSUVdXTktkRzhjTmZXRGpUbmpmWlZia0JTM29BMA?oc=5\" target=\"_blank\">小米宣布米家空调智能体检上线，滤网脏堵空调自己会提醒</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             },
             {
-              "title": "2025年比亚迪荣膺香港全品牌销冠 中国品牌首次登顶 - Sohu",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaUoxV05CbUdGanA5VFJRSi1PRjRYbUJQZGxfeVBvOWFhMnFHTHBDVzdhX3UwaTJZcm5XcHd4TUR6UWZtYzViSkFVMXUyTzg4WjJtZzA3YmlITVZlODZrNk16c2xSMktySEFWLXhIdHBqeDVEbDdrbUFtSGF3LUQzaHRaY3RRcGtaQ2VR?oc=5",
-              "source": "Sohu",
-              "publishedAt": "Sun, 15 Mar 2026 02:41:53 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaUoxV05CbUdGanA5VFJRSi1PRjRYbUJQZGxfeVBvOWFhMnFHTHBDVzdhX3UwaTJZcm5XcHd4TUR6UWZtYzViSkFVMXUyTzg4WjJtZzA3YmlITVZlODZrNk16c2xSMktySEFWLXhIdHBqeDVEbDdrbUFtSGF3LUQzaHRaY3RRcGtaQ2VR?oc=5\" target=\"_blank\">2025年比亚迪荣膺香港全品牌销冠 中国品牌首次登顶</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sohu</font>",
+              "title": "快手人事调整：郭亮接替陈彬出任研发线负责人 - DoNews",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VaE01QVJoc0dHblBlOVZuNFQ0ZlE0NlROYVVsWExqQzU0Y1FCUUpISWR2NUUtTGx3WHV1VjJ2YXV5cEFpbXRQdDk3djR0UV9zZmJnbExjT3g2bXVqckE?oc=5",
+              "source": "DoNews",
+              "publishedAt": "Sun, 15 Mar 2026 04:31:59 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VaE01QVJoc0dHblBlOVZuNFQ0ZlE0NlROYVVsWExqQzU0Y1FCUUpISWR2NUUtTGx3WHV1VjJ2YXV5cEFpbXRQdDk3djR0UV9zZmJnbExjT3g2bXVqckE?oc=5\" target=\"_blank\">快手人事调整：郭亮接替陈彬出任研发线负责人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
               "channelId": "google_news"
             },
             {
-              "title": "【视频】一条视频告诉你比亚迪宋prodmi怎么选？ - 汽车之家",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93RXk2QXFYYUtZR1FiWU5NY1d3STlmQnBqMWZ0RVZUbmowTTNIM0ZTcGo2R0hmSkd3d2tBQ2dnUkFLdzZDS0NmelhPS09xTU9XVDh3eURVck80RVN3OUIzM3Y2VU45QnRJY1dj?oc=5",
-              "source": "汽车之家",
-              "publishedAt": "Sun, 15 Mar 2026 02:56:06 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE93RXk2QXFYYUtZR1FiWU5NY1d3STlmQnBqMWZ0RVZUbmowTTNIM0ZTcGo2R0hmSkd3d2tBQ2dnUkFLdzZDS0NmelhPS09xTU9XVDh3eURVck80RVN3OUIzM3Y2VU45QnRJY1dj?oc=5\" target=\"_blank\">【视频】一条视频告诉你比亚迪宋prodmi怎么选？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">汽车之家</font>",
+              "title": "中国车企冲顶F1：蔚来试水、吉利铺路，比亚迪来收尾？ - 凤凰网科技",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVR0stNG9vckpldmJrejQ3UWZlQmRsTDJfM3IyMnpnQjFyUmxRTXVDNWRtai04TUF0dVlXTFN0VjFKYzZEWWZjWllNX1A?oc=5",
+              "source": "凤凰网科技",
+              "publishedAt": "Sat, 14 Mar 2026 23:28:23 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVR0stNG9vckpldmJrejQ3UWZlQmRsTDJfM3IyMnpnQjFyUmxRTXVDNWRtai04TUF0dVlXTFN0VjFKYzZEWWZjWllNX1A?oc=5\" target=\"_blank\">中国车企冲顶F1：蔚来试水、吉利铺路，比亚迪来收尾？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网科技</font>",
               "channelId": "google_news"
             },
             {
-              "title": "南昌一男子在阿里巴巴1688下单10台空调，8000多元仅换来榨汁杯和梳子 - 凤凰网江西",
-              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IRGthemNaWGFVcmlRLVE3VExKMThmcnJNNnZ5c2JCSFNOTzZxWHQ3OEszSHlvS2NXSVhWQWQ1c0VnX3hBTjdHZ1dn?oc=5",
-              "source": "凤凰网江西",
-              "publishedAt": "Sat, 14 Mar 2026 23:41:01 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IRGthemNaWGFVcmlRLVE3VExKMThmcnJNNnZ5c2JCSFNOTzZxWHQ3OEszSHlvS2NXSVhWQWQ1c0VnX3hBTjdHZ1dn?oc=5\" target=\"_blank\">南昌一男子在阿里巴巴1688下单10台空调，8000多元仅换来榨汁杯和梳子</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网江西</font>",
+              "title": "网易有道龙虾发布新版本 接入企业微信、QQ、飞书、钉钉 - 新华网",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEJJb1lHdFBZR0dsaHR2RVVWOWdxa1lvejVhczBZMFo3dnhoaHFPdnhnY0psdWdPUGZDaVgzVEJfNHJ1djNCaVhJWEVGLUZub3JIZG5wVmdsbUhQaEl2a0lSVVNFOXRTdHFLdnZManJwbzNKVkZhNUcxVVFteFE0aA?oc=5",
+              "source": "新华网",
+              "publishedAt": "Tue, 10 Mar 2026 03:38:21 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEJJb1lHdFBZR0dsaHR2RVVWOWdxa1lvejVhczBZMFo3dnhoaHFPdnhnY0psdWdPUGZDaVgzVEJfNHJ1djNCaVhJWEVGLUZub3JIZG5wVmdsbUhQaEl2a0lSVVNFOXRTdHFLdnZManJwbzNKVkZhNUcxVVFteFE0aA?oc=5\" target=\"_blank\">网易有道龙虾发布新版本 接入企业微信、QQ、飞书、钉钉</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "​从“照骗”门店到“克隆”店铺，谁在喂养美团上的“幽灵外卖”？【问政四川·天天315⑤】 - 川观新闻",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQVXlCS3FXZnhhWW1aWWxJSjNtRHlwSFFUVWY4Y1BuWko1TC10QTBhQWFIRzl0MzFRR1I3enJjZ1FCMXh2dDR6REt5Zjl6QQ?oc=5",
+              "source": "川观新闻",
+              "publishedAt": "Sun, 15 Mar 2026 03:41:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQVXlCS3FXZnhhWW1aWWxJSjNtRHlwSFFUVWY4Y1BuWko1TC10QTBhQWFIRzl0MzFRR1I3enJjZ1FCMXh2dDR6REt5Zjl6QQ?oc=5\" target=\"_blank\">​从“照骗”门店到“克隆”店铺，谁在喂养美团上的“幽灵外卖”？【问政四川·天天315⑤】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">川观新闻</font>",
               "channelId": "google_news"
             }
           ]
@@ -1578,11 +1578,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "从OpenClaw说起：Agentic AI时代CPU价值的回归 - 36 Kr",
+              "title": "从OpenClaw说起：Agentic AI时代CPU价值的回归 - 36Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5",
-              "source": "36 Kr",
+              "source": "36Kr",
               "publishedAt": "Tue, 10 Mar 2026 12:15:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5\" target=\"_blank\">从OpenClaw说起：Agentic AI时代CPU价值的回归</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5\" target=\"_blank\">从OpenClaw说起：Agentic AI时代CPU价值的回归</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr</font>",
               "channelId": "google_news"
             },
             {
@@ -1603,10 +1603,10 @@
             },
             {
               "title": "Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？ - Bitget",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn0gFrQVVfeXFMTkk1SjZKUDdjek52YWxHUTR6TFdiaUN6UF95U3R4Qjh5UFQ4NG1ZUkx6NUkzWTBQaHRBdUpnTlFZVnNTMm5tNDA1NXhBZGd1N3k5cENKeE9ocUJ4SmNDZjhLcVhHRGdUM2Z5amc?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iVVFsWWoyM3h5bVNzQ2trUUhKZWRlZVExaWd2ZkhWVUdMMEpIYVdPdUpxNkY5RTFNZ2JDVDU5dW5pS3pGWTFpeGwyVzRGNjZ3VDNxRWgzWHRwVHZwcVczMU9adDdyQdIBa0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn?oc=5",
               "source": "Bitget",
-              "publishedAt": "Thu, 05 Mar 2026 03:45:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn0gFrQVVfeXFMTkk1SjZKUDdjek52YWxHUTR6TFdiaUN6UF95U3R4Qjh5UFQ4NG1ZUkx6NUkzWTBQaHRBdUpnTlFZVnNTMm5tNDA1NXhBZGd1N3k5cENKeE9ocUJ4SmNDZjhLcVhHRGdUM2Z5amc?oc=5\" target=\"_blank\">Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+              "publishedAt": "Wed, 04 Mar 2026 19:45:36 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iVVFsWWoyM3h5bVNzQ2trUUhKZWRlZVExaWd2ZkhWVUdMMEpIYVdPdUpxNkY5RTFNZ2JDVDU5dW5pS3pGWTFpeGwyVzRGNjZ3VDNxRWgzWHRwVHZwcVczMU9adDdyQdIBa0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn?oc=5\" target=\"_blank\">Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
               "channelId": "google_news"
             },
             {
@@ -1641,7 +1641,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:54:26Z",
+              "publishedAt": "2026-03-15T05:36:03Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -1808,7 +1808,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 5
+          "count": 7
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -1985,51 +1985,51 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
           "items": [
             {
-              "title": "京东：近百个家电家居品牌正在接入JoyInside-观察者网 - 观察者",
+              "title": "京东：近百个家电家居品牌正在接入JoyInside-观察者网 - guancha.cn",
               "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5",
-              "source": "观察者",
+              "source": "guancha.cn",
               "publishedAt": "Sun, 15 Mar 2026 01:21:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5\" target=\"_blank\">京东：近百个家电家居品牌正在接入JoyInside-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOFVCRmxteE5TWWFjQnhVeHFmTEVFem5vTWdHcnp0ZDU3VkNlT3Bzc3FMdEtMZGR4VUwwc0NTRl9EU3FINTFzVkluTGM4bklhUTJSQUJQRmtwSzhGQndDZDh4Wkw?oc=5\" target=\"_blank\">京东：近百个家电家居品牌正在接入JoyInside-观察者网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guancha.cn</font>",
               "channelId": "google_news"
             },
             {
-              "title": "在阿里巴巴1688平台上买空调被骗，南昌消费者维权无路可走_凤凰网 - 凤凰网江西",
-              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UTjd2UFoxaHVWLWdGbXJPTHBYUTNVVVFxM0ZnQ19WUGRaVXdXZDhfbk1rTzlTWXAtRGJ4QXNhN3lQdjRPdk9ENEtR?oc=5",
-              "source": "凤凰网江西",
-              "publishedAt": "Sun, 15 Mar 2026 00:56:15 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UTjd2UFoxaHVWLWdGbXJPTHBYUTNVVVFxM0ZnQ19WUGRaVXdXZDhfbk1rTzlTWXAtRGJ4QXNhN3lQdjRPdk9ENEtR?oc=5\" target=\"_blank\">在阿里巴巴1688平台上买空调被骗，南昌消费者维权无路可走_凤凰网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网江西</font>",
-              "channelId": "google_news"
-            },
-            {
-              "title": "小米推出米家冰箱Pro 双系统十字平嵌560L，首发国补价4504.15 元|数码家电|大家电|电器|京东|家电补贴_手机新浪网 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYzBhYnVCdFk3aVNCa0VlSnVNMzA1WUhHUWY1TzgtSWh1OE5keVhkNjV3SVh5cFg4WFAzb3VnclZYMkx6VmZsUmt3REg3empUTjdUX3ZWR1oyVXU2cUlFLUJoRzM3ZVlGanEtbnl2VVhSdE1hekZDaGRmX2lfRXl6T1E0TjhwYmNUQVRlTnpISi1SQ2p4YW9Eb0RSQTJRZ1Zxdi1NUEdpV2dmY0lNOTN0QWEtU1pfWkRkbjY3alRNc2lNQ2U1bUNSRFV3dDN0dmdJd3lHRTgtM05mX0JpN2E3a2NGMzNZTWdIUXR6NnZYN0huck9yUmZHRmxuZzJPYkZzQ1dLZQ?oc=5",
+              "title": "小米宣布米家空调智能体检上线，滤网脏堵空调自己会提醒 - 新浪财经",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmFUYXZxbjJKNHNnbnFfdkxDTklaekY4V09WZDBwcDIzUzRUb3dEQTBtc0lONGtVMVlDM2pDUnpOdDZqX1dnbGQ4cWlqVVYtUUNBeEJWVWpXc3cyTHZETC1uY051R052emFWZjVrbFdSNGVsbjQ0VDMyLWRuZkg2NkJodVd5dGVqb0xSUVdXTktkRzhjTmZXRGpUbmpmWlZia0JTM29BMA?oc=5",
               "source": "新浪财经",
-              "publishedAt": "Sun, 15 Mar 2026 02:45:14 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPYzBhYnVCdFk3aVNCa0VlSnVNMzA1WUhHUWY1TzgtSWh1OE5keVhkNjV3SVh5cFg4WFAzb3VnclZYMkx6VmZsUmt3REg3empUTjdUX3ZWR1oyVXU2cUlFLUJoRzM3ZVlGanEtbnl2VVhSdE1hekZDaGRmX2lfRXl6T1E0TjhwYmNUQVRlTnpISi1SQ2p4YW9Eb0RSQTJRZ1Zxdi1NUEdpV2dmY0lNOTN0QWEtU1pfWkRkbjY3alRNc2lNQ2U1bUNSRFV3dDN0dmdJd3lHRTgtM05mX0JpN2E3a2NGMzNZTWdIUXR6NnZYN0huck9yUmZHRmxuZzJPYkZzQ1dLZQ?oc=5\" target=\"_blank\">小米推出米家冰箱Pro 双系统十字平嵌560L，首发国补价4504.15 元|数码家电|大家电|电器|京东|家电补贴_手机新浪网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+              "publishedAt": "Sun, 15 Mar 2026 04:21:47 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmFUYXZxbjJKNHNnbnFfdkxDTklaekY4V09WZDBwcDIzUzRUb3dEQTBtc0lONGtVMVlDM2pDUnpOdDZqX1dnbGQ4cWlqVVYtUUNBeEJWVWpXc3cyTHZETC1uY051R052emFWZjVrbFdSNGVsbjQ0VDMyLWRuZkg2NkJodVd5dGVqb0xSUVdXTktkRzhjTmZXRGpUbmpmWlZia0JTM29BMA?oc=5\" target=\"_blank\">小米宣布米家空调智能体检上线，滤网脏堵空调自己会提醒</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
               "channelId": "google_news"
             },
             {
-              "title": "2025年比亚迪荣膺香港全品牌销冠 中国品牌首次登顶 - Sohu",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaUoxV05CbUdGanA5VFJRSi1PRjRYbUJQZGxfeVBvOWFhMnFHTHBDVzdhX3UwaTJZcm5XcHd4TUR6UWZtYzViSkFVMXUyTzg4WjJtZzA3YmlITVZlODZrNk16c2xSMktySEFWLXhIdHBqeDVEbDdrbUFtSGF3LUQzaHRaY3RRcGtaQ2VR?oc=5",
-              "source": "Sohu",
-              "publishedAt": "Sun, 15 Mar 2026 02:41:53 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaUoxV05CbUdGanA5VFJRSi1PRjRYbUJQZGxfeVBvOWFhMnFHTHBDVzdhX3UwaTJZcm5XcHd4TUR6UWZtYzViSkFVMXUyTzg4WjJtZzA3YmlITVZlODZrNk16c2xSMktySEFWLXhIdHBqeDVEbDdrbUFtSGF3LUQzaHRaY3RRcGtaQ2VR?oc=5\" target=\"_blank\">2025年比亚迪荣膺香港全品牌销冠 中国品牌首次登顶</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sohu</font>",
+              "title": "快手人事调整：郭亮接替陈彬出任研发线负责人 - DoNews",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VaE01QVJoc0dHblBlOVZuNFQ0ZlE0NlROYVVsWExqQzU0Y1FCUUpISWR2NUUtTGx3WHV1VjJ2YXV5cEFpbXRQdDk3djR0UV9zZmJnbExjT3g2bXVqckE?oc=5",
+              "source": "DoNews",
+              "publishedAt": "Sun, 15 Mar 2026 04:31:59 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VaE01QVJoc0dHblBlOVZuNFQ0ZlE0NlROYVVsWExqQzU0Y1FCUUpISWR2NUUtTGx3WHV1VjJ2YXV5cEFpbXRQdDk3djR0UV9zZmJnbExjT3g2bXVqckE?oc=5\" target=\"_blank\">快手人事调整：郭亮接替陈彬出任研发线负责人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
               "channelId": "google_news"
             },
             {
-              "title": "【视频】一条视频告诉你比亚迪宋prodmi怎么选？ - 汽车之家",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93RXk2QXFYYUtZR1FiWU5NY1d3STlmQnBqMWZ0RVZUbmowTTNIM0ZTcGo2R0hmSkd3d2tBQ2dnUkFLdzZDS0NmelhPS09xTU9XVDh3eURVck80RVN3OUIzM3Y2VU45QnRJY1dj?oc=5",
-              "source": "汽车之家",
-              "publishedAt": "Sun, 15 Mar 2026 02:56:06 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE93RXk2QXFYYUtZR1FiWU5NY1d3STlmQnBqMWZ0RVZUbmowTTNIM0ZTcGo2R0hmSkd3d2tBQ2dnUkFLdzZDS0NmelhPS09xTU9XVDh3eURVck80RVN3OUIzM3Y2VU45QnRJY1dj?oc=5\" target=\"_blank\">【视频】一条视频告诉你比亚迪宋prodmi怎么选？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">汽车之家</font>",
+              "title": "中国车企冲顶F1：蔚来试水、吉利铺路，比亚迪来收尾？ - 凤凰网科技",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVR0stNG9vckpldmJrejQ3UWZlQmRsTDJfM3IyMnpnQjFyUmxRTXVDNWRtai04TUF0dVlXTFN0VjFKYzZEWWZjWllNX1A?oc=5",
+              "source": "凤凰网科技",
+              "publishedAt": "Sat, 14 Mar 2026 23:28:23 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVR0stNG9vckpldmJrejQ3UWZlQmRsTDJfM3IyMnpnQjFyUmxRTXVDNWRtai04TUF0dVlXTFN0VjFKYzZEWWZjWllNX1A?oc=5\" target=\"_blank\">中国车企冲顶F1：蔚来试水、吉利铺路，比亚迪来收尾？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网科技</font>",
               "channelId": "google_news"
             },
             {
-              "title": "南昌一男子在阿里巴巴1688下单10台空调，8000多元仅换来榨汁杯和梳子 - 凤凰网江西",
-              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IRGthemNaWGFVcmlRLVE3VExKMThmcnJNNnZ5c2JCSFNOTzZxWHQ3OEszSHlvS2NXSVhWQWQ1c0VnX3hBTjdHZ1dn?oc=5",
-              "source": "凤凰网江西",
-              "publishedAt": "Sat, 14 Mar 2026 23:41:01 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IRGthemNaWGFVcmlRLVE3VExKMThmcnJNNnZ5c2JCSFNOTzZxWHQ3OEszSHlvS2NXSVhWQWQ1c0VnX3hBTjdHZ1dn?oc=5\" target=\"_blank\">南昌一男子在阿里巴巴1688下单10台空调，8000多元仅换来榨汁杯和梳子</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网江西</font>",
+              "title": "网易有道龙虾发布新版本 接入企业微信、QQ、飞书、钉钉 - 新华网",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEJJb1lHdFBZR0dsaHR2RVVWOWdxa1lvejVhczBZMFo3dnhoaHFPdnhnY0psdWdPUGZDaVgzVEJfNHJ1djNCaVhJWEVGLUZub3JIZG5wVmdsbUhQaEl2a0lSVVNFOXRTdHFLdnZManJwbzNKVkZhNUcxVVFteFE0aA?oc=5",
+              "source": "新华网",
+              "publishedAt": "Tue, 10 Mar 2026 03:38:21 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEJJb1lHdFBZR0dsaHR2RVVWOWdxa1lvejVhczBZMFo3dnhoaHFPdnhnY0psdWdPUGZDaVgzVEJfNHJ1djNCaVhJWEVGLUZub3JIZG5wVmdsbUhQaEl2a0lSVVNFOXRTdHFLdnZManJwbzNKVkZhNUcxVVFteFE0aA?oc=5\" target=\"_blank\">网易有道龙虾发布新版本 接入企业微信、QQ、飞书、钉钉</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+              "channelId": "google_news"
+            },
+            {
+              "title": "​从“照骗”门店到“克隆”店铺，谁在喂养美团上的“幽灵外卖”？【问政四川·天天315⑤】 - 川观新闻",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQVXlCS3FXZnhhWW1aWWxJSjNtRHlwSFFUVWY4Y1BuWko1TC10QTBhQWFIRzl0MzFRR1I3enJjZ1FCMXh2dDR6REt5Zjl6QQ?oc=5",
+              "source": "川观新闻",
+              "publishedAt": "Sun, 15 Mar 2026 03:41:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQVXlCS3FXZnhhWW1aWWxJSjNtRHlwSFFUVWY4Y1BuWko1TC10QTBhQWFIRzl0MzFRR1I3enJjZ1FCMXh2dDR6REt5Zjl6QQ?oc=5\" target=\"_blank\">​从“照骗”门店到“克隆”店铺，谁在喂养美团上的“幽灵外卖”？【问政四川·天天315⑤】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">川观新闻</font>",
               "channelId": "google_news"
             }
           ]
@@ -2055,11 +2055,11 @@
               "channelId": "google_news"
             },
             {
-              "title": "从OpenClaw说起：Agentic AI时代CPU价值的回归 - 36 Kr",
+              "title": "从OpenClaw说起：Agentic AI时代CPU价值的回归 - 36Kr",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5",
-              "source": "36 Kr",
+              "source": "36Kr",
               "publishedAt": "Tue, 10 Mar 2026 12:15:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5\" target=\"_blank\">从OpenClaw说起：Agentic AI时代CPU价值的回归</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDaFJmbTJyeGFDUkJ5RzB0LU10cVF2d3JwNXBxS3lJREdEQ2owMkhsTXhDNUM3UVFwMFpaX3Z4Z0NrdXBKMndCalFyb0pCUQ?oc=5\" target=\"_blank\">从OpenClaw说起：Agentic AI时代CPU价值的回归</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr</font>",
               "channelId": "google_news"
             },
             {
@@ -2072,10 +2072,10 @@
             },
             {
               "title": "Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？ - Bitget",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn0gFrQVVfeXFMTkk1SjZKUDdjek52YWxHUTR6TFdiaUN6UF95U3R4Qjh5UFQ4NG1ZUkx6NUkzWTBQaHRBdUpnTlFZVnNTMm5tNDA1NXhBZGd1N3k5cENKeE9ocUJ4SmNDZjhLcVhHRGdUM2Z5amc?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iVVFsWWoyM3h5bVNzQ2trUUhKZWRlZVExaWd2ZkhWVUdMMEpIYVdPdUpxNkY5RTFNZ2JDVDU5dW5pS3pGWTFpeGwyVzRGNjZ3VDNxRWgzWHRwVHZwcVczMU9adDdyQdIBa0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn?oc=5",
               "source": "Bitget",
-              "publishedAt": "Thu, 05 Mar 2026 03:45:00 GMT",
-              "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn0gFrQVVfeXFMTkk1SjZKUDdjek52YWxHUTR6TFdiaUN6UF95U3R4Qjh5UFQ4NG1ZUkx6NUkzWTBQaHRBdUpnTlFZVnNTMm5tNDA1NXhBZGd1N3k5cENKeE9ocUJ4SmNDZjhLcVhHRGdUM2Z5amc?oc=5\" target=\"_blank\">Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+              "publishedAt": "Wed, 04 Mar 2026 19:45:36 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iVVFsWWoyM3h5bVNzQ2trUUhKZWRlZVExaWd2ZkhWVUdMMEpIYVdPdUpxNkY5RTFNZ2JDVDU5dW5pS3pGWTFpeGwyVzRGNjZ3VDNxRWgzWHRwVHZwcVczMU9adDdyQdIBa0FVX3lxTE5JNUo2SlA3Y3pOdmFsR1E0ekxXYmlDelBfeVN0eEI4eVBUODRtWVJMejVJM1kwUGh0QXVKZ05RWVZzUzJubTQwNTV4QWRndTd5OXBDSnhPaHFCeEpjQ2Y4S3FYR0RnVDNmeWpn?oc=5\" target=\"_blank\">Agentic AI 拐点已至？当 AI 学会「自己行动」，如何重构 Web3 的安全边界？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
               "channelId": "google_news"
             },
             {
@@ -2110,7 +2110,7 @@
               "title": "ggml-org/llama.cpp - LLM inference in C/C++",
               "link": "https://github.com/ggml-org/llama.cpp",
               "source": "GitHub",
-              "publishedAt": "2026-03-15T02:54:26Z",
+              "publishedAt": "2026-03-15T05:36:03Z",
               "channelId": "github_trending_ai"
             }
           ]
@@ -2291,7 +2291,7 @@
         },
         {
           "channelId": "hackernews_ai",
-          "count": 5
+          "count": 7
         },
         {
           "channelId": "arxiv_cs_daily",
@@ -2329,7 +2329,7 @@
       "google_ai_blog": 30,
       "huggingface_blog": 30,
       "github_trending_ai": 100,
-      "hackernews_ai": 25,
+      "hackernews_ai": 35,
       "arxiv_cs_daily": 0,
       "producthunt_ai": 16
     },
