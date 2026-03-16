@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import ReactMarkdown from "react-markdown";
 
 type Props = {
   markdown: string;
@@ -28,12 +29,33 @@ export default function BriefCard({ markdown }: Props) {
           onClick={onCopy}
           className="rounded-lg border border-slate-300 px-3 py-1.5 text-sm hover:bg-slate-100 dark:border-slate-700 dark:hover:bg-slate-800"
         >
-          {copied ? "已复制" : "复制"}
+          {copied ? "已复制" : "复制 Markdown"}
         </button>
       </div>
-      <pre className="mt-4 overflow-x-auto rounded-xl bg-slate-50 p-4 text-xs leading-6 text-slate-700 dark:bg-slate-950 dark:text-slate-300">
-        {markdown}
-      </pre>
+
+      <article className="mt-4 rounded-xl bg-slate-50 p-4 text-sm leading-7 text-slate-800 dark:bg-slate-950 dark:text-slate-200">
+        <ReactMarkdown
+          components={{
+            h1: ({ ...props }) => <h1 className="mb-3 text-2xl font-bold" {...props} />,
+            h2: ({ ...props }) => <h2 className="mb-2 mt-5 text-xl font-semibold" {...props} />,
+            h3: ({ ...props }) => <h3 className="mb-2 mt-4 text-lg font-semibold" {...props} />,
+            p: ({ ...props }) => <p className="my-2" {...props} />,
+            ul: ({ ...props }) => <ul className="my-2 list-disc pl-5" {...props} />,
+            li: ({ ...props }) => <li className="my-1" {...props} />,
+            a: ({ ...props }) => (
+              <a
+                className="text-blue-700 underline decoration-blue-300 underline-offset-4 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-200"
+                target="_blank"
+                rel="noreferrer"
+                {...props}
+              />
+            ),
+            strong: ({ ...props }) => <strong className="font-semibold" {...props} />,
+          }}
+        >
+          {markdown}
+        </ReactMarkdown>
+      </article>
     </section>
   );
 }

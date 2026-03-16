@@ -1,0 +1,310 @@
+{
+  "version": 1,
+  "timezone": "Asia/Shanghai",
+  "default": {
+    "maxItemsPerChannel": 30,
+    "maxItemsPerSection": 30,
+    "fetchEveryMinutes": 30,
+    "weight": 1
+  },
+  "channels": [
+    {
+      "id": "openai_blog",
+      "name": "OpenAI Blog",
+      "enabled": false,
+      "kind": "rss",
+      "feedUrl": "https://openai.com/news/rss.xml",
+      "fetchEveryMinutes": 60,
+      "weight": 1
+    },
+    {
+      "id": "anthropic_news",
+      "name": "Anthropic News",
+      "enabled": false,
+      "kind": "rss",
+      "feedUrl": "https://www.anthropic.com/news/rss.xml",
+      "fetchEveryMinutes": 60,
+      "weight": 1
+    },
+    {
+      "id": "google_ai_blog",
+      "name": "Google AI Blog",
+      "enabled": false,
+      "kind": "rss",
+      "feedUrl": "https://blog.google/technology/ai/rss/",
+      "fetchEveryMinutes": 60,
+      "weight": 0.95
+    },
+    {
+      "id": "huggingface_blog",
+      "name": "Hugging Face Blog",
+      "enabled": false,
+      "kind": "rss",
+      "feedUrl": "https://huggingface.co/blog/feed.xml",
+      "fetchEveryMinutes": 60,
+      "weight": 0.9
+    },
+    {
+      "id": "github_trending_ai",
+      "name": "GitHub Trending (AI关键词)",
+      "enabled": false,
+      "kind": "github-trending",
+      "query": "(llm OR gpt OR agent OR diffusion OR rag OR ai)",
+      "language": "all",
+      "since": "daily",
+      "fetchEveryMinutes": 30,
+      "weight": 0.85
+    },
+    {
+      "id": "hackernews_ai",
+      "name": "Hacker News（LLM/AI关键词）",
+      "enabled": false,
+      "kind": "rss-keyword",
+      "feedUrl": "https://hnrss.org/newest",
+      "keywords": [
+        "llm",
+        "ai",
+        "agent",
+        "openai",
+        "anthropic",
+        "google ai",
+        "rag"
+      ],
+      "fetchEveryMinutes": 15,
+      "weight": 0.8
+    },
+    {
+      "id": "arxiv_cs_daily",
+      "name": "arXiv cs.CL/cs.LG（每日）",
+      "enabled": false,
+      "kind": "rss-multi",
+      "feedUrls": [
+        "https://rss.arxiv.org/rss/cs.CL",
+        "https://rss.arxiv.org/rss/cs.LG"
+      ],
+      "fetchEveryMinutes": 1440,
+      "weight": 0.95
+    },
+    {
+      "id": "producthunt_ai",
+      "name": "Product Hunt AI",
+      "enabled": false,
+      "kind": "rss-keyword",
+      "feedUrl": "https://www.producthunt.com/feed",
+      "keywords": [
+        "ai",
+        "llm",
+        "agent",
+        "copilot",
+        "automation"
+      ],
+      "fetchEveryMinutes": 60,
+      "weight": 0.75
+    },
+    {
+      "id": "36kr_ai",
+      "name": "36氪 AI",
+      "enabled": true,
+      "kind": "rss-keyword",
+      "feedUrl": "https://36kr.com/feed",
+      "keywords": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "智能体"
+      ],
+      "fetchEveryMinutes": 120,
+      "weight": 1
+    },
+    {
+      "id": "huxiu_ai",
+      "name": "虎嗅 AI",
+      "enabled": true,
+      "kind": "rss-keyword",
+      "feedUrl": "https://www.huxiu.com/rss/0.xml",
+      "keywords": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "智能体"
+      ],
+      "fetchEveryMinutes": 120,
+      "weight": 1
+    },
+    {
+      "id": "technode_cn_ai",
+      "name": "动点科技 AI",
+      "enabled": true,
+      "kind": "rss-keyword",
+      "feedUrl": "https://cn.technode.com/feed/",
+      "keywords": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "智能体"
+      ],
+      "fetchEveryMinutes": 120,
+      "weight": 0.95
+    },
+    {
+      "id": "geekpark_ai",
+      "name": "极客公园 AI",
+      "enabled": true,
+      "kind": "rss-keyword",
+      "feedUrl": "https://www.geekpark.net/rss",
+      "keywords": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "智能体"
+      ],
+      "fetchEveryMinutes": 120,
+      "weight": 0.95
+    },
+    {
+      "id": "ifanr_ai",
+      "name": "爱范儿 AI",
+      "enabled": true,
+      "kind": "rss-keyword",
+      "feedUrl": "https://www.ifanr.com/feed",
+      "keywords": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "智能体"
+      ],
+      "fetchEveryMinutes": 120,
+      "weight": 0.95
+    },
+    {
+      "id": "ithome_ai",
+      "name": "IT之家 AI",
+      "enabled": true,
+      "kind": "rss-keyword",
+      "feedUrl": "https://www.ithome.com/rss/",
+      "keywords": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "智能体"
+      ],
+      "fetchEveryMinutes": 120,
+      "weight": 1
+    },
+    {
+      "id": "mydrivers_ai",
+      "name": "快科技 AI",
+      "enabled": true,
+      "kind": "rss-keyword",
+      "feedUrl": "https://rss.mydrivers.com/rss.aspx",
+      "keywords": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "智能体"
+      ],
+      "fetchEveryMinutes": 120,
+      "weight": 0.9
+    },
+    {
+      "id": "zol_ai",
+      "name": "ZOL AI",
+      "enabled": true,
+      "kind": "rss-keyword",
+      "feedUrl": "https://news.zol.com.cn/rss.xml",
+      "keywords": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "智能体"
+      ],
+      "fetchEveryMinutes": 120,
+      "weight": 0.85
+    },
+    {
+      "id": "thepaper_tech_ai",
+      "name": "澎湃科技 AI",
+      "enabled": true,
+      "kind": "rss-keyword",
+      "feedUrl": "https://www.thepaper.cn/rss_newsDetail_forward_25950",
+      "keywords": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "智能体"
+      ],
+      "fetchEveryMinutes": 120,
+      "weight": 0.9
+    },
+    {
+      "id": "jiemian_ai",
+      "name": "界面新闻 AI",
+      "enabled": true,
+      "kind": "rss-keyword",
+      "feedUrl": "https://www.jiemian.com/rss/index.xml",
+      "keywords": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "智能体"
+      ],
+      "fetchEveryMinutes": 120,
+      "weight": 0.9
+    },
+    {
+      "id": "huanqiu_tech_ai",
+      "name": "环球科技 AI",
+      "enabled": true,
+      "kind": "rss-keyword",
+      "feedUrl": "https://tech.huanqiu.com/rss.xml",
+      "keywords": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "智能体"
+      ],
+      "fetchEveryMinutes": 120,
+      "weight": 0.85
+    },
+    {
+      "id": "krasia_ai",
+      "name": "KrASIA AI",
+      "enabled": true,
+      "kind": "rss-keyword",
+      "feedUrl": "https://kr-asia.com/feed",
+      "keywords": [
+        "AI",
+        "artificial intelligence",
+        "LLM",
+        "agent"
+      ],
+      "fetchEveryMinutes": 120,
+      "weight": 0.85
+    },
+    {
+      "id": "caixin_global_ai",
+      "name": "Caixin Global AI",
+      "enabled": true,
+      "kind": "rss-keyword",
+      "feedUrl": "https://www.caixinglobal.com/feed",
+      "keywords": [
+        "AI",
+        "artificial intelligence",
+        "LLM",
+        "agent"
+      ],
+      "fetchEveryMinutes": 120,
+      "weight": 0.8
+    }
+  ],
+  "sectionWeights": {
+    "技术突破": 1,
+    "产品范式": 0.95,
+    "国内外大厂动作": 0.95,
+    "代理式 AI": 1,
+    "推理成本和 Token 经济": 0.95,
+    "AI-UX": 0.8,
+    "商业 ROI": 0.85,
+    "OpenClaw 生态": 0.9
+  }
+}

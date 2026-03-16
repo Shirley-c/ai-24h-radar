@@ -7,32 +7,27 @@ const DAY_OPTIONS = [1, 3, 7, 14, 30];
 
 // 资讯分类（用于页面分区）
 const NEWS_QUERIES = [
-  { title: "技术突破", query: "AI breakthrough" },
-  { title: "产品范式", query: "AI product launch" },
+  { title: "OpenClaw 生态", query: "OpenClaw 小龙虾 AI 助手" },
   {
-    title: "国外大厂动作",
+    title: "国内外大厂动作",
     query:
-      "(Microsoft OR Google OR Alphabet OR Amazon OR Meta OR Apple OR IBM OR Oracle OR Salesforce OR NVIDIA OR AMD OR Intel OR Qualcomm OR Arm OR OpenAI OR Anthropic OR Cohere OR xAI OR Hugging Face OR Mistral AI OR Databricks OR Snowflake OR Palantir OR ServiceNow) AI",
+      "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 华为 OR 京东 OR OpenAI OR Anthropic OR Google OR Microsoft OR Meta OR Amazon OR NVIDIA) AI",
   },
-  {
-    title: "国内大厂动作",
-    query:
-      "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 美团 OR 京东 OR 拼多多 OR 网易 OR 快手 OR 小米 OR 华为 OR 中兴通讯 OR 联想 OR 海康威视 OR 大华 OR 科大讯飞 OR 比亚迪 OR 吉利 OR 奇瑞 OR 长城 OR 理想 OR 小鹏 OR 蔚来 OR 零跑 OR 鸿蒙智行 OR 问界 OR Huawei OR Tencent OR Alibaba OR Baidu OR ByteDance OR OPPO OR vivo OR 荣耀) AI",
-  },
-  { title: "代理式 AI", query: "AI agents agentic" },
-  { title: "推理成本和 Token 经济", query: "LLM inference cost token economics" },
-  { title: "AI-UX", query: "AI UX design" },
-  { title: "商业 ROI", query: "AI ROI enterprise" },
+  { title: "技术突破", query: "AI 技术 突破" },
+  { title: "AI-UX", query: "AI 产品 交互 体验" },
+  { title: "产品范式", query: "AI 产品 发布" },
+  { title: "推理成本和 Token 经济", query: "AI 推理 成本 Token" },
+  { title: "代理式 AI", query: "AI 智能体" },
+  { title: "商业 ROI", query: "AI 商业化 ROI" },
 ];
 
 const SECTION_KEYWORDS = {
   技术突破: ["breakthrough", "research", "paper", "model", "benchmark", "sota", "arxiv", "发布", "突破", "论文"],
   产品范式: ["launch", "product", "feature", "tool", "platform", "app", "release", "上线", "产品", "功能"],
-  国外大厂动作: [
+  国内外大厂动作: [
     "openai",
     "anthropic",
     "google",
-    "google ai",
     "deepmind",
     "microsoft",
     "meta",
@@ -47,19 +42,91 @@ const SECTION_KEYWORDS = {
     "gemini",
     "llama",
     "copilot",
+    "腾讯",
+    "阿里",
+    "百度",
+    "字节",
+    "华为",
+    "京东",
+    "小米",
+    "科大讯飞",
+    "美团",
+    "拼多多",
+    "网易",
+    "快手",
     "release",
     "announcement",
   ],
-  国内大厂动作: ["腾讯", "阿里", "百度", "字节", "华为", "京东", "小米", "科大讯飞", "美团", "拼多多", "网易", "快手"],
   "代理式 AI": ["agent", "agentic", "workflow", "automation", "multi-agent", "智能体", "代理"],
-  "推理成本和 Token 经济": ["inference", "token", "cost", "efficiency", "latency", "serving", "quantization", "推理", "成本", "token"],
-  "AI-UX": ["ux", "ui", "design", "interaction", "copilot", "experience", "界面", "交互", "体验"],
+  "推理成本和 Token 经济": [
+    "inference",
+    "token",
+    "cost",
+    "efficiency",
+    "latency",
+    "serving",
+    "quantization",
+    "推理",
+    "成本",
+    "token",
+    "算力",
+    "训练成本",
+    "推理成本",
+    "tokens",
+    "吞吐",
+    "时延",
+    "降本",
+    "蒸馏",
+    "量化",
+    "边缘部署",
+  ],
+  "AI-UX": [
+    "ux",
+    "ui",
+    "design",
+    "interaction",
+    "copilot",
+    "experience",
+    "界面",
+    "交互",
+    "体验",
+    "工作流",
+    "助手",
+    "智能助理",
+    "可用性",
+    "产品设计",
+    "人机交互",
+    "agent",
+    "智能体",
+  ],
   "商业 ROI": ["roi", "enterprise", "adoption", "pricing", "revenue", "business", "commercial", "营收", "商业", "企业"],
+  "OpenClaw 生态": ["openclaw", "clawd", "小龙虾", "ai 助手", "agent", "多平台", "discord bot"],
 };
 
+const CN_CHANNEL_POOL = [
+  "36kr_ai",
+  "huxiu_ai",
+  "technode_cn_ai",
+  "geekpark_ai",
+  "ifanr_ai",
+  "ithome_ai",
+  "mydrivers_ai",
+  "zol_ai",
+  "thepaper_tech_ai",
+  "jiemian_ai",
+  "huanqiu_tech_ai",
+  "krasia_ai",
+  "caixin_global_ai",
+];
+
 const SECTION_FALLBACK_CHANNELS = {
-  国外大厂动作: ["openai_blog", "anthropic_news", "google_ai_blog", "huggingface_blog", "github_trending_ai"],
+  国内外大厂动作: CN_CHANNEL_POOL,
+  "推理成本和 Token 经济": CN_CHANNEL_POOL,
+  "AI-UX": CN_CHANNEL_POOL,
+  "OpenClaw 生态": CN_CHANNEL_POOL,
 };
+
+const FETCH_TIMEOUT_MS = 12000;
 
 // 八个渠道配置模板（可按需复制为 src/data/channel-config.json 自定义）
 const CHANNEL_CONFIG_TEMPLATE = {
@@ -67,7 +134,7 @@ const CHANNEL_CONFIG_TEMPLATE = {
   timezone: TZ,
   default: {
     maxItemsPerChannel: 30,
-    maxItemsPerSection: 6,
+    maxItemsPerSection: 30,
     fetchEveryMinutes: 30,
     weight: 1,
   },
@@ -75,7 +142,7 @@ const CHANNEL_CONFIG_TEMPLATE = {
     {
       id: "openai_blog",
       name: "OpenAI Blog",
-      enabled: true,
+      enabled: false,
       kind: "rss",
       feedUrl: "https://openai.com/news/rss.xml",
       fetchEveryMinutes: 60,
@@ -84,7 +151,7 @@ const CHANNEL_CONFIG_TEMPLATE = {
     {
       id: "anthropic_news",
       name: "Anthropic News",
-      enabled: true,
+      enabled: false,
       kind: "rss",
       feedUrl: "https://www.anthropic.com/news/rss.xml",
       fetchEveryMinutes: 60,
@@ -93,7 +160,7 @@ const CHANNEL_CONFIG_TEMPLATE = {
     {
       id: "google_ai_blog",
       name: "Google AI Blog",
-      enabled: true,
+      enabled: false,
       kind: "rss",
       feedUrl: "https://blog.google/technology/ai/rss/",
       fetchEveryMinutes: 60,
@@ -102,7 +169,7 @@ const CHANNEL_CONFIG_TEMPLATE = {
     {
       id: "huggingface_blog",
       name: "Hugging Face Blog",
-      enabled: true,
+      enabled: false,
       kind: "rss",
       feedUrl: "https://huggingface.co/blog/feed.xml",
       fetchEveryMinutes: 60,
@@ -111,7 +178,7 @@ const CHANNEL_CONFIG_TEMPLATE = {
     {
       id: "github_trending_ai",
       name: "GitHub Trending (AI关键词)",
-      enabled: true,
+      enabled: false,
       kind: "github-trending",
       query: "(llm OR gpt OR agent OR diffusion OR rag OR ai)",
       language: "all",
@@ -122,7 +189,7 @@ const CHANNEL_CONFIG_TEMPLATE = {
     {
       id: "hackernews_ai",
       name: "Hacker News（LLM/AI关键词）",
-      enabled: true,
+      enabled: false,
       kind: "rss-keyword",
       feedUrl: "https://hnrss.org/newest",
       keywords: ["llm", "ai", "agent", "openai", "anthropic", "google ai", "rag"],
@@ -132,7 +199,7 @@ const CHANNEL_CONFIG_TEMPLATE = {
     {
       id: "arxiv_cs_daily",
       name: "arXiv cs.CL/cs.LG（每日）",
-      enabled: true,
+      enabled: false,
       kind: "rss-multi",
       feedUrls: ["https://rss.arxiv.org/rss/cs.CL", "https://rss.arxiv.org/rss/cs.LG"],
       fetchEveryMinutes: 1440,
@@ -141,23 +208,38 @@ const CHANNEL_CONFIG_TEMPLATE = {
     {
       id: "producthunt_ai",
       name: "Product Hunt AI",
-      enabled: true,
+      enabled: false,
       kind: "rss-keyword",
       feedUrl: "https://www.producthunt.com/feed",
       keywords: ["ai", "llm", "agent", "copilot", "automation"],
       fetchEveryMinutes: 60,
       weight: 0.75,
     },
+
+    // 国内直连主链（双层架构第一层）
+    { id: "36kr_ai", name: "36氪 AI", enabled: true, kind: "rss-keyword", feedUrl: "https://36kr.com/feed", keywords: ["AI", "人工智能", "大模型", "智能体"], fetchEveryMinutes: 120, weight: 1.0 },
+    { id: "huxiu_ai", name: "虎嗅 AI", enabled: true, kind: "rss-keyword", feedUrl: "https://www.huxiu.com/rss/0.xml", keywords: ["AI", "人工智能", "大模型", "智能体"], fetchEveryMinutes: 120, weight: 1.0 },
+    { id: "technode_cn_ai", name: "动点科技 AI", enabled: true, kind: "rss-keyword", feedUrl: "https://cn.technode.com/feed/", keywords: ["AI", "人工智能", "大模型", "智能体"], fetchEveryMinutes: 120, weight: 0.95 },
+    { id: "geekpark_ai", name: "极客公园 AI", enabled: true, kind: "rss-keyword", feedUrl: "https://www.geekpark.net/rss", keywords: ["AI", "人工智能", "大模型", "智能体"], fetchEveryMinutes: 120, weight: 0.95 },
+    { id: "ifanr_ai", name: "爱范儿 AI", enabled: true, kind: "rss-keyword", feedUrl: "https://www.ifanr.com/feed", keywords: ["AI", "人工智能", "大模型", "智能体"], fetchEveryMinutes: 120, weight: 0.95 },
+    { id: "ithome_ai", name: "IT之家 AI", enabled: true, kind: "rss-keyword", feedUrl: "https://www.ithome.com/rss/", keywords: ["AI", "人工智能", "大模型", "智能体"], fetchEveryMinutes: 120, weight: 1.0 },
+    { id: "mydrivers_ai", name: "快科技 AI", enabled: true, kind: "rss-keyword", feedUrl: "https://rss.mydrivers.com/rss.aspx", keywords: ["AI", "人工智能", "大模型", "智能体"], fetchEveryMinutes: 120, weight: 0.9 },
+    { id: "zol_ai", name: "ZOL AI", enabled: true, kind: "rss-keyword", feedUrl: "https://news.zol.com.cn/rss.xml", keywords: ["AI", "人工智能", "大模型", "智能体"], fetchEveryMinutes: 120, weight: 0.85 },
+    { id: "thepaper_tech_ai", name: "澎湃科技 AI", enabled: true, kind: "rss-keyword", feedUrl: "https://www.thepaper.cn/rss_newsDetail_forward_25950", keywords: ["AI", "人工智能", "大模型", "智能体"], fetchEveryMinutes: 120, weight: 0.9 },
+    { id: "jiemian_ai", name: "界面新闻 AI", enabled: true, kind: "rss-keyword", feedUrl: "https://www.jiemian.com/rss/index.xml", keywords: ["AI", "人工智能", "大模型", "智能体"], fetchEveryMinutes: 120, weight: 0.9 },
+    { id: "huanqiu_tech_ai", name: "环球科技 AI", enabled: true, kind: "rss-keyword", feedUrl: "https://tech.huanqiu.com/rss.xml", keywords: ["AI", "人工智能", "大模型", "智能体"], fetchEveryMinutes: 120, weight: 0.85 },
+    { id: "krasia_ai", name: "KrASIA AI", enabled: true, kind: "rss-keyword", feedUrl: "https://kr-asia.com/feed", keywords: ["AI", "artificial intelligence", "LLM", "agent"], fetchEveryMinutes: 120, weight: 0.85 },
+    { id: "caixin_global_ai", name: "Caixin Global AI", enabled: true, kind: "rss-keyword", feedUrl: "https://www.caixinglobal.com/feed", keywords: ["AI", "artificial intelligence", "LLM", "agent"], fetchEveryMinutes: 120, weight: 0.8 },
   ],
   sectionWeights: {
     技术突破: 1.0,
     产品范式: 0.95,
-    国外大厂动作: 0.9,
-    国内大厂动作: 0.9,
+    国内外大厂动作: 0.95,
     "代理式 AI": 1.0,
     "推理成本和 Token 经济": 0.95,
     "AI-UX": 0.8,
     "商业 ROI": 0.85,
+    "OpenClaw 生态": 0.9,
   },
 };
 
@@ -232,10 +314,32 @@ function hasKeyword(text, keywords = []) {
   return keywords.some((k) => t.includes(String(k).toLowerCase()));
 }
 
+function isMostlyChinese(text = "") {
+  if (!text) return false;
+  const all = text.replace(/\s/g, "");
+  if (!all) return false;
+  const zh = (all.match(/[\u4e00-\u9fff]/g) || []).length;
+  return zh / all.length >= 0.2;
+}
+
+function isChineseItem(item) {
+  return isMostlyChinese(`${item.title || ""} ${item.summary || ""} ${item.source || ""}`);
+}
+
+async function fetchWithTimeout(url, init = {}, timeoutMs = FETCH_TIMEOUT_MS) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    return await fetch(url, { ...init, signal: controller.signal });
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
 async function fetchGoogleNews(query, days) {
   const url = `https://news.google.com/rss/search?q=${encodeURIComponent(`${query} when:${days}d`)}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`;
   try {
-    const res = await fetch(url);
+    const res = await fetchWithTimeout(url);
     if (!res.ok) return [];
     const xml = await res.text();
     return parseRssItems(xml)
@@ -250,7 +354,7 @@ async function fetchGoogleNews(query, days) {
 async function fetchChannelItems(channel, days, cap) {
   try {
     if (channel.kind === "rss") {
-      const res = await fetch(channel.feedUrl);
+      const res = await fetchWithTimeout(channel.feedUrl);
       if (!res.ok) return [];
       const xml = await res.text();
       return parseRssItems(xml)
@@ -260,7 +364,7 @@ async function fetchChannelItems(channel, days, cap) {
     }
 
     if (channel.kind === "rss-keyword") {
-      const res = await fetch(channel.feedUrl);
+      const res = await fetchWithTimeout(channel.feedUrl);
       if (!res.ok) return [];
       const xml = await res.text();
       return parseRssItems(xml)
@@ -273,7 +377,7 @@ async function fetchChannelItems(channel, days, cap) {
     if (channel.kind === "rss-multi") {
       const outputs = await Promise.all(
         (channel.feedUrls || []).map(async (feedUrl) => {
-          const res = await fetch(feedUrl);
+          const res = await fetchWithTimeout(feedUrl);
           if (!res.ok) return [];
           const xml = await res.text();
           return parseRssItems(xml)
@@ -288,7 +392,7 @@ async function fetchChannelItems(channel, days, cap) {
       const sinceDate = new Date(Date.now() - ONE_DAY_MS * days).toISOString().slice(0, 10);
       const q = `${channel.query || "ai"} pushed:>=${sinceDate}`;
       const api = `https://api.github.com/search/repositories?q=${encodeURIComponent(q)}&sort=stars&order=desc&per_page=${Math.min(cap, 20)}`;
-      const res = await fetch(api, { headers: { "user-agent": "ai-24h-radar" } });
+      const res = await fetchWithTimeout(api, { headers: { "user-agent": "ai-24h-radar" } });
       if (!res.ok) return [];
       const json = await res.json();
       return (json.items || []).slice(0, cap).map((repo) => ({
@@ -327,7 +431,8 @@ function rankForSection(sectionTitle, item) {
   }
   if (sectionTitle === "技术突破" && item.channelId === "arxiv_cs_daily") score += 2;
   if (sectionTitle === "产品范式" && item.channelId === "producthunt_ai") score += 2;
-  if (sectionTitle === "国外大厂动作" && ["openai_blog", "anthropic_news", "google_ai_blog", "huggingface_blog"].includes(item.channelId)) score += 2;
+  if (sectionTitle === "国内外大厂动作" && ["openai_blog", "anthropic_news", "google_ai_blog", "huggingface_blog", "ithome_ai", "36kr_ai", "huxiu_ai"].includes(item.channelId)) score += 2;
+  if (sectionTitle === "OpenClaw 生态" && ["ithome_ai", "36kr_ai", "huxiu_ai"].includes(item.channelId)) score += 2;
   return score;
 }
 
@@ -381,13 +486,14 @@ async function generateForDay(days) {
 
     const scoredCandidates = pool
       .filter((item) => !used.has(`${item.link}::${item.title}`))
+      .filter((item) => isChineseItem(item))
       .map((item) => ({ item, score: rankForSection(section.title, item) }))
       .filter((x) => x.score > 0)
       .sort((a, b) => b.score - a.score)
       .slice(0, maxPerSection * 2)
       .map((x) => x.item);
 
-    let items = dedupeItems([...base, ...scoredCandidates]).slice(0, maxPerSection);
+    let items = dedupeItems([...base, ...scoredCandidates]).filter((item) => isChineseItem(item)).slice(0, maxPerSection);
 
     if (items.length === 0 && SECTION_FALLBACK_CHANNELS[section.title]) {
       const fallbackChannels = SECTION_FALLBACK_CHANNELS[section.title];
@@ -395,6 +501,7 @@ async function generateForDay(days) {
         fallbackChannels.flatMap((channelId) => channelMap[channelId] || []),
       )
         .filter((item) => !used.has(`${item.link}::${item.title}`))
+        .filter((item) => isChineseItem(item))
         .slice(0, maxPerSection);
 
       if (fallback.length > 0) {

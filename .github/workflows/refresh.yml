@@ -2,8 +2,8 @@ name: Refresh AI 24h Radar Data
 
 on:
   schedule:
-    # Every 2 hours
-    - cron: "0 */2 * * *"
+    # Every day at 07:00 Asia/Shanghai (23:00 UTC previous day)
+    - cron: "0 23 * * *"
   workflow_dispatch:
 
 permissions:

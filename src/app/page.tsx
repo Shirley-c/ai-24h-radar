@@ -1,3 +1,4 @@
+import Link from "next/link";
 import BriefCard from "@/components/BriefCard";
 import snapshot from "@/data/snapshot.json";
 
@@ -25,6 +26,17 @@ type StockItem = {
 
 const TZ = "Asia/Shanghai";
 const DAY_OPTIONS = [1, 3, 7, 14, 30] as const;
+const SECTION_VISIBLE_LIMIT = 6;
+const SECTION_ORDER = [
+  "OpenClaw 生态",
+  "国内外大厂动作",
+  "技术突破",
+  "AI-UX",
+  "产品范式",
+  "推理成本和 Token 经济",
+  "代理式 AI",
+  "商业 ROI",
+];
 
 function toLocal(ts: string) {
   const d = new Date(ts);
@@ -60,12 +72,15 @@ function buildBrief(sections: NewsSection[], stocks: StockItem[], days: number, 
   const lines: string[] = [];
   lines.push(`# AI ${days}天简报`);
   lines.push(`- 更新时间：${updatedAt}`);
+  lines.push(`- 统计窗口：过去 ${days} 天`);
   lines.push("");
+
   lines.push(`## 股票 ${days}天涨跌`);
   for (const s of stocks) {
-    lines.push(`- ${s.name} (${s.symbol})：${fmtPrice(s.price, s.currency)} / ${fmtPct(s.changePct)}`);
+    lines.push(`- **${s.name}** (${s.symbol})：${fmtPrice(s.price, s.currency)} / ${fmtPct(s.changePct)}`);
   }
   lines.push("");
+
   lines.push("## 重点资讯");
   for (const section of sections) {
     lines.push(`### ${section.title}`);
@@ -73,7 +88,11 @@ function buildBrief(sections: NewsSection[], stocks: StockItem[], days: number, 
     if (top.length === 0) {
       lines.push("- 暂无可用数据");
     } else {
-      top.forEach((n) => lines.push(`- ${n.title} (${n.source})`));
+      top.forEach((n) => {
+        lines.push(`- [${n.title}](${n.link})`);
+        lines.push(`  - 来源：${n.source}`);
+        lines.push(`  - 时间：${toLocal(n.publishedAt)}`);
+      });
     }
     lines.push("");
   }
@@ -99,7 +118,12 @@ export default async function Home({
   const days = DAY_OPTIONS.includes(parsedDays as (typeof DAY_OPTIONS)[number]) ? parsedDays : 1;
 
   const byDay = data.byDays[String(days)] ?? { sections: [], stocks: [] };
-  const sections = byDay.sections || [];
+  const sectionsRaw = byDay.sections || [];
+  const sectionMap = new Map(sectionsRaw.map((s) => [s.title, s]));
+  const sections = [
+    ...SECTION_ORDER.map((t) => sectionMap.get(t)).filter(Boolean),
+    ...sectionsRaw.filter((s) => !SECTION_ORDER.includes(s.title)),
+  ] as NewsSection[];
   const stocks = byDay.stocks || [];
 
   const generatedAtText = toLocal(data.generatedAt);
@@ -175,7 +199,7 @@ export default async function Home({
                     摘要：近{days}天捕获 {section.items.length} 条动态，来源 {new Set(section.items.map((i) => i.source)).size} 家。
                   </p>
                   <ul className="mt-3 space-y-3">
-                    {section.items.map((item) => (
+                    {section.items.slice(0, SECTION_VISIBLE_LIMIT).map((item) => (
                       <li key={`${item.link}-${item.title}`} className="text-sm leading-6">
                         <a
                           className="font-medium text-slate-900 underline decoration-slate-300 underline-offset-4 hover:text-blue-700 dark:text-slate-100 dark:decoration-slate-600"
@@ -191,6 +215,16 @@ export default async function Home({
                       </li>
                     ))}
                   </ul>
+                  {section.items.length > SECTION_VISIBLE_LIMIT ? (
+                    <div className="mt-3">
+                      <Link
+                        href={`/section/${section.title}`}
+                        className="text-sm font-medium text-blue-700 underline decoration-blue-300 underline-offset-4 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-200"
+                      >
+                        More（共 {section.items.length} 条）
+                      </Link>
+                    </div>
+                  ) : null}
                 </>
               )}
             </article>
