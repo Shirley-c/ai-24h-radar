@@ -50,9 +50,16 @@ export default async function SectionPage({
   const rawTitle = resolvedParams?.title || "";
   const days = 1;
 
-  const decodedTitle = rawTitle || "未命名分类";
+  let normalizedTitle = rawTitle;
+  try {
+    normalizedTitle = decodeURIComponent(rawTitle);
+  } catch {
+    normalizedTitle = rawTitle;
+  }
+
+  const decodedTitle = normalizedTitle || "未命名分类";
   const byDay = data.byDays[String(days)] ?? { sections: [] };
-  const section = rawTitle ? (byDay.sections || []).find((s) => s.title === rawTitle) : undefined;
+  const section = normalizedTitle ? (byDay.sections || []).find((s) => s.title === normalizedTitle) : undefined;
 
   return (
     <main className="min-h-screen bg-slate-50 px-4 py-8 text-slate-900 dark:bg-slate-950 dark:text-slate-100 md:px-10">
