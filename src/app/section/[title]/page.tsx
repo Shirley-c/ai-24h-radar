@@ -36,7 +36,7 @@ export function generateStaticParams() {
   const titles = new Set<string>();
   for (const d of Object.keys(data.byDays || {})) {
     const sections = data.byDays[d]?.sections || [];
-    for (const s of sections) titles.add(encodeURIComponent(s.title));
+    for (const s of sections) titles.add(s.title);
   }
   return [...titles].map((title) => ({ title }));
 }
@@ -50,9 +50,9 @@ export default async function SectionPage({
   const rawTitle = resolvedParams?.title || "";
   const days = 1;
 
-  const decodedTitle = rawTitle ? decodeURIComponent(rawTitle) : "未命名分类";
+  const decodedTitle = rawTitle || "未命名分类";
   const byDay = data.byDays[String(days)] ?? { sections: [] };
-  const section = rawTitle ? (byDay.sections || []).find((s) => s.title === decodedTitle) : undefined;
+  const section = rawTitle ? (byDay.sections || []).find((s) => s.title === rawTitle) : undefined;
 
   return (
     <main className="min-h-screen bg-slate-50 px-4 py-8 text-slate-900 dark:bg-slate-950 dark:text-slate-100 md:px-10">
