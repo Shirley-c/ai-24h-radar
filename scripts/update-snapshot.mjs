@@ -268,6 +268,21 @@ function decodeXml(text = "") {
     .trim();
 }
 
+function stripHtml(text = "") {
+  return text
+    .replace(/<script[\s\S]*?<\/script>/gi, " ")
+    .replace(/<style[\s\S]*?<\/style>/gi, " ")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function cleanText(text = "", maxLen = 220) {
+  const decoded = decodeXml(stripCData(text));
+  const plain = stripHtml(decoded);
+  return plain.length > maxLen ? `${plain.slice(0, maxLen)}…` : plain;
+}
+
 function findAll(tag, xml) {
   const regex = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, "gi");
   const results = [];
@@ -281,12 +296,15 @@ function parseRssItems(xml) {
 
   return blocks
     .map((block) => {
-      const title = findAll("title", block)[0] || "(无标题)";
+      const rawTitle = findAll("title", block)[0] || "(无标题)";
       const link = findAll("link", block)[0] || (block.match(/<link[^>]*href=["']([^"']+)["']/i)?.[1] ?? "#");
       const publishedAt =
         findAll("pubDate", block)[0] || findAll("published", block)[0] || findAll("updated", block)[0] || "";
-      const source = findAll("source", block)[0] || "RSS";
-      const summary = findAll("description", block)[0] || findAll("summary", block)[0] || "";
+      const rawSource = findAll("source", block)[0] || "RSS";
+      const rawSummary = findAll("description", block)[0] || findAll("summary", block)[0] || "";
+      const title = cleanText(rawTitle, 180) || "(无标题)";
+      const source = cleanText(rawSource, 40) || "RSS";
+      const summary = cleanText(rawSummary, 260);
       return { title, link, source, publishedAt, summary };
     })
     .filter((x) => x.title && x.link && x.link !== "#");
