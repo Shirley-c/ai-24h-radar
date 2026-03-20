@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BriefCard from "@/components/BriefCard";
+import StockPanel from "@/components/StockPanel";
 import snapshot from "@/data/snapshot.json";
 
 type NewsItem = {
@@ -163,23 +164,7 @@ export default async function Home({
           </form>
         </header>
 
-        <section className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-900">
-          <h2 className="text-xl font-semibold">AI 概念股 {days}天 涨跌幅</h2>
-          <div className="mt-4 grid gap-3 md:grid-cols-2 lg:grid-cols-3">
-            {stocks.map((s) => (
-              <div key={s.symbol} className="rounded-xl border border-slate-200 p-4 dark:border-slate-800">
-                <div className="flex items-center justify-between">
-                  <div>
-                    <p className="text-sm font-medium">{s.name}</p>
-                    <p className="text-xs text-slate-500">{s.symbol}</p>
-                  </div>
-                  <p className={`text-sm font-semibold ${pctClass(s.changePct)}`}>{fmtPct(s.changePct)}</p>
-                </div>
-                <p className="mt-2 text-sm text-slate-700 dark:text-slate-300">现价：{fmtPrice(s.price, s.currency)}</p>
-              </div>
-            ))}
-          </div>
-        </section>
+        <StockPanel stocks={stocks} days={days} />
 
         <section className="grid gap-4 md:grid-cols-2">
           {sections.map((section) => (
