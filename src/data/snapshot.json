@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T06:47:54.293Z",
+  "generatedAt": "2026-08-29T04:02:47.278Z",
   "timezone": "Asia/Shanghai",
   "dayOptions": [
     1,
@@ -17,66 +17,45 @@
           "query": "OpenClaw 小龙虾 AI 助手",
           "items": [
             {
-              "title": "开源电子书工具 Calibre 9.14 发布：首次引入 AI 生成封面",
-              "link": "https://www.ithome.com/0/995/569.htm",
+              "title": "国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB",
+              "link": "https://www.ithome.com/0/995/893.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 06:12:37 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:59:25 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "Anthropic 推出 MHS 标准，首度重拳杀入物理 AI 领域",
-              "link": "https://www.ithome.com/0/995/514.htm",
+              "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
+              "link": "https://www.ithome.com/0/995/891.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 04:46:12 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:40:50 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "中国人民银行 9 月 4 日发行科创未来（人工智能）金银纪念币，图案含芯片、电路纹理等",
-              "link": "https://www.ithome.com/0/995/492.htm",
+              "title": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
+              "link": "https://www.ithome.com/0/995/874.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:20:02 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 02:21:24 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "国家发改委：发展机器人产业必须因地制宜，防止盲目跟风、一哄而上",
-              "link": "https://www.ithome.com/0/995/481.htm",
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:04:28 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "消息称某厂新平板搭载 12.5 英寸 LCD 屏、骁龙 8 Gen5，预计为小米平板 9 Pro",
-              "link": "https://www.ithome.com/0/995/470.htm",
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:51:42 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "全球最小：万代推出电子宠物戒指，0.56 英寸彩屏、体积较 30 年前初代缩小 56%",
-              "link": "https://www.ithome.com/0/995/469.htm",
+              "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
+              "link": "https://www.ithome.com/0/995/847.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:50:20 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "Alphacool 推出 Core 2 LT CPU 一体式液冷：铜质 25mm 冷排",
-              "link": "https://www.ithome.com/0/995/453.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:38:37 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "苹果史上最高互连密度：曝 M6 Pro / Max 芯片仍在推进，首次采用台积电双封装组合",
-              "link": "https://www.ithome.com/0/995/421.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:27:03 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "小米智能存储升级 1.0.8.425 版本：相册支持节日搜索，影视库新增合集管理",
-              "link": "https://www.ithome.com/0/995/411.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:22:53 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:11:17 GMT",
               "channelId": "ithome_ai"
             }
           ]
@@ -86,136 +65,46 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 华为 OR 京东 OR OpenAI OR Anthropic OR Google OR Microsoft OR Meta OR Amazon OR NVIDIA) AI",
           "items": [
             {
-              "title": "燃烧的Token！Meta每月为Anthropic AI模型支付数亿美元 - TOM科技",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UVGEyWXQzVEV3NnlFTnQzZWVqN3pGbWVVZDdFWUtSdW1hQTMwV3BHNnBYRG5mZk9vUjBELU51THY2aE5FYUM2T0NGODI5VjVFVjJNRTBR?oc=5",
-              "source": "TOM科技",
-              "publishedAt": "Fri, 28 Aug 2026 05:33:00 GMT",
-              "summary": "燃烧的Token！Meta每月为Anthropic AI模型支付数亿美元 &nbsp;&nbsp; TOM科技",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Meta预估每年在Anthropic AI支出最高可达100亿美元 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmJvR21TQ25FSGVWdVF6dUZnNDVqSDVySGNMaGd1TmpZYnk1Q1N6aG51S2hYemduNXhnS1lmemp0cVFyb2xlVFdzdE1iMGdzSjNsbXQ2bm9OckhoUTBidEphNjBxNjNLNUJQQ3I4ZkVGNUpQMVhYT0l0T2hpZ0RWLWY0YkxlVW8?oc=5",
-              "source": "新浪财经",
-              "publishedAt": "Thu, 27 Aug 2026 14:11:00 GMT",
-              "summary": "Meta预估每年在Anthropic AI支出最高可达100亿美元 &nbsp;&nbsp; 新浪财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Meta预估每年在Anthropic AI支出最高可达100亿美元- 快讯 - 亿邦动力网",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CaDFkTUpIMG9RS3NVSFJaWXhHSUtZWnRCMWxqV1F6NUZ3TFZqZUNjUkM1OWM0VW5LRmRCa3ZDSkRJWjRGNUFzQ1NFellPSG5sZlV1TXdyMmc?oc=5",
-              "source": "亿邦动力网",
-              "publishedAt": "Fri, 28 Aug 2026 01:12:45 GMT",
-              "summary": "Meta预估每年在Anthropic AI支出最高可达100亿美元- 快讯 &nbsp;&nbsp; 亿邦动力网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Meta AI正式退出实验阶段，全面登陆Quest设备 - t.cj.sina.cn",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5ak80YW9lVGk3SUp3d1lCNUFsOVJWZ2RETkN6cWFuMTNTYzhMX0U0c3c0UHlRNkhGdnhhZHFPWVE3NlpjcXA4dHpoc1Z4dDlJbzFpMElpOHo1S3pwcmlpTVVfbl9oWEJJc2xWWnJBclg?oc=5",
-              "source": "t.cj.sina.cn",
-              "publishedAt": "Fri, 28 Aug 2026 02:46:39 GMT",
-              "summary": "Meta AI正式退出实验阶段，全面登陆Quest设备 &nbsp;&nbsp; t.cj.sina.cn",
-              "channelId": "google_news"
-            },
-            {
-              "title": "NVIDIA NIM 助力 UnitaryLab 构建本地推理与量子计算 AI Agent 工作流 - NVIDIA",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nb1JHQWhNeVo2Zk1SN0N5Z3p2R1FtN1BiZm1EdE1zeDZRLUFabExfRU5jeHB5b2FROUhGck53SW5lcFI1VFF4RmFiTlJWWXlyWlp0VktWcW41bHFXY3U1Ung5ZEZfbDd0TkE?oc=5",
-              "source": "NVIDIA",
-              "publishedAt": "Thu, 27 Aug 2026 10:33:52 GMT",
-              "summary": "NVIDIA NIM 助力 UnitaryLab 构建本地推理与量子计算 AI Agent 工作流 &nbsp;&nbsp; NVIDIA",
-              "channelId": "google_news"
-            },
-            {
-              "title": "谷歌、微软、OpenAI等巨头突然联名警告！AI攻击或大规模来袭 - t.cj.sina.cn",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4TWJOYjlkVDNETW9HS2x6N3Y2Ty1nVm1VOVVGdU9ZVVpIVWotZVZ1eUdKS0ZKZzRFMG1vZTl0VzhtUFFnbTNCaFNSWXdNd0M0RjV5Zm5xM2FSNzhnbDUyMkQ2bkV0N1VUOHpqRnBna0dTdw?oc=5",
-              "source": "t.cj.sina.cn",
-              "publishedAt": "Fri, 28 Aug 2026 02:13:19 GMT",
-              "summary": "谷歌、微软、OpenAI等巨头突然联名警告！AI攻击或大规模来袭 &nbsp;&nbsp; t.cj.sina.cn",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Anthropic 推出 MHS 标准，首度重拳杀入物理 AI 领域",
-              "link": "https://www.ithome.com/0/995/514.htm",
+              "title": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
+              "link": "https://www.ithome.com/0/995/874.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 04:46:12 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 02:21:24 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "消息称某厂新平板搭载 12.5 英寸 LCD 屏、骁龙 8 Gen5，预计为小米平板 9 Pro",
-              "link": "https://www.ithome.com/0/995/470.htm",
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:51:42 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "小米智能存储升级 1.0.8.425 版本：相册支持节日搜索，影视库新增合集管理",
-              "link": "https://www.ithome.com/0/995/411.htm",
+              "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
+              "link": "https://www.ithome.com/0/995/847.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:22:53 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:11:17 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "开源电子书工具 Calibre 9.14 发布：首次引入 AI 生成封面",
-              "link": "https://www.ithome.com/0/995/569.htm",
+              "title": "国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB",
+              "link": "https://www.ithome.com/0/995/893.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 06:12:37 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:59:25 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "中国人民银行 9 月 4 日发行科创未来（人工智能）金银纪念币，图案含芯片、电路纹理等",
-              "link": "https://www.ithome.com/0/995/492.htm",
+              "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
+              "link": "https://www.ithome.com/0/995/891.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:20:02 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:40:50 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "国家发改委：发展机器人产业必须因地制宜，防止盲目跟风、一哄而上",
-              "link": "https://www.ithome.com/0/995/481.htm",
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:04:28 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
               "channelId": "ithome_ai"
-            },
-            {
-              "title": "全球最小：万代推出电子宠物戒指，0.56 英寸彩屏、体积较 30 年前初代缩小 56%",
-              "link": "https://www.ithome.com/0/995/469.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:50:20 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "Alphacool 推出 Core 2 LT CPU 一体式液冷：铜质 25mm 冷排",
-              "link": "https://www.ithome.com/0/995/453.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:38:37 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "苹果史上最高互连密度：曝 M6 Pro / Max 芯片仍在推进，首次采用台积电双封装组合",
-              "link": "https://www.ithome.com/0/995/421.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:27:03 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "129 亿美元，英伟达拿下 Hugging Face",
-              "link": "http://www.geekpark.net/news/369458",
-              "source": "极客公园",
-              "publishedAt": "Thu, 27 Aug 2026 15:09:02 +0800",
-              "channelId": "geekpark_ai"
-            },
-            {
-              "title": "为什么苹果、小米的 AI 电脑，都在死磕「内存墙」｜AI 器物志",
-              "link": "https://www.ifanr.com/1676852?utm_source=rss&utm_medium=rss&utm_campaign=",
-              "source": "爱范儿",
-              "publishedAt": "Thu, 27 Aug 2026 10:15:44 +0000",
-              "channelId": "ifanr_ai"
-            },
-            {
-              "title": "OpenAI 的中场战事",
-              "link": "https://www.ifanr.com/1676929?utm_source=rss&utm_medium=rss&utm_campaign=",
-              "source": "爱范儿",
-              "publishedAt": "Thu, 27 Aug 2026 07:24:07 +0000",
-              "channelId": "ifanr_ai"
             }
           ]
         },
@@ -224,65 +113,17 @@
           "query": "AI 技术 突破",
           "items": [
             {
-              "title": "全球媒体聚焦 | 中国推动AI技术大规模应用 - 央广网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEUUhuajN3N0c4YjdXWW8ybFlDZUpkS1hHRGRzTUt3RFVIOHRpZFdvRmZ1aWdBNUxzeGlLbHBudDhUbE1NWlBwRTdXY3hhRzlCenN5YmQ3T0Myd0ZTQUtyOGkxWjBLTmJqQmVfbGo0Z3pKY2s3dXVyZ1I5YU9iSXc?oc=5",
-              "source": "央广网",
-              "publishedAt": "Fri, 28 Aug 2026 03:46:48 GMT",
-              "summary": "全球媒体聚焦 | 中国推动AI技术大规模应用 &nbsp;&nbsp; 央广网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "今日开播 | PCIe多流架构：AI互连性能突破的关键技术 - 电子工程专辑",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zbXJBLVZNS3doN25EcVRMYkJGanNfeExRbE9zaUktaFdwTWxZTjJFTEZPZVF4SnptemJRUTA0NFNZYzNyUDJtSFUySVk0NF9sY253?oc=5",
-              "source": "电子工程专辑",
-              "publishedAt": "Fri, 28 Aug 2026 04:04:00 GMT",
-              "summary": "今日开播 | PCIe多流架构：AI互连性能突破的关键技术 &nbsp;&nbsp; 电子工程专辑",
-              "channelId": "google_news"
-            },
-            {
-              "title": "利欧股份：双主业协同筑牢经营韧性 “AI赋能+高端突破”蓄力长期增长 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LX05OQkZRamdkcWJXR3dsamowWEVmQnowNmM3ZDBvUjRNZHlPdjF5bC13TlRUUWJmV28wWW9zbjRFTk0ySGpReHdfUEVWTXgtMFB1Qk9xV3QxSUlva1FlTw?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Thu, 27 Aug 2026 16:59:29 GMT",
-              "summary": "利欧股份：双主业协同筑牢经营韧性 “AI赋能+高端突破”蓄力长期增长 &nbsp;&nbsp; 东方财富",
-              "channelId": "google_news"
-            },
-            {
-              "title": "人工智能消费发展研究报告（2026） - AgeClub",
-              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSdXlUa0ZLeGt4OHVRbC05b2F2dzJDM283Z0pud1ZYNzg4UmVMSk9IWkd3cTJxaW9UZ191UXFEb0NCUEhrT3J2VG9GRDZjRUc3UnRpamR6dw?oc=5",
-              "source": "AgeClub",
-              "publishedAt": "Fri, 28 Aug 2026 00:52:54 GMT",
-              "summary": "人工智能消费发展研究报告（2026） &nbsp;&nbsp; AgeClub",
-              "channelId": "google_news"
-            },
-            {
-              "title": "全球媒体聚焦 | 中国推动AI技术大规模应用 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sNEFtWWZXbUhhRndfdW5VM1BnNnplYTY1NDh6SlRlMGVBbnRIM2pGSHRSMWF0UHZPUExZWHhvZW14bld6UWZkQU84Z3BsT2xybGktMnNnN29SZWxuN3lzME9CM3AwbVhBbjV2aUtyWXJLNWg3TGdraw?oc=5",
-              "source": "新浪财经",
-              "publishedAt": "Thu, 27 Aug 2026 12:45:00 GMT",
-              "summary": "全球媒体聚焦 | 中国推动AI技术大规模应用 &nbsp;&nbsp; 新浪财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "中国工业新闻网 2026-08-28 01:24 - 中国工业新闻网",
-              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TUWxBSU1Pbl9ET0RpcDFpQTVyLXNzd0VIQW5LQTQxQUlLZnhiRjZKSVlBUDRlXzlPYXF0Qnp2VG9NeWxKTWF6SVhERllxVXRDNE9PY2d5UQ?oc=5",
-              "source": "中国工业新闻网",
-              "publishedAt": "Thu, 27 Aug 2026 17:24:00 GMT",
-              "summary": "中国工业新闻网 2026-08-28 01:24 &nbsp;&nbsp; 中国工业新闻网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道",
-              "link": "http://www.geekpark.net/news/369481",
-              "source": "极客公园",
-              "publishedAt": "Fri, 28 Aug 2026 08:33:17 +0800",
-              "channelId": "geekpark_ai"
-            },
-            {
-              "title": "开源电子书工具 Calibre 9.14 发布：首次引入 AI 生成封面",
-              "link": "https://www.ithome.com/0/995/569.htm",
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 06:12:37 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
+              "link": "https://www.ithome.com/0/995/847.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 00:11:17 GMT",
               "channelId": "ithome_ai"
             }
           ]
@@ -292,160 +133,36 @@
           "query": "AI 产品 交互 体验",
           "items": [
             {
-              "title": "2026世界机器人大会：机器人走向“能听、会说、懂互动”声网对话式 AI 提供实时技术底座 - 凤凰网",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMQUxwOTB5ckE4dllUMldzM1R1VlFCY29HTUN1cXhyZGVDV1RaRFRSRFVjc2l3N1JraGtndmV5d2JwUF9oZVJLcExEckU3d3M?oc=5",
-              "source": "凤凰网",
-              "publishedAt": "Fri, 28 Aug 2026 02:55:21 GMT",
-              "summary": "2026世界机器人大会：机器人走向“能听、会说、懂互动”声网对话式 AI 提供实时技术底座 &nbsp;&nbsp; 凤凰网",
-              "channelId": "google_news"
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
+              "channelId": "ithome_ai"
             },
             {
-              "title": "人机交互新范式｜凯度幂境套系亮相 2026 品牌发布会，双 TFT 分屏开启厨电 AI 交互新纪元 - news.tom.com",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKc2YwUzhvdmlZeldwOVJONFpVSmZHcDI4RkN5SzBZb09rUDRHd2s2OHphaEF2STRTTDBRRkU0bVkxYTlsNmhDcDJEbzdCZHJ1TDVYSm53?oc=5",
-              "source": "news.tom.com",
-              "publishedAt": "Fri, 28 Aug 2026 04:04:00 GMT",
-              "summary": "人机交互新范式｜凯度幂境套系亮相 2026 品牌发布会，双 TFT 分屏开启厨电 AI 交互新纪元 &nbsp;&nbsp; news.tom.com",
-              "channelId": "google_news"
-            },
-            {
-              "title": "人工智能消费发展研究报告（2026） - AgeClub",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95N29raFNaczNsVEN6bk9XN1VscWJxejlZODBRTmh2aThlano4cWVDYXF4dlRCVlVKaU1jSHctVHdvWlhGbUFlaHFzYWRra21QV3RvTQ?oc=5",
-              "source": "AgeClub",
-              "publishedAt": "Fri, 28 Aug 2026 00:52:54 GMT",
-              "summary": "人工智能消费发展研究报告（2026） &nbsp;&nbsp; AgeClub",
-              "channelId": "google_news"
-            },
-            {
-              "title": "1H’26消费级AI/AR市场销量同比增幅65%，AR成绝对增长主力 - 电子工程专辑",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qdm90OUdJZmNMcmZzYTF0bG1MZ0N4OUc5Y1A0aDhIZHVKVGt2WWFfU1YydFI5dDd0THdaalRXVHpaai1KSFdwS0Q4empLVGdiYnE4?oc=5",
-              "source": "电子工程专辑",
-              "publishedAt": "Fri, 28 Aug 2026 04:56:00 GMT",
-              "summary": "1H’26消费级AI/AR市场销量同比增幅65%，AR成绝对增长主力 &nbsp;&nbsp; 电子工程专辑",
-              "channelId": "google_news"
-            },
-            {
-              "title": "企业官网建设避坑指南：国内十家企业数字化门户建站公司深度解析 - 新浪网",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQanVwUUhnZ2J0MzNLbnZOMm81VkR0NGFHTUN1eUpzdXlBSi11a1ZqYmlWZnp2NnFZbEdrclNkWnlrLWtsVkhybVV3TVgzak90bVFhRTUyZGJPRWJzRUF4VXVNRDl6eDZ2T3RwVkZvU3RhazB1UDdwLUdfQjJRTWZsZy11SVplQWl4TkVpdDlB?oc=5",
-              "source": "新浪网",
-              "publishedAt": "Fri, 28 Aug 2026 01:35:23 GMT",
-              "summary": "企业官网建设避坑指南：国内十家企业数字化门户建站公司深度解析 &nbsp;&nbsp; 新浪网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "技术赋能生态，人车家跨域互联，华为鸿蒙智家焕新全场景智慧生活体验 - 新华网",
-              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lc3U0QlkwQmZranBrdUdSWVlMajdTckxLZzV1bVo2RzFUTDNyeG03REtXb01PT2hVMjJxdXBzS1VxdFcza2x0VzViakE1M2VTOVVKd1Z3Y1pENjVFa3NKYVA1TGRLcE1xYlNUNnBLZGNmRHRPTGlidk1paDU?oc=5",
-              "source": "新华网",
-              "publishedAt": "Thu, 27 Aug 2026 07:42:27 GMT",
-              "summary": "技术赋能生态，人车家跨域互联，华为鸿蒙智家焕新全场景智慧生活体验 &nbsp;&nbsp; 新华网",
-              "channelId": "google_news"
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
+              "channelId": "ithome_ai"
             }
           ]
         },
         {
           "title": "产品范式",
           "query": "AI 产品 发布",
-          "items": [
-            {
-              "title": "AI办公群雄逐鹿，百度搭子发布专业办公一揽子升级 - 国际金融报",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fNVNxMUhZd1BwcjlVLTJoZ2Q5OXVhbDJKNXV5VndrRDFvMFRpSVVSaWtzSGFrUkJRWmJmclRlUzJlbFB0U2NzM1EtcEI4dHlqaXlCUndR?oc=5",
-              "source": "国际金融报",
-              "publishedAt": "Thu, 27 Aug 2026 10:03:00 GMT",
-              "summary": "AI办公群雄逐鹿，百度搭子发布专业办公一揽子升级 &nbsp;&nbsp; 国际金融报",
-              "channelId": "google_news"
-            },
-            {
-              "title": "观察｜巨头扎堆布局AI办公智能体，百度搭子用户增长近9倍，能赢得市场吗？ - thepaper.cn",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQaXdzUU5PTmM5NVFOVHVUZE1WNGNnSmZhZDA2MHJhWE1oX1VqUFNwQVVRU2l5WmV1OHJIdHVBQnJXaUpRV191T25ZR2NjY2ZaT2lLWFlUMHh0ZjNMTmdsMw?oc=5",
-              "source": "thepaper.cn",
-              "publishedAt": "Thu, 27 Aug 2026 13:42:00 GMT",
-              "summary": "观察｜巨头扎堆布局AI办公智能体，百度搭子用户增长近9倍，能赢得市场吗？ &nbsp;&nbsp; thepaper.cn",
-              "channelId": "google_news"
-            },
-            {
-              "title": "大厂混战AI办公，百度搭子靠什么抢占身位？|WorkBuddy|千问|Agent|豆包|Qwen_手机新浪网 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1BDVVduWWxta0NwSXF1Y2tOTlNQTTZLNnB2enY3SW40VzF4NkIyUU5EZHNzeW9uRkQxZHRjRXJ0RlYtcFk1R2JhWUxXckk1aFEtaEI3TVFQdmsyZmFVdTZQcFZHd096bFlLTDljUGxQYUJhNlp2OW1fc19sd2c3VW95MmF3cXZLYlBORkdrbmFGNm9HdU9qS2FuN0FwdXpBZ1ZUTGpMUQ?oc=5",
-              "source": "新浪财经",
-              "publishedAt": "Thu, 27 Aug 2026 11:32:41 GMT",
-              "summary": "大厂混战AI办公，百度搭子靠什么抢占身位？|WorkBuddy|千问|Agent|豆包|Qwen_手机新浪网 &nbsp;&nbsp; 新浪财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "鼎捷雅典娜-企业智能运行空间服务能力升级 重构企业数智运行范式 - 搜狐网",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQjhEYVpJcjYyNkF6ZWJlSTJqamxYcU9PdE9zY2F3dHZhOEpQd29MTGN5ZTlidktzaVI4YkVLcVl1TDlVWVpNTkYzeEpqVWVuNjh3RjkyVEVvUXN6Ynp4aWxrdjNnMU9ocDIwb0xDZkNieUFlS280SkNERTdIbzk3OFhSZExYNDBr?oc=5",
-              "source": "搜狐网",
-              "publishedAt": "Thu, 27 Aug 2026 16:20:00 GMT",
-              "summary": "鼎捷雅典娜-企业智能运行空间服务能力升级 重构企业数智运行范式 &nbsp;&nbsp; 搜狐网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "百度搭子宣布一揽子升级，提出“交付即惊艳”专业办公标准 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNkNXeHZCNGluYUp1bGpNWTJhMDRfekhHcEYxX0VxVmlZdmlReGFPUE1SNURnOTFnNmoyVHVPRTVZUzkzTE1TV3BOMHoyMWUtRGlxSkxEa1BpN1E1dFZ5VWxEWGtUd1h3UHBVUDJVRTlrZWFrV2d4bml2Mm81QmlHVjR0T0l6d3QwQWlkZWFKNzNla19MN3RXeFJMbmdreWQtLXctdHp2bl9CbzZnY0NJLTVxemUtMGdyd3o4ZUpEZkRFOF9aWWlidEF2Q2xuRTA?oc=5",
-              "source": "新浪财经",
-              "publishedAt": "Thu, 27 Aug 2026 09:43:00 GMT",
-              "summary": "百度搭子宣布一揽子升级，提出“交付即惊艳”专业办公标准 &nbsp;&nbsp; 新浪财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "百度搭子用一场发布会，回答了跻身AI办公双雄的秘密 - 搜狐网",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkxLNnpRQ1JVTkxLcW5sTkRETHRkY1BCSFMyQnotOHNQS3IxTnRYQWZqT216ZXVPcDZXMG5YV0tIaGZjWnl3TTdjSzZPNmpKcTBpUHNTeXlxZUhlbmRNaVJBZW9LamIycXFzUk5ESVdiX1oxSE9PcXg1VmlIUnNsaHgzZUtVTWU3?oc=5",
-              "source": "搜狐网",
-              "publishedAt": "Thu, 27 Aug 2026 08:21:48 GMT",
-              "summary": "百度搭子用一场发布会，回答了跻身AI办公双雄的秘密 &nbsp;&nbsp; 搜狐网",
-              "channelId": "google_news"
-            }
-          ]
+          "items": []
         },
         {
           "title": "推理成本和 Token 经济",
           "query": "AI 推理 成本 Token",
           "items": [
             {
-              "title": "智谱认领“牛来”模型，实测：“牛马”友好 - InfoQ-CN",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUXpYYmhIX05rRkNlZUFVZW5RTkhFbk1xRV9DZnBCVVRPbEM1RTZqbVA4U3A3T2JEOHFLaDBpVEdjOHNjS3JEdTZMWXhCVGJtbkxOV1pGZ3gwRDRMMWc?oc=5",
-              "source": "InfoQ-CN",
-              "publishedAt": "Fri, 28 Aug 2026 03:35:35 GMT",
-              "summary": "智谱认领“牛来”模型，实测：“牛马”友好 &nbsp;&nbsp; InfoQ-CN",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Token出海丨燧弘华创携手厦门移动跑通AI服务跨境交付全链路 - 新浪网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43YXc3N05MekpqMlBUVkFLZGZDS1E4QVNkRXZmVnZtdU5CenFYMGR1MGlLd25TbUNVamJBREZiMm9VdldGOXdVVmh5S2w0ZGl5eWpoYXdYck1LT1hrc0p2MVZmQTFOVkMzaEY5YkJfUmZPaThXTldJRFA1aXg1OFU?oc=5",
-              "source": "新浪网",
-              "publishedAt": "Thu, 27 Aug 2026 15:59:19 GMT",
-              "summary": "Token出海丨燧弘华创携手厦门移动跑通AI服务跨境交付全链路 &nbsp;&nbsp; 新浪网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "千问办公划出Agent的新基准 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTndZZDZvZW0xemYybUhwQTlockVLMVM0aVJ2NW9yUlBlUDlxV1JGOVpCTUt6eVljSHpiX29KcGF3OFpmUHNya1hpU25xc25Ib3Qwc3RYdm43ckxPcWI4dXRlVlltdEk1SjRzYzdpRE5tc2k4MlR3R0RhYzZHVGVwWVdhYW1xVzZBODMxUE5wdmZRR1FYOHluYVQ3U1F6dXZWTWc2Wm14UQ?oc=5",
-              "source": "新浪财经",
-              "publishedAt": "Thu, 27 Aug 2026 14:19:14 GMT",
-              "summary": "千问办公划出Agent的新基准 &nbsp;&nbsp; 新浪财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "谷歌员工碰瓷的Ox大模型真身曝光：智谱最新模型，惊人算力全部跑在国产卡上 - 紫牛新闻",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zamI3bkI2ODZON0ZRc3F2ZF9hRm1ucjVvVm92WWdrNjh4Rzk0WDRXSGhEb2lQOFhtZHIzMm9sNE53Q3RweFBHOWlpSTU0RFZya0tnNjlmTUVVSGhKODBEOUpfQ28zT3FjT3c?oc=5",
-              "source": "紫牛新闻",
-              "publishedAt": "Thu, 27 Aug 2026 09:42:00 GMT",
-              "summary": "谷歌员工碰瓷的Ox大模型真身曝光：智谱最新模型，惊人算力全部跑在国产卡上 &nbsp;&nbsp; 紫牛新闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "千亿美元市场，Agentic AI 的\"黄金时代\"何时能来? - 36kr.com",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYYXJTUUQ4dkxhbDZleHVpR1NiSng4Znl6dDZ2aFFZVDJsRmRJb292VDlxdnlYMzdJa0hlU2JVQXRFRnZqSUw2V28wdHhPaXM?oc=5",
-              "source": "36kr.com",
-              "publishedAt": "Thu, 27 Aug 2026 12:00:29 GMT",
-              "summary": "千亿美元市场，Agentic AI 的\"黄金时代\"何时能来? &nbsp;&nbsp; 36kr.com",
-              "channelId": "google_news"
-            },
-            {
-              "title": "商汤大装置支撑智谱 GLM-5.3-Flash上线，国产异构助力前沿智能进入普惠时代 - 雷峰网",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96eW1NV0dadHAycG8xZGc5QkdDek5vODVBOHVxX0hDXzlySUZkeGl2bkhpV0pjVVYycTJob2xHckk3ZlVVQkFIa0Vvdlh0Wkk5SzZFZzc5RDc5SHA0dkNtMnFONVZsbVJpbGc?oc=5",
-              "source": "雷峰网",
-              "publishedAt": "Thu, 27 Aug 2026 12:50:00 GMT",
-              "summary": "商汤大装置支撑智谱 GLM-5.3-Flash上线，国产异构助力前沿智能进入普惠时代 &nbsp;&nbsp; 雷峰网",
-              "channelId": "google_news"
+              "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
+              "link": "https://www.ithome.com/0/995/891.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 03:40:50 GMT",
+              "channelId": "ithome_ai"
             }
           ]
         },
@@ -454,67 +171,18 @@
           "query": "AI 智能体",
           "items": [
             {
-              "title": "Harness推出智能体就绪代码仓库与AI代码审查功能-AI应用 - 至顶网",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sSTdiaWZnSzZRd2hZSS1ud28wRDRyZ0xBc2lsTXU1bkJPS3Nwa3pTMkRxcDE0ODJCTDA2MXF4b2hEdE5mRzR3dXpDMDd0S2tYQS1BWVJkNll4WHp2SXJQdnU5Qk9IVEJfZ0pQbTRQWQ?oc=5",
-              "source": "至顶网",
-              "publishedAt": "Fri, 28 Aug 2026 05:01:07 GMT",
-              "summary": "Harness推出智能体就绪代码仓库与AI代码审查功能-AI应用 &nbsp;&nbsp; 至顶网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "央行陆磊讲述智能体支付的四个“时代之问” 坚持规则和标准先行 - Caixin Global",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EWlRuZmQ5VUNXcFVSNm9NTzJrX0wwOTJicmZkcTZpQmg3Y3kxcmFKUVlKYmJoR01SSzJGbHU3eDAtNE4tTk5aOURXWVJBYjZtYkFuZ3FsbU9hQUJNVmt3NzJn?oc=5",
-              "source": "Caixin Global",
-              "publishedAt": "Fri, 28 Aug 2026 02:26:00 GMT",
-              "summary": "央行陆磊讲述智能体支付的四个“时代之问” 坚持规则和标准先行 &nbsp;&nbsp; Caixin Global",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI开始自己“找活干”？OpenAI测试持久在线智能体 - 凤凰网科技",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXbjhKdWYwWUUwbERrd192SFZvV3BpMkplR19rREprclJMQ2ZyUzRTa1RkU3YxVU56aXdacl9kejJ0QWZrU3R3a1dFU2w?oc=5",
-              "source": "凤凰网科技",
-              "publishedAt": "Fri, 28 Aug 2026 01:26:29 GMT",
-              "summary": "AI开始自己“找活干”？OpenAI测试持久在线智能体 &nbsp;&nbsp; 凤凰网科技",
-              "channelId": "google_news"
-            },
-            {
-              "title": "前所未有的人工智能失控事件！最新内幕曝光 - 新浪网",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zdGU3SXJfS2V3ejVsM1U2T2hyUnN4RjhhOVNNSFZaY3pILVdSUWNCMWFmZnUxbk9JeGlsSk5hQjNZQkdFS21mZ2RSakNLb0ZOQmVKTjkzaG5sdDUtSU9pbDFKZjN6T3FOY1NrM1Q4cVpPaG84X0gtSDlfTWdNZw?oc=5",
-              "source": "新浪网",
-              "publishedAt": "Fri, 28 Aug 2026 05:26:26 GMT",
-              "summary": "前所未有的人工智能失控事件！最新内幕曝光 &nbsp;&nbsp; 新浪网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI智能体“组团作弊” - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2dlSVNrdXBfMWRTTkp0N2Rqbk5NZGpvZTAycFR5U1NKc0JZVERFUU1TSzR0OUU1RF95ekJVQkVkUHExenJVVlRLcU0zZUZrR0xGek1mQmE2T2tjd2JQR201U3FSdWRPaFAwRVZncTY0ZWx3S2JiSElSazI5cVhXbVRTUHFWdkFNd3hRZDktQWM4Rzhrc1oxS2NXRUVwZnBLZFRvMmNDdVhNVG9xVl9xRjVn?oc=5",
-              "source": "新浪财经",
-              "publishedAt": "Thu, 27 Aug 2026 22:55:01 GMT",
-              "summary": "AI智能体“组团作弊” &nbsp;&nbsp; 新浪财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "“数智有为码开新篇”企业快成长AI创新沙龙以智能之力激活企业发展新动能- 社会 - 东南网",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PQldybFdaZ3NWRVcxSWkwUV8yTEJ3WkhCeTV1LWMxR1ZxTk40LWxTWlA2MWV6T1k2QmZwRU5jckNyb0NsOFFCWHpYWXBFYW9YbmlJSkdFb1FILUVrbUktMFFZMHRmZw?oc=5",
-              "source": "东南网",
-              "publishedAt": "Fri, 28 Aug 2026 03:24:00 GMT",
-              "summary": "“数智有为码开新篇”企业快成长AI创新沙龙以智能之力激活企业发展新动能- 社会 &nbsp;&nbsp; 东南网",
-              "channelId": "google_news"
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
+              "channelId": "ithome_ai"
             }
           ]
         },
         {
           "title": "商业 ROI",
           "query": "AI 商业化 ROI",
-          "items": [
-            {
-              "title": "特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道",
-              "link": "http://www.geekpark.net/news/369481",
-              "source": "极客公园",
-              "publishedAt": "Fri, 28 Aug 2026 08:33:17 +0800",
-              "channelId": "geekpark_ai"
-            }
-          ]
+          "items": []
         }
       ],
       "stocks": [
@@ -546,41 +214,41 @@
           "symbol": "002230.SZ",
           "name": "科大讯飞",
           "currency": "CNY",
-          "price": 40.11000061035156,
+          "price": 40.060001373291016,
           "previousClose": 39.77000045776367,
-          "changePct": 0.854916139488044
+          "changePct": 0.7291951526008379
         },
         {
           "symbol": "300308.SZ",
           "name": "中际旭创",
           "currency": "CNY",
-          "price": 864.1099853515625,
+          "price": 858.3499755859375,
           "previousClose": 866.1199951171875,
-          "changePct": -0.23207058801973995
+          "changePct": -0.8971065874306138
         },
         {
           "symbol": "688111.SS",
           "name": "金山办公",
           "currency": "CNY",
-          "price": 243.3800048828125,
+          "price": 241.3000030517578,
           "previousClose": 238.22000122070312,
-          "changePct": 2.166066508130356
+          "changePct": 1.2929232706204066
         },
         {
           "symbol": "600570.SS",
           "name": "恒生电子",
           "currency": "CNY",
-          "price": 22.09000015258789,
+          "price": 21.969999313354492,
           "previousClose": 22.110000610351562,
-          "changePct": -0.09045887476958263
+          "changePct": -0.6332034967539705
         },
         {
           "symbol": "002415.SZ",
           "name": "海康威视",
           "currency": "CNY",
-          "price": 35.29999923706055,
+          "price": 35.099998474121094,
           "previousClose": 35.290000915527344,
-          "changePct": 0.028331882328753173
+          "changePct": -0.5384030503741084
         }
       ],
       "channels": [
@@ -598,15 +266,15 @@
         },
         {
           "channelId": "geekpark_ai",
-          "count": 2
+          "count": 1
         },
         {
           "channelId": "ifanr_ai",
-          "count": 2
+          "count": 0
         },
         {
           "channelId": "ithome_ai",
-          "count": 9
+          "count": 6
         },
         {
           "channelId": "mydrivers_ai",
@@ -637,7 +305,22 @@
           "count": 0
         }
       ],
-      "diagnostics": []
+      "diagnostics": [
+        {
+          "days": 1,
+          "section": "产品范式",
+          "reason": "still-empty",
+          "googleBaseCount": 0,
+          "scoredPoolSize": 0
+        },
+        {
+          "days": 1,
+          "section": "商业 ROI",
+          "reason": "still-empty",
+          "googleBaseCount": 0,
+          "scoredPoolSize": 0
+        }
+      ]
     },
     "3": {
       "sections": [
@@ -646,74 +329,45 @@
           "query": "OpenClaw 小龙虾 AI 助手",
           "items": [
             {
-              "title": "小米、华为纷纷押注，OpenClaw 要「上车」了！ - 汽车之家",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Tbl9TRUU1Z1hvdzlPdERCZ0UwWk16NUpkekUwc2ZLM0MxWGE3MGVIeWdFdkl4dnJyeXlBa0FMQUdHdkNQSDFCZGdWajZnLUttQmJpeXRzU2g3VllaNVE?oc=5",
-              "source": "汽车之家",
-              "publishedAt": "Wed, 26 Aug 2026 16:49:46 GMT",
-              "summary": "小米、华为纷纷押注，OpenClaw 要「上车」了！ &nbsp;&nbsp; 汽车之家",
-              "channelId": "google_news"
-            },
-            {
-              "title": "开源电子书工具 Calibre 9.14 发布：首次引入 AI 生成封面",
-              "link": "https://www.ithome.com/0/995/569.htm",
+              "title": "国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB",
+              "link": "https://www.ithome.com/0/995/893.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 06:12:37 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:59:25 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "Anthropic 推出 MHS 标准，首度重拳杀入物理 AI 领域",
-              "link": "https://www.ithome.com/0/995/514.htm",
+              "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
+              "link": "https://www.ithome.com/0/995/891.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 04:46:12 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:40:50 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "中国人民银行 9 月 4 日发行科创未来（人工智能）金银纪念币，图案含芯片、电路纹理等",
-              "link": "https://www.ithome.com/0/995/492.htm",
+              "title": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
+              "link": "https://www.ithome.com/0/995/874.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:20:02 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 02:21:24 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "国家发改委：发展机器人产业必须因地制宜，防止盲目跟风、一哄而上",
-              "link": "https://www.ithome.com/0/995/481.htm",
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:04:28 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "消息称某厂新平板搭载 12.5 英寸 LCD 屏、骁龙 8 Gen5，预计为小米平板 9 Pro",
-              "link": "https://www.ithome.com/0/995/470.htm",
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:51:42 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "全球最小：万代推出电子宠物戒指，0.56 英寸彩屏、体积较 30 年前初代缩小 56%",
-              "link": "https://www.ithome.com/0/995/469.htm",
+              "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
+              "link": "https://www.ithome.com/0/995/847.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:50:20 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "Alphacool 推出 Core 2 LT CPU 一体式液冷：铜质 25mm 冷排",
-              "link": "https://www.ithome.com/0/995/453.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:38:37 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "苹果史上最高互连密度：曝 M6 Pro / Max 芯片仍在推进，首次采用台积电双封装组合",
-              "link": "https://www.ithome.com/0/995/421.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:27:03 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "小米智能存储升级 1.0.8.425 版本：相册支持节日搜索，影视库新增合集管理",
-              "link": "https://www.ithome.com/0/995/411.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:22:53 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:11:17 GMT",
               "channelId": "ithome_ai"
             },
             {
@@ -721,13 +375,6 @@
               "link": "http://www.geekpark.net/news/369401",
               "source": "极客公园",
               "publishedAt": "Wed, 26 Aug 2026 16:02:33 +0800",
-              "channelId": "geekpark_ai"
-            },
-            {
-              "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
-              "link": "http://www.geekpark.net/news/369344",
-              "source": "极客公园",
-              "publishedAt": "Tue, 25 Aug 2026 16:58:10 +0800",
               "channelId": "geekpark_ai"
             }
           ]
@@ -737,72 +384,24 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 华为 OR 京东 OR OpenAI OR Anthropic OR Google OR Microsoft OR Meta OR Amazon OR NVIDIA) AI",
           "items": [
             {
-              "title": "Meta预估每年在Anthropic AI支出最高可达100亿美元 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmJvR21TQ25FSGVWdVF6dUZnNDVqSDVySGNMaGd1TmpZYnk1Q1N6aG51S2hYemduNXhnS1lmemp0cVFyb2xlVFdzdE1iMGdzSjNsbXQ2bm9OckhoUTBidEphNjBxNjNLNUJQQ3I4ZkVGNUpQMVhYT0l0T2hpZ0RWLWY0YkxlVW8?oc=5",
-              "source": "新浪财经",
-              "publishedAt": "Thu, 27 Aug 2026 14:11:00 GMT",
-              "summary": "Meta预估每年在Anthropic AI支出最高可达100亿美元 &nbsp;&nbsp; 新浪财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "燃烧的Token！Meta每月为Anthropic AI模型支付数亿美元 - TOM科技",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UVGEyWXQzVEV3NnlFTnQzZWVqN3pGbWVVZDdFWUtSdW1hQTMwV3BHNnBYRG5mZk9vUjBELU51THY2aE5FYUM2T0NGODI5VjVFVjJNRTBR?oc=5",
-              "source": "TOM科技",
-              "publishedAt": "Fri, 28 Aug 2026 05:33:00 GMT",
-              "summary": "燃烧的Token！Meta每月为Anthropic AI模型支付数亿美元 &nbsp;&nbsp; TOM科技",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Meta预估每年在Anthropic AI支出最高可达100亿美元- 快讯 - 亿邦动力网",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CaDFkTUpIMG9RS3NVSFJaWXhHSUtZWnRCMWxqV1F6NUZ3TFZqZUNjUkM1OWM0VW5LRmRCa3ZDSkRJWjRGNUFzQ1NFellPSG5sZlV1TXdyMmc?oc=5",
-              "source": "亿邦动力网",
-              "publishedAt": "Fri, 28 Aug 2026 01:12:45 GMT",
-              "summary": "Meta预估每年在Anthropic AI支出最高可达100亿美元- 快讯 &nbsp;&nbsp; 亿邦动力网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "NVIDIA NIM 助力 UnitaryLab 构建本地推理与量子计算 AI Agent 工作流 - NVIDIA",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nb1JHQWhNeVo2Zk1SN0N5Z3p2R1FtN1BiZm1EdE1zeDZRLUFabExfRU5jeHB5b2FROUhGck53SW5lcFI1VFF4RmFiTlJWWXlyWlp0VktWcW41bHFXY3U1Ung5ZEZfbDd0TkE?oc=5",
-              "source": "NVIDIA",
-              "publishedAt": "Thu, 27 Aug 2026 10:33:52 GMT",
-              "summary": "NVIDIA NIM 助力 UnitaryLab 构建本地推理与量子计算 AI Agent 工作流 &nbsp;&nbsp; NVIDIA",
-              "channelId": "google_news"
-            },
-            {
-              "title": "打破AI烧钱魔咒！Anthropic销售额暴增 有望迎来首个季度盈利 - 财联社",
-              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?oc=5",
-              "source": "财联社",
-              "publishedAt": "Thu, 27 Aug 2026 21:36:40 GMT",
-              "summary": "打破AI烧钱魔咒！Anthropic销售额暴增 有望迎来首个季度盈利 &nbsp;&nbsp; 财联社",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Meta AI正式退出实验阶段，全面登陆Quest设备 - t.cj.sina.cn",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5ak80YW9lVGk3SUp3d1lCNUFsOVJWZ2RETkN6cWFuMTNTYzhMX0U0c3c0UHlRNkhGdnhhZHFPWVE3NlpjcXA4dHpoc1Z4dDlJbzFpMElpOHo1S3pwcmlpTVVfbl9oWEJJc2xWWnJBclg?oc=5",
-              "source": "t.cj.sina.cn",
-              "publishedAt": "Fri, 28 Aug 2026 02:46:39 GMT",
-              "summary": "Meta AI正式退出实验阶段，全面登陆Quest设备 &nbsp;&nbsp; t.cj.sina.cn",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Anthropic 推出 MHS 标准，首度重拳杀入物理 AI 领域",
-              "link": "https://www.ithome.com/0/995/514.htm",
+              "title": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
+              "link": "https://www.ithome.com/0/995/874.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 04:46:12 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 02:21:24 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "消息称某厂新平板搭载 12.5 英寸 LCD 屏、骁龙 8 Gen5，预计为小米平板 9 Pro",
-              "link": "https://www.ithome.com/0/995/470.htm",
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:51:42 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "小米智能存储升级 1.0.8.425 版本：相册支持节日搜索，影视库新增合集管理",
-              "link": "https://www.ithome.com/0/995/411.htm",
+              "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
+              "link": "https://www.ithome.com/0/995/847.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:22:53 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:11:17 GMT",
               "channelId": "ithome_ai"
             },
             {
@@ -813,45 +412,24 @@
               "channelId": "ifanr_ai"
             },
             {
-              "title": "开源电子书工具 Calibre 9.14 发布：首次引入 AI 生成封面",
-              "link": "https://www.ithome.com/0/995/569.htm",
+              "title": "国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB",
+              "link": "https://www.ithome.com/0/995/893.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 06:12:37 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:59:25 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "中国人民银行 9 月 4 日发行科创未来（人工智能）金银纪念币，图案含芯片、电路纹理等",
-              "link": "https://www.ithome.com/0/995/492.htm",
+              "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
+              "link": "https://www.ithome.com/0/995/891.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:20:02 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:40:50 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "国家发改委：发展机器人产业必须因地制宜，防止盲目跟风、一哄而上",
-              "link": "https://www.ithome.com/0/995/481.htm",
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:04:28 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "全球最小：万代推出电子宠物戒指，0.56 英寸彩屏、体积较 30 年前初代缩小 56%",
-              "link": "https://www.ithome.com/0/995/469.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:50:20 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "Alphacool 推出 Core 2 LT CPU 一体式液冷：铜质 25mm 冷排",
-              "link": "https://www.ithome.com/0/995/453.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:38:37 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "苹果史上最高互连密度：曝 M6 Pro / Max 芯片仍在推进，首次采用台积电双封装组合",
-              "link": "https://www.ithome.com/0/995/421.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:27:03 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
               "channelId": "ithome_ai"
             },
             {
@@ -859,20 +437,6 @@
               "link": "http://www.geekpark.net/news/369458",
               "source": "极客公园",
               "publishedAt": "Thu, 27 Aug 2026 15:09:02 +0800",
-              "channelId": "geekpark_ai"
-            },
-            {
-              "title": "苹果突袭发布 M6 与 M5 Ultra 芯片与新款 Mac Mini；字节发布 AI 办公产品「豆包工作」；SpaceX 拟千亿美元建设第二座「星际基地」｜极客早知道",
-              "link": "http://www.geekpark.net/news/369355",
-              "source": "极客公园",
-              "publishedAt": "Wed, 26 Aug 2026 08:10:18 +0800",
-              "channelId": "geekpark_ai"
-            },
-            {
-              "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
-              "link": "http://www.geekpark.net/news/369344",
-              "source": "极客公园",
-              "publishedAt": "Tue, 25 Aug 2026 16:58:10 +0800",
               "channelId": "geekpark_ai"
             },
             {
@@ -903,54 +467,6 @@
           "query": "AI 技术 突破",
           "items": [
             {
-              "title": "全球媒体聚焦 | 中国推动AI技术大规模应用 - 央广网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEUUhuajN3N0c4YjdXWW8ybFlDZUpkS1hHRGRzTUt3RFVIOHRpZFdvRmZ1aWdBNUxzeGlLbHBudDhUbE1NWlBwRTdXY3hhRzlCenN5YmQ3T0Myd0ZTQUtyOGkxWjBLTmJqQmVfbGo0Z3pKY2s3dXVyZ1I5YU9iSXc?oc=5",
-              "source": "央广网",
-              "publishedAt": "Fri, 28 Aug 2026 03:46:48 GMT",
-              "summary": "全球媒体聚焦 | 中国推动AI技术大规模应用 &nbsp;&nbsp; 央广网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "今日开播 | PCIe多流架构：AI互连性能突破的关键技术 - 电子工程专辑",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zbXJBLVZNS3doN25EcVRMYkJGanNfeExRbE9zaUktaFdwTWxZTjJFTEZPZVF4SnptemJRUTA0NFNZYzNyUDJtSFUySVk0NF9sY253?oc=5",
-              "source": "电子工程专辑",
-              "publishedAt": "Fri, 28 Aug 2026 04:04:00 GMT",
-              "summary": "今日开播 | PCIe多流架构：AI互连性能突破的关键技术 &nbsp;&nbsp; 电子工程专辑",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Robot Phone探路、Magic9破局：AI终端时代的荣耀答案 - 搜狐网",
-              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGl0RHNfa2VuVkwtbUFLNUppVmxlNXAwanVmdXZQRXR4aGlMLXlxcjNOREY4SXhjM1JsX09ESmpfYTItRVVyMDFmZTROSVRXdS1HdWxYM1lINUF4OXhxSUxCMnZud0pvaC1pR2ZCbW4wVXNkQWUyTjBQZDJocWdFTzdTemVmRUpfeUVPVQ?oc=5",
-              "source": "搜狐网",
-              "publishedAt": "Thu, 27 Aug 2026 10:14:17 GMT",
-              "summary": "Robot Phone探路、Magic9破局：AI终端时代的荣耀答案 &nbsp;&nbsp; 搜狐网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "全球媒体聚焦 | 中国推动AI技术大规模应用 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sNEFtWWZXbUhhRndfdW5VM1BnNnplYTY1NDh6SlRlMGVBbnRIM2pGSHRSMWF0UHZPUExZWHhvZW14bld6UWZkQU84Z3BsT2xybGktMnNnN29SZWxuN3lzME9CM3AwbVhBbjV2aUtyWXJLNWg3TGdraw?oc=5",
-              "source": "新浪财经",
-              "publishedAt": "Thu, 27 Aug 2026 12:45:00 GMT",
-              "summary": "全球媒体聚焦 | 中国推动AI技术大规模应用 &nbsp;&nbsp; 新浪财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "利欧股份：双主业协同筑牢经营韧性 “AI赋能+高端突破”蓄力长期增长 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LX05OQkZRamdkcWJXR3dsamowWEVmQnowNmM3ZDBvUjRNZHlPdjF5bC13TlRUUWJmV28wWW9zbjRFTk0ySGpReHdfUEVWTXgtMFB1Qk9xV3QxSUlva1FlTw?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Thu, 27 Aug 2026 16:59:29 GMT",
-              "summary": "利欧股份：双主业协同筑牢经营韧性 “AI赋能+高端突破”蓄力长期增长 &nbsp;&nbsp; 东方财富",
-              "channelId": "google_news"
-            },
-            {
-              "title": "OpenAI发布技术报告：详解AI模型如何突破Hugging Face安全防线 - 华尔街见闻",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yWmRCUzFjWVUzU196SUxVUFlFLW9wZlh4WXotdDA4WXJiWTI0djVKSElreGYyMzctTHBVaVAwNVd1YTJOTHRGZjlUZm9QNkQ5b1JZ?oc=5",
-              "source": "华尔街见闻",
-              "publishedAt": "Wed, 26 Aug 2026 21:02:13 GMT",
-              "summary": "OpenAI发布技术报告：详解AI模型如何突破Hugging Face安全防线 &nbsp;&nbsp; 华尔街见闻",
-              "channelId": "google_news"
-            },
-            {
               "title": "特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道",
               "link": "http://www.geekpark.net/news/369481",
               "source": "极客公园",
@@ -958,32 +474,18 @@
               "channelId": "geekpark_ai"
             },
             {
-              "title": "苹果突袭发布 M6 与 M5 Ultra 芯片与新款 Mac Mini；字节发布 AI 办公产品「豆包工作」；SpaceX 拟千亿美元建设第二座「星际基地」｜极客早知道",
-              "link": "http://www.geekpark.net/news/369355",
-              "source": "极客公园",
-              "publishedAt": "Wed, 26 Aug 2026 08:10:18 +0800",
-              "channelId": "geekpark_ai"
-            },
-            {
-              "title": "苹果 Mac mini M6 发布：两年涨 2500 块，AI 税反噬「龙虾神机」",
-              "link": "http://www.geekpark.net/news/369354",
-              "source": "极客公园",
-              "publishedAt": "Tue, 25 Aug 2026 22:46:38 +0800",
-              "channelId": "geekpark_ai"
-            },
-            {
-              "title": "开源电子书工具 Calibre 9.14 发布：首次引入 AI 生成封面",
-              "link": "https://www.ithome.com/0/995/569.htm",
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 06:12:37 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "AI让显示更美好！海信视像AI战略暨JUOS发布会",
-              "link": "https://news.mydrivers.com/1/1146/1146288.htm",
+              "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
+              "link": "https://www.ithome.com/0/995/847.htm",
               "source": "RSS",
-              "publishedAt": "2026-08-25 17:31:11",
-              "channelId": "mydrivers_ai"
+              "publishedAt": "Sat, 29 Aug 2026 00:11:17 GMT",
+              "channelId": "ithome_ai"
             }
           ]
         },
@@ -992,54 +494,6 @@
           "query": "AI 产品 交互 体验",
           "items": [
             {
-              "title": "人工智能消费发展研究报告（2026） - AgeClub",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95N29raFNaczNsVEN6bk9XN1VscWJxejlZODBRTmh2aThlano4cWVDYXF4dlRCVlVKaU1jSHctVHdvWlhGbUFlaHFzYWRra21QV3RvTQ?oc=5",
-              "source": "AgeClub",
-              "publishedAt": "Fri, 28 Aug 2026 00:52:54 GMT",
-              "summary": "人工智能消费发展研究报告（2026） &nbsp;&nbsp; AgeClub",
-              "channelId": "google_news"
-            },
-            {
-              "title": "1H’26消费级AI/AR市场销量同比增幅65%，AR成绝对增长主力 - 电子工程专辑",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qdm90OUdJZmNMcmZzYTF0bG1MZ0N4OUc5Y1A0aDhIZHVKVGt2WWFfU1YydFI5dDd0THdaalRXVHpaai1KSFdwS0Q4empLVGdiYnE4?oc=5",
-              "source": "电子工程专辑",
-              "publishedAt": "Fri, 28 Aug 2026 04:56:00 GMT",
-              "summary": "1H’26消费级AI/AR市场销量同比增幅65%，AR成绝对增长主力 &nbsp;&nbsp; 电子工程专辑",
-              "channelId": "google_news"
-            },
-            {
-              "title": "江苏移动赋能数智便民生活圈 | “AI小亭”携手“拾集”科技集市亮相南京社区 - 紫牛新闻",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSc3laUFhSNG1CZDRXbW1BT0xuaXJ5M1VsMkV3ZElhdlYtRVZDZWlocnBRNm5BOTVETUp2S0hYS2M3dmR2SlBOdHE3S3VpSVlFekwyTzd3QVpuUWdsZktrR0FvUlJIM0I3aHc?oc=5",
-              "source": "紫牛新闻",
-              "publishedAt": "Wed, 26 Aug 2026 03:39:00 GMT",
-              "summary": "江苏移动赋能数智便民生活圈 | “AI小亭”携手“拾集”科技集市亮相南京社区 &nbsp;&nbsp; 紫牛新闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "从内容消费到智能交互 开・云全站体育如何用AI重塑大屏体验新动能 - womenofchina.com",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80WkRSMzRZaXZBOWF0b3FIR3JwMndEeERieDlmcTJ3c1NkcjlyMV9NOGI5NXp4QzRKME1pRElOUWkyQUdHZDFtZUUyWnl1WjUwSDhEeGExWjF4bFQ5VmxmOG9NTVZMWjBMMEcw?oc=5",
-              "source": "womenofchina.com",
-              "publishedAt": "Thu, 27 Aug 2026 05:54:44 GMT",
-              "summary": "从内容消费到智能交互 开・云全站体育如何用AI重塑大屏体验新动能 &nbsp;&nbsp; womenofchina.com",
-              "channelId": "google_news"
-            },
-            {
-              "title": "瑞德智能×巨晟科技：AI语音盒子重磅落地，智能体开启无限想象 - 同花顺财经",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PYm1yZ2pvUFMwN1NmREJVM2wwUDNDcVlCbUdGYno0eDllUW5aV3l5QkhpQXpQTHhxeFI2RnFzLV93LTBsZ1VlRTVwQ0ljVG1pVFRaX1FkT3hLNFd5M19qTm13?oc=5",
-              "source": "同花顺财经",
-              "publishedAt": "Wed, 26 Aug 2026 02:33:59 GMT",
-              "summary": "瑞德智能×巨晟科技：AI语音盒子重磅落地，智能体开启无限想象 &nbsp;&nbsp; 同花顺财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "从一颗模组到一个平台，澜存科技如何让 AI 进入真实终端 - 中华网",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VOHA0enQ3VDI5VzRobm5kb1JkM3hYM1lPMUxFR05XMElTY2l2b1JHc3M2UFFtOW9fakN6SkhEdlBGZUs0bjdfOTRNODB4MlFNVXBmMFlBdy05M3FrU0VwdjJJNVdla1R5aDdKRg?oc=5",
-              "source": "中华网",
-              "publishedAt": "Thu, 27 Aug 2026 07:23:57 GMT",
-              "summary": "从一颗模组到一个平台，澜存科技如何让 AI 进入真实终端 &nbsp;&nbsp; 中华网",
-              "channelId": "google_news"
-            },
-            {
               "title": "从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？",
               "link": "http://www.geekpark.net/news/369401",
               "source": "极客公园",
@@ -1047,133 +501,36 @@
               "channelId": "geekpark_ai"
             },
             {
-              "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
-              "link": "http://www.geekpark.net/news/369344",
-              "source": "极客公园",
-              "publishedAt": "Tue, 25 Aug 2026 16:58:10 +0800",
-              "channelId": "geekpark_ai"
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
+              "channelId": "ithome_ai"
             }
           ]
         },
         {
           "title": "产品范式",
           "query": "AI 产品 发布",
-          "items": [
-            {
-              "title": "AI办公群雄逐鹿，百度搭子发布专业办公一揽子升级 - 国际金融报",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fNVNxMUhZd1BwcjlVLTJoZ2Q5OXVhbDJKNXV5VndrRDFvMFRpSVVSaWtzSGFrUkJRWmJmclRlUzJlbFB0U2NzM1EtcEI4dHlqaXlCUndR?oc=5",
-              "source": "国际金融报",
-              "publishedAt": "Thu, 27 Aug 2026 10:03:00 GMT",
-              "summary": "AI办公群雄逐鹿，百度搭子发布专业办公一揽子升级 &nbsp;&nbsp; 国际金融报",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI办公智能体增速榜第一 百度搭子发布15个行业套件 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IdExyVWhPMWpSQ183akkxXy1ocHFBMHN6NElHNzRQX25Bak5hTDFfYXpyeVhLbUlWMFFRR0VIS05xYU9iV01WekpkMGpVMkFEejVyX0p4c09Sdno1WHFoOFRmbw?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Thu, 27 Aug 2026 23:41:45 GMT",
-              "summary": "AI办公智能体增速榜第一 百度搭子发布15个行业套件 &nbsp;&nbsp; 东方财富",
-              "channelId": "google_news"
-            },
-            {
-              "title": "观察｜巨头扎堆布局AI办公智能体，百度搭子用户增长近9倍，能赢得市场吗？ - thepaper.cn",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQaXdzUU5PTmM5NVFOVHVUZE1WNGNnSmZhZDA2MHJhWE1oX1VqUFNwQVVRU2l5WmV1OHJIdHVBQnJXaUpRV191T25ZR2NjY2ZaT2lLWFlUMHh0ZjNMTmdsMw?oc=5",
-              "source": "thepaper.cn",
-              "publishedAt": "Thu, 27 Aug 2026 13:42:00 GMT",
-              "summary": "观察｜巨头扎堆布局AI办公智能体，百度搭子用户增长近9倍，能赢得市场吗？ &nbsp;&nbsp; thepaper.cn",
-              "channelId": "google_news"
-            },
-            {
-              "title": "大厂混战AI办公，百度搭子靠什么抢占身位？|WorkBuddy|千问|Agent|豆包|Qwen_手机新浪网 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1BDVVduWWxta0NwSXF1Y2tOTlNQTTZLNnB2enY3SW40VzF4NkIyUU5EZHNzeW9uRkQxZHRjRXJ0RlYtcFk1R2JhWUxXckk1aFEtaEI3TVFQdmsyZmFVdTZQcFZHd096bFlLTDljUGxQYUJhNlp2OW1fc19sd2c3VW95MmF3cXZLYlBORkdrbmFGNm9HdU9qS2FuN0FwdXpBZ1ZUTGpMUQ?oc=5",
-              "source": "新浪财经",
-              "publishedAt": "Thu, 27 Aug 2026 11:32:41 GMT",
-              "summary": "大厂混战AI办公，百度搭子靠什么抢占身位？|WorkBuddy|千问|Agent|豆包|Qwen_手机新浪网 &nbsp;&nbsp; 新浪财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "鼎捷雅典娜-企业智能运行空间服务能力升级 重构企业数智运行范式 - 搜狐网",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQjhEYVpJcjYyNkF6ZWJlSTJqamxYcU9PdE9zY2F3dHZhOEpQd29MTGN5ZTlidktzaVI4YkVLcVl1TDlVWVpNTkYzeEpqVWVuNjh3RjkyVEVvUXN6Ynp4aWxrdjNnMU9ocDIwb0xDZkNieUFlS280SkNERTdIbzk3OFhSZExYNDBr?oc=5",
-              "source": "搜狐网",
-              "publishedAt": "Thu, 27 Aug 2026 16:20:00 GMT",
-              "summary": "鼎捷雅典娜-企业智能运行空间服务能力升级 重构企业数智运行范式 &nbsp;&nbsp; 搜狐网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "百度搭子宣布一揽子升级，提出“交付即惊艳”专业办公标准 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNkNXeHZCNGluYUp1bGpNWTJhMDRfekhHcEYxX0VxVmlZdmlReGFPUE1SNURnOTFnNmoyVHVPRTVZUzkzTE1TV3BOMHoyMWUtRGlxSkxEa1BpN1E1dFZ5VWxEWGtUd1h3UHBVUDJVRTlrZWFrV2d4bml2Mm81QmlHVjR0T0l6d3QwQWlkZWFKNzNla19MN3RXeFJMbmdreWQtLXctdHp2bl9CbzZnY0NJLTVxemUtMGdyd3o4ZUpEZkRFOF9aWWlidEF2Q2xuRTA?oc=5",
-              "source": "新浪财经",
-              "publishedAt": "Thu, 27 Aug 2026 09:43:00 GMT",
-              "summary": "百度搭子宣布一揽子升级，提出“交付即惊艳”专业办公标准 &nbsp;&nbsp; 新浪财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "苹果突袭发布 M6 与 M5 Ultra 芯片与新款 Mac Mini；字节发布 AI 办公产品「豆包工作」；SpaceX 拟千亿美元建设第二座「星际基地」｜极客早知道",
-              "link": "http://www.geekpark.net/news/369355",
-              "source": "极客公园",
-              "publishedAt": "Wed, 26 Aug 2026 08:10:18 +0800",
-              "channelId": "geekpark_ai"
-            },
-            {
-              "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
-              "link": "http://www.geekpark.net/news/369344",
-              "source": "极客公园",
-              "publishedAt": "Tue, 25 Aug 2026 16:58:10 +0800",
-              "channelId": "geekpark_ai"
-            }
-          ]
+          "items": []
         },
         {
           "title": "推理成本和 Token 经济",
           "query": "AI 推理 成本 Token",
           "items": [
             {
-              "title": "智谱认领“牛来”模型，实测：“牛马”友好 - InfoQ-CN",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUXpYYmhIX05rRkNlZUFVZW5RTkhFbk1xRV9DZnBCVVRPbEM1RTZqbVA4U3A3T2JEOHFLaDBpVEdjOHNjS3JEdTZMWXhCVGJtbkxOV1pGZ3gwRDRMMWc?oc=5",
-              "source": "InfoQ-CN",
-              "publishedAt": "Fri, 28 Aug 2026 03:35:35 GMT",
-              "summary": "智谱认领“牛来”模型，实测：“牛马”友好 &nbsp;&nbsp; InfoQ-CN",
-              "channelId": "google_news"
-            },
-            {
-              "title": "阿里智谱同日上新，每百万Tokens低至0.8元 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlFlakJvaXpKV0hfNTNaanNKenVtMUhZNmpIc2VQMW13Tkt2U1JSMmhVajZYWFhxUmY5Vk5FZHNOR0pvZHhBQWZhUGJHbUJ0VERRaWtBTkJ0V0hYUml2Y2dxX2ZDX2g0T0d2Z011bVV0YlctRkliQmNOQ0NGcFVmeVJaTjRQSzV2R0o0cWtUcDBuU0pOV3IxZHh6dGszYUZ4OERjUzNhOA?oc=5",
-              "source": "新浪财经",
-              "publishedAt": "Thu, 27 Aug 2026 19:32:34 GMT",
-              "summary": "阿里智谱同日上新，每百万Tokens低至0.8元 &nbsp;&nbsp; 新浪财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "三大运营商齐推Token套餐 AI算力“大众化”时代要来了？ - 财联社",
-              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZMGpPUGFlQVltd2tTZGRCWnNhQndzU1JqNmpuejFaMUNRODBhbTh4OHM0Q0wzZHRlMVNTM1R1WEhCTlo1VzJLbQ?oc=5",
-              "source": "财联社",
-              "publishedAt": "Wed, 26 Aug 2026 05:24:49 GMT",
-              "summary": "三大运营商齐推Token套餐 AI算力“大众化”时代要来了？ &nbsp;&nbsp; 财联社",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Token出海丨燧弘华创携手厦门移动跑通AI服务跨境交付全链路 - 新浪网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43YXc3N05MekpqMlBUVkFLZGZDS1E4QVNkRXZmVnZtdU5CenFYMGR1MGlLd25TbUNVamJBREZiMm9VdldGOXdVVmh5S2w0ZGl5eWpoYXdYck1LT1hrc0p2MVZmQTFOVkMzaEY5YkJfUmZPaThXTldJRFA1aXg1OFU?oc=5",
-              "source": "新浪网",
-              "publishedAt": "Thu, 27 Aug 2026 15:59:19 GMT",
-              "summary": "Token出海丨燧弘华创携手厦门移动跑通AI服务跨境交付全链路 &nbsp;&nbsp; 新浪网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "让每一个Token更高效，中兴通讯以OEX超节点构建开放AI算力底座- 产业链 - 光通信Pro",
-              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wQ3JnTGp3by1Xc1Q1OUpYMldEOE1Bb3VkWl9BV3g5elVrWl8xeUdUaGl0eUhLTXpEa3gzVnJNcDlqSnpweXhLTkJRcFRhbnJCQnRkYVJnZw?oc=5",
-              "source": "光通信Pro",
-              "publishedAt": "Thu, 27 Aug 2026 09:06:51 GMT",
-              "summary": "让每一个Token更高效，中兴通讯以OEX超节点构建开放AI算力底座- 产业链 &nbsp;&nbsp; 光通信Pro",
-              "channelId": "google_news"
-            },
-            {
-              "title": "调用量超DeepSeek两倍、57分比肩Opus 4.8：智谱“牛来”推动股价盘中涨超9% - 华尔街见闻",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxYXlaTFR4MUFRYkRjNUtZcWo5YlZFN0ktYkpkTVpUTDRFdkw2RjJWUTZURU5ONEstb2RWaGdmakJRd0YzUjFIS2dVNHRhc2p0VnJj?oc=5",
-              "source": "华尔街见闻",
-              "publishedAt": "Thu, 27 Aug 2026 04:06:32 GMT",
-              "summary": "调用量超DeepSeek两倍、57分比肩Opus 4.8：智谱“牛来”推动股价盘中涨超9% &nbsp;&nbsp; 华尔街见闻",
-              "channelId": "google_news"
+              "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
+              "link": "https://www.ithome.com/0/995/891.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 03:40:50 GMT",
+              "channelId": "ithome_ai"
             }
           ]
         },
@@ -1182,54 +539,6 @@
           "query": "AI 智能体",
           "items": [
             {
-              "title": "央行陆磊讲述智能体支付的四个“时代之问” 坚持规则和标准先行 - Caixin Global",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EWlRuZmQ5VUNXcFVSNm9NTzJrX0wwOTJicmZkcTZpQmg3Y3kxcmFKUVlKYmJoR01SSzJGbHU3eDAtNE4tTk5aOURXWVJBYjZtYkFuZ3FsbU9hQUJNVmt3NzJn?oc=5",
-              "source": "Caixin Global",
-              "publishedAt": "Fri, 28 Aug 2026 02:26:00 GMT",
-              "summary": "央行陆磊讲述智能体支付的四个“时代之问” 坚持规则和标准先行 &nbsp;&nbsp; Caixin Global",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Harness推出智能体就绪代码仓库与AI代码审查功能-AI应用 - 至顶网",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sSTdiaWZnSzZRd2hZSS1ud28wRDRyZ0xBc2lsTXU1bkJPS3Nwa3pTMkRxcDE0ODJCTDA2MXF4b2hEdE5mRzR3dXpDMDd0S2tYQS1BWVJkNll4WHp2SXJQdnU5Qk9IVEJfZ0pQbTRQWQ?oc=5",
-              "source": "至顶网",
-              "publishedAt": "Fri, 28 Aug 2026 05:01:07 GMT",
-              "summary": "Harness推出智能体就绪代码仓库与AI代码审查功能-AI应用 &nbsp;&nbsp; 至顶网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI开始自己“找活干”？OpenAI测试持久在线智能体 - 凤凰网科技",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXbjhKdWYwWUUwbERrd192SFZvV3BpMkplR19rREprclJMQ2ZyUzRTa1RkU3YxVU56aXdacl9kejJ0QWZrU3R3a1dFU2w?oc=5",
-              "source": "凤凰网科技",
-              "publishedAt": "Fri, 28 Aug 2026 01:26:29 GMT",
-              "summary": "AI开始自己“找活干”？OpenAI测试持久在线智能体 &nbsp;&nbsp; 凤凰网科技",
-              "channelId": "google_news"
-            },
-            {
-              "title": "前所未有的人工智能失控事件！最新内幕曝光 - 新浪网",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zdGU3SXJfS2V3ejVsM1U2T2hyUnN4RjhhOVNNSFZaY3pILVdSUWNCMWFmZnUxbk9JeGlsSk5hQjNZQkdFS21mZ2RSakNLb0ZOQmVKTjkzaG5sdDUtSU9pbDFKZjN6T3FOY1NrM1Q4cVpPaG84X0gtSDlfTWdNZw?oc=5",
-              "source": "新浪网",
-              "publishedAt": "Fri, 28 Aug 2026 05:26:26 GMT",
-              "summary": "前所未有的人工智能失控事件！最新内幕曝光 &nbsp;&nbsp; 新浪网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI智能体开发人才需求大涨244% 复合型人才成抢手货 - 中华网",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ySHAxZ1ZoTWIyaENYYmxYYTlKOENZVHZCcjVsZnBmYUhxaTFDeS1VZHVsMW02ckU0aVUwYkU5b3pZRHpQLW9OWVluM084LXl0eko1NDNJb2hfUVplcDRsUHpWWURqbVBTb0dCTUdLQ04?oc=5",
-              "source": "中华网",
-              "publishedAt": "Fri, 28 Aug 2026 02:10:04 GMT",
-              "summary": "AI智能体开发人才需求大涨244% 复合型人才成抢手货 &nbsp;&nbsp; 中华网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "“数智有为码开新篇”企业快成长AI创新沙龙以智能之力激活企业发展新动能- 社会 - 东南网",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PQldybFdaZ3NWRVcxSWkwUV8yTEJ3WkhCeTV1LWMxR1ZxTk40LWxTWlA2MWV6T1k2QmZwRU5jckNyb0NsOFFCWHpYWXBFYW9YbmlJSkdFb1FILUVrbUktMFFZMHRmZw?oc=5",
-              "source": "东南网",
-              "publishedAt": "Fri, 28 Aug 2026 03:24:00 GMT",
-              "summary": "“数智有为码开新篇”企业快成长AI创新沙龙以智能之力激活企业发展新动能- 社会 &nbsp;&nbsp; 东南网",
-              "channelId": "google_news"
-            },
-            {
               "title": "从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？",
               "link": "http://www.geekpark.net/news/369401",
               "source": "极客公园",
@@ -1237,11 +546,11 @@
               "channelId": "geekpark_ai"
             },
             {
-              "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
-              "link": "http://www.geekpark.net/news/369344",
-              "source": "极客公园",
-              "publishedAt": "Tue, 25 Aug 2026 16:58:10 +0800",
-              "channelId": "geekpark_ai"
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
+              "channelId": "ithome_ai"
             }
           ]
         },
@@ -1249,54 +558,6 @@
           "title": "商业 ROI",
           "query": "AI 商业化 ROI",
           "items": [
-            {
-              "title": "春潮渐起，价值终将落地——AI机器人秋季策略报告 - 新浪网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kTFpQY2RMcHJwcTh6YzZKaWpIVUlMN1E3VW5OV1dmam9LdnU2a3RmNUlWT2lNQlR3Nm9tNjVaWjFnbTg3T19HRDE3c3F5WDNrUTE2c1hSc3E0cE0yQXZyZFVXUTVBdDBUakd2eFVqNE1MT3p6cUNJMlRDUVpwM0U?oc=5",
-              "source": "新浪网",
-              "publishedAt": "Thu, 27 Aug 2026 14:26:04 GMT",
-              "summary": "春潮渐起，价值终将落地——AI机器人秋季策略报告 &nbsp;&nbsp; 新浪网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "企业AI投资持续扩大，但ROI难以量化-人工智能 - 至顶网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MSUxFNnlNQnV6ZHY4SHBteG9yTThWbVpnYUlPcTVSNkMzbkFrQkx3cjJPcDZELWJ6YjZ1MnpfYVR0LW8wUVJhN1V0ek55Mk11NVJaQW5NTm51ZElSMHc?oc=5",
-              "source": "至顶网",
-              "publishedAt": "Thu, 27 Aug 2026 05:07:01 GMT",
-              "summary": "企业AI投资持续扩大，但ROI难以量化-人工智能 &nbsp;&nbsp; 至顶网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "计算机行业深度报告世界模型从“生成世界”到“控制世界”，物理AI打开工业软件与自动化重估空间- 东吴证券 - 发现报告",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wcEI2d05DVkNoUFp6MC0xSTN3ZnhmWVNuRk5lb1B0ME44aC1GRVhCMWNBVnlYdUJ5WHNzU18ybXlaMlhZcWVhbUhVUmtqcUVm?oc=5",
-              "source": "发现报告",
-              "publishedAt": "Thu, 27 Aug 2026 03:24:32 GMT",
-              "summary": "计算机行业深度报告世界模型从“生成世界”到“控制世界”，物理AI打开工业软件与自动化重估空间- 东吴证券 &nbsp;&nbsp; 发现报告",
-              "channelId": "google_news"
-            },
-            {
-              "title": "德勤报告：逾三成企业跨团队部署AI 近半称ROI低于预期 - 观点网",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EeEVCaGJKaDhkZUUwSGtzbWJtaWQ3SVRncGhLWWE1MU9KM3lDWXYwbnZLOGlLSS1ITVFKYXBjcHJVX1F6Vl9qQ3FBVXdoVWxQM0VWQ2J3eWZtZlpqbHh2NkFn?oc=5",
-              "source": "观点网",
-              "publishedAt": "Tue, 25 Aug 2026 12:17:43 GMT",
-              "summary": "德勤报告：逾三成企业跨团队部署AI 近半称ROI低于预期 &nbsp;&nbsp; 观点网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "英伟达黄仁勋：AI已迈过商业化拐点，全球产业进入AI变现时代 - t.cj.sina.cn",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oRVU5NlNobWNoM0ppSkxpQ3J1cU5YbHp4T2JENFJDUDRRNnNPcnpFcmVkbU1aY3VUeWx2N1RmbFJMUmR6elAzUndWdDNFV3YzbHd5Q1VmZ0xZSUtZM1BRODdmZUQ3aTRJNFZEYnQzRHo?oc=5",
-              "source": "t.cj.sina.cn",
-              "publishedAt": "Wed, 26 Aug 2026 22:36:16 GMT",
-              "summary": "英伟达黄仁勋：AI已迈过商业化拐点，全球产业进入AI变现时代 &nbsp;&nbsp; t.cj.sina.cn",
-              "channelId": "google_news"
-            },
-            {
-              "title": "2024生产制造企业AI应用落地指南 正穿越商业化拐点重塑产业价值 - 36 Kr",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nNlBqZHRTOU1SVC1wbXR5RkxkVlhoOXJ1T3JQLVZ0Q0Y4RkdyNzhRSkFjcjUxMXh5YVdGdkpuMGVlc0FYX0FBdElyMGV4R3NOSGg0?oc=5",
-              "source": "36 Kr",
-              "publishedAt": "Wed, 26 Aug 2026 16:45:00 GMT",
-              "summary": "2024生产制造企业AI应用落地指南 正穿越商业化拐点重塑产业价值 &nbsp;&nbsp; 36 Kr",
-              "channelId": "google_news"
-            },
             {
               "title": "特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道",
               "link": "http://www.geekpark.net/news/369481",
@@ -1343,41 +604,41 @@
           "symbol": "002230.SZ",
           "name": "科大讯飞",
           "currency": "CNY",
-          "price": 40.11000061035156,
+          "price": 40.060001373291016,
           "previousClose": 39.349998474121094,
-          "changePct": 1.9313905100410398
+          "changePct": 1.8043276409193818
         },
         {
           "symbol": "300308.SZ",
           "name": "中际旭创",
           "currency": "CNY",
-          "price": 864.3400268554688,
+          "price": 858.3499755859375,
           "previousClose": 846,
-          "changePct": 2.167851874168883
+          "changePct": 1.4598079888815012
         },
         {
           "symbol": "688111.SS",
           "name": "金山办公",
           "currency": "CNY",
-          "price": 243.3800048828125,
+          "price": 241.3000030517578,
           "previousClose": 234.75,
-          "changePct": 3.6762534112087324
+          "changePct": 2.790203642921326
         },
         {
           "symbol": "600570.SS",
           "name": "恒生电子",
           "currency": "CNY",
-          "price": 22.100000381469727,
+          "price": 21.969999313354492,
           "previousClose": 21.350000381469727,
-          "changePct": 3.512880499294728
+          "changePct": 2.9039762098687376
         },
         {
           "symbol": "002415.SZ",
           "name": "海康威视",
           "currency": "CNY",
-          "price": 35.29999923706055,
+          "price": 35.099998474121094,
           "previousClose": 34.75,
-          "changePct": 1.582731617440423
+          "changePct": 1.0071898535858814
         }
       ],
       "channels": [
@@ -1395,7 +656,7 @@
         },
         {
           "channelId": "geekpark_ai",
-          "count": 9
+          "count": 6
         },
         {
           "channelId": "ifanr_ai",
@@ -1403,11 +664,11 @@
         },
         {
           "channelId": "ithome_ai",
-          "count": 9
+          "count": 6
         },
         {
           "channelId": "mydrivers_ai",
-          "count": 1
+          "count": 0
         },
         {
           "channelId": "zol_ai",
@@ -1434,7 +695,15 @@
           "count": 0
         }
       ],
-      "diagnostics": []
+      "diagnostics": [
+        {
+          "days": 3,
+          "section": "产品范式",
+          "reason": "still-empty",
+          "googleBaseCount": 0,
+          "scoredPoolSize": 0
+        }
+      ]
     },
     "7": {
       "sections": [
@@ -1443,74 +712,45 @@
           "query": "OpenClaw 小龙虾 AI 助手",
           "items": [
             {
-              "title": "小米、华为纷纷押注，OpenClaw 要「上车」了！ - 汽车之家",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Tbl9TRUU1Z1hvdzlPdERCZ0UwWk16NUpkekUwc2ZLM0MxWGE3MGVIeWdFdkl4dnJyeXlBa0FMQUdHdkNQSDFCZGdWajZnLUttQmJpeXRzU2g3VllaNVE?oc=5",
-              "source": "汽车之家",
-              "publishedAt": "Wed, 26 Aug 2026 16:49:46 GMT",
-              "summary": "小米、华为纷纷押注，OpenClaw 要「上车」了！ &nbsp;&nbsp; 汽车之家",
-              "channelId": "google_news"
-            },
-            {
-              "title": "开源电子书工具 Calibre 9.14 发布：首次引入 AI 生成封面",
-              "link": "https://www.ithome.com/0/995/569.htm",
+              "title": "国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB",
+              "link": "https://www.ithome.com/0/995/893.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 06:12:37 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:59:25 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "Anthropic 推出 MHS 标准，首度重拳杀入物理 AI 领域",
-              "link": "https://www.ithome.com/0/995/514.htm",
+              "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
+              "link": "https://www.ithome.com/0/995/891.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 04:46:12 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:40:50 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "中国人民银行 9 月 4 日发行科创未来（人工智能）金银纪念币，图案含芯片、电路纹理等",
-              "link": "https://www.ithome.com/0/995/492.htm",
+              "title": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
+              "link": "https://www.ithome.com/0/995/874.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:20:02 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 02:21:24 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "国家发改委：发展机器人产业必须因地制宜，防止盲目跟风、一哄而上",
-              "link": "https://www.ithome.com/0/995/481.htm",
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:04:28 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "消息称某厂新平板搭载 12.5 英寸 LCD 屏、骁龙 8 Gen5，预计为小米平板 9 Pro",
-              "link": "https://www.ithome.com/0/995/470.htm",
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:51:42 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "全球最小：万代推出电子宠物戒指，0.56 英寸彩屏、体积较 30 年前初代缩小 56%",
-              "link": "https://www.ithome.com/0/995/469.htm",
+              "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
+              "link": "https://www.ithome.com/0/995/847.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:50:20 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "Alphacool 推出 Core 2 LT CPU 一体式液冷：铜质 25mm 冷排",
-              "link": "https://www.ithome.com/0/995/453.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:38:37 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "苹果史上最高互连密度：曝 M6 Pro / Max 芯片仍在推进，首次采用台积电双封装组合",
-              "link": "https://www.ithome.com/0/995/421.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:27:03 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "小米智能存储升级 1.0.8.425 版本：相册支持节日搜索，影视库新增合集管理",
-              "link": "https://www.ithome.com/0/995/411.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:22:53 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:11:17 GMT",
               "channelId": "ithome_ai"
             },
             {
@@ -1534,56 +774,24 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 华为 OR 京东 OR OpenAI OR Anthropic OR Google OR Microsoft OR Meta OR Amazon OR NVIDIA) AI",
           "items": [
             {
-              "title": "Meta预估每年在Anthropic AI支出最高可达100亿美元 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmJvR21TQ25FSGVWdVF6dUZnNDVqSDVySGNMaGd1TmpZYnk1Q1N6aG51S2hYemduNXhnS1lmemp0cVFyb2xlVFdzdE1iMGdzSjNsbXQ2bm9OckhoUTBidEphNjBxNjNLNUJQQ3I4ZkVGNUpQMVhYT0l0T2hpZ0RWLWY0YkxlVW8?oc=5",
-              "source": "新浪财经",
-              "publishedAt": "Thu, 27 Aug 2026 14:11:00 GMT",
-              "summary": "Meta预估每年在Anthropic AI支出最高可达100亿美元 &nbsp;&nbsp; 新浪财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "NVIDIA NIM 助力 UnitaryLab 构建本地推理与量子计算 AI Agent 工作流 - NVIDIA",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nb1JHQWhNeVo2Zk1SN0N5Z3p2R1FtN1BiZm1EdE1zeDZRLUFabExfRU5jeHB5b2FROUhGck53SW5lcFI1VFF4RmFiTlJWWXlyWlp0VktWcW41bHFXY3U1Ung5ZEZfbDd0TkE?oc=5",
-              "source": "NVIDIA",
-              "publishedAt": "Thu, 27 Aug 2026 10:33:52 GMT",
-              "summary": "NVIDIA NIM 助力 UnitaryLab 构建本地推理与量子计算 AI Agent 工作流 &nbsp;&nbsp; NVIDIA",
-              "channelId": "google_news"
-            },
-            {
-              "title": "摩根大通：市场对阿里配股反应过度，阿里、腾讯、百度AI融资路径各不相同 - 华尔街见闻",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vLTZMZHBBU3R0S2R3OUVYcHVyc0FYOGtzRm14M1dCS09UcDNReXRubV9NbzhYczRVLXV5LUszM2JZQmxyOGpIYmdhbWxGZzNNU0R3?oc=5",
-              "source": "华尔街见闻",
-              "publishedAt": "Wed, 26 Aug 2026 08:07:40 GMT",
-              "summary": "摩根大通：市场对阿里配股反应过度，阿里、腾讯、百度AI融资路径各不相同 &nbsp;&nbsp; 华尔街见闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "百度2026年Q2营收313亿元同比降4% 净利润骤降68% AI云增长50%但自由现金流转负 - 虎嗅",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96b1RRY2paXzlMelRYdnNHZ1R0VjZxcXRJcUtCNjZkYkx1S0xDNmRnbUUxS0lSOVdhQldlbzNwYkxHamF1ZjNSVHV0V3QxeUY2UnBqUw?oc=5",
-              "source": "虎嗅",
-              "publishedAt": "Fri, 21 Aug 2026 09:47:08 GMT",
-              "summary": "百度2026年Q2营收313亿元同比降4% 净利润骤降68% AI云增长50%但自由现金流转负 &nbsp;&nbsp; 虎嗅",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Anthropic 推出 MHS 标准，首度重拳杀入物理 AI 领域",
-              "link": "https://www.ithome.com/0/995/514.htm",
+              "title": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
+              "link": "https://www.ithome.com/0/995/874.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 04:46:12 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 02:21:24 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "消息称某厂新平板搭载 12.5 英寸 LCD 屏、骁龙 8 Gen5，预计为小米平板 9 Pro",
-              "link": "https://www.ithome.com/0/995/470.htm",
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:51:42 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "小米智能存储升级 1.0.8.425 版本：相册支持节日搜索，影视库新增合集管理",
-              "link": "https://www.ithome.com/0/995/411.htm",
+              "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
+              "link": "https://www.ithome.com/0/995/847.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:22:53 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:11:17 GMT",
               "channelId": "ithome_ai"
             },
             {
@@ -1601,45 +809,24 @@
               "channelId": "ifanr_ai"
             },
             {
-              "title": "开源电子书工具 Calibre 9.14 发布：首次引入 AI 生成封面",
-              "link": "https://www.ithome.com/0/995/569.htm",
+              "title": "国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB",
+              "link": "https://www.ithome.com/0/995/893.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 06:12:37 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:59:25 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "中国人民银行 9 月 4 日发行科创未来（人工智能）金银纪念币，图案含芯片、电路纹理等",
-              "link": "https://www.ithome.com/0/995/492.htm",
+              "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
+              "link": "https://www.ithome.com/0/995/891.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:20:02 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:40:50 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "国家发改委：发展机器人产业必须因地制宜，防止盲目跟风、一哄而上",
-              "link": "https://www.ithome.com/0/995/481.htm",
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:04:28 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "全球最小：万代推出电子宠物戒指，0.56 英寸彩屏、体积较 30 年前初代缩小 56%",
-              "link": "https://www.ithome.com/0/995/469.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:50:20 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "Alphacool 推出 Core 2 LT CPU 一体式液冷：铜质 25mm 冷排",
-              "link": "https://www.ithome.com/0/995/453.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:38:37 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "苹果史上最高互连密度：曝 M6 Pro / Max 芯片仍在推进，首次采用台积电双封装组合",
-              "link": "https://www.ithome.com/0/995/421.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:27:03 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
               "channelId": "ithome_ai"
             },
             {
@@ -1678,13 +865,6 @@
               "channelId": "geekpark_ai"
             },
             {
-              "title": "从单点突破到全数 SOTA，阿里打响「模型团战」第一枪",
-              "link": "http://www.geekpark.net/news/369200",
-              "source": "极客公园",
-              "publishedAt": "Fri, 21 Aug 2026 18:15:12 +0800",
-              "channelId": "geekpark_ai"
-            },
-            {
               "title": "为什么苹果、小米的 AI 电脑，都在死磕「内存墙」｜AI 器物志",
               "link": "https://www.ifanr.com/1676852?utm_source=rss&utm_medium=rss&utm_campaign=",
               "source": "爱范儿",
@@ -1712,61 +892,6 @@
           "query": "AI 技术 突破",
           "items": [
             {
-              "title": "全球媒体聚焦 | 中国推动AI技术大规模应用 - 央广网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEUUhuajN3N0c4YjdXWW8ybFlDZUpkS1hHRGRzTUt3RFVIOHRpZFdvRmZ1aWdBNUxzeGlLbHBudDhUbE1NWlBwRTdXY3hhRzlCenN5YmQ3T0Myd0ZTQUtyOGkxWjBLTmJqQmVfbGo0Z3pKY2s3dXVyZ1I5YU9iSXc?oc=5",
-              "source": "央广网",
-              "publishedAt": "Fri, 28 Aug 2026 03:46:48 GMT",
-              "summary": "全球媒体聚焦 | 中国推动AI技术大规模应用 &nbsp;&nbsp; 央广网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "星空・体育中国综合：2026年AI芯片技术突破引领智能计算新纪元 - womenofchina.com",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zdEliNXVaeTdoSWNwenZ5d0gzVS1Mc0o5TEo3czdCNWp0dHlLV2JOUVNlZ3BUUmxQNFd5cW5wNEtjLTcwM1hVM0lUWDZkdXd6eE1qV0J1UlE2c092dkZRd2NFYUE1bEwzcmhV?oc=5",
-              "source": "womenofchina.com",
-              "publishedAt": "Fri, 21 Aug 2026 16:06:24 GMT",
-              "summary": "星空・体育中国综合：2026年AI芯片技术突破引领智能计算新纪元 &nbsp;&nbsp; womenofchina.com",
-              "channelId": "google_news"
-            },
-            {
-              "title": "OpenAI发布技术报告：详解AI模型如何突破Hugging Face安全防线 - 华尔街见闻",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yWmRCUzFjWVUzU196SUxVUFlFLW9wZlh4WXotdDA4WXJiWTI0djVKSElreGYyMzctTHBVaVAwNVd1YTJOTHRGZjlUZm9QNkQ5b1JZ?oc=5",
-              "source": "华尔街见闻",
-              "publishedAt": "Wed, 26 Aug 2026 21:02:13 GMT",
-              "summary": "OpenAI发布技术报告：详解AI模型如何突破Hugging Face安全防线 &nbsp;&nbsp; 华尔街见闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "利欧股份：双主业协同筑牢经营韧性 “AI赋能+高端突破”蓄力长期增长 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LX05OQkZRamdkcWJXR3dsamowWEVmQnowNmM3ZDBvUjRNZHlPdjF5bC13TlRUUWJmV28wWW9zbjRFTk0ySGpReHdfUEVWTXgtMFB1Qk9xV3QxSUlva1FlTw?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Thu, 27 Aug 2026 16:59:29 GMT",
-              "summary": "利欧股份：双主业协同筑牢经营韧性 “AI赋能+高端突破”蓄力长期增长 &nbsp;&nbsp; 东方财富",
-              "channelId": "google_news"
-            },
-            {
-              "title": "本周五 | PCIe多流架构：AI互连性能突破的关键技术 - 电子工程专辑",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GRGV1cXpuSUVmdHNBc2MtQkZYRGo4QU44QXRMM0Z6aDE2Qi1OTGFadVRQV3pXcnpfTjd3cmQ3UDRhY3lObmdsZ0hqdTF3akh2dFpR?oc=5",
-              "source": "电子工程专辑",
-              "publishedAt": "Wed, 26 Aug 2026 11:54:00 GMT",
-              "summary": "本周五 | PCIe多流架构：AI互连性能突破的关键技术 &nbsp;&nbsp; 电子工程专辑",
-              "channelId": "google_news"
-            },
-            {
-              "title": "CIOE 2026｜VIAVI将展示突破性AI算力网络与光测试前沿技术 - 通信世界网",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wN3AzM045RjRzRWZOWHVLWE4wa0xjdkFGNjBMV19OWFlyRk9IVnlzdWZIazdJdVJMdTBPNEpjbTR4QW1OcGNPaGlOWjJXZVk0?oc=5",
-              "source": "通信世界网",
-              "publishedAt": "Tue, 25 Aug 2026 10:01:00 GMT",
-              "summary": "CIOE 2026｜VIAVI将展示突破性AI算力网络与光测试前沿技术 &nbsp;&nbsp; 通信世界网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "从单点突破到全数 SOTA，阿里打响「模型团战」第一枪",
-              "link": "http://www.geekpark.net/news/369200",
-              "source": "极客公园",
-              "publishedAt": "Fri, 21 Aug 2026 18:15:12 +0800",
-              "channelId": "geekpark_ai"
-            },
-            {
               "title": "特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道",
               "link": "http://www.geekpark.net/news/369481",
               "source": "极客公园",
@@ -1788,10 +913,17 @@
               "channelId": "geekpark_ai"
             },
             {
-              "title": "开源电子书工具 Calibre 9.14 发布：首次引入 AI 生成封面",
-              "link": "https://www.ithome.com/0/995/569.htm",
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 06:12:37 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
+              "link": "https://www.ithome.com/0/995/847.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 00:11:17 GMT",
               "channelId": "ithome_ai"
             },
             {
@@ -1808,54 +940,6 @@
           "query": "AI 产品 交互 体验",
           "items": [
             {
-              "title": "江苏移动赋能数智便民生活圈 | “AI小亭”携手“拾集”科技集市亮相南京社区 - 紫牛新闻",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSc3laUFhSNG1CZDRXbW1BT0xuaXJ5M1VsMkV3ZElhdlYtRVZDZWlocnBRNm5BOTVETUp2S0hYS2M3dmR2SlBOdHE3S3VpSVlFekwyTzd3QVpuUWdsZktrR0FvUlJIM0I3aHc?oc=5",
-              "source": "紫牛新闻",
-              "publishedAt": "Wed, 26 Aug 2026 03:39:00 GMT",
-              "summary": "江苏移动赋能数智便民生活圈 | “AI小亭”携手“拾集”科技集市亮相南京社区 &nbsp;&nbsp; 紫牛新闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "CES2026丨188·金博体育app入口携手全球伙伴亮相拉斯维加斯，展示沉浸式交互新生态 - womenofchina.com",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wbHppOUozTkpLTnFlUTVDRFFVWW9YQW96U3FGMFpWRmFxMzJrdzh2T0VCWE9qeWtmNl9xTTlDZFF1NmFEM2pDLWhCY0hDUkpoRUtYdW5FZXZhcllz?oc=5",
-              "source": "womenofchina.com",
-              "publishedAt": "Sun, 23 Aug 2026 13:46:33 GMT",
-              "summary": "CES2026丨188·金博体育app入口携手全球伙伴亮相拉斯维加斯，展示沉浸式交互新生态 &nbsp;&nbsp; womenofchina.com",
-              "channelId": "google_news"
-            },
-            {
-              "title": "瑞德智能×巨晟科技：AI语音盒子重磅落地，智能体开启无限想象 - 同花顺财经",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PYm1yZ2pvUFMwN1NmREJVM2wwUDNDcVlCbUdGYno0eDllUW5aV3l5QkhpQXpQTHhxeFI2RnFzLV93LTBsZ1VlRTVwQ0ljVG1pVFRaX1FkT3hLNFd5M19qTm13?oc=5",
-              "source": "同花顺财经",
-              "publishedAt": "Wed, 26 Aug 2026 02:33:59 GMT",
-              "summary": "瑞德智能×巨晟科技：AI语音盒子重磅落地，智能体开启无限想象 &nbsp;&nbsp; 同花顺财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "望海潮丨AIGC，让青岛产业“长”出新动力 - 青岛日报",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xd3YydXprT25TeWE4VHVUTWY2dWl0TUVMTlBPOUhPSEFGdzBjRlQyaHlWa2lmTDRyd3EzV0pfb1F2c0JRZC1YU3o4NGtrTHZPejJxQkpkbTQ?oc=5",
-              "source": "青岛日报",
-              "publishedAt": "Tue, 25 Aug 2026 11:31:48 GMT",
-              "summary": "望海潮丨AIGC，让青岛产业“长”出新动力 &nbsp;&nbsp; 青岛日报",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Rabbit做了个“所有Agents的Agent” ，体验后我觉得Agent早就该长它这样 - 品玩",
-              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FTXhoMWVQa0d1TW1HMHpXQnB4RTg3LThla2lvSXdGc2xuMFdWUnQ3Z01vYmVGdDVfRzRHVzFjVHRuNWU2VDdVQQ?oc=5",
-              "source": "品玩",
-              "publishedAt": "Sun, 23 Aug 2026 02:47:37 GMT",
-              "summary": "Rabbit做了个“所有Agents的Agent” ，体验后我觉得Agent早就该长它这样 &nbsp;&nbsp; 品玩",
-              "channelId": "google_news"
-            },
-            {
-              "title": "专业数字人公司厂商推荐组合：AI数字人交互系统+展厅大屏一体机 - 搜狐网",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUlliR0NlVFhKcHRXU1RDV0hSUE5Hbi1UNWQ5U3RjSlByWmJuZU42WlZTRU42aFNuMEY2cnZNeTJ4TDF6U2Iza3VZNVNEa3Y4S2JOY3hHUEVNQnV3R1hmS3JWczN3WGRvU2RHbHozbDBleC1xQVVNTTdLTWtfRnlOS19vMEREUHo3?oc=5",
-              "source": "搜狐网",
-              "publishedAt": "Mon, 24 Aug 2026 07:45:29 GMT",
-              "summary": "专业数字人公司厂商推荐组合：AI数字人交互系统+展厅大屏一体机 &nbsp;&nbsp; 搜狐网",
-              "channelId": "google_news"
-            },
-            {
               "title": "从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？",
               "link": "http://www.geekpark.net/news/369401",
               "source": "极客公园",
@@ -1868,6 +952,20 @@
               "source": "极客公园",
               "publishedAt": "Tue, 25 Aug 2026 16:58:10 +0800",
               "channelId": "geekpark_ai"
+            },
+            {
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
+              "channelId": "ithome_ai"
             }
           ]
         },
@@ -1875,54 +973,6 @@
           "title": "产品范式",
           "query": "AI 产品 发布",
           "items": [
-            {
-              "title": "AI办公群雄逐鹿，百度搭子发布专业办公一揽子升级 - 国际金融报",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fNVNxMUhZd1BwcjlVLTJoZ2Q5OXVhbDJKNXV5VndrRDFvMFRpSVVSaWtzSGFrUkJRWmJmclRlUzJlbFB0U2NzM1EtcEI4dHlqaXlCUndR?oc=5",
-              "source": "国际金融报",
-              "publishedAt": "Thu, 27 Aug 2026 10:03:00 GMT",
-              "summary": "AI办公群雄逐鹿，百度搭子发布专业办公一揽子升级 &nbsp;&nbsp; 国际金融报",
-              "channelId": "google_news"
-            },
-            {
-              "title": "值得买发布2026年半年报：AI战略持续深化 创新业务加速落地 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84RGxXd2ZlUkhtRmt3dHZOR3NJQk55dWktcTNGLVRFWnZtbDNKaWVKNGhrdFVGdlhaSVF4MlFJN0hMQ1BLOFpydk5YcmMyTHl1RmJacy05dkJiWHUzekc4Rw?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Tue, 25 Aug 2026 09:20:20 GMT",
-              "summary": "值得买发布2026年半年报：AI战略持续深化 创新业务加速落地 &nbsp;&nbsp; 东方财富",
-              "channelId": "google_news"
-            },
-            {
-              "title": "字节办公AI多合一，“豆包工作”上场 - 京报网",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzUGNtaUNwTHRlbjF2a2lMMjNyUC1kWVE2T0ZncHZCTl9LdTBsQWNDWi1WYnNIWHlzYmxBSkZjSm4yTXNJNjByMnVsNjE3eGY0bDYwSUhtdXFfMnJLNlVnY1BsVjdyX1QwWl9qVjJEeU1qUQ?oc=5",
-              "source": "京报网",
-              "publishedAt": "Mon, 24 Aug 2026 16:10:20 GMT",
-              "summary": "字节办公AI多合一，“豆包工作”上场 &nbsp;&nbsp; 京报网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "观察｜巨头扎堆布局AI办公智能体，百度搭子用户增长近9倍，能赢得市场吗？ - thepaper.cn",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQaXdzUU5PTmM5NVFOVHVUZE1WNGNnSmZhZDA2MHJhWE1oX1VqUFNwQVVRU2l5WmV1OHJIdHVBQnJXaUpRV191T25ZR2NjY2ZaT2lLWFlUMHh0ZjNMTmdsMw?oc=5",
-              "source": "thepaper.cn",
-              "publishedAt": "Thu, 27 Aug 2026 13:42:00 GMT",
-              "summary": "观察｜巨头扎堆布局AI办公智能体，百度搭子用户增长近9倍，能赢得市场吗？ &nbsp;&nbsp; thepaper.cn",
-              "channelId": "google_news"
-            },
-            {
-              "title": "飞象老师发布3.0新版本：对话框里的教育AI超级产品 - 多知网",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zazBtZHFEaFdsRTFtRlNtUWRMRWhJSVdNcE5rSlUwSTVKZGZvQzJHMlZjWmhncEctWjgtOUh2Mmp0NVpsTXBPM3Bqa1dPZDNDTV85UExNSzZtZ1RtUFRzcDlHM2hIZldTeWc?oc=5",
-              "source": "多知网",
-              "publishedAt": "Mon, 24 Aug 2026 08:13:31 GMT",
-              "summary": "飞象老师发布3.0新版本：对话框里的教育AI超级产品 &nbsp;&nbsp; 多知网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "中国版“AI for Teacher”飞象老师发布新版本，再次拓展教育AI能力边界 - 新浪网",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tZjdEanRMOFQ1b1g1OExLempqV1RoUk1JV09GYy1vZzNfelhOakRnN1lhRzR5WG84UTNkY1ZnSUgyLWlHOWFtaUM2ZTRqWm0xc2RwLW53am5uS01ac0JDY3VoM3kyV1BLUERaSU1tbWFhTHF2dnZadk43SXoyQQ?oc=5",
-              "source": "新浪网",
-              "publishedAt": "Mon, 24 Aug 2026 10:39:47 GMT",
-              "summary": "中国版“AI for Teacher”飞象老师发布新版本，再次拓展教育AI能力边界 &nbsp;&nbsp; 新浪网",
-              "channelId": "google_news"
-            },
             {
               "title": "苹果突袭发布 M6 与 M5 Ultra 芯片与新款 Mac Mini；字节发布 AI 办公产品「豆包工作」；SpaceX 拟千亿美元建设第二座「星际基地」｜极客早知道",
               "link": "http://www.geekpark.net/news/369355",
@@ -1951,52 +1001,11 @@
           "query": "AI 推理 成本 Token",
           "items": [
             {
-              "title": "三大运营商齐推Token套餐 AI算力“大众化”时代要来了？ - 财联社",
-              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZMGpPUGFlQVltd2tTZGRCWnNhQndzU1JqNmpuejFaMUNRODBhbTh4OHM0Q0wzZHRlMVNTM1R1WEhCTlo1VzJLbQ?oc=5",
-              "source": "财联社",
-              "publishedAt": "Wed, 26 Aug 2026 05:24:49 GMT",
-              "summary": "三大运营商齐推Token套餐 AI算力“大众化”时代要来了？ &nbsp;&nbsp; 财联社",
-              "channelId": "google_news"
-            },
-            {
-              "title": "英伟达宣布Groq 3 LPX全面投产，Vera Rubin推理效率数倍提升，SpaceXAI加码智能体与太空AI - 华尔街见闻",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2V0x3UjMwemdBRkJnbmJ0YTNQXzJ3dHhxbHpGcVNYUnFYYlJOTTJrV3BZaHowbWx6aGNydmdISHNRSGViSWE2SXBUaWI0M0hqVWVv?oc=5",
-              "source": "华尔街见闻",
-              "publishedAt": "Mon, 24 Aug 2026 16:51:22 GMT",
-              "summary": "英伟达宣布Groq 3 LPX全面投产，Vera Rubin推理效率数倍提升，SpaceXAI加码智能体与太空AI &nbsp;&nbsp; 华尔街见闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "千问办公将95%日常任务交给标准模式，AI Agent进入成本竞争阶段 - cb.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4ZXF0ZVN6cUNQSU9RR0FCQi1ud25nczVtb182dllVTUZWdWFObUhjSEozMjV3QV9vbXdfWFRVcnhpUFZ3ZWNsT0Z1MXQwSjV4OG1IeGRsQkttV1FqQUZrQmkzTVo?oc=5",
-              "source": "cb.com.cn",
-              "publishedAt": "Thu, 27 Aug 2026 05:21:00 GMT",
-              "summary": "千问办公将95%日常任务交给标准模式，AI Agent进入成本竞争阶段 &nbsp;&nbsp; cb.com.cn",
-              "channelId": "google_news"
-            },
-            {
-              "title": "智谱认领“牛来”模型，实测：“牛马”友好 - InfoQ-CN",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUXpYYmhIX05rRkNlZUFVZW5RTkhFbk1xRV9DZnBCVVRPbEM1RTZqbVA4U3A3T2JEOHFLaDBpVEdjOHNjS3JEdTZMWXhCVGJtbkxOV1pGZ3gwRDRMMWc?oc=5",
-              "source": "InfoQ-CN",
-              "publishedAt": "Fri, 28 Aug 2026 03:35:35 GMT",
-              "summary": "智谱认领“牛来”模型，实测：“牛马”友好 &nbsp;&nbsp; InfoQ-CN",
-              "channelId": "google_news"
-            },
-            {
-              "title": "谷歌员工碰瓷的Ox大模型真身曝光：智谱最新模型，惊人算力全部跑在国产卡上 - 紫牛新闻",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zamI3bkI2ODZON0ZRc3F2ZF9hRm1ucjVvVm92WWdrNjh4Rzk0WDRXSGhEb2lQOFhtZHIzMm9sNE53Q3RweFBHOWlpSTU0RFZya0tnNjlmTUVVSGhKODBEOUpfQ28zT3FjT3c?oc=5",
-              "source": "紫牛新闻",
-              "publishedAt": "Thu, 27 Aug 2026 09:42:00 GMT",
-              "summary": "谷歌员工碰瓷的Ox大模型真身曝光：智谱最新模型，惊人算力全部跑在国产卡上 &nbsp;&nbsp; 紫牛新闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "网宿科技AI新品发布，让大模型用得稳、算得清、可管控|AI Agent|Token|成本|风险|升级_手机新浪网 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQLVEzdExoQVVrU3BERUFNUngyYTBSbEF6dGJMVEdZRzRvZ2h3SjVEd3AzWUl0UlcxSDlBUjlvdGtwRFRISkxvNHNUUWo3SHlwYnUyUGMtdV96SkZfRFlRSDVvVzJMNmZmelpZR1pnR3otcnJ6XzEzdk1DdTctMlVxYl9uTlNaZVl0RHhtdnRSdkZtVFIwX0tudUF3NHdNRVJ5N1RTdE1GMHdEVnFKcTI2OVJXRU9aRDd0VjA5R1lQUDVwZ25XNkc3UzZWYV9SNFFsRkRSRGp2NUxmZms5S2Y2dENOSjJTc1l3Snp1bE9VSjJjTkZ5RmhCWWxNSVRrOUlIY0RBSVVrQ0hRLUFMVVh6Snc1QQ?oc=5",
-              "source": "新浪财经",
-              "publishedAt": "Wed, 26 Aug 2026 18:56:15 GMT",
-              "summary": "网宿科技AI新品发布，让大模型用得稳、算得清、可管控|AI Agent|Token|成本|风险|升级_手机新浪网 &nbsp;&nbsp; 新浪财经",
-              "channelId": "google_news"
+              "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
+              "link": "https://www.ithome.com/0/995/891.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 03:40:50 GMT",
+              "channelId": "ithome_ai"
             }
           ]
         },
@@ -2004,54 +1013,6 @@
           "title": "代理式 AI",
           "query": "AI 智能体",
           "items": [
-            {
-              "title": "DeepSeek 开源 Harness：AI 智能体基础设施开始“拆分” - InfoQ-CN",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvVUtZSUlYTWl1SWtCTDk5eEluZmtxd0thekVZRUpLTHBWc3RoOXRPY051NUk0RGlCaHhueXRGcDAtV3pzdXF0VjFkU2ZDNzBqTXFyVTRQV0tkanFvc2c?oc=5",
-              "source": "InfoQ-CN",
-              "publishedAt": "Wed, 26 Aug 2026 10:05:38 GMT",
-              "summary": "DeepSeek 开源 Harness：AI 智能体基础设施开始“拆分” &nbsp;&nbsp; InfoQ-CN",
-              "channelId": "google_news"
-            },
-            {
-              "title": "让AI替你购物，“放权”到哪一步？——智能体商业的演进曲线– McKinsey Greater China - 麦肯锡",
-              "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOQ2h1NXA1dk56WU44ZU5SRDVJd0pQMVpRRFZQUTdwR01rbk1BS0pIOXNqR1VBRnVZb1o3Qjd2NjNzVTBjZzk2a2wzQXZ1RmlhZGdmTUw1bUg5TWktbUc1OVZYMWpqejJxdHFGVEJabXdCUFRVWDNTWm95RVI4VDl2cldOMzRFS3ZmLWJua1l5ZWg5cEVqbkpCZHJpeVlNVFlBVFllOGI1VHdTcWdzaTM1QlNuOGwxZjAtSFBQN1YzakFiR2JGQUFQMjQyWkdNa0szT0laQzhmTDFvNURIaktGSHhhWmJ3a3JtanotZnI4STN4a2dTMDFuTmdqS3g3emVVU0EtN2JmeXlrS3kzZVIzNllncXAtcmVyOXJpOXJRMA?oc=5",
-              "source": "麦肯锡",
-              "publishedAt": "Fri, 21 Aug 2026 13:26:11 GMT",
-              "summary": "让AI替你购物，“放权”到哪一步？——智能体商业的演进曲线– McKinsey Greater China &nbsp;&nbsp; 麦肯锡",
-              "channelId": "google_news"
-            },
-            {
-              "title": "让不同智能体一起干活，难在哪？ - 中国科技网",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ETE9wdERxNGdYSVRoYVU3dHVObjBRVEVMeXFVcGVuOFlkWjR3NF9mTnowSUJfUlJEa0JSTDRHMTUyNnlkVVNJWk1xd0NZcVNDZHRIUWlLWlpGcmU3cHkxaUsxeXA2SElqcHp1WGVmbDc?oc=5",
-              "source": "中国科技网",
-              "publishedAt": "Fri, 21 Aug 2026 10:33:41 GMT",
-              "summary": "让不同智能体一起干活，难在哪？ &nbsp;&nbsp; 中国科技网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "SpaceXAI 采用 NVIDIA Vera CPU，大规模加速智能体 AI 发展 - NVIDIA",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWG9LVWNpckhpd3NvN1NyR0VoaW5JdFJOQU4wN1N6RXJibEMxeUt6c3JnblRJRUZqV0R2Y09Ua005RlhuT3ZCV25zS2FfcFFlcnZrUXpkeUdXYVliaWEycy0tcTcwdkVUb2VTMjZlTHU3WFJISmNUTmNLSkQ3dEtBNXZJck96VXBVQk8zbE50WHZVR0VsejNjb2xOWjZoMURneVVPdEtR?oc=5",
-              "source": "NVIDIA",
-              "publishedAt": "Mon, 24 Aug 2026 07:00:00 GMT",
-              "summary": "SpaceXAI 采用 NVIDIA Vera CPU，大规模加速智能体 AI 发展 &nbsp;&nbsp; NVIDIA",
-              "channelId": "google_news"
-            },
-            {
-              "title": "海尔食联网发布数智美食AI智能体 - 人民网",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XbHlEUDc1T0tNRDFlNW9vOFFaRjZXaGtXdl9ZTlFna3RoeENVWmRWOWxrdXl2WklsMU84TFQ5RG9IN2ZrajFod193cFlLc2dpQk1MWmVpN3B1NG1oZU1FSG1GZE1UV05VWVVuLVNR?oc=5",
-              "source": "人民网",
-              "publishedAt": "Fri, 21 Aug 2026 10:36:00 GMT",
-              "summary": "海尔食联网发布数智美食AI智能体 &nbsp;&nbsp; 人民网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "大水冲了龙王庙OpenAI：失控AI智能体入侵了自家系统 - eeo.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1heE1zZFZVNUhvTHFZdVdJdTRHMXF6dkhxenhpVnFXUnhUZi1TOS1ydzByOEpmM08zejVKZDZXNEhEN25fWjdEMURFcl96LUR0dk1iNUFRT0c?oc=5",
-              "source": "eeo.com.cn",
-              "publishedAt": "Thu, 27 Aug 2026 01:56:53 GMT",
-              "summary": "大水冲了龙王庙OpenAI：失控AI智能体入侵了自家系统 &nbsp;&nbsp; eeo.com.cn",
-              "channelId": "google_news"
-            },
             {
               "title": "从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？",
               "link": "http://www.geekpark.net/news/369401",
@@ -2065,6 +1026,13 @@
               "source": "极客公园",
               "publishedAt": "Tue, 25 Aug 2026 16:58:10 +0800",
               "channelId": "geekpark_ai"
+            },
+            {
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
+              "channelId": "ithome_ai"
             }
           ]
         },
@@ -2072,54 +1040,6 @@
           "title": "商业 ROI",
           "query": "AI 商业化 ROI",
           "items": [
-            {
-              "title": "企业AI投资持续扩大，但ROI难以量化-人工智能 - 至顶网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MSUxFNnlNQnV6ZHY4SHBteG9yTThWbVpnYUlPcTVSNkMzbkFrQkx3cjJPcDZELWJ6YjZ1MnpfYVR0LW8wUVJhN1V0ek55Mk11NVJaQW5NTm51ZElSMHc?oc=5",
-              "source": "至顶网",
-              "publishedAt": "Thu, 27 Aug 2026 05:07:01 GMT",
-              "summary": "企业AI投资持续扩大，但ROI难以量化-人工智能 &nbsp;&nbsp; 至顶网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "德勤报告：逾三成企业跨团队部署AI 近半称ROI低于预期 - 观点网",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EeEVCaGJKaDhkZUUwSGtzbWJtaWQ3SVRncGhLWWE1MU9KM3lDWXYwbnZLOGlLSS1ITVFKYXBjcHJVX1F6Vl9qQ3FBVXdoVWxQM0VWQ2J3eWZtZlpqbHh2NkFn?oc=5",
-              "source": "观点网",
-              "publishedAt": "Tue, 25 Aug 2026 12:17:43 GMT",
-              "summary": "德勤报告：逾三成企业跨团队部署AI 近半称ROI低于预期 &nbsp;&nbsp; 观点网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "春潮渐起，价值终将落地——AI机器人秋季策略报告 - 新浪网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kTFpQY2RMcHJwcTh6YzZKaWpIVUlMN1E3VW5OV1dmam9LdnU2a3RmNUlWT2lNQlR3Nm9tNjVaWjFnbTg3T19HRDE3c3F5WDNrUTE2c1hSc3E0cE0yQXZyZFVXUTVBdDBUakd2eFVqNE1MT3p6cUNJMlRDUVpwM0U?oc=5",
-              "source": "新浪网",
-              "publishedAt": "Thu, 27 Aug 2026 14:26:04 GMT",
-              "summary": "春潮渐起，价值终将落地——AI机器人秋季策略报告 &nbsp;&nbsp; 新浪网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "计算机行业深度报告世界模型从“生成世界”到“控制世界”，物理AI打开工业软件与自动化重估空间- 东吴证券 - 发现报告",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wcEI2d05DVkNoUFp6MC0xSTN3ZnhmWVNuRk5lb1B0ME44aC1GRVhCMWNBVnlYdUJ5WHNzU18ybXlaMlhZcWVhbUhVUmtqcUVm?oc=5",
-              "source": "发现报告",
-              "publishedAt": "Thu, 27 Aug 2026 03:24:32 GMT",
-              "summary": "计算机行业深度报告世界模型从“生成世界”到“控制世界”，物理AI打开工业软件与自动化重估空间- 东吴证券 &nbsp;&nbsp; 发现报告",
-              "channelId": "google_news"
-            },
-            {
-              "title": "【指数周报】创业板人工智能：高位震荡消化压力，AI产业链景气度延续 - 财富号",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3YXRLVUlic0dWTlFSZXlmR2tFSEQ4V29vdkZKQXFBT0hhN3lsYkhrTFhSZjdHTWpCTEpwZDdyMUJrb0RiR3dPMkl4bU5ENEpiakxTNVVZUnFwUVF6NGUxVVY2Rl9HM1FJczJZ?oc=5",
-              "source": "财富号",
-              "publishedAt": "Sun, 23 Aug 2026 03:14:00 GMT",
-              "summary": "【指数周报】创业板人工智能：高位震荡消化压力，AI产业链景气度延续 &nbsp;&nbsp; 财富号",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI项目接受ROI审查，FDE进驻客户现场 - blog.csdn.net",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kUjFQR2pHb1FTN1Y2Wm4zd2Y2TnRuck1KTzltX2g3TmtXN3FKUDQ1b21sVjNobU9ESURUZDFMa0FHbTJzS2VJVzNLUUZHb0poaHJfUWVoNlN3VFpCd1hFUFpaSTN3X2JLMlZr?oc=5",
-              "source": "blog.csdn.net",
-              "publishedAt": "Tue, 25 Aug 2026 09:25:34 GMT",
-              "summary": "AI项目接受ROI审查，FDE进驻客户现场 &nbsp;&nbsp; blog.csdn.net",
-              "channelId": "google_news"
-            },
             {
               "title": "特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道",
               "link": "http://www.geekpark.net/news/369481",
@@ -2166,41 +1086,41 @@
           "symbol": "002230.SZ",
           "name": "科大讯飞",
           "currency": "CNY",
-          "price": 40.119998931884766,
+          "price": 40.060001373291016,
           "previousClose": 39.81999969482422,
-          "changePct": 0.7533883459560664
+          "changePct": 0.6027164246763974
         },
         {
           "symbol": "300308.SZ",
           "name": "中际旭创",
           "currency": "CNY",
-          "price": 864.3400268554688,
+          "price": 858.3499755859375,
           "previousClose": 895.5999755859375,
-          "changePct": -3.4903918694300136
+          "changePct": -4.159222980731945
         },
         {
           "symbol": "688111.SS",
           "name": "金山办公",
           "currency": "CNY",
-          "price": 243.41000366210938,
+          "price": 241.3000030517578,
           "previousClose": 247.1300048828125,
-          "changePct": -1.5052810857455883
+          "changePct": -2.35908295871205
         },
         {
           "symbol": "600570.SS",
           "name": "恒生电子",
           "currency": "CNY",
-          "price": 22.09000015258789,
+          "price": 21.969999313354492,
           "previousClose": 20.989999771118164,
-          "changePct": 5.240592632036642
+          "changePct": 4.668887817639658
         },
         {
           "symbol": "002415.SZ",
           "name": "海康威视",
           "currency": "CNY",
-          "price": 35.290000915527344,
+          "price": 35.099998474121094,
           "previousClose": 33.88999938964844,
-          "changePct": 4.13101667480859
+          "changePct": 3.570372104645849
         }
       ],
       "channels": [
@@ -2226,7 +1146,7 @@
         },
         {
           "channelId": "ithome_ai",
-          "count": 9
+          "count": 6
         },
         {
           "channelId": "mydrivers_ai",
@@ -2266,82 +1186,45 @@
           "query": "OpenClaw 小龙虾 AI 助手",
           "items": [
             {
-              "title": "🦞从入门到卸载，全网最细的安全养龙虾指南 - 爱范儿",
-              "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA5bkN1UERyczhUOTRHZWVTb3NaVkVzTVBsWW1xNGFMdGh3TUFGVmFTemxvZDNic3JheWxpTlE1NU92Y1U?oc=5",
-              "source": "爱范儿",
-              "publishedAt": "Fri, 21 Aug 2026 00:41:53 GMT",
-              "summary": "🦞从入门到卸载，全网最细的安全养龙虾指南 &nbsp;&nbsp; 爱范儿",
-              "channelId": "google_news"
-            },
-            {
-              "title": "小米、华为纷纷押注，OpenClaw 要「上车」了！ - 汽车之家",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Tbl9TRUU1Z1hvdzlPdERCZ0UwWk16NUpkekUwc2ZLM0MxWGE3MGVIeWdFdkl4dnJyeXlBa0FMQUdHdkNQSDFCZGdWajZnLUttQmJpeXRzU2g3VllaNVE?oc=5",
-              "source": "汽车之家",
-              "publishedAt": "Wed, 26 Aug 2026 16:49:46 GMT",
-              "summary": "小米、华为纷纷押注，OpenClaw 要「上车」了！ &nbsp;&nbsp; 汽车之家",
-              "channelId": "google_news"
-            },
-            {
-              "title": "开源电子书工具 Calibre 9.14 发布：首次引入 AI 生成封面",
-              "link": "https://www.ithome.com/0/995/569.htm",
+              "title": "国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB",
+              "link": "https://www.ithome.com/0/995/893.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 06:12:37 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:59:25 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "Anthropic 推出 MHS 标准，首度重拳杀入物理 AI 领域",
-              "link": "https://www.ithome.com/0/995/514.htm",
+              "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
+              "link": "https://www.ithome.com/0/995/891.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 04:46:12 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:40:50 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "中国人民银行 9 月 4 日发行科创未来（人工智能）金银纪念币，图案含芯片、电路纹理等",
-              "link": "https://www.ithome.com/0/995/492.htm",
+              "title": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
+              "link": "https://www.ithome.com/0/995/874.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:20:02 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 02:21:24 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "国家发改委：发展机器人产业必须因地制宜，防止盲目跟风、一哄而上",
-              "link": "https://www.ithome.com/0/995/481.htm",
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:04:28 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "消息称某厂新平板搭载 12.5 英寸 LCD 屏、骁龙 8 Gen5，预计为小米平板 9 Pro",
-              "link": "https://www.ithome.com/0/995/470.htm",
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:51:42 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "全球最小：万代推出电子宠物戒指，0.56 英寸彩屏、体积较 30 年前初代缩小 56%",
-              "link": "https://www.ithome.com/0/995/469.htm",
+              "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
+              "link": "https://www.ithome.com/0/995/847.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:50:20 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "Alphacool 推出 Core 2 LT CPU 一体式液冷：铜质 25mm 冷排",
-              "link": "https://www.ithome.com/0/995/453.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:38:37 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "苹果史上最高互连密度：曝 M6 Pro / Max 芯片仍在推进，首次采用台积电双封装组合",
-              "link": "https://www.ithome.com/0/995/421.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:27:03 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "小米智能存储升级 1.0.8.425 版本：相册支持节日搜索，影视库新增合集管理",
-              "link": "https://www.ithome.com/0/995/411.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:22:53 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:11:17 GMT",
               "channelId": "ithome_ai"
             },
             {
@@ -2365,72 +1248,24 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 华为 OR 京东 OR OpenAI OR Anthropic OR Google OR Microsoft OR Meta OR Amazon OR NVIDIA) AI",
           "items": [
             {
-              "title": "百度AI Day发布多项产品升级 搜索体验与AI能力全面革新 - 中国科技网",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OX21YM1VnYUdONk54Mzh0bHNyYVVfSTNaN3Y1ZjUxaVFIR2FQeHVVQkpLd1JDRWhsTlFrSk1VMzV6LTEtRHJqNmdyNTZ4dVBOdkpUckc4ZEdQYTdRS2xpZVV5YUVmeEpSZC1laFNBbFg?oc=5",
-              "source": "中国科技网",
-              "publishedAt": "Thu, 20 Aug 2026 14:38:44 GMT",
-              "summary": "百度AI Day发布多项产品升级 搜索体验与AI能力全面革新 &nbsp;&nbsp; 中国科技网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Meta预估每年在Anthropic AI支出最高可达100亿美元 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmJvR21TQ25FSGVWdVF6dUZnNDVqSDVySGNMaGd1TmpZYnk1Q1N6aG51S2hYemduNXhnS1lmemp0cVFyb2xlVFdzdE1iMGdzSjNsbXQ2bm9OckhoUTBidEphNjBxNjNLNUJQQ3I4ZkVGNUpQMVhYT0l0T2hpZ0RWLWY0YkxlVW8?oc=5",
-              "source": "新浪财经",
-              "publishedAt": "Thu, 27 Aug 2026 14:11:00 GMT",
-              "summary": "Meta预估每年在Anthropic AI支出最高可达100亿美元 &nbsp;&nbsp; 新浪财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "NVIDIA NIM 助力 UnitaryLab 构建本地推理与量子计算 AI Agent 工作流 - NVIDIA",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nb1JHQWhNeVo2Zk1SN0N5Z3p2R1FtN1BiZm1EdE1zeDZRLUFabExfRU5jeHB5b2FROUhGck53SW5lcFI1VFF4RmFiTlJWWXlyWlp0VktWcW41bHFXY3U1Ung5ZEZfbDd0TkE?oc=5",
-              "source": "NVIDIA",
-              "publishedAt": "Thu, 27 Aug 2026 10:33:52 GMT",
-              "summary": "NVIDIA NIM 助力 UnitaryLab 构建本地推理与量子计算 AI Agent 工作流 &nbsp;&nbsp; NVIDIA",
-              "channelId": "google_news"
-            },
-            {
-              "title": "摩根大通：市场对阿里配股反应过度，阿里、腾讯、百度AI融资路径各不相同 - 华尔街见闻",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vLTZMZHBBU3R0S2R3OUVYcHVyc0FYOGtzRm14M1dCS09UcDNReXRubV9NbzhYczRVLXV5LUszM2JZQmxyOGpIYmdhbWxGZzNNU0R3?oc=5",
-              "source": "华尔街见闻",
-              "publishedAt": "Wed, 26 Aug 2026 08:07:40 GMT",
-              "summary": "摩根大通：市场对阿里配股反应过度，阿里、腾讯、百度AI融资路径各不相同 &nbsp;&nbsp; 华尔街见闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Meta AI发布Mac应用，支持屏幕共享与Google Workspace集成 - thepaper.cn",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vOTRLeU9idzBjeVRhRHRPV2lQUXpWWW56NlM2RFdEM1VETzJxVEV4V0pmSndac1JNODBzZ2QxcnVnNHI1dDFjUlNZTEoxOGppMURDVmRNLVlXaS1ZMVE?oc=5",
-              "source": "thepaper.cn",
-              "publishedAt": "Fri, 21 Aug 2026 08:01:00 GMT",
-              "summary": "Meta AI发布Mac应用，支持屏幕共享与Google Workspace集成 &nbsp;&nbsp; thepaper.cn",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI收入占比连续过半，百度值得一场价值重估 - 观察者",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DYTF1d0VDdENvYmg2TUk4TWFFRTEyWHVEMUJkZ0gwRkl6OEhwcE5EdkxOcEdYd1NYOXVwblFXaWdoNVpQenZLMllhNG41VU1pd2JuS3JLeTd6M1R3V0VGbWpVQno?oc=5",
-              "source": "观察者",
-              "publishedAt": "Fri, 21 Aug 2026 03:34:00 GMT",
-              "summary": "AI收入占比连续过半，百度值得一场价值重估 &nbsp;&nbsp; 观察者",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Anthropic 推出 MHS 标准，首度重拳杀入物理 AI 领域",
-              "link": "https://www.ithome.com/0/995/514.htm",
+              "title": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
+              "link": "https://www.ithome.com/0/995/874.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 04:46:12 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 02:21:24 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "消息称某厂新平板搭载 12.5 英寸 LCD 屏、骁龙 8 Gen5，预计为小米平板 9 Pro",
-              "link": "https://www.ithome.com/0/995/470.htm",
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:51:42 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "小米智能存储升级 1.0.8.425 版本：相册支持节日搜索，影视库新增合集管理",
-              "link": "https://www.ithome.com/0/995/411.htm",
+              "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
+              "link": "https://www.ithome.com/0/995/847.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:22:53 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:11:17 GMT",
               "channelId": "ithome_ai"
             },
             {
@@ -2448,45 +1283,24 @@
               "channelId": "ifanr_ai"
             },
             {
-              "title": "开源电子书工具 Calibre 9.14 发布：首次引入 AI 生成封面",
-              "link": "https://www.ithome.com/0/995/569.htm",
+              "title": "国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB",
+              "link": "https://www.ithome.com/0/995/893.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 06:12:37 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:59:25 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "中国人民银行 9 月 4 日发行科创未来（人工智能）金银纪念币，图案含芯片、电路纹理等",
-              "link": "https://www.ithome.com/0/995/492.htm",
+              "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
+              "link": "https://www.ithome.com/0/995/891.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:20:02 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:40:50 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "国家发改委：发展机器人产业必须因地制宜，防止盲目跟风、一哄而上",
-              "link": "https://www.ithome.com/0/995/481.htm",
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:04:28 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "全球最小：万代推出电子宠物戒指，0.56 英寸彩屏、体积较 30 年前初代缩小 56%",
-              "link": "https://www.ithome.com/0/995/469.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:50:20 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "Alphacool 推出 Core 2 LT CPU 一体式液冷：铜质 25mm 冷排",
-              "link": "https://www.ithome.com/0/995/453.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:38:37 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "苹果史上最高互连密度：曝 M6 Pro / Max 芯片仍在推进，首次采用台积电双封装组合",
-              "link": "https://www.ithome.com/0/995/421.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:27:03 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
               "channelId": "ithome_ai"
             },
             {
@@ -2525,13 +1339,6 @@
               "channelId": "geekpark_ai"
             },
             {
-              "title": "从单点突破到全数 SOTA，阿里打响「模型团战」第一枪",
-              "link": "http://www.geekpark.net/news/369200",
-              "source": "极客公园",
-              "publishedAt": "Fri, 21 Aug 2026 18:15:12 +0800",
-              "channelId": "geekpark_ai"
-            },
-            {
               "title": "为什么苹果、小米的 AI 电脑，都在死磕「内存墙」｜AI 器物志",
               "link": "https://www.ifanr.com/1676852?utm_source=rss&utm_medium=rss&utm_campaign=",
               "source": "爱范儿",
@@ -2559,61 +1366,6 @@
           "query": "AI 技术 突破",
           "items": [
             {
-              "title": "全球媒体聚焦 | 中国推动AI技术大规模应用 - 央广网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEUUhuajN3N0c4YjdXWW8ybFlDZUpkS1hHRGRzTUt3RFVIOHRpZFdvRmZ1aWdBNUxzeGlLbHBudDhUbE1NWlBwRTdXY3hhRzlCenN5YmQ3T0Myd0ZTQUtyOGkxWjBLTmJqQmVfbGo0Z3pKY2s3dXVyZ1I5YU9iSXc?oc=5",
-              "source": "央广网",
-              "publishedAt": "Fri, 28 Aug 2026 03:46:48 GMT",
-              "summary": "全球媒体聚焦 | 中国推动AI技术大规模应用 &nbsp;&nbsp; 央广网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "星空・体育中国综合：2026年AI芯片技术突破引领智能计算新纪元 - womenofchina.com",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zdEliNXVaeTdoSWNwenZ5d0gzVS1Mc0o5TEo3czdCNWp0dHlLV2JOUVNlZ3BUUmxQNFd5cW5wNEtjLTcwM1hVM0lUWDZkdXd6eE1qV0J1UlE2c092dkZRd2NFYUE1bEwzcmhV?oc=5",
-              "source": "womenofchina.com",
-              "publishedAt": "Fri, 21 Aug 2026 16:06:24 GMT",
-              "summary": "星空・体育中国综合：2026年AI芯片技术突破引领智能计算新纪元 &nbsp;&nbsp; womenofchina.com",
-              "channelId": "google_news"
-            },
-            {
-              "title": "聚焦“算力+场景” AI产业化加速迈入智能新生态丨新经济观察 - 封面新闻",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yRGZpNGN2c1VSbjdOYzlaSC03Q1RJS09tODV4dDJONUk2bUg3RmhZN3BlTUQ4VE5ndGl5VG9Dbk1MVGNEWjFHS0c4YWxfV20zbmdwbXRQdFROQU5YUEhtczdmS3cyajBJbmpYY2NPdDZnbVc1d2Rn?oc=5",
-              "source": "封面新闻",
-              "publishedAt": "Thu, 20 Aug 2026 19:07:00 GMT",
-              "summary": "聚焦“算力+场景” AI产业化加速迈入智能新生态丨新经济观察 &nbsp;&nbsp; 封面新闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "浪潮信息：成功开发高压直流瞬稳技术 突破AI超节点整机柜800V供电难题 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HNWQyeEh4M0VOREtiQzFHSE9hYkFZSXFYQVFRMmswd0NLdWtva1hnOFljd1pVMThHMzN6QXhfZmN0LWVuMGlhVzJHMjY4NjJhRE5zWEdZb24xekJ1NVpmNw?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Fri, 21 Aug 2026 03:22:11 GMT",
-              "summary": "浪潮信息：成功开发高压直流瞬稳技术 突破AI超节点整机柜800V供电难题 &nbsp;&nbsp; 东方财富",
-              "channelId": "google_news"
-            },
-            {
-              "title": "OpenAI发布技术报告：详解AI模型如何突破Hugging Face安全防线 - 华尔街见闻",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yWmRCUzFjWVUzU196SUxVUFlFLW9wZlh4WXotdDA4WXJiWTI0djVKSElreGYyMzctTHBVaVAwNVd1YTJOTHRGZjlUZm9QNkQ5b1JZ?oc=5",
-              "source": "华尔街见闻",
-              "publishedAt": "Wed, 26 Aug 2026 21:02:13 GMT",
-              "summary": "OpenAI发布技术报告：详解AI模型如何突破Hugging Face安全防线 &nbsp;&nbsp; 华尔街见闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "光帆 AI 技术正式落地韶音 OpenFit 2 AI 耳机，携手突破 AI 边界 - 36kr.com",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzN3ZIdldreVFlWUlUT3FYSXE2RW96VHQ5NWd2YURpNzhYY1lONVRMMElVSWx2Z3J2R0lDbFVGWEhEV0toT19NbEtCa2xJQQ?oc=5",
-              "source": "36kr.com",
-              "publishedAt": "Wed, 19 Aug 2026 19:34:00 GMT",
-              "summary": "光帆 AI 技术正式落地韶音 OpenFit 2 AI 耳机，携手突破 AI 边界 &nbsp;&nbsp; 36kr.com",
-              "channelId": "google_news"
-            },
-            {
-              "title": "从单点突破到全数 SOTA，阿里打响「模型团战」第一枪",
-              "link": "http://www.geekpark.net/news/369200",
-              "source": "极客公园",
-              "publishedAt": "Fri, 21 Aug 2026 18:15:12 +0800",
-              "channelId": "geekpark_ai"
-            },
-            {
               "title": "特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道",
               "link": "http://www.geekpark.net/news/369481",
               "source": "极客公园",
@@ -2635,10 +1387,17 @@
               "channelId": "geekpark_ai"
             },
             {
-              "title": "开源电子书工具 Calibre 9.14 发布：首次引入 AI 生成封面",
-              "link": "https://www.ithome.com/0/995/569.htm",
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 06:12:37 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
+              "link": "https://www.ithome.com/0/995/847.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 00:11:17 GMT",
               "channelId": "ithome_ai"
             },
             {
@@ -2662,54 +1421,6 @@
           "query": "AI 产品 交互 体验",
           "items": [
             {
-              "title": "百度AI Day发布多项产品升级 搜索体验与AI能力全面革新 - 中国科技网",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OX21YM1VnYUdONk54Mzh0bHNyYVVfSTNaN3Y1ZjUxaVFIR2FQeHVVQkpLd1JDRWhsTlFrSk1VMzV6LTEtRHJqNmdyNTZ4dVBOdkpUckc4ZEdQYTdRS2xpZVV5YUVmeEpSZC1laFNBbFg?oc=5",
-              "source": "中国科技网",
-              "publishedAt": "Thu, 20 Aug 2026 14:38:44 GMT",
-              "summary": "百度AI Day发布多项产品升级 搜索体验与AI能力全面革新 &nbsp;&nbsp; 中国科技网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI加速重塑智能终端 交互与量产协同助力体验升级 - 人民网",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJdXBvWHdmTnNDQU1Ba0duSmRYa1pYNjF2dUtPOV81dUtieTdLVFZUazhieW5oWjVWMElFSHFrUW1vcldUb2VSOG56eXB5ek02d0lIM2llYU85WWliZURKNTBFQlh6RzdWMGktQ0pR?oc=5",
-              "source": "人民网",
-              "publishedAt": "Fri, 14 Aug 2026 07:00:00 GMT",
-              "summary": "AI加速重塑智能终端 交互与量产协同助力体验升级 &nbsp;&nbsp; 人民网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "发布\"AI超级老师\"和新款硬件，作业帮宣布进军高端市场 - 新京报",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lVlN6VC01cXN2RG4xeW1pdFRnNmZUd1RncExmNnpadC1ZWkNaWFRscVl3RTFONjF3RHZXUUEyeGJIem0wU1VhZjFkZEtldk54UFlYUWpJOGk1OWJiNkEzZ2piSi0?oc=5",
-              "source": "新京报",
-              "publishedAt": "Mon, 17 Aug 2026 07:00:00 GMT",
-              "summary": "发布\"AI超级老师\"和新款硬件，作业帮宣布进军高端市场 &nbsp;&nbsp; 新京报",
-              "channelId": "google_news"
-            },
-            {
-              "title": "江苏移动赋能数智便民生活圈 | “AI小亭”携手“拾集”科技集市亮相南京社区 - 紫牛新闻",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSc3laUFhSNG1CZDRXbW1BT0xuaXJ5M1VsMkV3ZElhdlYtRVZDZWlocnBRNm5BOTVETUp2S0hYS2M3dmR2SlBOdHE3S3VpSVlFekwyTzd3QVpuUWdsZktrR0FvUlJIM0I3aHc?oc=5",
-              "source": "紫牛新闻",
-              "publishedAt": "Wed, 26 Aug 2026 03:39:00 GMT",
-              "summary": "江苏移动赋能数智便民生活圈 | “AI小亭”携手“拾集”科技集市亮相南京社区 &nbsp;&nbsp; 紫牛新闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "CES2026丨188·金博体育app入口携手全球伙伴亮相拉斯维加斯，展示沉浸式交互新生态 - womenofchina.com",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wbHppOUozTkpLTnFlUTVDRFFVWW9YQW96U3FGMFpWRmFxMzJrdzh2T0VCWE9qeWtmNl9xTTlDZFF1NmFEM2pDLWhCY0hDUkpoRUtYdW5FZXZhcllz?oc=5",
-              "source": "womenofchina.com",
-              "publishedAt": "Sun, 23 Aug 2026 13:46:33 GMT",
-              "summary": "CES2026丨188·金博体育app入口携手全球伙伴亮相拉斯维加斯，展示沉浸式交互新生态 &nbsp;&nbsp; womenofchina.com",
-              "channelId": "google_news"
-            },
-            {
-              "title": "瑞德智能×巨晟科技：AI语音盒子重磅落地，智能体开启无限想象 - 同花顺财经",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PYm1yZ2pvUFMwN1NmREJVM2wwUDNDcVlCbUdGYno0eDllUW5aV3l5QkhpQXpQTHhxeFI2RnFzLV93LTBsZ1VlRTVwQ0ljVG1pVFRaX1FkT3hLNFd5M19qTm13?oc=5",
-              "source": "同花顺财经",
-              "publishedAt": "Wed, 26 Aug 2026 02:33:59 GMT",
-              "summary": "瑞德智能×巨晟科技：AI语音盒子重磅落地，智能体开启无限想象 &nbsp;&nbsp; 同花顺财经",
-              "channelId": "google_news"
-            },
-            {
               "title": "从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？",
               "link": "http://www.geekpark.net/news/369401",
               "source": "极客公园",
@@ -2722,6 +1433,20 @@
               "source": "极客公园",
               "publishedAt": "Tue, 25 Aug 2026 16:58:10 +0800",
               "channelId": "geekpark_ai"
+            },
+            {
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
+              "channelId": "ithome_ai"
             }
           ]
         },
@@ -2729,54 +1454,6 @@
           "title": "产品范式",
           "query": "AI 产品 发布",
           "items": [
-            {
-              "title": "百度AI Day发布多项产品升级 搜索体验与AI能力全面革新 - 中国科技网",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OX21YM1VnYUdONk54Mzh0bHNyYVVfSTNaN3Y1ZjUxaVFIR2FQeHVVQkpLd1JDRWhsTlFrSk1VMzV6LTEtRHJqNmdyNTZ4dVBOdkpUckc4ZEdQYTdRS2xpZVV5YUVmeEpSZC1laFNBbFg?oc=5",
-              "source": "中国科技网",
-              "publishedAt": "Thu, 20 Aug 2026 14:38:44 GMT",
-              "summary": "百度AI Day发布多项产品升级 搜索体验与AI能力全面革新 &nbsp;&nbsp; 中国科技网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI办公群雄逐鹿，百度搭子发布专业办公一揽子升级 - 国际金融报",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fNVNxMUhZd1BwcjlVLTJoZ2Q5OXVhbDJKNXV5VndrRDFvMFRpSVVSaWtzSGFrUkJRWmJmclRlUzJlbFB0U2NzM1EtcEI4dHlqaXlCUndR?oc=5",
-              "source": "国际金融报",
-              "publishedAt": "Thu, 27 Aug 2026 10:03:00 GMT",
-              "summary": "AI办公群雄逐鹿，百度搭子发布专业办公一揽子升级 &nbsp;&nbsp; 国际金融报",
-              "channelId": "google_news"
-            },
-            {
-              "title": "微盟发布AI销售数字员工产品微盟星拓：重构B2B获客经济模型 - 投资界",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqbTdiT0VsTHd2R3VqVFFXeFRSbFNQOGFGQ1dQUDNFcThZVXpTUFZJMldIX2gzbDJqM0FMWWtzRW54SlFKSXJ6dy1KMmt0OVNyRTdlZnBITUo?oc=5",
-              "source": "投资界",
-              "publishedAt": "Mon, 17 Aug 2026 06:39:00 GMT",
-              "summary": "微盟发布AI销售数字员工产品微盟星拓：重构B2B获客经济模型 &nbsp;&nbsp; 投资界",
-              "channelId": "google_news"
-            },
-            {
-              "title": "BIRTV2026：封面传媒科技发布数字员工矩阵 让AI成为每个普通员工的日常搭档 - 封面新闻",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04WXRvc2NSZGtobGVnUE9MWU8yc0gxV2ZJcjBXQkVuV0NWUU5MZFBDZkxYRlRQQUh2UWZySDJKcGRlNGVSSXY5WGNHVVFqMXlvMDZxUGtDdUQ2WmtVb2YxM2dYM0ZPSU1qeUR4VDM3WlYtSG0zeTlPWA?oc=5",
-              "source": "封面新闻",
-              "publishedAt": "Tue, 18 Aug 2026 22:02:00 GMT",
-              "summary": "BIRTV2026：封面传媒科技发布数字员工矩阵 让AI成为每个普通员工的日常搭档 &nbsp;&nbsp; 封面新闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI办公智能体增速榜第一 百度搭子发布15个行业套件 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IdExyVWhPMWpSQ183akkxXy1ocHFBMHN6NElHNzRQX25Bak5hTDFfYXpyeVhLbUlWMFFRR0VIS05xYU9iV01WekpkMGpVMkFEejVyX0p4c09Sdno1WHFoOFRmbw?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Thu, 27 Aug 2026 23:41:45 GMT",
-              "summary": "AI办公智能体增速榜第一 百度搭子发布15个行业套件 &nbsp;&nbsp; 东方财富",
-              "channelId": "google_news"
-            },
-            {
-              "title": "网易传媒发布了「蜜蜂AI」 ：想探索 AI 与年轻化社区的新连接 - 爱范儿",
-              "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5hc1FhMWZZbktCUlJkeGQ4UGVESmRiNC1SOTF5QllYZ2NtU3ZuVU1IT19LQlRHREhHRDJiU0Q2Q0M1ZTA?oc=5",
-              "source": "爱范儿",
-              "publishedAt": "Tue, 18 Aug 2026 12:07:55 GMT",
-              "summary": "网易传媒发布了「蜜蜂AI」 ：想探索 AI 与年轻化社区的新连接 &nbsp;&nbsp; 爱范儿",
-              "channelId": "google_news"
-            },
             {
               "title": "苹果突袭发布 M6 与 M5 Ultra 芯片与新款 Mac Mini；字节发布 AI 办公产品「豆包工作」；SpaceX 拟千亿美元建设第二座「星际基地」｜极客早知道",
               "link": "http://www.geekpark.net/news/369355",
@@ -2805,52 +1482,11 @@
           "query": "AI 推理 成本 Token",
           "items": [
             {
-              "title": "三大运营商齐推Token套餐 AI算力“大众化”时代要来了？ - 财联社",
-              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZMGpPUGFlQVltd2tTZGRCWnNhQndzU1JqNmpuejFaMUNRODBhbTh4OHM0Q0wzZHRlMVNTM1R1WEhCTlo1VzJLbQ?oc=5",
-              "source": "财联社",
-              "publishedAt": "Wed, 26 Aug 2026 05:24:49 GMT",
-              "summary": "三大运营商齐推Token套餐 AI算力“大众化”时代要来了？ &nbsp;&nbsp; 财联社",
-              "channelId": "google_news"
-            },
-            {
-              "title": "英伟达宣布Groq 3 LPX全面投产，Vera Rubin推理效率数倍提升，SpaceXAI加码智能体与太空AI - 华尔街见闻",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2V0x3UjMwemdBRkJnbmJ0YTNQXzJ3dHhxbHpGcVNYUnFYYlJOTTJrV3BZaHowbWx6aGNydmdISHNRSGViSWE2SXBUaWI0M0hqVWVv?oc=5",
-              "source": "华尔街见闻",
-              "publishedAt": "Mon, 24 Aug 2026 16:51:22 GMT",
-              "summary": "英伟达宣布Groq 3 LPX全面投产，Vera Rubin推理效率数倍提升，SpaceXAI加码智能体与太空AI &nbsp;&nbsp; 华尔街见闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI Token经济体系始于数据层 - 电子工程专辑",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iNUI3clpHYzhaLWc3ZkxlR0RGVGpGVkU1ZUdJTlQzbnNnMUFtTEp2SDg2U0RBNTQ2S0x0M2JzT3NoMjNNMGF3ZzZsTkk0VThUYlNr?oc=5",
-              "source": "电子工程专辑",
-              "publishedAt": "Wed, 19 Aug 2026 07:00:00 GMT",
-              "summary": "AI Token经济体系始于数据层 &nbsp;&nbsp; 电子工程专辑",
-              "channelId": "google_news"
-            },
-            {
-              "title": "SwiftScale推出AI模型智能分发平台，获腾讯系天使投资人投资 - 36kr.com",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlbDUzSnVnb1JRTll2Ymxaa1J3QVVVanRzbEtoT0RWTUJ6a0dNalhyNndQVTlYMG1NS016emlZMjhzb2lUN3FvTlhGUVZlTFhZ?oc=5",
-              "source": "36kr.com",
-              "publishedAt": "Thu, 20 Aug 2026 12:12:00 GMT",
-              "summary": "SwiftScale推出AI模型智能分发平台，获腾讯系天使投资人投资 &nbsp;&nbsp; 36kr.com",
-              "channelId": "google_news"
-            },
-            {
-              "title": "千问办公将95%日常任务交给标准模式，AI Agent进入成本竞争阶段 - cb.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4ZXF0ZVN6cUNQSU9RR0FCQi1ud25nczVtb182dllVTUZWdWFObUhjSEozMjV3QV9vbXdfWFRVcnhpUFZ3ZWNsT0Z1MXQwSjV4OG1IeGRsQkttV1FqQUZrQmkzTVo?oc=5",
-              "source": "cb.com.cn",
-              "publishedAt": "Thu, 27 Aug 2026 05:21:00 GMT",
-              "summary": "千问办公将95%日常任务交给标准模式，AI Agent进入成本竞争阶段 &nbsp;&nbsp; cb.com.cn",
-              "channelId": "google_news"
-            },
-            {
-              "title": "智谱认领“牛来”模型，实测：“牛马”友好 - InfoQ-CN",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUXpYYmhIX05rRkNlZUFVZW5RTkhFbk1xRV9DZnBCVVRPbEM1RTZqbVA4U3A3T2JEOHFLaDBpVEdjOHNjS3JEdTZMWXhCVGJtbkxOV1pGZ3gwRDRMMWc?oc=5",
-              "source": "InfoQ-CN",
-              "publishedAt": "Fri, 28 Aug 2026 03:35:35 GMT",
-              "summary": "智谱认领“牛来”模型，实测：“牛马”友好 &nbsp;&nbsp; InfoQ-CN",
-              "channelId": "google_news"
+              "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
+              "link": "https://www.ithome.com/0/995/891.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 03:40:50 GMT",
+              "channelId": "ithome_ai"
             }
           ]
         },
@@ -2858,54 +1494,6 @@
           "title": "代理式 AI",
           "query": "AI 智能体",
           "items": [
-            {
-              "title": "DeepSeek 开源 Harness：AI 智能体基础设施开始“拆分” - InfoQ-CN",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvVUtZSUlYTWl1SWtCTDk5eEluZmtxd0thekVZRUpLTHBWc3RoOXRPY051NUk0RGlCaHhueXRGcDAtV3pzdXF0VjFkU2ZDNzBqTXFyVTRQV0tkanFvc2c?oc=5",
-              "source": "InfoQ-CN",
-              "publishedAt": "Wed, 26 Aug 2026 10:05:38 GMT",
-              "summary": "DeepSeek 开源 Harness：AI 智能体基础设施开始“拆分” &nbsp;&nbsp; InfoQ-CN",
-              "channelId": "google_news"
-            },
-            {
-              "title": "云徙科技毛健：以AI超级智能体激活企业数智新动能 - 新华网",
-              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54Wm1pLXdqalFfX3A2UkdkbWZEMGdkdHFQRmVVTlpTdTRmeExYNVhNV3JGVEttYzhmbDZ2TmxtTFBZRnJxTVhlcVdQMkZKTGZEN1ctcDFDUUZxUjB2elpfaExoa2trNUNBb181cHlaTkxTYW11ZXdmcjhuOWs?oc=5",
-              "source": "新华网",
-              "publishedAt": "Tue, 18 Aug 2026 07:00:00 GMT",
-              "summary": "云徙科技毛健：以AI超级智能体激活企业数智新动能 &nbsp;&nbsp; 新华网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "让AI替你购物，“放权”到哪一步？——智能体商业的演进曲线– McKinsey Greater China - 麦肯锡",
-              "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOQ2h1NXA1dk56WU44ZU5SRDVJd0pQMVpRRFZQUTdwR01rbk1BS0pIOXNqR1VBRnVZb1o3Qjd2NjNzVTBjZzk2a2wzQXZ1RmlhZGdmTUw1bUg5TWktbUc1OVZYMWpqejJxdHFGVEJabXdCUFRVWDNTWm95RVI4VDl2cldOMzRFS3ZmLWJua1l5ZWg5cEVqbkpCZHJpeVlNVFlBVFllOGI1VHdTcWdzaTM1QlNuOGwxZjAtSFBQN1YzakFiR2JGQUFQMjQyWkdNa0szT0laQzhmTDFvNURIaktGSHhhWmJ3a3JtanotZnI4STN4a2dTMDFuTmdqS3g3emVVU0EtN2JmeXlrS3kzZVIzNllncXAtcmVyOXJpOXJRMA?oc=5",
-              "source": "麦肯锡",
-              "publishedAt": "Fri, 21 Aug 2026 13:26:11 GMT",
-              "summary": "让AI替你购物，“放权”到哪一步？——智能体商业的演进曲线– McKinsey Greater China &nbsp;&nbsp; 麦肯锡",
-              "channelId": "google_news"
-            },
-            {
-              "title": "让不同智能体一起干活，难在哪？ - 中国科技网",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ETE9wdERxNGdYSVRoYVU3dHVObjBRVEVMeXFVcGVuOFlkWjR3NF9mTnowSUJfUlJEa0JSTDRHMTUyNnlkVVNJWk1xd0NZcVNDZHRIUWlLWlpGcmU3cHkxaUsxeXA2SElqcHp1WGVmbDc?oc=5",
-              "source": "中国科技网",
-              "publishedAt": "Fri, 21 Aug 2026 10:33:41 GMT",
-              "summary": "让不同智能体一起干活，难在哪？ &nbsp;&nbsp; 中国科技网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "成都“1+N”精准对接（腾讯AI智能体专场）举行 - 成都市委统战部",
-              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUFWQkpMWk9ZdmFXaFhDMDZaTUFRekNnalJNX2s2UWVBR1RpN3RQQ1dwS3NYTFNNS3dHYlRkSGtWZGpFSHYyNVNLTTRwUjEtU0xzTzhXZ1ZkRTE5OXpFMTkxZ1poaEplcEFTT05Gek1CMFFKam41MVFVY2M2NFg4dXJoQWtPdEpXRFhsZTVkQWdRZ3pOWXNzZnRUZGNlWFFB?oc=5",
-              "source": "成都市委统战部",
-              "publishedAt": "Tue, 18 Aug 2026 07:00:00 GMT",
-              "summary": "成都“1+N”精准对接（腾讯AI智能体专场）举行 &nbsp;&nbsp; 成都市委统战部",
-              "channelId": "google_news"
-            },
-            {
-              "title": "SpaceXAI 采用 NVIDIA Vera CPU，大规模加速智能体 AI 发展 - NVIDIA",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWG9LVWNpckhpd3NvN1NyR0VoaW5JdFJOQU4wN1N6RXJibEMxeUt6c3JnblRJRUZqV0R2Y09Ua005RlhuT3ZCV25zS2FfcFFlcnZrUXpkeUdXYVliaWEycy0tcTcwdkVUb2VTMjZlTHU3WFJISmNUTmNLSkQ3dEtBNXZJck96VXBVQk8zbE50WHZVR0VsejNjb2xOWjZoMURneVVPdEtR?oc=5",
-              "source": "NVIDIA",
-              "publishedAt": "Mon, 24 Aug 2026 07:00:00 GMT",
-              "summary": "SpaceXAI 采用 NVIDIA Vera CPU，大规模加速智能体 AI 发展 &nbsp;&nbsp; NVIDIA",
-              "channelId": "google_news"
-            },
             {
               "title": "从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？",
               "link": "http://www.geekpark.net/news/369401",
@@ -2919,6 +1507,13 @@
               "source": "极客公园",
               "publishedAt": "Tue, 25 Aug 2026 16:58:10 +0800",
               "channelId": "geekpark_ai"
+            },
+            {
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
+              "channelId": "ithome_ai"
             }
           ]
         },
@@ -2926,54 +1521,6 @@
           "title": "商业 ROI",
           "query": "AI 商业化 ROI",
           "items": [
-            {
-              "title": "企业AI投资持续扩大，但ROI难以量化-人工智能 - 至顶网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MSUxFNnlNQnV6ZHY4SHBteG9yTThWbVpnYUlPcTVSNkMzbkFrQkx3cjJPcDZELWJ6YjZ1MnpfYVR0LW8wUVJhN1V0ek55Mk11NVJaQW5NTm51ZElSMHc?oc=5",
-              "source": "至顶网",
-              "publishedAt": "Thu, 27 Aug 2026 05:07:01 GMT",
-              "summary": "企业AI投资持续扩大，但ROI难以量化-人工智能 &nbsp;&nbsp; 至顶网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "德勤报告：逾三成企业跨团队部署AI 近半称ROI低于预期 - 观点网",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EeEVCaGJKaDhkZUUwSGtzbWJtaWQ3SVRncGhLWWE1MU9KM3lDWXYwbnZLOGlLSS1ITVFKYXBjcHJVX1F6Vl9qQ3FBVXdoVWxQM0VWQ2J3eWZtZlpqbHh2NkFn?oc=5",
-              "source": "观点网",
-              "publishedAt": "Tue, 25 Aug 2026 12:17:43 GMT",
-              "summary": "德勤报告：逾三成企业跨团队部署AI 近半称ROI低于预期 &nbsp;&nbsp; 观点网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "春潮渐起，价值终将落地——AI机器人秋季策略报告 - 新浪网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kTFpQY2RMcHJwcTh6YzZKaWpIVUlMN1E3VW5OV1dmam9LdnU2a3RmNUlWT2lNQlR3Nm9tNjVaWjFnbTg3T19HRDE3c3F5WDNrUTE2c1hSc3E0cE0yQXZyZFVXUTVBdDBUakd2eFVqNE1MT3p6cUNJMlRDUVpwM0U?oc=5",
-              "source": "新浪网",
-              "publishedAt": "Thu, 27 Aug 2026 14:26:04 GMT",
-              "summary": "春潮渐起，价值终将落地——AI机器人秋季策略报告 &nbsp;&nbsp; 新浪网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "计算机行业深度报告世界模型从“生成世界”到“控制世界”，物理AI打开工业软件与自动化重估空间- 东吴证券 - 发现报告",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wcEI2d05DVkNoUFp6MC0xSTN3ZnhmWVNuRk5lb1B0ME44aC1GRVhCMWNBVnlYdUJ5WHNzU18ybXlaMlhZcWVhbUhVUmtqcUVm?oc=5",
-              "source": "发现报告",
-              "publishedAt": "Thu, 27 Aug 2026 03:24:32 GMT",
-              "summary": "计算机行业深度报告世界模型从“生成世界”到“控制世界”，物理AI打开工业软件与自动化重估空间- 东吴证券 &nbsp;&nbsp; 发现报告",
-              "channelId": "google_news"
-            },
-            {
-              "title": "快手Q2总收入355亿元：月活近8亿，核心商业收入同比增长7.4% - 财富号",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBdVZYbEVFSm5Uck5FQVBMNE5pM3puSG9mZnEweFYzSjBxbE1FUWV4YWRhOURiZzFKVklhaExUdVlUSzBqUlBYMThrTmVsdUluMGdrejZZSW42dkRtc0l0RER4MVFuN1JVUVBr?oc=5",
-              "source": "财富号",
-              "publishedAt": "Wed, 19 Aug 2026 07:00:00 GMT",
-              "summary": "快手Q2总收入355亿元：月活近8亿，核心商业收入同比增长7.4% &nbsp;&nbsp; 财富号",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI｜三条路线、一个赛点，谁能在AI视频的万亿牌局中笑到最后？ - 36氪出海",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE93X1NvaU5QOWoxRE1kYmJTMjdCWmJvb2t4eVhwTElidWNmM3Z4YjV6MG04RDF3ZmJTalREQzV2c01va1d5M1E?oc=5",
-              "source": "36氪出海",
-              "publishedAt": "Fri, 14 Aug 2026 07:00:00 GMT",
-              "summary": "AI｜三条路线、一个赛点，谁能在AI视频的万亿牌局中笑到最后？ &nbsp;&nbsp; 36氪出海",
-              "channelId": "google_news"
-            },
             {
               "title": "特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道",
               "link": "http://www.geekpark.net/news/369481",
@@ -3020,41 +1567,41 @@
           "symbol": "002230.SZ",
           "name": "科大讯飞",
           "currency": "CNY",
-          "price": 40.130001068115234,
+          "price": 40.060001373291016,
           "previousClose": 43.4900016784668,
-          "changePct": -7.725915108472391
+          "changePct": -7.886870942279309
         },
         {
           "symbol": "300308.SZ",
           "name": "中际旭创",
           "currency": "CNY",
-          "price": 864.5,
+          "price": 858.3499755859375,
           "previousClose": 864.5800170898438,
-          "changePct": -0.009255024203900255
+          "changePct": -0.7205858776237305
         },
         {
           "symbol": "688111.SS",
           "name": "金山办公",
           "currency": "CNY",
-          "price": 243.39999389648438,
+          "price": 241.3000030517578,
           "previousClose": 262.6000061035156,
-          "changePct": -7.311504859395433
+          "changePct": -8.111196708564226
         },
         {
           "symbol": "600570.SS",
           "name": "恒生电子",
           "currency": "CNY",
-          "price": 22.09000015258789,
+          "price": 21.969999313354492,
           "previousClose": 23.06999969482422,
-          "changePct": -4.247939120936322
+          "changePct": -4.76809881240056
         },
         {
           "symbol": "002415.SZ",
           "name": "海康威视",
           "currency": "CNY",
-          "price": 35.29999923706055,
+          "price": 35.099998474121094,
           "previousClose": 37.439998626708984,
-          "changePct": -5.715810545254141
+          "changePct": -6.250000636801784
         }
       ],
       "channels": [
@@ -3080,7 +1627,7 @@
         },
         {
           "channelId": "ithome_ai",
-          "count": 9
+          "count": 6
         },
         {
           "channelId": "mydrivers_ai",
@@ -3120,82 +1667,45 @@
           "query": "OpenClaw 小龙虾 AI 助手",
           "items": [
             {
-              "title": "🦞从入门到卸载，全网最细的安全养龙虾指南 - 爱范儿",
-              "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA5bkN1UERyczhUOTRHZWVTb3NaVkVzTVBsWW1xNGFMdGh3TUFGVmFTemxvZDNic3JheWxpTlE1NU92Y1U?oc=5",
-              "source": "爱范儿",
-              "publishedAt": "Fri, 21 Aug 2026 00:41:53 GMT",
-              "summary": "🦞从入门到卸载，全网最细的安全养龙虾指南 &nbsp;&nbsp; 爱范儿",
-              "channelId": "google_news"
-            },
-            {
-              "title": "小米、华为纷纷押注，OpenClaw 要「上车」了！ - 汽车之家",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Tbl9TRUU1Z1hvdzlPdERCZ0UwWk16NUpkekUwc2ZLM0MxWGE3MGVIeWdFdkl4dnJyeXlBa0FMQUdHdkNQSDFCZGdWajZnLUttQmJpeXRzU2g3VllaNVE?oc=5",
-              "source": "汽车之家",
-              "publishedAt": "Wed, 26 Aug 2026 16:49:46 GMT",
-              "summary": "小米、华为纷纷押注，OpenClaw 要「上车」了！ &nbsp;&nbsp; 汽车之家",
-              "channelId": "google_news"
-            },
-            {
-              "title": "开源电子书工具 Calibre 9.14 发布：首次引入 AI 生成封面",
-              "link": "https://www.ithome.com/0/995/569.htm",
+              "title": "国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB",
+              "link": "https://www.ithome.com/0/995/893.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 06:12:37 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:59:25 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "Anthropic 推出 MHS 标准，首度重拳杀入物理 AI 领域",
-              "link": "https://www.ithome.com/0/995/514.htm",
+              "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
+              "link": "https://www.ithome.com/0/995/891.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 04:46:12 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:40:50 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "中国人民银行 9 月 4 日发行科创未来（人工智能）金银纪念币，图案含芯片、电路纹理等",
-              "link": "https://www.ithome.com/0/995/492.htm",
+              "title": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
+              "link": "https://www.ithome.com/0/995/874.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:20:02 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 02:21:24 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "国家发改委：发展机器人产业必须因地制宜，防止盲目跟风、一哄而上",
-              "link": "https://www.ithome.com/0/995/481.htm",
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:04:28 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "消息称某厂新平板搭载 12.5 英寸 LCD 屏、骁龙 8 Gen5，预计为小米平板 9 Pro",
-              "link": "https://www.ithome.com/0/995/470.htm",
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:51:42 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "全球最小：万代推出电子宠物戒指，0.56 英寸彩屏、体积较 30 年前初代缩小 56%",
-              "link": "https://www.ithome.com/0/995/469.htm",
+              "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
+              "link": "https://www.ithome.com/0/995/847.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:50:20 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "Alphacool 推出 Core 2 LT CPU 一体式液冷：铜质 25mm 冷排",
-              "link": "https://www.ithome.com/0/995/453.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:38:37 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "苹果史上最高互连密度：曝 M6 Pro / Max 芯片仍在推进，首次采用台积电双封装组合",
-              "link": "https://www.ithome.com/0/995/421.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:27:03 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "小米智能存储升级 1.0.8.425 版本：相册支持节日搜索，影视库新增合集管理",
-              "link": "https://www.ithome.com/0/995/411.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:22:53 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:11:17 GMT",
               "channelId": "ithome_ai"
             },
             {
@@ -3219,72 +1729,24 @@
           "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 华为 OR 京东 OR OpenAI OR Anthropic OR Google OR Microsoft OR Meta OR Amazon OR NVIDIA) AI",
           "items": [
             {
-              "title": "百度AI Day发布多项产品升级 搜索体验与AI能力全面革新 - 中国科技网",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OX21YM1VnYUdONk54Mzh0bHNyYVVfSTNaN3Y1ZjUxaVFIR2FQeHVVQkpLd1JDRWhsTlFrSk1VMzV6LTEtRHJqNmdyNTZ4dVBOdkpUckc4ZEdQYTdRS2xpZVV5YUVmeEpSZC1laFNBbFg?oc=5",
-              "source": "中国科技网",
-              "publishedAt": "Thu, 20 Aug 2026 14:38:44 GMT",
-              "summary": "百度AI Day发布多项产品升级 搜索体验与AI能力全面革新 &nbsp;&nbsp; 中国科技网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "成都“1+N”精准对接（腾讯AI智能体专场）举行 - 成都市委统战部",
-              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUFWQkpMWk9ZdmFXaFhDMDZaTUFRekNnalJNX2s2UWVBR1RpN3RQQ1dwS3NYTFNNS3dHYlRkSGtWZGpFSHYyNVNLTTRwUjEtU0xzTzhXZ1ZkRTE5OXpFMTkxZ1poaEplcEFTT05Gek1CMFFKam41MVFVY2M2NFg4dXJoQWtPdEpXRFhsZTVkQWdRZ3pOWXNzZnRUZGNlWFFB?oc=5",
-              "source": "成都市委统战部",
-              "publishedAt": "Tue, 18 Aug 2026 07:00:00 GMT",
-              "summary": "成都“1+N”精准对接（腾讯AI智能体专场）举行 &nbsp;&nbsp; 成都市委统战部",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Meta预估每年在Anthropic AI支出最高可达100亿美元 - 新浪财经",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmJvR21TQ25FSGVWdVF6dUZnNDVqSDVySGNMaGd1TmpZYnk1Q1N6aG51S2hYemduNXhnS1lmemp0cVFyb2xlVFdzdE1iMGdzSjNsbXQ2bm9OckhoUTBidEphNjBxNjNLNUJQQ3I4ZkVGNUpQMVhYT0l0T2hpZ0RWLWY0YkxlVW8?oc=5",
-              "source": "新浪财经",
-              "publishedAt": "Thu, 27 Aug 2026 14:11:00 GMT",
-              "summary": "Meta预估每年在Anthropic AI支出最高可达100亿美元 &nbsp;&nbsp; 新浪财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "NVIDIA NIM 助力 UnitaryLab 构建本地推理与量子计算 AI Agent 工作流 - NVIDIA",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nb1JHQWhNeVo2Zk1SN0N5Z3p2R1FtN1BiZm1EdE1zeDZRLUFabExfRU5jeHB5b2FROUhGck53SW5lcFI1VFF4RmFiTlJWWXlyWlp0VktWcW41bHFXY3U1Ung5ZEZfbDd0TkE?oc=5",
-              "source": "NVIDIA",
-              "publishedAt": "Thu, 27 Aug 2026 10:33:52 GMT",
-              "summary": "NVIDIA NIM 助力 UnitaryLab 构建本地推理与量子计算 AI Agent 工作流 &nbsp;&nbsp; NVIDIA",
-              "channelId": "google_news"
-            },
-            {
-              "title": "摩根大通：市场对阿里配股反应过度，阿里、腾讯、百度AI融资路径各不相同 - 华尔街见闻",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vLTZMZHBBU3R0S2R3OUVYcHVyc0FYOGtzRm14M1dCS09UcDNReXRubV9NbzhYczRVLXV5LUszM2JZQmxyOGpIYmdhbWxGZzNNU0R3?oc=5",
-              "source": "华尔街见闻",
-              "publishedAt": "Wed, 26 Aug 2026 08:07:40 GMT",
-              "summary": "摩根大通：市场对阿里配股反应过度，阿里、腾讯、百度AI融资路径各不相同 &nbsp;&nbsp; 华尔街见闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "中报观察 | 百度AI业务占营收“半壁江山” 管理层称将持续投入 - 观点网",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaWlQtV0xCdTRfMHJRZUtjT05ObktzZVZpenFkcGxULWZCdEhfWllWcGR3WUE1RlpUUl9Ub1hLLUFKX1UxNURTSUdOOTZuZw?oc=5",
-              "source": "观点网",
-              "publishedAt": "Tue, 18 Aug 2026 21:41:23 GMT",
-              "summary": "中报观察 | 百度AI业务占营收“半壁江山” 管理层称将持续投入 &nbsp;&nbsp; 观点网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Anthropic 推出 MHS 标准，首度重拳杀入物理 AI 领域",
-              "link": "https://www.ithome.com/0/995/514.htm",
+              "title": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
+              "link": "https://www.ithome.com/0/995/874.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 04:46:12 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 02:21:24 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "消息称某厂新平板搭载 12.5 英寸 LCD 屏、骁龙 8 Gen5，预计为小米平板 9 Pro",
-              "link": "https://www.ithome.com/0/995/470.htm",
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:51:42 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "小米智能存储升级 1.0.8.425 版本：相册支持节日搜索，影视库新增合集管理",
-              "link": "https://www.ithome.com/0/995/411.htm",
+              "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
+              "link": "https://www.ithome.com/0/995/847.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:22:53 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 00:11:17 GMT",
               "channelId": "ithome_ai"
             },
             {
@@ -3302,45 +1764,24 @@
               "channelId": "ifanr_ai"
             },
             {
-              "title": "开源电子书工具 Calibre 9.14 发布：首次引入 AI 生成封面",
-              "link": "https://www.ithome.com/0/995/569.htm",
+              "title": "国家数据局：全国已建成高质量数据集超 12.6 万个，总体量超 1815PB",
+              "link": "https://www.ithome.com/0/995/893.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 06:12:37 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:59:25 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "中国人民银行 9 月 4 日发行科创未来（人工智能）金银纪念币，图案含芯片、电路纹理等",
-              "link": "https://www.ithome.com/0/995/492.htm",
+              "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
+              "link": "https://www.ithome.com/0/995/891.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:20:02 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 03:40:50 GMT",
               "channelId": "ithome_ai"
             },
             {
-              "title": "国家发改委：发展机器人产业必须因地制宜，防止盲目跟风、一哄而上",
-              "link": "https://www.ithome.com/0/995/481.htm",
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 03:04:28 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "全球最小：万代推出电子宠物戒指，0.56 英寸彩屏、体积较 30 年前初代缩小 56%",
-              "link": "https://www.ithome.com/0/995/469.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:50:20 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "Alphacool 推出 Core 2 LT CPU 一体式液冷：铜质 25mm 冷排",
-              "link": "https://www.ithome.com/0/995/453.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:38:37 GMT",
-              "channelId": "ithome_ai"
-            },
-            {
-              "title": "苹果史上最高互连密度：曝 M6 Pro / Max 芯片仍在推进，首次采用台积电双封装组合",
-              "link": "https://www.ithome.com/0/995/421.htm",
-              "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 02:27:03 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
               "channelId": "ithome_ai"
             },
             {
@@ -3379,13 +1820,6 @@
               "channelId": "geekpark_ai"
             },
             {
-              "title": "从单点突破到全数 SOTA，阿里打响「模型团战」第一枪",
-              "link": "http://www.geekpark.net/news/369200",
-              "source": "极客公园",
-              "publishedAt": "Fri, 21 Aug 2026 18:15:12 +0800",
-              "channelId": "geekpark_ai"
-            },
-            {
               "title": "为什么苹果、小米的 AI 电脑，都在死磕「内存墙」｜AI 器物志",
               "link": "https://www.ifanr.com/1676852?utm_source=rss&utm_medium=rss&utm_campaign=",
               "source": "爱范儿",
@@ -3413,61 +1847,6 @@
           "query": "AI 技术 突破",
           "items": [
             {
-              "title": "全球媒体聚焦 | 中国推动AI技术大规模应用 - 央广网",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEUUhuajN3N0c4YjdXWW8ybFlDZUpkS1hHRGRzTUt3RFVIOHRpZFdvRmZ1aWdBNUxzeGlLbHBudDhUbE1NWlBwRTdXY3hhRzlCenN5YmQ3T0Myd0ZTQUtyOGkxWjBLTmJqQmVfbGo0Z3pKY2s3dXVyZ1I5YU9iSXc?oc=5",
-              "source": "央广网",
-              "publishedAt": "Fri, 28 Aug 2026 03:46:48 GMT",
-              "summary": "全球媒体聚焦 | 中国推动AI技术大规模应用 &nbsp;&nbsp; 央广网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "星空・体育中国综合：2026年AI芯片技术突破引领智能计算新纪元 - womenofchina.com",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zdEliNXVaeTdoSWNwenZ5d0gzVS1Mc0o5TEo3czdCNWp0dHlLV2JOUVNlZ3BUUmxQNFd5cW5wNEtjLTcwM1hVM0lUWDZkdXd6eE1qV0J1UlE2c092dkZRd2NFYUE1bEwzcmhV?oc=5",
-              "source": "womenofchina.com",
-              "publishedAt": "Fri, 21 Aug 2026 16:06:24 GMT",
-              "summary": "星空・体育中国综合：2026年AI芯片技术突破引领智能计算新纪元 &nbsp;&nbsp; womenofchina.com",
-              "channelId": "google_news"
-            },
-            {
-              "title": "坚持创新与治理并重 加快建设全球人工智能创新高地 - shobserver.com",
-              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY21nQXdpb0Nyd3pqLXZYTTFGWnlOa0h0NE1DaGZJLWE0WkpvRFY0Yy1CTjhvOHhGOTRHR1N0dDNHTmZ6eTExcUdnWjBFSzhxaXM3cV9BSzR0NFZlc25MRWN0SHg0VkpDbi1UNmptMEZ2endYVXRnc3YyS3ctY0xfWl90VWtHUXQ5ZHpweDRhMXowcTFSclQySTlTYjQyQk9YUVhtX25scElraVVF?oc=5",
-              "source": "shobserver.com",
-              "publishedAt": "Wed, 05 Aug 2026 04:43:46 GMT",
-              "summary": "坚持创新与治理并重 加快建设全球人工智能创新高地 &nbsp;&nbsp; shobserver.com",
-              "channelId": "google_news"
-            },
-            {
-              "title": "聚焦“算力+场景” AI产业化加速迈入智能新生态丨新经济观察 - 封面新闻",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yRGZpNGN2c1VSbjdOYzlaSC03Q1RJS09tODV4dDJONUk2bUg3RmhZN3BlTUQ4VE5ndGl5VG9Dbk1MVGNEWjFHS0c4YWxfV20zbmdwbXRQdFROQU5YUEhtczdmS3cyajBJbmpYY2NPdDZnbVc1d2Rn?oc=5",
-              "source": "封面新闻",
-              "publishedAt": "Thu, 20 Aug 2026 19:07:00 GMT",
-              "summary": "聚焦“算力+场景” AI产业化加速迈入智能新生态丨新经济观察 &nbsp;&nbsp; 封面新闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "浪潮信息：成功开发高压直流瞬稳技术 突破AI超节点整机柜800V供电难题 - 东方财富",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HNWQyeEh4M0VOREtiQzFHSE9hYkFZSXFYQVFRMmswd0NLdWtva1hnOFljd1pVMThHMzN6QXhfZmN0LWVuMGlhVzJHMjY4NjJhRE5zWEdZb24xekJ1NVpmNw?oc=5",
-              "source": "东方财富",
-              "publishedAt": "Fri, 21 Aug 2026 03:22:11 GMT",
-              "summary": "浪潮信息：成功开发高压直流瞬稳技术 突破AI超节点整机柜800V供电难题 &nbsp;&nbsp; 东方财富",
-              "channelId": "google_news"
-            },
-            {
-              "title": "龚克：构建以人为本的全球 AI 治理框架 - 智源社区",
-              "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GekljT0xZZEVWTGpCb1g5U2l6Y2dwanFUN0JsS0lsQllwZTBjeUhpRG9sVE9wZ3VwTngyRTZ1ODRmelY2TU51Tw?oc=5",
-              "source": "智源社区",
-              "publishedAt": "Thu, 13 Aug 2026 07:00:00 GMT",
-              "summary": "龚克：构建以人为本的全球 AI 治理框架 &nbsp;&nbsp; 智源社区",
-              "channelId": "google_news"
-            },
-            {
-              "title": "从单点突破到全数 SOTA，阿里打响「模型团战」第一枪",
-              "link": "http://www.geekpark.net/news/369200",
-              "source": "极客公园",
-              "publishedAt": "Fri, 21 Aug 2026 18:15:12 +0800",
-              "channelId": "geekpark_ai"
-            },
-            {
               "title": "特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道",
               "link": "http://www.geekpark.net/news/369481",
               "source": "极客公园",
@@ -3489,10 +1868,17 @@
               "channelId": "geekpark_ai"
             },
             {
-              "title": "开源电子书工具 Calibre 9.14 发布：首次引入 AI 生成封面",
-              "link": "https://www.ithome.com/0/995/569.htm",
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
               "source": "RSS",
-              "publishedAt": "Fri, 28 Aug 2026 06:12:37 GMT",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "阿里云巴西节点开服，Qwen 系列开源模型全球下载量突破 30 亿次",
+              "link": "https://www.ithome.com/0/995/847.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 00:11:17 GMT",
               "channelId": "ithome_ai"
             },
             {
@@ -3516,54 +1902,6 @@
           "query": "AI 产品 交互 体验",
           "items": [
             {
-              "title": "百度AI Day发布多项产品升级 搜索体验与AI能力全面革新 - 中国科技网",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OX21YM1VnYUdONk54Mzh0bHNyYVVfSTNaN3Y1ZjUxaVFIR2FQeHVVQkpLd1JDRWhsTlFrSk1VMzV6LTEtRHJqNmdyNTZ4dVBOdkpUckc4ZEdQYTdRS2xpZVV5YUVmeEpSZC1laFNBbFg?oc=5",
-              "source": "中国科技网",
-              "publishedAt": "Thu, 20 Aug 2026 14:38:44 GMT",
-              "summary": "百度AI Day发布多项产品升级 搜索体验与AI能力全面革新 &nbsp;&nbsp; 中国科技网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI加速重塑智能终端 交互与量产协同助力体验升级 - 人民网",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJdXBvWHdmTnNDQU1Ba0duSmRYa1pYNjF2dUtPOV81dUtieTdLVFZUazhieW5oWjVWMElFSHFrUW1vcldUb2VSOG56eXB5ek02d0lIM2llYU85WWliZURKNTBFQlh6RzdWMGktQ0pR?oc=5",
-              "source": "人民网",
-              "publishedAt": "Fri, 14 Aug 2026 07:00:00 GMT",
-              "summary": "AI加速重塑智能终端 交互与量产协同助力体验升级 &nbsp;&nbsp; 人民网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "影石GO Ultra AI语音助手延期推出 为优化AI交互体验 - 观点网",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UU1BoTnBGMkhDVTZ1RUhvUzM2Y0V4bE5UOFVfdzdHNGREazk4ZTNCaVpmVG44RXlqWnIyWmFmM1ZPVjhJNXJMMUpobFFsdw?oc=5",
-              "source": "观点网",
-              "publishedAt": "Wed, 05 Aug 2026 07:00:00 GMT",
-              "summary": "影石GO Ultra AI语音助手延期推出 为优化AI交互体验 &nbsp;&nbsp; 观点网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "发布\"AI超级老师\"和新款硬件，作业帮宣布进军高端市场 - 新京报",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lVlN6VC01cXN2RG4xeW1pdFRnNmZUd1RncExmNnpadC1ZWkNaWFRscVl3RTFONjF3RHZXUUEyeGJIem0wU1VhZjFkZEtldk54UFlYUWpJOGk1OWJiNkEzZ2piSi0?oc=5",
-              "source": "新京报",
-              "publishedAt": "Mon, 17 Aug 2026 07:00:00 GMT",
-              "summary": "发布\"AI超级老师\"和新款硬件，作业帮宣布进军高端市场 &nbsp;&nbsp; 新京报",
-              "channelId": "google_news"
-            },
-            {
-              "title": "江苏移动赋能数智便民生活圈 | “AI小亭”携手“拾集”科技集市亮相南京社区 - 紫牛新闻",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSc3laUFhSNG1CZDRXbW1BT0xuaXJ5M1VsMkV3ZElhdlYtRVZDZWlocnBRNm5BOTVETUp2S0hYS2M3dmR2SlBOdHE3S3VpSVlFekwyTzd3QVpuUWdsZktrR0FvUlJIM0I3aHc?oc=5",
-              "source": "紫牛新闻",
-              "publishedAt": "Wed, 26 Aug 2026 03:39:00 GMT",
-              "summary": "江苏移动赋能数智便民生活圈 | “AI小亭”携手“拾集”科技集市亮相南京社区 &nbsp;&nbsp; 紫牛新闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "“赛博果蝇”亮相杭州文三数字生活街区 - 新华网客户端",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTkNmc2dNdGQzV2VjaFl4Sm5icm5fQVlZYk40VWkyWHlFYjg2VUFCa2dRRkUxempnVTcyRW1IUGJPLTZnQ1RMNnJHbjdndXBIMTFwS0N4eHBpbXc5Z2F0UThGbm9TVVRJZUp5bXMtUXFHRldzVFIwd19jNlZ3cXVNNXNiNEprQUVSbkdiNGtFSGhRMmwzaUpMZmlR?oc=5",
-              "source": "新华网客户端",
-              "publishedAt": "Tue, 04 Aug 2026 07:00:00 GMT",
-              "summary": "“赛博果蝇”亮相杭州文三数字生活街区 &nbsp;&nbsp; 新华网客户端",
-              "channelId": "google_news"
-            },
-            {
               "title": "从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？",
               "link": "http://www.geekpark.net/news/369401",
               "source": "极客公园",
@@ -3576,6 +1914,20 @@
               "source": "极客公园",
               "publishedAt": "Tue, 25 Aug 2026 16:58:10 +0800",
               "channelId": "geekpark_ai"
+            },
+            {
+              "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+              "link": "https://www.ithome.com/0/995/859.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 01:19:38 GMT",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
+              "channelId": "ithome_ai"
             }
           ]
         },
@@ -3583,54 +1935,6 @@
           "title": "产品范式",
           "query": "AI 产品 发布",
           "items": [
-            {
-              "title": "百度AI Day发布多项产品升级 搜索体验与AI能力全面革新 - 中国科技网",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OX21YM1VnYUdONk54Mzh0bHNyYVVfSTNaN3Y1ZjUxaVFIR2FQeHVVQkpLd1JDRWhsTlFrSk1VMzV6LTEtRHJqNmdyNTZ4dVBOdkpUckc4ZEdQYTdRS2xpZVV5YUVmeEpSZC1laFNBbFg?oc=5",
-              "source": "中国科技网",
-              "publishedAt": "Thu, 20 Aug 2026 14:38:44 GMT",
-              "summary": "百度AI Day发布多项产品升级 搜索体验与AI能力全面革新 &nbsp;&nbsp; 中国科技网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI办公群雄逐鹿，百度搭子发布专业办公一揽子升级 - 国际金融报",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fNVNxMUhZd1BwcjlVLTJoZ2Q5OXVhbDJKNXV5VndrRDFvMFRpSVVSaWtzSGFrUkJRWmJmclRlUzJlbFB0U2NzM1EtcEI4dHlqaXlCUndR?oc=5",
-              "source": "国际金融报",
-              "publishedAt": "Thu, 27 Aug 2026 10:03:00 GMT",
-              "summary": "AI办公群雄逐鹿，百度搭子发布专业办公一揽子升级 &nbsp;&nbsp; 国际金融报",
-              "channelId": "google_news"
-            },
-            {
-              "title": "三大范式重构，鼎捷雅典娜AI新产品发布会即将举办 - 中国日报网",
-              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PU2tjcUtJYlA4d2ZDZGhRUHFjVkZzSmV6TURrV09EeHZOTzBOMUFCRnBaeG9pdE9RNGdSY3pwZS1PT3g4Q0l0SmxvMFN4QU5PSzI3MzBqLWdPajJOX2NCczEwUHlYV1lPYnJxbWhWOVQ5cU1iMGtDZnVlZnQ?oc=5",
-              "source": "中国日报网",
-              "publishedAt": "Thu, 13 Aug 2026 07:00:00 GMT",
-              "summary": "三大范式重构，鼎捷雅典娜AI新产品发布会即将举办 &nbsp;&nbsp; 中国日报网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "用友焕新，从企业软件到企业AI，并重磅发布\"AI+X\"的BIP 6 - eeo.com.cn",
-              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQcTVwckdmMlB1cUVONGh3VG1Vd1JqX3FBV1dablNzX0RlMW5SRHdiTDFWcURFSVRiaHpUM05HUVlvbGhBbkdIUVFKeDBlNzF6QVNuWExTSQ?oc=5",
-              "source": "eeo.com.cn",
-              "publishedAt": "Fri, 07 Aug 2026 07:00:00 GMT",
-              "summary": "用友焕新，从企业软件到企业AI，并重磅发布\"AI+X\"的BIP 6 &nbsp;&nbsp; eeo.com.cn",
-              "channelId": "google_news"
-            },
-            {
-              "title": "江行智能发布“一脑多体”具身系列产品，为机器人装上“物理AI大脑” - 麻省理工科技评论",
-              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vY2lubDB1UkZVdE9MZlU4LXBkN2ZFS1RhSmNRQTZrZUlSbzZvRmJmdXBzMXRoLWRiZ3o2c0dxOE9xSHJjWHphMzRfYlBOQUVrSGlDQlAtZw?oc=5",
-              "source": "麻省理工科技评论",
-              "publishedAt": "Mon, 10 Aug 2026 12:38:40 GMT",
-              "summary": "江行智能发布“一脑多体”具身系列产品，为机器人装上“物理AI大脑” &nbsp;&nbsp; 麻省理工科技评论",
-              "channelId": "google_news"
-            },
-            {
-              "title": "马斯克押注AI代理赛道，SpaceX AI推出Grok Bot，对标Anthropic与OpenAI - 华尔街见闻",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tLU1IdU81bERYZVl2Q2ViX3lLbjNWcDNNOHNkTDU2NEl1anpPa1VWODdfUUF0VGtmR3FZemtZWXh6M2c0dmFDMUtTMFQwY2RhWEZN?oc=5",
-              "source": "华尔街见闻",
-              "publishedAt": "Wed, 12 Aug 2026 07:00:00 GMT",
-              "summary": "马斯克押注AI代理赛道，SpaceX AI推出Grok Bot，对标Anthropic与OpenAI &nbsp;&nbsp; 华尔街见闻",
-              "channelId": "google_news"
-            },
             {
               "title": "苹果突袭发布 M6 与 M5 Ultra 芯片与新款 Mac Mini；字节发布 AI 办公产品「豆包工作」；SpaceX 拟千亿美元建设第二座「星际基地」｜极客早知道",
               "link": "http://www.geekpark.net/news/369355",
@@ -3659,52 +1963,11 @@
           "query": "AI 推理 成本 Token",
           "items": [
             {
-              "title": "AI推理前瞻——从基础设施建设到商业化变现 - 华尔街见闻",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94endWTUZaYndMNXRWSGk0bGRvaThBTExmRzBNSk1CZ3NnSGlNaUtJSVlQQ05xV3pBdDAzdUFxMG5hS2oycEhITW8wT0l5TFhFZS13?oc=5",
-              "source": "华尔街见闻",
-              "publishedAt": "Sun, 09 Aug 2026 07:00:00 GMT",
-              "summary": "AI推理前瞻——从基础设施建设到商业化变现 &nbsp;&nbsp; 华尔街见闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "云天励飞携手产业链推进国产推理生态建设 - 中国科技网",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NTG81NXIyZHp2QVIwZUdqTXNVa0FjcDNMSFRHX2Q0QklYS292T3pPUzA5SXFXTmhsdEZtY0JVeHB5N0kyQW1lTVNUOUhNYVhMeXBnMExZM2NBdVRzTDZLdzkwTDBqWmd4V1dWT2lGUEg?oc=5",
-              "source": "中国科技网",
-              "publishedAt": "Fri, 07 Aug 2026 07:00:00 GMT",
-              "summary": "云天励飞携手产业链推进国产推理生态建设 &nbsp;&nbsp; 中国科技网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "海外研选 | 大摩：开放权重模型降低AI成本 杰文斯悖论或令算力需求持续增长 - 财联社",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1abktDMXZfa3hyWDBRWXZwSTNsUnloUWZhMlVJMDFmYmpfY2JEY0xVM09mMTBIeFNYZTZ6Qi1ySEszM3ZKQWc?oc=5",
-              "source": "财联社",
-              "publishedAt": "Tue, 04 Aug 2026 07:00:00 GMT",
-              "summary": "海外研选 | 大摩：开放权重模型降低AI成本 杰文斯悖论或令算力需求持续增长 &nbsp;&nbsp; 财联社",
-              "channelId": "google_news"
-            },
-            {
-              "title": "网宿科技与趋境科技达成战略合作，推动高品质AI Token规模化生产 - 同花顺财经",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBMGFEM3lTR2phN3dLb1lKR1ZoVTVEXzROMDhXTElFUExkbFZvTFhBX1VpMDl5cTRDYTQwaHVZWnExRENORTFiWW1lOEJKeXMtSVRVSTg2ejZUUGFTX2c?oc=5",
-              "source": "同花顺财经",
-              "publishedAt": "Fri, 07 Aug 2026 02:42:02 GMT",
-              "summary": "网宿科技与趋境科技达成战略合作，推动高品质AI Token规模化生产 &nbsp;&nbsp; 同花顺财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Agent 成本失控背后：上下文、人工审核与维护成本正在被低估｜请回答 WAIC 2026 - InfoQ-CN",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsUkNXcHR2SkctM3BOZ2NWcHhreVJ3enM2TGtVQTQybExhazI2eHdESEhqWTdKdnNlVWRfY3BYdWlhTUhncWxTNUtiZ0wwZUJaY0c4X3JqLTZDUERIcFE?oc=5",
-              "source": "InfoQ-CN",
-              "publishedAt": "Fri, 31 Jul 2026 07:00:00 GMT",
-              "summary": "Agent 成本失控背后：上下文、人工审核与维护成本正在被低估｜请回答 WAIC 2026 &nbsp;&nbsp; InfoQ-CN",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI Token经济体系始于数据层 - 电子工程专辑",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iNUI3clpHYzhaLWc3ZkxlR0RGVGpGVkU1ZUdJTlQzbnNnMUFtTEp2SDg2U0RBNTQ2S0x0M2JzT3NoMjNNMGF3ZzZsTkk0VThUYlNr?oc=5",
-              "source": "电子工程专辑",
-              "publishedAt": "Wed, 19 Aug 2026 07:00:00 GMT",
-              "summary": "AI Token经济体系始于数据层 &nbsp;&nbsp; 电子工程专辑",
-              "channelId": "google_news"
+              "title": "AI 算力拉动铜需求激增，2026 年 AI 服务器专用高端铜箔需求预计增 260%",
+              "link": "https://www.ithome.com/0/995/891.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 03:40:50 GMT",
+              "channelId": "ithome_ai"
             }
           ]
         },
@@ -3712,54 +1975,6 @@
           "title": "代理式 AI",
           "query": "AI 智能体",
           "items": [
-            {
-              "title": "哈佛MIT造出“黑客帝国”：83亿智能体镜像全球真实人类行为 - 安全内参",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qXzVpQWh0eHVUTkJRZ25qczF1QzN4MVVfa1MtUEFGZC13V0FaQURCdWM5Y3draEQ3MF83XzBpc2FvWDM4Y2xnUWJjV1NpQQ?oc=5",
-              "source": "安全内参",
-              "publishedAt": "Sun, 09 Aug 2026 07:00:00 GMT",
-              "summary": "哈佛MIT造出“黑客帝国”：83亿智能体镜像全球真实人类行为 &nbsp;&nbsp; 安全内参",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI智能体正在重写科研 - 麻省理工科技评论",
-              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EVW42SlVSeEI3N1NLdXd3dGlYdUhSb1RCeUIyWDVzcmdYVEdtR0tzaHRKZFBmWUxWckFxTUZGNk95R1paUW91Yl9QQjg3T1c2YmxpcVRJVQ?oc=5",
-              "source": "麻省理工科技评论",
-              "publishedAt": "Wed, 12 Aug 2026 12:24:31 GMT",
-              "summary": "AI智能体正在重写科研 &nbsp;&nbsp; 麻省理工科技评论",
-              "channelId": "google_news"
-            },
-            {
-              "title": "Cloudflare OS：面向智能体、应用和工作的开放平台 - Cloudflare Blog",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZUkVabjNEMlJBeU5UVEJTWHlZNUVnV2lrTFVNVW0tWHpzNVFGZTItZHBzcFlwLUFtYUgtRkdVT2ozcEFJeUlnN0FjeUJjZXBNZ2k1c3hrcUNYQU42?oc=5",
-              "source": "Cloudflare Blog",
-              "publishedAt": "Mon, 10 Aug 2026 07:00:00 GMT",
-              "summary": "Cloudflare OS：面向智能体、应用和工作的开放平台 &nbsp;&nbsp; Cloudflare Blog",
-              "channelId": "google_news"
-            },
-            {
-              "title": "顾兵教授专访：AI智能体如何破解mNGS报告解读的“三大痛点” - bgi.com",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0M3BMR0RsN3pSamc3NlJZMG5BaXMzWjFGN2J0VkRjdUdCU3I2RXZKdDBmQ3ZBQVZYd19DUjNRY3d5dnp5aTByelhKcw?oc=5",
-              "source": "bgi.com",
-              "publishedAt": "Fri, 07 Aug 2026 07:00:00 GMT",
-              "summary": "顾兵教授专访：AI智能体如何破解mNGS报告解读的“三大痛点” &nbsp;&nbsp; bgi.com",
-              "channelId": "google_news"
-            },
-            {
-              "title": "DeepSeek 开源 Harness：AI 智能体基础设施开始“拆分” - InfoQ-CN",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvVUtZSUlYTWl1SWtCTDk5eEluZmtxd0thekVZRUpLTHBWc3RoOXRPY051NUk0RGlCaHhueXRGcDAtV3pzdXF0VjFkU2ZDNzBqTXFyVTRQV0tkanFvc2c?oc=5",
-              "source": "InfoQ-CN",
-              "publishedAt": "Wed, 26 Aug 2026 10:05:38 GMT",
-              "summary": "DeepSeek 开源 Harness：AI 智能体基础设施开始“拆分” &nbsp;&nbsp; InfoQ-CN",
-              "channelId": "google_news"
-            },
-            {
-              "title": "NVIDIA 与本地 AI 社区共同推动开源模型和智能体发展 - NVIDIA",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMUWlLRnJXQzJNb2V4NkppQkFVUTNvN1ZmdE1OcFBjOW1EUjJQeTFKOEd3UTJnYXpiZTdiakE1N0pleFhRMFJoWFJ5Q3NxT0pMNmF4ZkhQQVNySE9pQXgtYmFLT05CaDdXNGNCOGlmSFhMUG1XXzVvemFLb0R2dw?oc=5",
-              "source": "NVIDIA",
-              "publishedAt": "Tue, 11 Aug 2026 07:00:00 GMT",
-              "summary": "NVIDIA 与本地 AI 社区共同推动开源模型和智能体发展 &nbsp;&nbsp; NVIDIA",
-              "channelId": "google_news"
-            },
             {
               "title": "从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？",
               "link": "http://www.geekpark.net/news/369401",
@@ -3773,6 +1988,13 @@
               "source": "极客公园",
               "publishedAt": "Tue, 25 Aug 2026 16:58:10 +0800",
               "channelId": "geekpark_ai"
+            },
+            {
+              "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
+              "link": "https://www.ithome.com/0/995/854.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 29 Aug 2026 00:39:09 GMT",
+              "channelId": "ithome_ai"
             }
           ]
         },
@@ -3780,54 +2002,6 @@
           "title": "商业 ROI",
           "query": "AI 商业化 ROI",
           "items": [
-            {
-              "title": "物理AI加速工业落地：2025年中国具身智能机器人市场达57.4亿元，商业化进程全面提速 - IDC | Trusted Tech Intelligence",
-              "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOZURpVHpLTEgyV3IyTkR0MlBYYU9DbFpydENiZHRYT1JIallvZml1SDI2ZktqTHM1MGdrRmJPT1VzV0FUYlAya0lwZmhBTDFSYm5xZGlJbUVxaTJULWRfMzlFUm5BUXFyc2p1b2h2MVVibThSdDhud0gtNHZoMG84a3BkRVoyM1ZJaE5rZ01LbGFPQmI4RHZJSWlfMm01NmlyR2piTllzNU1DNHdwdE9KWjdrT3k4bWFhNWtRMk1jemd6c3A5NWh1T0tZR184c2RkQUwyRzVXU1ZpbjRVSC14N3I5bE5aX0lSODhRakswNC1PR0lFYkpmR3dGY3ZEcThhTHJTS2FfYWYyMVJUYUY5MGVxcnQ1SmtzY3E0aUhTQ096SXBjSWJ2Smt6b2F1TmR6TGZrYXVXLWF5ejQtMUtZNEJFM1VIUEZhZ09ZN0NPS1RZOXhmbG5lag?oc=5",
-              "source": "IDC | Trusted Tech Intelligence",
-              "publishedAt": "Tue, 04 Aug 2026 07:00:00 GMT",
-              "summary": "物理AI加速工业落地：2025年中国具身智能机器人市场达57.4亿元，商业化进程全面提速 &nbsp;&nbsp; IDC | Trusted Tech Intelligence",
-              "channelId": "google_news"
-            },
-            {
-              "title": "企业AI投资持续扩大，但ROI难以量化-人工智能 - 至顶网",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MSUxFNnlNQnV6ZHY4SHBteG9yTThWbVpnYUlPcTVSNkMzbkFrQkx3cjJPcDZELWJ6YjZ1MnpfYVR0LW8wUVJhN1V0ek55Mk11NVJaQW5NTm51ZElSMHc?oc=5",
-              "source": "至顶网",
-              "publishedAt": "Thu, 27 Aug 2026 05:07:01 GMT",
-              "summary": "企业AI投资持续扩大，但ROI难以量化-人工智能 &nbsp;&nbsp; 至顶网",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI ROI的真正鸿沟：不是技术差距，而是组织与客户旅程的错配 - Moomoo",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94LVlwbEFfblNLMGY3QXdvcnh4VjhhREp1N3ZfcW9OOTg0MDF3TVRiUkpkREpxNk1hbEpaY2lHYzNPdGNjNXVxNVlQWDRvREtYT0hfUDhVUUZTZw?oc=5",
-              "source": "Moomoo",
-              "publishedAt": "Thu, 13 Aug 2026 07:00:00 GMT",
-              "summary": "AI ROI的真正鸿沟：不是技术差距，而是组织与客户旅程的错配 &nbsp;&nbsp; Moomoo",
-              "channelId": "google_news"
-            },
-            {
-              "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压 - 华尔街见闻",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04V3BzdGJQWkx1bFlPalpQUlJWOGRmdTVDR3p2Y0ROME1FWHdfSjdYYmkwbGMweXdsY2RweUJqblFLWGJXaDJPbEl4YUtSWWtDck8w?oc=5",
-              "source": "华尔街见闻",
-              "publishedAt": "Tue, 04 Aug 2026 07:00:00 GMT",
-              "summary": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压 &nbsp;&nbsp; 华尔街见闻",
-              "channelId": "google_news"
-            },
-            {
-              "title": "大模型迭代降本！AI应用商业化拐点来临？热门大牛股13天9板 - 21财经",
-              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkFoRmhmTG1aelg3aEpoS0hzdDRkRlVlSGhJM2JLa2puanBObHc1UjlJOEFGZTdVWTBXQi1ndE5RZXk1bkhmaHFYTElORExtVmgtZ0wwdkJHaWl3bXJ0czVsVHBSeFh2NnEzczVIdnZhZDFkSHF5RkVhOVdKa3JsU1VFLUhqTnZrR3E1NQ?oc=5",
-              "source": "21财经",
-              "publishedAt": "Wed, 12 Aug 2026 03:50:00 GMT",
-              "summary": "大模型迭代降本！AI应用商业化拐点来临？热门大牛股13天9板 &nbsp;&nbsp; 21财经",
-              "channelId": "google_news"
-            },
-            {
-              "title": "德勤报告：逾三成企业跨团队部署AI 近半称ROI低于预期 - 观点网",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EeEVCaGJKaDhkZUUwSGtzbWJtaWQ3SVRncGhLWWE1MU9KM3lDWXYwbnZLOGlLSS1ITVFKYXBjcHJVX1F6Vl9qQ3FBVXdoVWxQM0VWQ2J3eWZtZlpqbHh2NkFn?oc=5",
-              "source": "观点网",
-              "publishedAt": "Tue, 25 Aug 2026 12:17:43 GMT",
-              "summary": "德勤报告：逾三成企业跨团队部署AI 近半称ROI低于预期 &nbsp;&nbsp; 观点网",
-              "channelId": "google_news"
-            },
             {
               "title": "特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道",
               "link": "http://www.geekpark.net/news/369481",
@@ -3874,41 +2048,41 @@
           "symbol": "002230.SZ",
           "name": "科大讯飞",
           "currency": "CNY",
-          "price": 40.130001068115234,
+          "price": 40.060001373291016,
           "previousClose": 41.119998931884766,
-          "changePct": -2.4075824160634385
+          "changePct": -2.577815141361348
         },
         {
           "symbol": "300308.SZ",
           "name": "中际旭创",
           "currency": "CNY",
-          "price": 864.7999877929688,
+          "price": 858.3499755859375,
           "previousClose": 979.4600219726562,
-          "changePct": -11.706453720158931
+          "changePct": -12.36498107832928
         },
         {
           "symbol": "688111.SS",
           "name": "金山办公",
           "currency": "CNY",
-          "price": 243.4199981689453,
+          "price": 241.3000030517578,
           "previousClose": 223.5,
-          "changePct": 8.912750858588508
+          "changePct": 7.964207181994547
         },
         {
           "symbol": "600570.SS",
           "name": "恒生电子",
           "currency": "CNY",
-          "price": 22.09000015258789,
+          "price": 21.969999313354492,
           "previousClose": 20.059999465942383,
-          "changePct": 10.119644769143775
+          "changePct": 9.521435185753036
         },
         {
           "symbol": "002415.SZ",
           "name": "海康威视",
           "currency": "CNY",
-          "price": 35.29999923706055,
+          "price": 35.099998474121094,
           "previousClose": 33.150001525878906,
-          "changePct": 6.485663988592042
+          "changePct": 5.882343464509048
         }
       ],
       "channels": [
@@ -3934,7 +2108,7 @@
         },
         {
           "channelId": "ithome_ai",
-          "count": 9
+          "count": 6
         },
         {
           "channelId": "mydrivers_ai",
@@ -3969,18 +2143,31 @@
     }
   },
   "health": {
-    "totalNewsItems": 412,
-    "emptySections": [],
+    "totalNewsItems": 178,
+    "emptySections": [
+      {
+        "days": 1,
+        "title": "产品范式"
+      },
+      {
+        "days": 1,
+        "title": "商业 ROI"
+      },
+      {
+        "days": 3,
+        "title": "产品范式"
+      }
+    ],
     "totalStocks": 40,
     "stocksWithPrice": 40,
     "channels": {
       "36kr_ai": 0,
       "huxiu_ai": 0,
       "technode_cn_ai": 0,
-      "geekpark_ai": 71,
-      "ifanr_ai": 22,
-      "ithome_ai": 45,
-      "mydrivers_ai": 6,
+      "geekpark_ai": 67,
+      "ifanr_ai": 20,
+      "ithome_ai": 30,
+      "mydrivers_ai": 5,
       "zol_ai": 0,
       "thepaper_tech_ai": 0,
       "jiemian_ai": 0,
@@ -3988,6 +2175,28 @@
       "krasia_ai": 0,
       "caixin_global_ai": 0
     },
-    "diagnostics": []
+    "diagnostics": [
+      {
+        "days": 1,
+        "section": "产品范式",
+        "reason": "still-empty",
+        "googleBaseCount": 0,
+        "scoredPoolSize": 0
+      },
+      {
+        "days": 1,
+        "section": "商业 ROI",
+        "reason": "still-empty",
+        "googleBaseCount": 0,
+        "scoredPoolSize": 0
+      },
+      {
+        "days": 3,
+        "section": "产品范式",
+        "reason": "still-empty",
+        "googleBaseCount": 0,
+        "scoredPoolSize": 0
+      }
+    ]
   }
 }
