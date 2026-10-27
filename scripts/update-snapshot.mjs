@@ -1,1 +1,1 @@
-function normalize
+    summary: item.summary || "",
