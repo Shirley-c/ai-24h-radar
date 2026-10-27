@@ -1,3 +1,6 @@
+"use client";
+
+import { useState, useMemo } from "react";
 import Link from "next/link";
 import BriefCard from "@/components/BriefCard";
 import StockPanel from "@/components/StockPanel";
@@ -109,14 +112,10 @@ type SnapshotShape = {
 
 const data = snapshot as SnapshotShape;
 
-export default async function Home({
-  searchParams,
-}: {
-  searchParams?: { days?: string };
-}) {
-  const params = searchParams || {};
-  const parsedDays = Number(params.days || "1");
-  const days = DAY_OPTIONS.includes(parsedDays as (typeof DAY_OPTIONS)[number]) ? parsedDays : 1;
+export default function Home() {
+  const [days, setDays] = useState<number>(1);
+  const [searchQuery, setSearchQuery] = useState("");
+  const [selectedSource, setSelectedSource] = useState("all");
 
   const byDay = data.byDays[String(days)] ?? { sections: [], stocks: [] };
   const sectionsRaw = byDay.sections || [];
@@ -127,8 +126,30 @@ export default async function Home({
   ] as NewsSection[];
   const stocks = byDay.stocks || [];
 
+  // 收集所有来源
+  const allSources = useMemo(() => {
+    const sources = new Set<string>();
+    sections.forEach((s) => s.items.forEach((i) => sources.add(i.source)));
+    return Array.from(sources).sort();
+  }, [sections]);
+
+  // 过滤后的 sections
+  const filteredSections = useMemo(() => {
+    const query = searchQuery.trim().toLowerCase();
+    return sections.map((section) => {
+      const filteredItems = section.items.filter((item) => {
+        const matchQuery = !query || 
+          item.title.toLowerCase().includes(query) || 
+          item.source.toLowerCase().includes(query);
+        const matchSource = selectedSource === "all" || item.source === selectedSource;
+        return matchQuery && matchSource;
+      });
+      return { ...section, items: filteredItems };
+    }).filter((s) => s.items.length > 0);
+  }, [sections, searchQuery, selectedSource]);
+
   const generatedAtText = toLocal(data.generatedAt);
-  const brief = buildBrief(sections, stocks, days, generatedAtText);
+  const brief = buildBrief(filteredSections, stocks, days, generatedAtText);
 
   return (
     <main className="min-h-screen bg-slate-50 px-4 py-8 text-slate-900 dark:bg-slate-950 dark:text-slate-100 md:px-10">
@@ -139,14 +160,14 @@ export default async function Home({
             统一口径：过去 {days} 天，时区 {data.timezone || TZ}。
           </p>
           <p className="mt-1 text-xs text-slate-400">更新时间：{generatedAtText}</p>
-          <form className="mt-4 flex items-center gap-2" method="get">
+          <div className="mt-4 flex flex-wrap items-center gap-3">
             <label htmlFor="days" className="text-sm text-slate-600 dark:text-slate-300">
               时间范围
             </label>
             <select
               id="days"
-              name="days"
-              defaultValue={String(days)}
+              value={days}
+              onChange={(e) => setDays(Number(e.target.value))}
               className="rounded-lg border border-slate-300 bg-white px-2 py-1 text-sm dark:border-slate-700 dark:bg-slate-900"
             >
               {DAY_OPTIONS.map((d) => (
@@ -155,19 +176,59 @@ export default async function Home({
                 </option>
               ))}
             </select>
-            <button
-              type="submit"
-              className="rounded-lg border border-slate-300 px-3 py-1 text-sm hover:bg-slate-100 dark:border-slate-700 dark:hover:bg-slate-800"
-            >
-              应用
-            </button>
-          </form>
+
+            <div className="ml-4 flex items-center gap-2">
+              <input
+                type="text"
+                placeholder="搜索新闻关键词..."
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                className="rounded-lg border border-slate-300 bg-white px-3 py-1 text-sm dark:border-slate-700 dark:bg-slate-900"
+              />
+            </div>
+
+            <div className="flex items-center gap-2">
+              <label htmlFor="source" className="text-sm text-slate-600 dark:text-slate-300">
+                来源
+              </label>
+              <select
+                id="source"
+                value={selectedSource}
+                onChange={(e) => setSelectedSource(e.target.value)}
+                className="rounded-lg border border-slate-300 bg-white px-2 py-1 text-sm dark:border-slate-700 dark:bg-slate-900"
+              >
+                <option value="all">全部来源</option>
+                {allSources.map((s) => (
+                  <option key={s} value={s}>
+                    {s}
+                  </option>
+                ))}
+              </select>
+            </div>
+
+            {(searchQuery || selectedSource !== "all") && (
+              <button
+                onClick={() => {
+                  setSearchQuery("");
+                  setSelectedSource("all");
+                }}
+                className="rounded-lg border border-slate-300 px-3 py-1 text-sm hover:bg-slate-100 dark:border-slate-700 dark:hover:bg-slate-800"
+              >
+                清除筛选
+              </button>
+            )}
+          </div>
         </header>
 
         <StockPanel stocks={stocks} days={days} />
 
         <section className="grid gap-4 md:grid-cols-2">
-          {sections.map((section) => (
+          {filteredSections.length === 0 ? (
+            <p className="col-span-2 py-8 text-center text-sm text-slate-500">
+              没有匹配的新闻，试试调整搜索关键词或筛选条件。
+            </p>
+          ) : (
+            filteredSections.map((section) => (
             <article key={section.title} className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm dark:border-slate-800 dark:bg-slate-900">
               <div className="flex items-center justify-between gap-2">
                 <h3 className="text-lg font-semibold">{section.title}</h3>
@@ -213,7 +274,8 @@ export default async function Home({
                 </>
               )}
             </article>
-          ))}
+            ))
+          )}
         </section>
 
         <BriefCard markdown={brief} />

@@ -445,6 +445,44 @@ function dedupeItems(items) {
   return out;
 }
 
+// 提取标题关键词（简单按非字母数字汉字分割）
+function extractKeywords(text) {
+  const matches = text.toLowerCase().match(/[a-z0-9]+|[\u4e00-\u9fff]{2,}/g) || [];
+  return new Set(matches.filter(w => w.length >= 2));
+}
+
+// Jaccard 相似度
+function jaccardSimilarity(setA, setB) {
+  if (setA.size === 0 || setB.size === 0) return 0;
+  let intersection = 0;
+  for (const w of setA) {
+    if (setB.has(w)) intersection++;
+  }
+  const union = setA.size + setB.size - intersection;
+  return union === 0 ? 0 : intersection / union;
+}
+
+// 模糊去重：标题相似度高的合并
+function fuzzyDedupe(items, threshold = 0.5) {
+  const out = [];
+  const keywordsList = items.map(item => extractKeywords(item.title));
+
+  for (let i = 0; i < items.length; i++) {
+    let isDuplicate = false;
+    for (let j = 0; j < out.length; j++) {
+      const sim = jaccardSimilarity(keywordsList[i], keywordsList[out[j]._idx]);
+      if (sim >= threshold) {
+        isDuplicate = true;
+        break;
+      }
+    }
+    if (!isDuplicate) {
+      out.push({ ...items[i], _idx: i });
+    }
+  }
+  return out.map(({ _idx, ...rest }) => rest);
+}
+
 function rankForSection(sectionTitle, item) {
   const keywords = SECTION_KEYWORDS[sectionTitle] || [];
   const text = `${item.title} ${item.source}`;
@@ -524,7 +562,7 @@ async function generateForDay(days) {
       .slice(0, maxPerSection * 2)
       .map((x) => x.item);
 
-    let items = dedupeItems([...base, ...scoredCandidates]).filter((item) => isChineseItem(item)).slice(0, maxPerSection);
+    let items = fuzzyDedupe(dedupeItems([...base, ...scoredCandidates])).filter((item) => isChineseItem(item)).slice(0, maxPerSection);
 
     if (items.length === 0 && SECTION_FALLBACK_CHANNELS[section.title]) {
       const fallbackChannels = SECTION_FALLBACK_CHANNELS[section.title];
