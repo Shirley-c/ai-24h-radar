@@ -651,6 +651,68 @@ function buildHealthReport(byDays) {
   return report;
 }
 
+// 生成本周大事：从 7 天数据里挑最重要的新闻
+function generateWeeklyHighlights(day7Data) {
+  if (!day7Data || !day7Data.sections) return [];
+
+  // 收集所有新闻，按标题关键词聚类，统计每个新闻被多少来源报道
+  const allItems = [];
+  for (const section of day7Data.sections) {
+    for (const item of section.items) {
+      allItems.push({ ...item, section: section.title });
+    }
+  }
+
+  // 按标题模糊分组，统计每组的来源数和条数
+  const groups = [];
+  const threshold = 0.5;
+
+  for (const item of allItems) {
+    const keywords = extractKeywords(item.title);
+    let foundGroup = null;
+
+    for (const group of groups) {
+      const sim = jaccardSimilarity(keywords, group.keywords);
+      if (sim >= threshold) {
+        foundGroup = group;
+        break;
+      }
+    }
+
+    if (foundGroup) {
+      foundGroup.items.push(item);
+      foundGroup.sources.add(item.source);
+      // 保留最新的一条作为代表
+      if (new Date(item.publishedAt) > new Date(foundGroup.representative.publishedAt)) {
+        foundGroup.representative = item;
+      }
+    } else {
+      groups.push({
+        keywords,
+        items: [item],
+        sources: new Set([item.source]),
+        representative: item,
+      });
+    }
+  }
+
+  // 按重要性排序：来源数越多越重要，条数越多越重要
+  const scored = groups.map((g) => ({
+    ...g.representative,
+    sourceCount: g.sources.size,
+    itemCount: g.items.length,
+    importance: g.sources.size * 10 + g.items.length,
+  }));
+
+  // 按重要性降序，再按时间降序，取 Top 10
+  scored.sort((a, b) => {
+    if (b.importance !== a.importance) return b.importance - a.importance;
+    return new Date(b.publishedAt) - new Date(a.publishedAt);
+  });
+
+  return scored.slice(0, 10);
+}
+
 async function main() {
   const byDays = {};
   for (const d of DAY_OPTIONS) {
@@ -658,6 +720,7 @@ async function main() {
   }
 
   const health = buildHealthReport(byDays);
+  const weeklyHighlights = generateWeeklyHighlights(byDays[7]);
 
   const snapshot = {
     generatedAt: new Date().toISOString(),
@@ -665,6 +728,7 @@ async function main() {
     dayOptions: DAY_OPTIONS,
     channelConfigTemplateVersion: CHANNEL_CONFIG_TEMPLATE.version,
     byDays,
+    weeklyHighlights,
     health,
   };
 

@@ -103,11 +103,23 @@ function buildBrief(sections: NewsSection[], stocks: StockItem[], days: number, 
   return lines.join("\n");
 }
 
+type WeeklyHighlight = {
+  title: string;
+  link: string;
+  source: string;
+  publishedAt: string;
+  section: string;
+  sourceCount: number;
+  itemCount: number;
+  importance: number;
+};
+
 type SnapshotShape = {
   generatedAt: string;
   timezone: string;
   dayOptions: number[];
   byDays: Record<string, { sections: NewsSection[]; stocks: StockItem[] }>;
+  weeklyHighlights: WeeklyHighlight[];
 };
 
 const data = snapshot as SnapshotShape;
@@ -221,6 +233,46 @@ export default function Home() {
         </header>
 
         <StockPanel stocks={stocks} days={days} />
+
+        {/* 本周 AI 大事 */}
+        {data.weeklyHighlights && data.weeklyHighlights.length > 0 && (
+          <section className="rounded-2xl border border-blue-200 bg-gradient-to-br from-blue-50 to-white p-6 shadow-sm dark:border-blue-800 dark:from-blue-950/40 dark:to-slate-900">
+            <div className="flex items-center justify-between">
+              <h2 className="text-xl font-bold text-blue-900 dark:text-blue-100">本周 AI 大事</h2>
+              <span className="rounded-full bg-blue-100 px-3 py-1 text-xs text-blue-700 dark:bg-blue-900/50 dark:text-blue-300">
+                Top {data.weeklyHighlights.length}
+              </span>
+            </div>
+            <p className="mt-1 text-sm text-blue-600 dark:text-blue-400">
+              本周最值得关注的 AI 动态，按重要性排序
+            </p>
+            <ol className="mt-4 space-y-3">
+              {data.weeklyHighlights.map((item, idx) => (
+                <li key={`${item.link}-${idx}`} className="flex gap-3">
+                  <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-blue-600 text-xs font-bold text-white">
+                    {idx + 1}
+                  </span>
+                  <div className="text-sm">
+                    <a
+                      href={item.link}
+                      target="_blank"
+                      rel="noreferrer"
+                      className="font-medium text-slate-900 underline decoration-blue-300 underline-offset-4 hover:text-blue-700 dark:text-slate-100 dark:decoration-blue-700"
+                    >
+                      {item.title}
+                    </a>
+                    <div className="mt-0.5 text-xs text-slate-500">
+                      {item.source} · {toLocal(item.publishedAt)}
+                      <span className="ml-2 rounded bg-blue-100 px-1.5 py-0.5 text-blue-700 dark:bg-blue-900/50 dark:text-blue-300">
+                        {item.sourceCount} 家来源报道
+                      </span>
+                    </div>
+                  </div>
+                </li>
+              ))}
+            </ol>
+          </section>
+        )}
 
         <section className="grid gap-4 md:grid-cols-2">
           {filteredSections.length === 0 ? (
