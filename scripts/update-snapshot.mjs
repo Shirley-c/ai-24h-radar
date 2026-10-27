@@ -495,7 +495,15 @@ async function generateForDay(days) {
     Promise.all(
       CHANNEL_CONFIG_TEMPLATE.channels
         .filter((c) => c.enabled)
-        .map(async (c) => ({ channelId: c.id, items: await fetchChannelItems(c, days, cap) })),
+        .map(async (c) => {
+          try {
+            const items = await fetchChannelItems(c, days, cap);
+            return { channelId: c.id, items, error: null };
+          } catch (err) {
+            console.warn(`[warn] channel ${c.id} failed: ${err.message}`);
+            return { channelId: c.id, items: [], error: err.message };
+          }
+        }),
     ),
   ]);
 
@@ -555,7 +563,7 @@ async function generateForDay(days) {
   return {
     sections,
     stocks,
-    channels: channelResults.map((c) => ({ channelId: c.channelId, count: c.items.length })),
+    channels: channelResults.map((c) => ({ channelId: c.channelId, count: c.items.length, error: c.error || null })),
     diagnostics,
   };
 }
@@ -625,6 +633,12 @@ async function main() {
   const outPath = path.resolve("src/data/snapshot.json");
   await fs.mkdir(path.dirname(outPath), { recursive: true });
   await fs.writeFile(outPath, `${JSON.stringify(snapshot, null, 2)}\n`, "utf8");
+
+  // 按日期归档历史快照
+  const dateStr = new Date().toISOString().slice(0, 10);
+  const archivePath = path.resolve(`src/data/snapshot-${dateStr}.json`);
+  await fs.writeFile(archivePath, `${JSON.stringify(snapshot, null, 2)}\n`, "utf8");
+
   const templatePath = await writeChannelTemplate();
 
   console.log(`snapshot updated: ${outPath}`);
