@@ -102,49 +102,54 @@
       "weight": 0.75
     },
     {
-      "id": "36kr_ai",
-      "name": "36氪 AI",
+      "id": "sspai_ai",
+      "name": "少数派 AI",
       "enabled": true,
       "kind": "rss-keyword",
-      "feedUrl": "https://36kr.com/feed",
+      "feedUrl": "https://sspai.com/feed",
       "keywords": [
         "AI",
         "人工智能",
         "大模型",
-        "智能体"
+        "智能体",
+        "AI 助手"
       ],
       "fetchEveryMinutes": 120,
-      "weight": 1
+      "weight": 0.9
     },
     {
-      "id": "huxiu_ai",
-      "name": "虎嗅 AI",
+      "id": "infoq_ai",
+      "name": "InfoQ 中文 AI",
       "enabled": true,
       "kind": "rss-keyword",
-      "feedUrl": "https://www.huxiu.com/rss/0.xml",
+      "feedUrl": "https://www.infoq.cn/feed",
       "keywords": [
         "AI",
         "人工智能",
         "大模型",
-        "智能体"
-      ],
-      "fetchEveryMinutes": 120,
-      "weight": 1
-    },
-    {
-      "id": "technode_cn_ai",
-      "name": "动点科技 AI",
-      "enabled": true,
-      "kind": "rss-keyword",
-      "feedUrl": "https://cn.technode.com/feed/",
-      "keywords": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "智能体"
+        "LLM",
+        "智能体",
+        "Agent"
       ],
       "fetchEveryMinutes": 120,
       "weight": 0.95
+    },
+    {
+      "id": "juejin_ai",
+      "name": "掘金 AI",
+      "enabled": true,
+      "kind": "rss-keyword",
+      "feedUrl": "https://juejin.cn/rss",
+      "keywords": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "LLM",
+        "智能体",
+        "Agent"
+      ],
+      "fetchEveryMinutes": 120,
+      "weight": 0.9
     },
     {
       "id": "geekpark_ai",
@@ -207,9 +212,54 @@
       "weight": 0.9
     },
     {
+      "id": "36kr_ai",
+      "name": "36氪 AI",
+      "enabled": false,
+      "kind": "rss-keyword",
+      "feedUrl": "https://36kr.com/feed",
+      "keywords": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "智能体"
+      ],
+      "fetchEveryMinutes": 120,
+      "weight": 1
+    },
+    {
+      "id": "huxiu_ai",
+      "name": "虎嗅 AI",
+      "enabled": false,
+      "kind": "rss-keyword",
+      "feedUrl": "https://www.huxiu.com/rss/0.xml",
+      "keywords": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "智能体"
+      ],
+      "fetchEveryMinutes": 120,
+      "weight": 1
+    },
+    {
+      "id": "technode_cn_ai",
+      "name": "动点科技 AI",
+      "enabled": false,
+      "kind": "rss-keyword",
+      "feedUrl": "https://cn.technode.com/feed/",
+      "keywords": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "智能体"
+      ],
+      "fetchEveryMinutes": 120,
+      "weight": 0.95
+    },
+    {
       "id": "zol_ai",
       "name": "ZOL AI",
-      "enabled": true,
+      "enabled": false,
       "kind": "rss-keyword",
       "feedUrl": "https://news.zol.com.cn/rss.xml",
       "keywords": [
@@ -224,7 +274,7 @@
     {
       "id": "thepaper_tech_ai",
       "name": "澎湃科技 AI",
-      "enabled": true,
+      "enabled": false,
       "kind": "rss-keyword",
       "feedUrl": "https://www.thepaper.cn/rss_newsDetail_forward_25950",
       "keywords": [
@@ -239,7 +289,7 @@
     {
       "id": "jiemian_ai",
       "name": "界面新闻 AI",
-      "enabled": true,
+      "enabled": false,
       "kind": "rss-keyword",
       "feedUrl": "https://www.jiemian.com/rss/index.xml",
       "keywords": [
@@ -254,7 +304,7 @@
     {
       "id": "huanqiu_tech_ai",
       "name": "环球科技 AI",
-      "enabled": true,
+      "enabled": false,
       "kind": "rss-keyword",
       "feedUrl": "https://tech.huanqiu.com/rss.xml",
       "keywords": [
@@ -269,7 +319,7 @@
     {
       "id": "krasia_ai",
       "name": "KrASIA AI",
-      "enabled": true,
+      "enabled": false,
       "kind": "rss-keyword",
       "feedUrl": "https://kr-asia.com/feed",
       "keywords": [
@@ -284,7 +334,7 @@
     {
       "id": "caixin_global_ai",
       "name": "Caixin Global AI",
-      "enabled": true,
+      "enabled": false,
       "kind": "rss-keyword",
       "feedUrl": "https://www.caixinglobal.com/feed",
       "keywords": [
