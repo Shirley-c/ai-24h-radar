@@ -1,0 +1,3172 @@
+{
+  "generatedAt": "2026-11-28T04:34:40.368Z",
+  "timezone": "Asia/Shanghai",
+  "dayOptions": [
+    1,
+    3,
+    7,
+    14,
+    30
+  ],
+  "channelConfigTemplateVersion": 1,
+  "byDays": {
+    "1": {
+      "sections": [
+        {
+          "title": "OpenClaw 生态",
+          "query": "OpenClaw 小龙虾 AI 助手",
+          "items": [
+            {
+              "title": "马斯克：Grok Bot 的目标是让你可以构建整个公司",
+              "link": "https://www.ithome.com/1/033/827.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 04:21:13 GMT",
+              "summary": "IT之家 11 月 28 日消息，今天（28 日）凌晨，埃隆 · 马斯克在 X 平台发文称：就像现实中的企业一样，使用 Grok Bot 时，打造具备专属职能的 Bot 非常重要。你可以设置一个管理 Bot 来监督、协调其余 Bot 的工作。和人类员工同理，如果让单个 Bot 承担过多繁杂任务，它就会顾此失彼。 随后，马斯克补充说：Grok Bot 的目标， 是让你能够构建完整的公司 。 Grok Bot 于 2026 年 8 月 11 日以测试版形式上线，定位为可执行任务的 AI 智能体，而非单纯的聊天机器人。其…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+              "link": "https://www.ithome.com/1/033/824.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:22:22 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI 无法从运行其 AI 服务的 iPhone 中取得所需数据 。 法德尔曾与艾夫在苹果共事，因被誉为“iPod 之父”以及参与创造 iPhone 而广为人知。他创办了 Build Collective，此前还创立过 Nest Labs。 法德尔认为，OpenAI 之所以执意开发独立硬件，是因为它需要 获取现实物理世…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+              "link": "https://www.ithome.com/1/033/812.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:27:31 GMT",
+              "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何时间表。他强调，微软必须先构建未来 AI 应用所需的技术，并证明用户确实认可这些能力的价值，才能“赢得许可”，进而推进下一代系统。 达武卢里表示 Windows …",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意",
+              "link": "https://www.ithome.com/1/033/810.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:16:13 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 NeoWin 昨日（11 月 27 日）发布博文，报道称微软已搁置为 Edge 浏览器扩展 AI 功能计划， 不再为该浏览器右键菜单加入摘要、引用和翻译功能。 IT之家援引博文介绍，微软于 2025 年 6 月更新 AI at Work 路线图条目 RM497135，规划在 Microsoft Edge 浏览器中，为右键菜单添加 3 项 AI 选项，用户选中文本后右键，可以调用 Copilot 完成摘要、引用和翻译功能。 不过微软近期更新该条目，表示“ 我们已决定取消这项…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+              "link": "https://www.ithome.com/1/033/798.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 01:04:32 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+              "link": "https://www.ithome.com/1/033/795.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 00:50:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，技术博主 @itspdfu 于 11 月 26 日在 X 平台发布长推文， 通过挖掘 iOS 27.3 Beta 2 开发者预览版，发现了苹果 Siri AI 和多项 Apple Intelligence 功能的每日使用限额。 消息源指出根据苹果设定， 设备每向苹果的私密云计算（PCC）发起一次请求，就消耗一个 Token。 而这些 Token 只用来证明用户还有可用额度，不会暴露用户身份。 在请求流程中，用户在 iPhone 端发起的云端 PCC 请求，会先联系 Token 授予…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”",
+              "link": "https://www.ithome.com/1/033/780.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:12:29 GMT",
+              "summary": "IT之家 11 月 28 日消息，《金融时报》昨日（11 月 27 日）发布博文，报道称在苹果公司提起的商业秘密诉讼中，OpenAI 公司已经提出反诉，指控苹果自身窃取了 OpenAI 的商业秘密，并涉嫌胁迫和威胁同时为两家公司供货的供应商。 苹果公司于 2026 年 7 月起诉 OpenAI，称前员工 Tang Tan 和 Chang Liu 离职后，将商业秘密带到了 OpenAI。 OpenAI 在反诉中称，一名员工曾从苹果跳槽至 OpenAI，工作六个月后又返回苹果，并通过个人账户带回了一款 OpenAI 硬…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "英国养老金机构发生网络安全事件，系统紧急暂停运行",
+              "link": "https://www.ithome.com/1/033/779.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:07:06 GMT",
+              "summary": "IT之家 11 月 28 日消息，据彭博社报道，当地时间 11 月 27 日，英国就业和养老金部发现一起网络安全事件，并以“防范风险”为由暂停了系统运行。该国就业和养老金部称，系统中断 不会影响款项发放 。 就业和养老金大臣帕特 · 麦克法登证实，暂停系统运行是因为发生了一起严重事件。IT之家从报道中获悉，该部门负责全英国数千万人福利金和养老金发放工作。 近几周，多个关键系统接连发生引发广泛关注的技术故障，部分故障源于 各机构仓促修复 AI 发现的漏洞、老旧系统升级出错，以及针对企业和政府的网络攻击 。 本月早些时…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+              "link": "https://www.ithome.com/1/033/777.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:04:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "华擎推出旗舰一体式液冷 Taichi AQUA 360 LCD：引入分体式设计",
+              "link": "https://www.ithome.com/1/033/769.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:48:46 GMT",
+              "summary": "IT之家 11 月 27 日消息，华擎 (ASRock) 今日宣布推出旗舰级处理器液冷散热器 Taichi AQUA 360 LCD。该型号总体上来看属于一体式 (AIO) 类型，但又具备一些分体式的特质。 Taichi AQUA 360 LCD 采用双水泵结构 ，提供双倍流量和备份冗余；拥有 CIIR + EPDM 多层水冷管； 搭配 38mm 加厚高密度冷排 ；预装的吹排风扇采用 LCP 商业、双滚珠轴承。 其冷头既可 展现 ARGB 灯光映照下的透明水道 ，也可磁吸固定 3.4\" LCD 屏幕； 冷排预留标准…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "防考生利用 AI 作弊，韩国学校抢购金属探测器",
+              "link": "https://www.ithome.com/1/033/763.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:11:50 GMT",
+              "summary": "IT之家 11 月 27 日消息，据央视新闻报道，为防范考生利用人工智能（AI）设备作弊，韩国教育部近日发布新规，要求所有参加校内考试的学生须在考试前后 接受金属探测器检查 。各地学校加紧采购金属探测器，导致供不应求。 报道提到，一家生产便携式金属探测器的韩国厂商 27 日表示，客户咨询数量较往常增加了约 100 倍，公司大幅提升产量，仍难以满足需求。另一厂商说，如果现在订购，需等待约半个月才能拿到货。一家线上商家也发布公告说，现货已售罄，预计下月初才会补货，目前只接受预订。 在买不到金属探测器的情况下，不少学校转…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "如何让Agent 记得住、查得准、改得对？",
+              "link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 17:25:02 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            }
+          ]
+        },
+        {
+          "title": "国内外大厂动作",
+          "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 华为 OR 京东 OR OpenAI OR Anthropic OR Google OR Microsoft OR Meta OR Amazon OR NVIDIA) AI",
+          "items": [
+            {
+              "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+              "link": "https://www.ithome.com/1/033/777.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:04:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+              "link": "https://www.ithome.com/1/033/824.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:22:22 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI 无法从运行其 AI 服务的 iPhone 中取得所需数据 。 法德尔曾与艾夫在苹果共事，因被誉为“iPod 之父”以及参与创造 iPhone 而广为人知。他创办了 Build Collective，此前还创立过 Nest Labs。 法德尔认为，OpenAI 之所以执意开发独立硬件，是因为它需要 获取现实物理世…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”",
+              "link": "https://www.ithome.com/1/033/780.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:12:29 GMT",
+              "summary": "IT之家 11 月 28 日消息，《金融时报》昨日（11 月 27 日）发布博文，报道称在苹果公司提起的商业秘密诉讼中，OpenAI 公司已经提出反诉，指控苹果自身窃取了 OpenAI 的商业秘密，并涉嫌胁迫和威胁同时为两家公司供货的供应商。 苹果公司于 2026 年 7 月起诉 OpenAI，称前员工 Tang Tan 和 Chang Liu 离职后，将商业秘密带到了 OpenAI。 OpenAI 在反诉中称，一名员工曾从苹果跳槽至 OpenAI，工作六个月后又返回苹果，并通过个人账户带回了一款 OpenAI 硬…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "AI 硬件竞争白热化，OpenAI 反诉苹果窃密；iPhone 18 量产再度推迟；王兴回应美团与小微试点合作",
+              "link": "http://www.geekpark.net/news/374621",
+              "source": "极客公园",
+              "publishedAt": "Sat, 28 Nov 2026 08:53:50 +0800",
+              "summary": "OpenAI 转守为攻：反诉苹果窃密，喊话「不公平竞争」 当地时间周五（27 日），OpenAI 在美国加利福尼亚州圣何塞联邦法院对苹果提起反诉，指控苹果窃取其商业机密，并阻挠其与硬件供应商合作。 今年 7 月，苹果曾以窃取商业机密为由起诉 OpenAI。随着 OpenAI 反诉，这场官司从苹果一方起诉变成了双方互诉。 据报道，OpenAI 正准备推出一系列新的个人设备，并称这些设备有望「在苹果视为自家地盘的领域胜过苹果」。 据报道，OpenAI 在诉状中称，苹果这样做是为了「不择手段地进行不公平竞争」。OpenA…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "马斯克：Grok Bot 的目标是让你可以构建整个公司",
+              "link": "https://www.ithome.com/1/033/827.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 04:21:13 GMT",
+              "summary": "IT之家 11 月 28 日消息，今天（28 日）凌晨，埃隆 · 马斯克在 X 平台发文称：就像现实中的企业一样，使用 Grok Bot 时，打造具备专属职能的 Bot 非常重要。你可以设置一个管理 Bot 来监督、协调其余 Bot 的工作。和人类员工同理，如果让单个 Bot 承担过多繁杂任务，它就会顾此失彼。 随后，马斯克补充说：Grok Bot 的目标， 是让你能够构建完整的公司 。 Grok Bot 于 2026 年 8 月 11 日以测试版形式上线，定位为可执行任务的 AI 智能体，而非单纯的聊天机器人。其…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+              "link": "https://www.ithome.com/1/033/812.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:27:31 GMT",
+              "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何时间表。他强调，微软必须先构建未来 AI 应用所需的技术，并证明用户确实认可这些能力的价值，才能“赢得许可”，进而推进下一代系统。 达武卢里表示 Windows …",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意",
+              "link": "https://www.ithome.com/1/033/810.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:16:13 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 NeoWin 昨日（11 月 27 日）发布博文，报道称微软已搁置为 Edge 浏览器扩展 AI 功能计划， 不再为该浏览器右键菜单加入摘要、引用和翻译功能。 IT之家援引博文介绍，微软于 2025 年 6 月更新 AI at Work 路线图条目 RM497135，规划在 Microsoft Edge 浏览器中，为右键菜单添加 3 项 AI 选项，用户选中文本后右键，可以调用 Copilot 完成摘要、引用和翻译功能。 不过微软近期更新该条目，表示“ 我们已决定取消这项…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+              "link": "https://www.ithome.com/1/033/798.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 01:04:32 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+              "link": "https://www.ithome.com/1/033/795.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 00:50:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，技术博主 @itspdfu 于 11 月 26 日在 X 平台发布长推文， 通过挖掘 iOS 27.3 Beta 2 开发者预览版，发现了苹果 Siri AI 和多项 Apple Intelligence 功能的每日使用限额。 消息源指出根据苹果设定， 设备每向苹果的私密云计算（PCC）发起一次请求，就消耗一个 Token。 而这些 Token 只用来证明用户还有可用额度，不会暴露用户身份。 在请求流程中，用户在 iPhone 端发起的云端 PCC 请求，会先联系 Token 授予…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "英国养老金机构发生网络安全事件，系统紧急暂停运行",
+              "link": "https://www.ithome.com/1/033/779.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:07:06 GMT",
+              "summary": "IT之家 11 月 28 日消息，据彭博社报道，当地时间 11 月 27 日，英国就业和养老金部发现一起网络安全事件，并以“防范风险”为由暂停了系统运行。该国就业和养老金部称，系统中断 不会影响款项发放 。 就业和养老金大臣帕特 · 麦克法登证实，暂停系统运行是因为发生了一起严重事件。IT之家从报道中获悉，该部门负责全英国数千万人福利金和养老金发放工作。 近几周，多个关键系统接连发生引发广泛关注的技术故障，部分故障源于 各机构仓促修复 AI 发现的漏洞、老旧系统升级出错，以及针对企业和政府的网络攻击 。 本月早些时…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "华擎推出旗舰一体式液冷 Taichi AQUA 360 LCD：引入分体式设计",
+              "link": "https://www.ithome.com/1/033/769.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:48:46 GMT",
+              "summary": "IT之家 11 月 27 日消息，华擎 (ASRock) 今日宣布推出旗舰级处理器液冷散热器 Taichi AQUA 360 LCD。该型号总体上来看属于一体式 (AIO) 类型，但又具备一些分体式的特质。 Taichi AQUA 360 LCD 采用双水泵结构 ，提供双倍流量和备份冗余；拥有 CIIR + EPDM 多层水冷管； 搭配 38mm 加厚高密度冷排 ；预装的吹排风扇采用 LCP 商业、双滚珠轴承。 其冷头既可 展现 ARGB 灯光映照下的透明水道 ，也可磁吸固定 3.4\" LCD 屏幕； 冷排预留标准…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "防考生利用 AI 作弊，韩国学校抢购金属探测器",
+              "link": "https://www.ithome.com/1/033/763.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:11:50 GMT",
+              "summary": "IT之家 11 月 27 日消息，据央视新闻报道，为防范考生利用人工智能（AI）设备作弊，韩国教育部近日发布新规，要求所有参加校内考试的学生须在考试前后 接受金属探测器检查 。各地学校加紧采购金属探测器，导致供不应求。 报道提到，一家生产便携式金属探测器的韩国厂商 27 日表示，客户咨询数量较往常增加了约 100 倍，公司大幅提升产量，仍难以满足需求。另一厂商说，如果现在订购，需等待约半个月才能拿到货。一家线上商家也发布公告说，现货已售罄，预计下月初才会补货，目前只接受预订。 在买不到金属探测器的情况下，不少学校转…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
+              "link": "https://www.infoq.cn/article/FDR8k5bNu9eWklHh9NmI?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 19:56:26 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "Claude Opus 5.6 做出了史上最牛的 PPT，直接杀死比赛？",
+              "link": "https://www.ifanr.com/1695831?utm_source=rss&utm_medium=rss&utm_campaign",
+              "source": "爱范儿",
+              "publishedAt": "Fri, 27 Nov 2026 09:06:19 +0000",
+              "summary": "这可能是我们见过最离谱的 AI 生成 PPT。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+              "channelId": "ifanr_ai"
+            }
+          ]
+        },
+        {
+          "title": "技术突破",
+          "query": "AI 技术 突破",
+          "items": [
+            {
+              "title": "瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+              "link": "https://www.infoq.cn/article/zRubhYcrBMTrOvzjlPQN?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 16:15:06 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+              "link": "https://www.ithome.com/1/033/812.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:27:31 GMT",
+              "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何时间表。他强调，微软必须先构建未来 AI 应用所需的技术，并证明用户确实认可这些能力的价值，才能“赢得许可”，进而推进下一代系统。 达武卢里表示 Windows …",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+              "link": "https://www.ithome.com/1/033/798.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 01:04:32 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        },
+        {
+          "title": "AI-UX",
+          "query": "AI 产品 交互 体验",
+          "items": [
+            {
+              "title": "如何让Agent 记得住、查得准、改得对？",
+              "link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 17:25:02 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+              "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 15:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+              "link": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 13:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        },
+        {
+          "title": "产品范式",
+          "query": "AI 产品 发布",
+          "items": [
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        },
+        {
+          "title": "推理成本和 Token 经济",
+          "query": "AI 推理 成本 Token",
+          "items": [
+            {
+              "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+              "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 15:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            }
+          ]
+        },
+        {
+          "title": "代理式 AI",
+          "query": "AI 智能体",
+          "items": [
+            {
+              "title": "如何让Agent 记得住、查得准、改得对？",
+              "link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 17:25:02 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+              "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 15:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+              "link": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 13:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            }
+          ]
+        },
+        {
+          "title": "商业 ROI",
+          "query": "AI 商业化 ROI",
+          "items": [
+            {
+              "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+              "link": "https://www.ithome.com/1/033/777.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:04:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "currency": "USD",
+          "price": 150.49000549316406,
+          "previousClose": 149.3000030517578,
+          "changePct": 0.7970545325399034
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "currency": "USD",
+          "price": 492.8500061035156,
+          "previousClose": 489.92999267578125,
+          "changePct": 0.5960062603611082
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "Alphabet",
+          "currency": "USD",
+          "price": 274.9599914550781,
+          "previousClose": 273.1000061035156,
+          "changePct": 0.6810638264348821
+        },
+        {
+          "symbol": "002230.SZ",
+          "name": "科大讯飞",
+          "currency": "CNY",
+          "price": 35.95000076293945,
+          "previousClose": 33.86000061035156,
+          "changePct": 6.172475236013265
+        },
+        {
+          "symbol": "300308.SZ",
+          "name": "中际旭创",
+          "currency": "CNY",
+          "price": 516.1500244140625,
+          "previousClose": 430.17999267578125,
+          "changePct": 19.984665303361815
+        },
+        {
+          "symbol": "688111.SS",
+          "name": "金山办公",
+          "currency": "CNY",
+          "price": 231.11000061035156,
+          "previousClose": 217.3000030517578,
+          "changePct": 6.355268000297451
+        },
+        {
+          "symbol": "600570.SS",
+          "name": "恒生电子",
+          "currency": "CNY",
+          "price": 20.049999237060547,
+          "previousClose": 18.389999389648438,
+          "changePct": 9.02664438557028
+        },
+        {
+          "symbol": "002415.SZ",
+          "name": "海康威视",
+          "currency": "CNY",
+          "price": 34.2599983215332,
+          "previousClose": 33.189998626708984,
+          "changePct": 3.2238618231311342
+        }
+      ],
+      "channels": [
+        {
+          "channelId": "sspai_ai",
+          "count": 0,
+          "error": null
+        },
+        {
+          "channelId": "infoq_ai",
+          "count": 9,
+          "error": null
+        },
+        {
+          "channelId": "juejin_ai",
+          "count": 0,
+          "error": null
+        },
+        {
+          "channelId": "geekpark_ai",
+          "count": 4,
+          "error": null
+        },
+        {
+          "channelId": "ifanr_ai",
+          "count": 1,
+          "error": null
+        },
+        {
+          "channelId": "ithome_ai",
+          "count": 12,
+          "error": null
+        },
+        {
+          "channelId": "mydrivers_ai",
+          "count": 0,
+          "error": null
+        }
+      ],
+      "diagnostics": []
+    },
+    "3": {
+      "sections": [
+        {
+          "title": "OpenClaw 生态",
+          "query": "OpenClaw 小龙虾 AI 助手",
+          "items": [
+            {
+              "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+              "link": "https://www.ithome.com/1/033/824.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:22:22 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI 无法从运行其 AI 服务的 iPhone 中取得所需数据 。 法德尔曾与艾夫在苹果共事，因被誉为“iPod 之父”以及参与创造 iPhone 而广为人知。他创办了 Build Collective，此前还创立过 Nest Labs。 法德尔认为，OpenAI 之所以执意开发独立硬件，是因为它需要 获取现实物理世…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+              "link": "https://www.ithome.com/1/033/812.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:27:31 GMT",
+              "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何时间表。他强调，微软必须先构建未来 AI 应用所需的技术，并证明用户确实认可这些能力的价值，才能“赢得许可”，进而推进下一代系统。 达武卢里表示 Windows …",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意",
+              "link": "https://www.ithome.com/1/033/810.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:16:13 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 NeoWin 昨日（11 月 27 日）发布博文，报道称微软已搁置为 Edge 浏览器扩展 AI 功能计划， 不再为该浏览器右键菜单加入摘要、引用和翻译功能。 IT之家援引博文介绍，微软于 2025 年 6 月更新 AI at Work 路线图条目 RM497135，规划在 Microsoft Edge 浏览器中，为右键菜单添加 3 项 AI 选项，用户选中文本后右键，可以调用 Copilot 完成摘要、引用和翻译功能。 不过微软近期更新该条目，表示“ 我们已决定取消这项…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+              "link": "https://www.ithome.com/1/033/798.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 01:04:32 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+              "link": "https://www.ithome.com/1/033/795.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 00:50:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，技术博主 @itspdfu 于 11 月 26 日在 X 平台发布长推文， 通过挖掘 iOS 27.3 Beta 2 开发者预览版，发现了苹果 Siri AI 和多项 Apple Intelligence 功能的每日使用限额。 消息源指出根据苹果设定， 设备每向苹果的私密云计算（PCC）发起一次请求，就消耗一个 Token。 而这些 Token 只用来证明用户还有可用额度，不会暴露用户身份。 在请求流程中，用户在 iPhone 端发起的云端 PCC 请求，会先联系 Token 授予…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”",
+              "link": "https://www.ithome.com/1/033/780.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:12:29 GMT",
+              "summary": "IT之家 11 月 28 日消息，《金融时报》昨日（11 月 27 日）发布博文，报道称在苹果公司提起的商业秘密诉讼中，OpenAI 公司已经提出反诉，指控苹果自身窃取了 OpenAI 的商业秘密，并涉嫌胁迫和威胁同时为两家公司供货的供应商。 苹果公司于 2026 年 7 月起诉 OpenAI，称前员工 Tang Tan 和 Chang Liu 离职后，将商业秘密带到了 OpenAI。 OpenAI 在反诉中称，一名员工曾从苹果跳槽至 OpenAI，工作六个月后又返回苹果，并通过个人账户带回了一款 OpenAI 硬…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "英国养老金机构发生网络安全事件，系统紧急暂停运行",
+              "link": "https://www.ithome.com/1/033/779.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:07:06 GMT",
+              "summary": "IT之家 11 月 28 日消息，据彭博社报道，当地时间 11 月 27 日，英国就业和养老金部发现一起网络安全事件，并以“防范风险”为由暂停了系统运行。该国就业和养老金部称，系统中断 不会影响款项发放 。 就业和养老金大臣帕特 · 麦克法登证实，暂停系统运行是因为发生了一起严重事件。IT之家从报道中获悉，该部门负责全英国数千万人福利金和养老金发放工作。 近几周，多个关键系统接连发生引发广泛关注的技术故障，部分故障源于 各机构仓促修复 AI 发现的漏洞、老旧系统升级出错，以及针对企业和政府的网络攻击 。 本月早些时…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+              "link": "https://www.ithome.com/1/033/777.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:04:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "华擎推出旗舰一体式液冷 Taichi AQUA 360 LCD：引入分体式设计",
+              "link": "https://www.ithome.com/1/033/769.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:48:46 GMT",
+              "summary": "IT之家 11 月 27 日消息，华擎 (ASRock) 今日宣布推出旗舰级处理器液冷散热器 Taichi AQUA 360 LCD。该型号总体上来看属于一体式 (AIO) 类型，但又具备一些分体式的特质。 Taichi AQUA 360 LCD 采用双水泵结构 ，提供双倍流量和备份冗余；拥有 CIIR + EPDM 多层水冷管； 搭配 38mm 加厚高密度冷排 ；预装的吹排风扇采用 LCP 商业、双滚珠轴承。 其冷头既可 展现 ARGB 灯光映照下的透明水道 ，也可磁吸固定 3.4\" LCD 屏幕； 冷排预留标准…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "防考生利用 AI 作弊，韩国学校抢购金属探测器",
+              "link": "https://www.ithome.com/1/033/763.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:11:50 GMT",
+              "summary": "IT之家 11 月 27 日消息，据央视新闻报道，为防范考生利用人工智能（AI）设备作弊，韩国教育部近日发布新规，要求所有参加校内考试的学生须在考试前后 接受金属探测器检查 。各地学校加紧采购金属探测器，导致供不应求。 报道提到，一家生产便携式金属探测器的韩国厂商 27 日表示，客户咨询数量较往常增加了约 100 倍，公司大幅提升产量，仍难以满足需求。另一厂商说，如果现在订购，需等待约半个月才能拿到货。一家线上商家也发布公告说，现货已售罄，预计下月初才会补货，目前只接受预订。 在买不到金属探测器的情况下，不少学校转…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "如何让Agent 记得住、查得准、改得对？",
+              "link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 17:25:02 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
+              "link": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 14:56:46 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            }
+          ]
+        },
+        {
+          "title": "国内外大厂动作",
+          "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 华为 OR 京东 OR OpenAI OR Anthropic OR Google OR Microsoft OR Meta OR Amazon OR NVIDIA) AI",
+          "items": [
+            {
+              "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+              "link": "https://www.ithome.com/1/033/777.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:04:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
+              "link": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 15:35:51 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+              "link": "https://www.ithome.com/1/033/824.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:22:22 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI 无法从运行其 AI 服务的 iPhone 中取得所需数据 。 法德尔曾与艾夫在苹果共事，因被誉为“iPod 之父”以及参与创造 iPhone 而广为人知。他创办了 Build Collective，此前还创立过 Nest Labs。 法德尔认为，OpenAI 之所以执意开发独立硬件，是因为它需要 获取现实物理世…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”",
+              "link": "https://www.ithome.com/1/033/780.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:12:29 GMT",
+              "summary": "IT之家 11 月 28 日消息，《金融时报》昨日（11 月 27 日）发布博文，报道称在苹果公司提起的商业秘密诉讼中，OpenAI 公司已经提出反诉，指控苹果自身窃取了 OpenAI 的商业秘密，并涉嫌胁迫和威胁同时为两家公司供货的供应商。 苹果公司于 2026 年 7 月起诉 OpenAI，称前员工 Tang Tan 和 Chang Liu 离职后，将商业秘密带到了 OpenAI。 OpenAI 在反诉中称，一名员工曾从苹果跳槽至 OpenAI，工作六个月后又返回苹果，并通过个人账户带回了一款 OpenAI 硬…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "AI 硬件竞争白热化，OpenAI 反诉苹果窃密；iPhone 18 量产再度推迟；王兴回应美团与小微试点合作",
+              "link": "http://www.geekpark.net/news/374621",
+              "source": "极客公园",
+              "publishedAt": "Sat, 28 Nov 2026 08:53:50 +0800",
+              "summary": "OpenAI 转守为攻：反诉苹果窃密，喊话「不公平竞争」 当地时间周五（27 日），OpenAI 在美国加利福尼亚州圣何塞联邦法院对苹果提起反诉，指控苹果窃取其商业机密，并阻挠其与硬件供应商合作。 今年 7 月，苹果曾以窃取商业机密为由起诉 OpenAI。随着 OpenAI 反诉，这场官司从苹果一方起诉变成了双方互诉。 据报道，OpenAI 正准备推出一系列新的个人设备，并称这些设备有望「在苹果视为自家地盘的领域胜过苹果」。 据报道，OpenAI 在诉状中称，苹果这样做是为了「不择手段地进行不公平竞争」。OpenA…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+              "link": "https://www.ithome.com/1/033/812.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:27:31 GMT",
+              "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何时间表。他强调，微软必须先构建未来 AI 应用所需的技术，并证明用户确实认可这些能力的价值，才能“赢得许可”，进而推进下一代系统。 达武卢里表示 Windows …",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意",
+              "link": "https://www.ithome.com/1/033/810.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:16:13 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 NeoWin 昨日（11 月 27 日）发布博文，报道称微软已搁置为 Edge 浏览器扩展 AI 功能计划， 不再为该浏览器右键菜单加入摘要、引用和翻译功能。 IT之家援引博文介绍，微软于 2025 年 6 月更新 AI at Work 路线图条目 RM497135，规划在 Microsoft Edge 浏览器中，为右键菜单添加 3 项 AI 选项，用户选中文本后右键，可以调用 Copilot 完成摘要、引用和翻译功能。 不过微软近期更新该条目，表示“ 我们已决定取消这项…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+              "link": "https://www.ithome.com/1/033/798.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 01:04:32 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+              "link": "https://www.ithome.com/1/033/795.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 00:50:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，技术博主 @itspdfu 于 11 月 26 日在 X 平台发布长推文， 通过挖掘 iOS 27.3 Beta 2 开发者预览版，发现了苹果 Siri AI 和多项 Apple Intelligence 功能的每日使用限额。 消息源指出根据苹果设定， 设备每向苹果的私密云计算（PCC）发起一次请求，就消耗一个 Token。 而这些 Token 只用来证明用户还有可用额度，不会暴露用户身份。 在请求流程中，用户在 iPhone 端发起的云端 PCC 请求，会先联系 Token 授予…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "英国养老金机构发生网络安全事件，系统紧急暂停运行",
+              "link": "https://www.ithome.com/1/033/779.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:07:06 GMT",
+              "summary": "IT之家 11 月 28 日消息，据彭博社报道，当地时间 11 月 27 日，英国就业和养老金部发现一起网络安全事件，并以“防范风险”为由暂停了系统运行。该国就业和养老金部称，系统中断 不会影响款项发放 。 就业和养老金大臣帕特 · 麦克法登证实，暂停系统运行是因为发生了一起严重事件。IT之家从报道中获悉，该部门负责全英国数千万人福利金和养老金发放工作。 近几周，多个关键系统接连发生引发广泛关注的技术故障，部分故障源于 各机构仓促修复 AI 发现的漏洞、老旧系统升级出错，以及针对企业和政府的网络攻击 。 本月早些时…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "华擎推出旗舰一体式液冷 Taichi AQUA 360 LCD：引入分体式设计",
+              "link": "https://www.ithome.com/1/033/769.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:48:46 GMT",
+              "summary": "IT之家 11 月 27 日消息，华擎 (ASRock) 今日宣布推出旗舰级处理器液冷散热器 Taichi AQUA 360 LCD。该型号总体上来看属于一体式 (AIO) 类型，但又具备一些分体式的特质。 Taichi AQUA 360 LCD 采用双水泵结构 ，提供双倍流量和备份冗余；拥有 CIIR + EPDM 多层水冷管； 搭配 38mm 加厚高密度冷排 ；预装的吹排风扇采用 LCP 商业、双滚珠轴承。 其冷头既可 展现 ARGB 灯光映照下的透明水道 ，也可磁吸固定 3.4\" LCD 屏幕； 冷排预留标准…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "防考生利用 AI 作弊，韩国学校抢购金属探测器",
+              "link": "https://www.ithome.com/1/033/763.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:11:50 GMT",
+              "summary": "IT之家 11 月 27 日消息，据央视新闻报道，为防范考生利用人工智能（AI）设备作弊，韩国教育部近日发布新规，要求所有参加校内考试的学生须在考试前后 接受金属探测器检查 。各地学校加紧采购金属探测器，导致供不应求。 报道提到，一家生产便携式金属探测器的韩国厂商 27 日表示，客户咨询数量较往常增加了约 100 倍，公司大幅提升产量，仍难以满足需求。另一厂商说，如果现在订购，需等待约半个月才能拿到货。一家线上商家也发布公告说，现货已售罄，预计下月初才会补货，目前只接受预订。 在买不到金属探测器的情况下，不少学校转…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+              "link": "https://sspai.com/post/119563",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 15:00:00 +0800",
+              "summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。 查看全文",
+              "channelId": "sspai_ai"
+            },
+            {
+              "title": "股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
+              "link": "https://www.infoq.cn/article/FDR8k5bNu9eWklHh9NmI?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 19:56:26 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "Claude Opus 5.6 做出了史上最牛的 PPT，直接杀死比赛？",
+              "link": "https://www.ifanr.com/1695831?utm_source=rss&utm_medium=rss&utm_campaign",
+              "source": "爱范儿",
+              "publishedAt": "Fri, 27 Nov 2026 09:06:19 +0000",
+              "summary": "这可能是我们见过最离谱的 AI 生成 PPT。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+              "channelId": "ifanr_ai"
+            },
+            {
+              "title": "Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了",
+              "link": "https://www.ifanr.com/1695671?utm_source=rss&utm_medium=rss&utm_campaign",
+              "source": "爱范儿",
+              "publishedAt": "Fri, 27 Nov 2026 03:49:58 +0000",
+              "summary": "AI 既是一场工业革命，也是一场文艺复兴。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+              "channelId": "ifanr_ai"
+            }
+          ]
+        },
+        {
+          "title": "技术突破",
+          "query": "AI 技术 突破",
+          "items": [
+            {
+              "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+              "link": "https://sspai.com/post/119563",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 15:00:00 +0800",
+              "summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。 查看全文",
+              "channelId": "sspai_ai"
+            },
+            {
+              "title": "瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+              "link": "https://www.infoq.cn/article/zRubhYcrBMTrOvzjlPQN?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 16:15:06 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+              "link": "https://www.ithome.com/1/033/812.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:27:31 GMT",
+              "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何时间表。他强调，微软必须先构建未来 AI 应用所需的技术，并证明用户确实认可这些能力的价值，才能“赢得许可”，进而推进下一代系统。 达武卢里表示 Windows …",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+              "link": "https://www.ithome.com/1/033/798.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 01:04:32 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        },
+        {
+          "title": "AI-UX",
+          "query": "AI 产品 交互 体验",
+          "items": [
+            {
+              "title": "如何让Agent 记得住、查得准、改得对？",
+              "link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 17:25:02 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+              "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 15:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+              "link": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 13:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
+              "link": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 14:56:46 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        },
+        {
+          "title": "产品范式",
+          "query": "AI 产品 发布",
+          "items": [
+            {
+              "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+              "link": "https://sspai.com/post/116773",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 17:30:00 +0800",
+              "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。 查看全文",
+              "channelId": "sspai_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        },
+        {
+          "title": "推理成本和 Token 经济",
+          "query": "AI 推理 成本 Token",
+          "items": [
+            {
+              "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+              "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 15:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "成本低九成、开源权重：MAGI-2 带动视频模型进入大掀桌时代",
+              "link": "http://www.geekpark.net/news/374532",
+              "source": "极客公园",
+              "publishedAt": "Thu, 26 Nov 2026 16:38:54 +0800",
+              "summary": "作者｜Cynthia 编辑｜郑玄 2026 年的视频大模型圈子，有一个心照不宣的保留节目：无论哪家推出新模型，最终的成绩页上，永远会留一行和 Seedance 2.5 的对标数据。 这款上半年坐稳行业标杆的闭源模型，如今成了整条赛道公认的「基准线」&mdash;&mdash; 快手可灵 Kling 3.0 上线，要比镜头控制与生成时长；阿里 Wan 3.0 推出，主打同画质下的性价比；MiniMax 发 H3 系列，也要在 AA 榜单上标清和 Seedance 的 Elo 分差。 你方唱罢我登场，榜首的排位刷了一轮…",
+              "channelId": "geekpark_ai"
+            }
+          ]
+        },
+        {
+          "title": "代理式 AI",
+          "query": "AI 智能体",
+          "items": [
+            {
+              "title": "如何让Agent 记得住、查得准、改得对？",
+              "link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 17:25:02 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+              "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 15:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+              "link": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 13:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
+              "link": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 14:56:46 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            }
+          ]
+        },
+        {
+          "title": "商业 ROI",
+          "query": "AI 商业化 ROI",
+          "items": [
+            {
+              "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+              "link": "https://sspai.com/post/116773",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 17:30:00 +0800",
+              "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。 查看全文",
+              "channelId": "sspai_ai"
+            },
+            {
+              "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+              "link": "https://www.ithome.com/1/033/777.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:04:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "currency": "USD",
+          "price": 150.49000549316406,
+          "previousClose": 165.0500030517578,
+          "changePct": -8.821567579146242
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "currency": "USD",
+          "price": 492.8500061035156,
+          "previousClose": 492.5,
+          "changePct": 0.07106722914022842
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "Alphabet",
+          "currency": "USD",
+          "price": 274.9599914550781,
+          "previousClose": 282.1000061035156,
+          "changePct": -2.531022507605865
+        },
+        {
+          "symbol": "002230.SZ",
+          "name": "科大讯飞",
+          "currency": "CNY",
+          "price": 35.95000076293945,
+          "previousClose": 35.459999084472656,
+          "changePct": 1.3818434605695196
+        },
+        {
+          "symbol": "300308.SZ",
+          "name": "中际旭创",
+          "currency": "CNY",
+          "price": 516.1500244140625,
+          "previousClose": 417,
+          "changePct": 23.776984271957435
+        },
+        {
+          "symbol": "688111.SS",
+          "name": "金山办公",
+          "currency": "CNY",
+          "price": 231.11000061035156,
+          "previousClose": 218.6199951171875,
+          "changePct": 5.713112145331908
+        },
+        {
+          "symbol": "600570.SS",
+          "name": "恒生电子",
+          "currency": "CNY",
+          "price": 20.049999237060547,
+          "previousClose": 19.309999465942383,
+          "changePct": 3.832210210172836
+        },
+        {
+          "symbol": "002415.SZ",
+          "name": "海康威视",
+          "currency": "CNY",
+          "price": 34.2599983215332,
+          "previousClose": 34.849998474121094,
+          "changePct": -1.6929703828423774
+        }
+      ],
+      "channels": [
+        {
+          "channelId": "sspai_ai",
+          "count": 4,
+          "error": null
+        },
+        {
+          "channelId": "infoq_ai",
+          "count": 11,
+          "error": null
+        },
+        {
+          "channelId": "juejin_ai",
+          "count": 0,
+          "error": null
+        },
+        {
+          "channelId": "geekpark_ai",
+          "count": 10,
+          "error": null
+        },
+        {
+          "channelId": "ifanr_ai",
+          "count": 2,
+          "error": null
+        },
+        {
+          "channelId": "ithome_ai",
+          "count": 11,
+          "error": null
+        },
+        {
+          "channelId": "mydrivers_ai",
+          "count": 0,
+          "error": null
+        }
+      ],
+      "diagnostics": []
+    },
+    "7": {
+      "sections": [
+        {
+          "title": "OpenClaw 生态",
+          "query": "OpenClaw 小龙虾 AI 助手",
+          "items": [
+            {
+              "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+              "link": "https://www.ithome.com/1/033/824.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:22:22 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI 无法从运行其 AI 服务的 iPhone 中取得所需数据 。 法德尔曾与艾夫在苹果共事，因被誉为“iPod 之父”以及参与创造 iPhone 而广为人知。他创办了 Build Collective，此前还创立过 Nest Labs。 法德尔认为，OpenAI 之所以执意开发独立硬件，是因为它需要 获取现实物理世…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+              "link": "https://www.ithome.com/1/033/812.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:27:31 GMT",
+              "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何时间表。他强调，微软必须先构建未来 AI 应用所需的技术，并证明用户确实认可这些能力的价值，才能“赢得许可”，进而推进下一代系统。 达武卢里表示 Windows …",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意",
+              "link": "https://www.ithome.com/1/033/810.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:16:13 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 NeoWin 昨日（11 月 27 日）发布博文，报道称微软已搁置为 Edge 浏览器扩展 AI 功能计划， 不再为该浏览器右键菜单加入摘要、引用和翻译功能。 IT之家援引博文介绍，微软于 2025 年 6 月更新 AI at Work 路线图条目 RM497135，规划在 Microsoft Edge 浏览器中，为右键菜单添加 3 项 AI 选项，用户选中文本后右键，可以调用 Copilot 完成摘要、引用和翻译功能。 不过微软近期更新该条目，表示“ 我们已决定取消这项…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+              "link": "https://www.ithome.com/1/033/798.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 01:04:32 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+              "link": "https://www.ithome.com/1/033/795.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 00:50:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，技术博主 @itspdfu 于 11 月 26 日在 X 平台发布长推文， 通过挖掘 iOS 27.3 Beta 2 开发者预览版，发现了苹果 Siri AI 和多项 Apple Intelligence 功能的每日使用限额。 消息源指出根据苹果设定， 设备每向苹果的私密云计算（PCC）发起一次请求，就消耗一个 Token。 而这些 Token 只用来证明用户还有可用额度，不会暴露用户身份。 在请求流程中，用户在 iPhone 端发起的云端 PCC 请求，会先联系 Token 授予…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”",
+              "link": "https://www.ithome.com/1/033/780.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:12:29 GMT",
+              "summary": "IT之家 11 月 28 日消息，《金融时报》昨日（11 月 27 日）发布博文，报道称在苹果公司提起的商业秘密诉讼中，OpenAI 公司已经提出反诉，指控苹果自身窃取了 OpenAI 的商业秘密，并涉嫌胁迫和威胁同时为两家公司供货的供应商。 苹果公司于 2026 年 7 月起诉 OpenAI，称前员工 Tang Tan 和 Chang Liu 离职后，将商业秘密带到了 OpenAI。 OpenAI 在反诉中称，一名员工曾从苹果跳槽至 OpenAI，工作六个月后又返回苹果，并通过个人账户带回了一款 OpenAI 硬…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "英国养老金机构发生网络安全事件，系统紧急暂停运行",
+              "link": "https://www.ithome.com/1/033/779.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:07:06 GMT",
+              "summary": "IT之家 11 月 28 日消息，据彭博社报道，当地时间 11 月 27 日，英国就业和养老金部发现一起网络安全事件，并以“防范风险”为由暂停了系统运行。该国就业和养老金部称，系统中断 不会影响款项发放 。 就业和养老金大臣帕特 · 麦克法登证实，暂停系统运行是因为发生了一起严重事件。IT之家从报道中获悉，该部门负责全英国数千万人福利金和养老金发放工作。 近几周，多个关键系统接连发生引发广泛关注的技术故障，部分故障源于 各机构仓促修复 AI 发现的漏洞、老旧系统升级出错，以及针对企业和政府的网络攻击 。 本月早些时…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+              "link": "https://www.ithome.com/1/033/777.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:04:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "华擎推出旗舰一体式液冷 Taichi AQUA 360 LCD：引入分体式设计",
+              "link": "https://www.ithome.com/1/033/769.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:48:46 GMT",
+              "summary": "IT之家 11 月 27 日消息，华擎 (ASRock) 今日宣布推出旗舰级处理器液冷散热器 Taichi AQUA 360 LCD。该型号总体上来看属于一体式 (AIO) 类型，但又具备一些分体式的特质。 Taichi AQUA 360 LCD 采用双水泵结构 ，提供双倍流量和备份冗余；拥有 CIIR + EPDM 多层水冷管； 搭配 38mm 加厚高密度冷排 ；预装的吹排风扇采用 LCP 商业、双滚珠轴承。 其冷头既可 展现 ARGB 灯光映照下的透明水道 ，也可磁吸固定 3.4\" LCD 屏幕； 冷排预留标准…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "防考生利用 AI 作弊，韩国学校抢购金属探测器",
+              "link": "https://www.ithome.com/1/033/763.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:11:50 GMT",
+              "summary": "IT之家 11 月 27 日消息，据央视新闻报道，为防范考生利用人工智能（AI）设备作弊，韩国教育部近日发布新规，要求所有参加校内考试的学生须在考试前后 接受金属探测器检查 。各地学校加紧采购金属探测器，导致供不应求。 报道提到，一家生产便携式金属探测器的韩国厂商 27 日表示，客户咨询数量较往常增加了约 100 倍，公司大幅提升产量，仍难以满足需求。另一厂商说，如果现在订购，需等待约半个月才能拿到货。一家线上商家也发布公告说，现货已售罄，预计下月初才会补货，目前只接受预订。 在买不到金属探测器的情况下，不少学校转…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "如何让Agent 记得住、查得准、改得对？",
+              "link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 17:25:02 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
+              "link": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 14:56:46 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            }
+          ]
+        },
+        {
+          "title": "国内外大厂动作",
+          "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 华为 OR 京东 OR OpenAI OR Anthropic OR Google OR Microsoft OR Meta OR Amazon OR NVIDIA) AI",
+          "items": [
+            {
+              "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+              "link": "https://www.ithome.com/1/033/777.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:04:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
+              "link": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 15:35:51 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+              "link": "https://www.ithome.com/1/033/824.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:22:22 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI 无法从运行其 AI 服务的 iPhone 中取得所需数据 。 法德尔曾与艾夫在苹果共事，因被誉为“iPod 之父”以及参与创造 iPhone 而广为人知。他创办了 Build Collective，此前还创立过 Nest Labs。 法德尔认为，OpenAI 之所以执意开发独立硬件，是因为它需要 获取现实物理世…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”",
+              "link": "https://www.ithome.com/1/033/780.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:12:29 GMT",
+              "summary": "IT之家 11 月 28 日消息，《金融时报》昨日（11 月 27 日）发布博文，报道称在苹果公司提起的商业秘密诉讼中，OpenAI 公司已经提出反诉，指控苹果自身窃取了 OpenAI 的商业秘密，并涉嫌胁迫和威胁同时为两家公司供货的供应商。 苹果公司于 2026 年 7 月起诉 OpenAI，称前员工 Tang Tan 和 Chang Liu 离职后，将商业秘密带到了 OpenAI。 OpenAI 在反诉中称，一名员工曾从苹果跳槽至 OpenAI，工作六个月后又返回苹果，并通过个人账户带回了一款 OpenAI 硬…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "AI 硬件竞争白热化，OpenAI 反诉苹果窃密；iPhone 18 量产再度推迟；王兴回应美团与小微试点合作",
+              "link": "http://www.geekpark.net/news/374621",
+              "source": "极客公园",
+              "publishedAt": "Sat, 28 Nov 2026 08:53:50 +0800",
+              "summary": "OpenAI 转守为攻：反诉苹果窃密，喊话「不公平竞争」 当地时间周五（27 日），OpenAI 在美国加利福尼亚州圣何塞联邦法院对苹果提起反诉，指控苹果窃取其商业机密，并阻挠其与硬件供应商合作。 今年 7 月，苹果曾以窃取商业机密为由起诉 OpenAI。随着 OpenAI 反诉，这场官司从苹果一方起诉变成了双方互诉。 据报道，OpenAI 正准备推出一系列新的个人设备，并称这些设备有望「在苹果视为自家地盘的领域胜过苹果」。 据报道，OpenAI 在诉状中称，苹果这样做是为了「不择手段地进行不公平竞争」。OpenA…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+              "link": "https://www.ithome.com/1/033/812.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:27:31 GMT",
+              "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何时间表。他强调，微软必须先构建未来 AI 应用所需的技术，并证明用户确实认可这些能力的价值，才能“赢得许可”，进而推进下一代系统。 达武卢里表示 Windows …",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意",
+              "link": "https://www.ithome.com/1/033/810.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:16:13 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 NeoWin 昨日（11 月 27 日）发布博文，报道称微软已搁置为 Edge 浏览器扩展 AI 功能计划， 不再为该浏览器右键菜单加入摘要、引用和翻译功能。 IT之家援引博文介绍，微软于 2025 年 6 月更新 AI at Work 路线图条目 RM497135，规划在 Microsoft Edge 浏览器中，为右键菜单添加 3 项 AI 选项，用户选中文本后右键，可以调用 Copilot 完成摘要、引用和翻译功能。 不过微软近期更新该条目，表示“ 我们已决定取消这项…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+              "link": "https://www.ithome.com/1/033/798.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 01:04:32 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+              "link": "https://www.ithome.com/1/033/795.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 00:50:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，技术博主 @itspdfu 于 11 月 26 日在 X 平台发布长推文， 通过挖掘 iOS 27.3 Beta 2 开发者预览版，发现了苹果 Siri AI 和多项 Apple Intelligence 功能的每日使用限额。 消息源指出根据苹果设定， 设备每向苹果的私密云计算（PCC）发起一次请求，就消耗一个 Token。 而这些 Token 只用来证明用户还有可用额度，不会暴露用户身份。 在请求流程中，用户在 iPhone 端发起的云端 PCC 请求，会先联系 Token 授予…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "英国养老金机构发生网络安全事件，系统紧急暂停运行",
+              "link": "https://www.ithome.com/1/033/779.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:07:06 GMT",
+              "summary": "IT之家 11 月 28 日消息，据彭博社报道，当地时间 11 月 27 日，英国就业和养老金部发现一起网络安全事件，并以“防范风险”为由暂停了系统运行。该国就业和养老金部称，系统中断 不会影响款项发放 。 就业和养老金大臣帕特 · 麦克法登证实，暂停系统运行是因为发生了一起严重事件。IT之家从报道中获悉，该部门负责全英国数千万人福利金和养老金发放工作。 近几周，多个关键系统接连发生引发广泛关注的技术故障，部分故障源于 各机构仓促修复 AI 发现的漏洞、老旧系统升级出错，以及针对企业和政府的网络攻击 。 本月早些时…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "华擎推出旗舰一体式液冷 Taichi AQUA 360 LCD：引入分体式设计",
+              "link": "https://www.ithome.com/1/033/769.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:48:46 GMT",
+              "summary": "IT之家 11 月 27 日消息，华擎 (ASRock) 今日宣布推出旗舰级处理器液冷散热器 Taichi AQUA 360 LCD。该型号总体上来看属于一体式 (AIO) 类型，但又具备一些分体式的特质。 Taichi AQUA 360 LCD 采用双水泵结构 ，提供双倍流量和备份冗余；拥有 CIIR + EPDM 多层水冷管； 搭配 38mm 加厚高密度冷排 ；预装的吹排风扇采用 LCP 商业、双滚珠轴承。 其冷头既可 展现 ARGB 灯光映照下的透明水道 ，也可磁吸固定 3.4\" LCD 屏幕； 冷排预留标准…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "防考生利用 AI 作弊，韩国学校抢购金属探测器",
+              "link": "https://www.ithome.com/1/033/763.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:11:50 GMT",
+              "summary": "IT之家 11 月 27 日消息，据央视新闻报道，为防范考生利用人工智能（AI）设备作弊，韩国教育部近日发布新规，要求所有参加校内考试的学生须在考试前后 接受金属探测器检查 。各地学校加紧采购金属探测器，导致供不应求。 报道提到，一家生产便携式金属探测器的韩国厂商 27 日表示，客户咨询数量较往常增加了约 100 倍，公司大幅提升产量，仍难以满足需求。另一厂商说，如果现在订购，需等待约半个月才能拿到货。一家线上商家也发布公告说，现货已售罄，预计下月初才会补货，目前只接受预订。 在买不到金属探测器的情况下，不少学校转…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+              "link": "https://sspai.com/post/119563",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 15:00:00 +0800",
+              "summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。 查看全文",
+              "channelId": "sspai_ai"
+            },
+            {
+              "title": "股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
+              "link": "https://www.infoq.cn/article/FDR8k5bNu9eWklHh9NmI?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 19:56:26 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道",
+              "link": "http://www.geekpark.net/news/374438",
+              "source": "极客公园",
+              "publishedAt": "Wed, 25 Nov 2026 08:44:18 +0800",
+              "summary": "豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。 小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是「一个懂你，还能主动帮你办事的豆包」。未来，小豆上的能力与体验也将逐步在豆包 App 上线。（来源：IT 之家） 特斯拉 SpaceX 合并最新进展曝光 据报道，马斯克旗下特斯拉与 SpaceX 的潜在合并…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "华为星芒O1 Pro，如何把手机 AI 再往前努一小步",
+              "link": "http://www.geekpark.net/news/374417",
+              "source": "极客公园",
+              "publishedAt": "Tue, 24 Nov 2026 15:47:16 +0800",
+              "summary": "随着 iOS 27.2 的更新，中国大陆用户日盼夜盼的苹果智能，终于露出了一小手，但各种原因吧，仍然是犹抱琵琶半遮面。 如果对消费电子看得比较多的同学，可能会感到现在手机 AI 比较割裂。既有大厂在一点点摸索，上了 AI，但是散落在键盘、录音、文字记录、笔记等等各个功能之中；然后也有来自字节、阶跃这样的挑战者，走的是 Rabbit R1 的路子，想用一个 AI 助手，一杆子捅到底，然后被互联网大厂南墙撞得头破血流。 星芒 OSTA O1 Pro 采用了阔直板形式｜图片来源：极客公园 历史肯定是要发展的，但道路无疑注…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "字节，该造手机了",
+              "link": "http://www.geekpark.net/news/374374",
+              "source": "极客公园",
+              "publishedAt": "Mon, 23 Nov 2026 23:47:18 +0800",
+              "summary": "&nbsp; &nbsp; 11 月 19 日，财联社援引供应链人士的消息称，富士康旗下的富智康已经拿到 OpenAI 手机的组装订单，首款产品有望在 2027 年底或 2028 年面市。OpenAI 至今没有确认自己在做手机，但从今年 4 月起，围绕这台手机的供应链消息就没有断过。 而在中国，一家 AI 公司的手机其实已经卖到了第二代，这就是豆包手机。只不过在这台手机上，让助手帮你叫一辆车已经不算难事，但想让它接着给朋友回一条「我上车了」的微信，目前还做不到。 按曹操出行公布的用法，看到想去的地方，按一下手机侧面…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道",
+              "link": "http://www.geekpark.net/news/374304",
+              "source": "极客公园",
+              "publishedAt": "Mon, 23 Nov 2026 09:22:36 +0800",
+              "summary": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限 11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 &middot; 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前，不应突破约定的发展门槛。 他认为，传统 AI 能力评测基准会随着技术进步迅速过时，而困惑度（Perplexity）可以作为衡量模型预训练进…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段",
+              "link": "http://www.geekpark.net/news/374302",
+              "source": "极客公园",
+              "publishedAt": "Sun, 22 Nov 2026 09:58:48 +0800",
+              "summary": "&nbsp; 头图来源：腾讯 &nbsp; 腾讯的 AI 故事，正在进入一个有些沉重的阶段。 11 月 18 日，腾讯发布 2026 年第三季度财报。本季度营收 2073.4 亿元，同比增长 8%；Non-IFRS 经营利润 681 亿元，同比下降 6%；Non-IFRS 归母净利润 665 亿元，同比下降 6%。 图片来源：腾讯财报 本季度，腾讯资本开支达到 814 亿元，同比增长 527%，单季支出已经超过 2025 年全年；研发投入 323.6 亿元，同比增长 42%。大规模算力采购和预付款之下，自由现金流为…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "Claude Opus 5.6 做出了史上最牛的 PPT，直接杀死比赛？",
+              "link": "https://www.ifanr.com/1695831?utm_source=rss&utm_medium=rss&utm_campaign",
+              "source": "爱范儿",
+              "publishedAt": "Fri, 27 Nov 2026 09:06:19 +0000",
+              "summary": "这可能是我们见过最离谱的 AI 生成 PPT。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+              "channelId": "ifanr_ai"
+            },
+            {
+              "title": "Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了",
+              "link": "https://www.ifanr.com/1695671?utm_source=rss&utm_medium=rss&utm_campaign",
+              "source": "爱范儿",
+              "publishedAt": "Fri, 27 Nov 2026 03:49:58 +0000",
+              "summary": "AI 既是一场工业革命，也是一场文艺复兴。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+              "channelId": "ifanr_ai"
+            }
+          ]
+        },
+        {
+          "title": "技术突破",
+          "query": "AI 技术 突破",
+          "items": [
+            {
+              "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+              "link": "https://sspai.com/post/119563",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 15:00:00 +0800",
+              "summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。 查看全文",
+              "channelId": "sspai_ai"
+            },
+            {
+              "title": "瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+              "link": "https://www.infoq.cn/article/zRubhYcrBMTrOvzjlPQN?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 16:15:06 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+              "link": "https://www.ithome.com/1/033/812.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:27:31 GMT",
+              "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何时间表。他强调，微软必须先构建未来 AI 应用所需的技术，并证明用户确实认可这些能力的价值，才能“赢得许可”，进而推进下一代系统。 达武卢里表示 Windows …",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+              "link": "https://www.ithome.com/1/033/798.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 01:04:32 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        },
+        {
+          "title": "AI-UX",
+          "query": "AI 产品 交互 体验",
+          "items": [
+            {
+              "title": "如何让Agent 记得住、查得准、改得对？",
+              "link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 17:25:02 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+              "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 15:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+              "link": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 13:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
+              "link": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 14:56:46 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        },
+        {
+          "title": "产品范式",
+          "query": "AI 产品 发布",
+          "items": [
+            {
+              "title": "豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道",
+              "link": "http://www.geekpark.net/news/374438",
+              "source": "极客公园",
+              "publishedAt": "Wed, 25 Nov 2026 08:44:18 +0800",
+              "summary": "豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。 小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是「一个懂你，还能主动帮你办事的豆包」。未来，小豆上的能力与体验也将逐步在豆包 App 上线。（来源：IT 之家） 特斯拉 SpaceX 合并最新进展曝光 据报道，马斯克旗下特斯拉与 SpaceX 的潜在合并…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+              "link": "https://sspai.com/post/116773",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 17:30:00 +0800",
+              "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。 查看全文",
+              "channelId": "sspai_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        },
+        {
+          "title": "推理成本和 Token 经济",
+          "query": "AI 推理 成本 Token",
+          "items": [
+            {
+              "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+              "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 15:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "成本低九成、开源权重：MAGI-2 带动视频模型进入大掀桌时代",
+              "link": "http://www.geekpark.net/news/374532",
+              "source": "极客公园",
+              "publishedAt": "Thu, 26 Nov 2026 16:38:54 +0800",
+              "summary": "作者｜Cynthia 编辑｜郑玄 2026 年的视频大模型圈子，有一个心照不宣的保留节目：无论哪家推出新模型，最终的成绩页上，永远会留一行和 Seedance 2.5 的对标数据。 这款上半年坐稳行业标杆的闭源模型，如今成了整条赛道公认的「基准线」&mdash;&mdash; 快手可灵 Kling 3.0 上线，要比镜头控制与生成时长；阿里 Wan 3.0 推出，主打同画质下的性价比；MiniMax 发 H3 系列，也要在 AA 榜单上标清和 Seedance 的 Elo 分差。 你方唱罢我登场，榜首的排位刷了一轮…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "黄仁勋重返英伟达，市值涨31.48%；马斯克：AI 研发落后对手，出租算力比自研更赚钱；新一代 AI 模型更爱「爆粗口」",
+              "link": "http://www.geekpark.net/news/374375",
+              "source": "极客公园",
+              "publishedAt": "Tue, 24 Nov 2026 08:28:30 +0800",
+              "summary": "黄仁勋重返英伟达 黄仁勋在美国当地时间 11 月 23 日重返英伟达总部，现场员工聚集在大厅高声欢呼，迎接这位创办人回归。黄仁勋在现场表示：「感谢大家给我第二次机会，接下来我一定会成为更优秀的 CEO」。 「我很荣幸能重返英伟达，并在新一轮工业革命伊始领导这家全球最具影响力的科技公司之一，」黄仁勋表示。 「我将以最大的谦逊和焕然一新的承诺肩负起这一重任。我要感谢英伟达董事会在此过程中给予的信任与审慎考量。我尤其感谢哈维 &middot; 琼斯（Harvey Jones）作为董事长所展现的领导力，也感谢科莱特 &mi…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切",
+              "link": "http://www.geekpark.net/news/374301",
+              "source": "极客公园",
+              "publishedAt": "Sun, 22 Nov 2026 09:56:28 +0800",
+              "summary": "&nbsp; 头图来源：ChatGPT 生成 &nbsp; 11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和混元团队的研究员现身 Reddit LocalLLaMA 社区，开启了混元团队史上第一场面向全球开发者的公开 AMA。 图片来源：x 两小时内，姚顺雨和混元团队解答了 300 余条开发者提问，从底层架构取舍到长期路线规划，从量化落地经验到开源生态适配，几乎覆盖了当前开源大模型领域所有核心争议与关切。 过去不到一个月，混元刚刚完成一轮高密度产品发布&mdash;&mdash;11 月 4…",
+              "channelId": "geekpark_ai"
+            }
+          ]
+        },
+        {
+          "title": "代理式 AI",
+          "query": "AI 智能体",
+          "items": [
+            {
+              "title": "如何让Agent 记得住、查得准、改得对？",
+              "link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 17:25:02 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+              "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 15:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+              "link": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 13:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
+              "link": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 14:56:46 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            }
+          ]
+        },
+        {
+          "title": "商业 ROI",
+          "query": "AI 商业化 ROI",
+          "items": [
+            {
+              "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+              "link": "https://sspai.com/post/116773",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 17:30:00 +0800",
+              "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。 查看全文",
+              "channelId": "sspai_ai"
+            },
+            {
+              "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+              "link": "https://www.ithome.com/1/033/777.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:04:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "currency": "USD",
+          "price": 150.49000549316406,
+          "previousClose": 155.4600067138672,
+          "changePct": -3.1969644963740995
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "currency": "USD",
+          "price": 492.8500061035156,
+          "previousClose": 506.239990234375,
+          "changePct": -2.6449874346473865
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "Alphabet",
+          "currency": "USD",
+          "price": 274.9599914550781,
+          "previousClose": 280.20001220703125,
+          "changePct": -1.8701001155137114
+        },
+        {
+          "symbol": "002230.SZ",
+          "name": "科大讯飞",
+          "currency": "CNY",
+          "price": 35.95000076293945,
+          "previousClose": 36.34000015258789,
+          "changePct": -1.0731958943612288
+        },
+        {
+          "symbol": "300308.SZ",
+          "name": "中际旭创",
+          "currency": "CNY",
+          "price": 516.1500244140625,
+          "previousClose": 396.29998779296875,
+          "changePct": 30.24225089900953
+        },
+        {
+          "symbol": "688111.SS",
+          "name": "金山办公",
+          "currency": "CNY",
+          "price": 231.11000061035156,
+          "previousClose": 214.60000610351562,
+          "changePct": 7.693380259678132
+        },
+        {
+          "symbol": "600570.SS",
+          "name": "恒生电子",
+          "currency": "CNY",
+          "price": 20.049999237060547,
+          "previousClose": 20.520000457763672,
+          "changePct": -2.2904542408297153
+        },
+        {
+          "symbol": "002415.SZ",
+          "name": "海康威视",
+          "currency": "CNY",
+          "price": 34.2599983215332,
+          "previousClose": 35.290000915527344,
+          "changePct": -2.918681120070323
+        }
+      ],
+      "channels": [
+        {
+          "channelId": "sspai_ai",
+          "count": 4,
+          "error": null
+        },
+        {
+          "channelId": "infoq_ai",
+          "count": 11,
+          "error": null
+        },
+        {
+          "channelId": "juejin_ai",
+          "count": 0,
+          "error": null
+        },
+        {
+          "channelId": "geekpark_ai",
+          "count": 19,
+          "error": null
+        },
+        {
+          "channelId": "ifanr_ai",
+          "count": 2,
+          "error": null
+        },
+        {
+          "channelId": "ithome_ai",
+          "count": 11,
+          "error": null
+        },
+        {
+          "channelId": "mydrivers_ai",
+          "count": 0,
+          "error": null
+        }
+      ],
+      "diagnostics": []
+    },
+    "14": {
+      "sections": [
+        {
+          "title": "OpenClaw 生态",
+          "query": "OpenClaw 小龙虾 AI 助手",
+          "items": [
+            {
+              "title": "马斯克：Grok Bot 的目标是让你可以构建整个公司",
+              "link": "https://www.ithome.com/1/033/827.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 04:21:13 GMT",
+              "summary": "IT之家 11 月 28 日消息，今天（28 日）凌晨，埃隆 · 马斯克在 X 平台发文称：就像现实中的企业一样，使用 Grok Bot 时，打造具备专属职能的 Bot 非常重要。你可以设置一个管理 Bot 来监督、协调其余 Bot 的工作。和人类员工同理，如果让单个 Bot 承担过多繁杂任务，它就会顾此失彼。 随后，马斯克补充说：Grok Bot 的目标， 是让你能够构建完整的公司 。 Grok Bot 于 2026 年 8 月 11 日以测试版形式上线，定位为可执行任务的 AI 智能体，而非单纯的聊天机器人。其…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+              "link": "https://www.ithome.com/1/033/824.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:22:22 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI 无法从运行其 AI 服务的 iPhone 中取得所需数据 。 法德尔曾与艾夫在苹果共事，因被誉为“iPod 之父”以及参与创造 iPhone 而广为人知。他创办了 Build Collective，此前还创立过 Nest Labs。 法德尔认为，OpenAI 之所以执意开发独立硬件，是因为它需要 获取现实物理世…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+              "link": "https://www.ithome.com/1/033/812.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:27:31 GMT",
+              "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何时间表。他强调，微软必须先构建未来 AI 应用所需的技术，并证明用户确实认可这些能力的价值，才能“赢得许可”，进而推进下一代系统。 达武卢里表示 Windows …",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意",
+              "link": "https://www.ithome.com/1/033/810.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:16:13 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 NeoWin 昨日（11 月 27 日）发布博文，报道称微软已搁置为 Edge 浏览器扩展 AI 功能计划， 不再为该浏览器右键菜单加入摘要、引用和翻译功能。 IT之家援引博文介绍，微软于 2025 年 6 月更新 AI at Work 路线图条目 RM497135，规划在 Microsoft Edge 浏览器中，为右键菜单添加 3 项 AI 选项，用户选中文本后右键，可以调用 Copilot 完成摘要、引用和翻译功能。 不过微软近期更新该条目，表示“ 我们已决定取消这项…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+              "link": "https://www.ithome.com/1/033/798.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 01:04:32 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+              "link": "https://www.ithome.com/1/033/795.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 00:50:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，技术博主 @itspdfu 于 11 月 26 日在 X 平台发布长推文， 通过挖掘 iOS 27.3 Beta 2 开发者预览版，发现了苹果 Siri AI 和多项 Apple Intelligence 功能的每日使用限额。 消息源指出根据苹果设定， 设备每向苹果的私密云计算（PCC）发起一次请求，就消耗一个 Token。 而这些 Token 只用来证明用户还有可用额度，不会暴露用户身份。 在请求流程中，用户在 iPhone 端发起的云端 PCC 请求，会先联系 Token 授予…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”",
+              "link": "https://www.ithome.com/1/033/780.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:12:29 GMT",
+              "summary": "IT之家 11 月 28 日消息，《金融时报》昨日（11 月 27 日）发布博文，报道称在苹果公司提起的商业秘密诉讼中，OpenAI 公司已经提出反诉，指控苹果自身窃取了 OpenAI 的商业秘密，并涉嫌胁迫和威胁同时为两家公司供货的供应商。 苹果公司于 2026 年 7 月起诉 OpenAI，称前员工 Tang Tan 和 Chang Liu 离职后，将商业秘密带到了 OpenAI。 OpenAI 在反诉中称，一名员工曾从苹果跳槽至 OpenAI，工作六个月后又返回苹果，并通过个人账户带回了一款 OpenAI 硬…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "英国养老金机构发生网络安全事件，系统紧急暂停运行",
+              "link": "https://www.ithome.com/1/033/779.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:07:06 GMT",
+              "summary": "IT之家 11 月 28 日消息，据彭博社报道，当地时间 11 月 27 日，英国就业和养老金部发现一起网络安全事件，并以“防范风险”为由暂停了系统运行。该国就业和养老金部称，系统中断 不会影响款项发放 。 就业和养老金大臣帕特 · 麦克法登证实，暂停系统运行是因为发生了一起严重事件。IT之家从报道中获悉，该部门负责全英国数千万人福利金和养老金发放工作。 近几周，多个关键系统接连发生引发广泛关注的技术故障，部分故障源于 各机构仓促修复 AI 发现的漏洞、老旧系统升级出错，以及针对企业和政府的网络攻击 。 本月早些时…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+              "link": "https://www.ithome.com/1/033/777.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:04:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "华擎推出旗舰一体式液冷 Taichi AQUA 360 LCD：引入分体式设计",
+              "link": "https://www.ithome.com/1/033/769.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:48:46 GMT",
+              "summary": "IT之家 11 月 27 日消息，华擎 (ASRock) 今日宣布推出旗舰级处理器液冷散热器 Taichi AQUA 360 LCD。该型号总体上来看属于一体式 (AIO) 类型，但又具备一些分体式的特质。 Taichi AQUA 360 LCD 采用双水泵结构 ，提供双倍流量和备份冗余；拥有 CIIR + EPDM 多层水冷管； 搭配 38mm 加厚高密度冷排 ；预装的吹排风扇采用 LCP 商业、双滚珠轴承。 其冷头既可 展现 ARGB 灯光映照下的透明水道 ，也可磁吸固定 3.4\" LCD 屏幕； 冷排预留标准…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "防考生利用 AI 作弊，韩国学校抢购金属探测器",
+              "link": "https://www.ithome.com/1/033/763.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:11:50 GMT",
+              "summary": "IT之家 11 月 27 日消息，据央视新闻报道，为防范考生利用人工智能（AI）设备作弊，韩国教育部近日发布新规，要求所有参加校内考试的学生须在考试前后 接受金属探测器检查 。各地学校加紧采购金属探测器，导致供不应求。 报道提到，一家生产便携式金属探测器的韩国厂商 27 日表示，客户咨询数量较往常增加了约 100 倍，公司大幅提升产量，仍难以满足需求。另一厂商说，如果现在订购，需等待约半个月才能拿到货。一家线上商家也发布公告说，现货已售罄，预计下月初才会补货，目前只接受预订。 在买不到金属探测器的情况下，不少学校转…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "如何让Agent 记得住、查得准、改得对？",
+              "link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 17:25:02 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
+              "link": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 14:56:46 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            }
+          ]
+        },
+        {
+          "title": "国内外大厂动作",
+          "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 华为 OR 京东 OR OpenAI OR Anthropic OR Google OR Microsoft OR Meta OR Amazon OR NVIDIA) AI",
+          "items": [
+            {
+              "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+              "link": "https://www.ithome.com/1/033/777.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:04:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
+              "link": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 15:35:51 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+              "link": "https://www.ithome.com/1/033/824.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:22:22 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI 无法从运行其 AI 服务的 iPhone 中取得所需数据 。 法德尔曾与艾夫在苹果共事，因被誉为“iPod 之父”以及参与创造 iPhone 而广为人知。他创办了 Build Collective，此前还创立过 Nest Labs。 法德尔认为，OpenAI 之所以执意开发独立硬件，是因为它需要 获取现实物理世…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”",
+              "link": "https://www.ithome.com/1/033/780.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:12:29 GMT",
+              "summary": "IT之家 11 月 28 日消息，《金融时报》昨日（11 月 27 日）发布博文，报道称在苹果公司提起的商业秘密诉讼中，OpenAI 公司已经提出反诉，指控苹果自身窃取了 OpenAI 的商业秘密，并涉嫌胁迫和威胁同时为两家公司供货的供应商。 苹果公司于 2026 年 7 月起诉 OpenAI，称前员工 Tang Tan 和 Chang Liu 离职后，将商业秘密带到了 OpenAI。 OpenAI 在反诉中称，一名员工曾从苹果跳槽至 OpenAI，工作六个月后又返回苹果，并通过个人账户带回了一款 OpenAI 硬…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "AI 硬件竞争白热化，OpenAI 反诉苹果窃密；iPhone 18 量产再度推迟；王兴回应美团与小微试点合作",
+              "link": "http://www.geekpark.net/news/374621",
+              "source": "极客公园",
+              "publishedAt": "Sat, 28 Nov 2026 08:53:50 +0800",
+              "summary": "OpenAI 转守为攻：反诉苹果窃密，喊话「不公平竞争」 当地时间周五（27 日），OpenAI 在美国加利福尼亚州圣何塞联邦法院对苹果提起反诉，指控苹果窃取其商业机密，并阻挠其与硬件供应商合作。 今年 7 月，苹果曾以窃取商业机密为由起诉 OpenAI。随着 OpenAI 反诉，这场官司从苹果一方起诉变成了双方互诉。 据报道，OpenAI 正准备推出一系列新的个人设备，并称这些设备有望「在苹果视为自家地盘的领域胜过苹果」。 据报道，OpenAI 在诉状中称，苹果这样做是为了「不择手段地进行不公平竞争」。OpenA…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "马斯克：Grok Bot 的目标是让你可以构建整个公司",
+              "link": "https://www.ithome.com/1/033/827.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 04:21:13 GMT",
+              "summary": "IT之家 11 月 28 日消息，今天（28 日）凌晨，埃隆 · 马斯克在 X 平台发文称：就像现实中的企业一样，使用 Grok Bot 时，打造具备专属职能的 Bot 非常重要。你可以设置一个管理 Bot 来监督、协调其余 Bot 的工作。和人类员工同理，如果让单个 Bot 承担过多繁杂任务，它就会顾此失彼。 随后，马斯克补充说：Grok Bot 的目标， 是让你能够构建完整的公司 。 Grok Bot 于 2026 年 8 月 11 日以测试版形式上线，定位为可执行任务的 AI 智能体，而非单纯的聊天机器人。其…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+              "link": "https://www.ithome.com/1/033/812.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:27:31 GMT",
+              "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何时间表。他强调，微软必须先构建未来 AI 应用所需的技术，并证明用户确实认可这些能力的价值，才能“赢得许可”，进而推进下一代系统。 达武卢里表示 Windows …",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意",
+              "link": "https://www.ithome.com/1/033/810.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:16:13 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 NeoWin 昨日（11 月 27 日）发布博文，报道称微软已搁置为 Edge 浏览器扩展 AI 功能计划， 不再为该浏览器右键菜单加入摘要、引用和翻译功能。 IT之家援引博文介绍，微软于 2025 年 6 月更新 AI at Work 路线图条目 RM497135，规划在 Microsoft Edge 浏览器中，为右键菜单添加 3 项 AI 选项，用户选中文本后右键，可以调用 Copilot 完成摘要、引用和翻译功能。 不过微软近期更新该条目，表示“ 我们已决定取消这项…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+              "link": "https://www.ithome.com/1/033/798.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 01:04:32 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+              "link": "https://www.ithome.com/1/033/795.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 00:50:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，技术博主 @itspdfu 于 11 月 26 日在 X 平台发布长推文， 通过挖掘 iOS 27.3 Beta 2 开发者预览版，发现了苹果 Siri AI 和多项 Apple Intelligence 功能的每日使用限额。 消息源指出根据苹果设定， 设备每向苹果的私密云计算（PCC）发起一次请求，就消耗一个 Token。 而这些 Token 只用来证明用户还有可用额度，不会暴露用户身份。 在请求流程中，用户在 iPhone 端发起的云端 PCC 请求，会先联系 Token 授予…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "英国养老金机构发生网络安全事件，系统紧急暂停运行",
+              "link": "https://www.ithome.com/1/033/779.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:07:06 GMT",
+              "summary": "IT之家 11 月 28 日消息，据彭博社报道，当地时间 11 月 27 日，英国就业和养老金部发现一起网络安全事件，并以“防范风险”为由暂停了系统运行。该国就业和养老金部称，系统中断 不会影响款项发放 。 就业和养老金大臣帕特 · 麦克法登证实，暂停系统运行是因为发生了一起严重事件。IT之家从报道中获悉，该部门负责全英国数千万人福利金和养老金发放工作。 近几周，多个关键系统接连发生引发广泛关注的技术故障，部分故障源于 各机构仓促修复 AI 发现的漏洞、老旧系统升级出错，以及针对企业和政府的网络攻击 。 本月早些时…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "华擎推出旗舰一体式液冷 Taichi AQUA 360 LCD：引入分体式设计",
+              "link": "https://www.ithome.com/1/033/769.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:48:46 GMT",
+              "summary": "IT之家 11 月 27 日消息，华擎 (ASRock) 今日宣布推出旗舰级处理器液冷散热器 Taichi AQUA 360 LCD。该型号总体上来看属于一体式 (AIO) 类型，但又具备一些分体式的特质。 Taichi AQUA 360 LCD 采用双水泵结构 ，提供双倍流量和备份冗余；拥有 CIIR + EPDM 多层水冷管； 搭配 38mm 加厚高密度冷排 ；预装的吹排风扇采用 LCP 商业、双滚珠轴承。 其冷头既可 展现 ARGB 灯光映照下的透明水道 ，也可磁吸固定 3.4\" LCD 屏幕； 冷排预留标准…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "防考生利用 AI 作弊，韩国学校抢购金属探测器",
+              "link": "https://www.ithome.com/1/033/763.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:11:50 GMT",
+              "summary": "IT之家 11 月 27 日消息，据央视新闻报道，为防范考生利用人工智能（AI）设备作弊，韩国教育部近日发布新规，要求所有参加校内考试的学生须在考试前后 接受金属探测器检查 。各地学校加紧采购金属探测器，导致供不应求。 报道提到，一家生产便携式金属探测器的韩国厂商 27 日表示，客户咨询数量较往常增加了约 100 倍，公司大幅提升产量，仍难以满足需求。另一厂商说，如果现在订购，需等待约半个月才能拿到货。一家线上商家也发布公告说，现货已售罄，预计下月初才会补货，目前只接受预订。 在买不到金属探测器的情况下，不少学校转…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+              "link": "https://sspai.com/post/119563",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 15:00:00 +0800",
+              "summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。 查看全文",
+              "channelId": "sspai_ai"
+            },
+            {
+              "title": "股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
+              "link": "https://www.infoq.cn/article/FDR8k5bNu9eWklHh9NmI?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 19:56:26 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道",
+              "link": "http://www.geekpark.net/news/374438",
+              "source": "极客公园",
+              "publishedAt": "Wed, 25 Nov 2026 08:44:18 +0800",
+              "summary": "豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。 小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是「一个懂你，还能主动帮你办事的豆包」。未来，小豆上的能力与体验也将逐步在豆包 App 上线。（来源：IT 之家） 特斯拉 SpaceX 合并最新进展曝光 据报道，马斯克旗下特斯拉与 SpaceX 的潜在合并…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "华为星芒O1 Pro，如何把手机 AI 再往前努一小步",
+              "link": "http://www.geekpark.net/news/374417",
+              "source": "极客公园",
+              "publishedAt": "Tue, 24 Nov 2026 15:47:16 +0800",
+              "summary": "随着 iOS 27.2 的更新，中国大陆用户日盼夜盼的苹果智能，终于露出了一小手，但各种原因吧，仍然是犹抱琵琶半遮面。 如果对消费电子看得比较多的同学，可能会感到现在手机 AI 比较割裂。既有大厂在一点点摸索，上了 AI，但是散落在键盘、录音、文字记录、笔记等等各个功能之中；然后也有来自字节、阶跃这样的挑战者，走的是 Rabbit R1 的路子，想用一个 AI 助手，一杆子捅到底，然后被互联网大厂南墙撞得头破血流。 星芒 OSTA O1 Pro 采用了阔直板形式｜图片来源：极客公园 历史肯定是要发展的，但道路无疑注…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "字节，该造手机了",
+              "link": "http://www.geekpark.net/news/374374",
+              "source": "极客公园",
+              "publishedAt": "Mon, 23 Nov 2026 23:47:18 +0800",
+              "summary": "&nbsp; &nbsp; 11 月 19 日，财联社援引供应链人士的消息称，富士康旗下的富智康已经拿到 OpenAI 手机的组装订单，首款产品有望在 2027 年底或 2028 年面市。OpenAI 至今没有确认自己在做手机，但从今年 4 月起，围绕这台手机的供应链消息就没有断过。 而在中国，一家 AI 公司的手机其实已经卖到了第二代，这就是豆包手机。只不过在这台手机上，让助手帮你叫一辆车已经不算难事，但想让它接着给朋友回一条「我上车了」的微信，目前还做不到。 按曹操出行公布的用法，看到想去的地方，按一下手机侧面…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道",
+              "link": "http://www.geekpark.net/news/374304",
+              "source": "极客公园",
+              "publishedAt": "Mon, 23 Nov 2026 09:22:36 +0800",
+              "summary": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限 11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 &middot; 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前，不应突破约定的发展门槛。 他认为，传统 AI 能力评测基准会随着技术进步迅速过时，而困惑度（Perplexity）可以作为衡量模型预训练进…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段",
+              "link": "http://www.geekpark.net/news/374302",
+              "source": "极客公园",
+              "publishedAt": "Sun, 22 Nov 2026 09:58:48 +0800",
+              "summary": "&nbsp; 头图来源：腾讯 &nbsp; 腾讯的 AI 故事，正在进入一个有些沉重的阶段。 11 月 18 日，腾讯发布 2026 年第三季度财报。本季度营收 2073.4 亿元，同比增长 8%；Non-IFRS 经营利润 681 亿元，同比下降 6%；Non-IFRS 归母净利润 665 亿元，同比下降 6%。 图片来源：腾讯财报 本季度，腾讯资本开支达到 814 亿元，同比增长 527%，单季支出已经超过 2025 年全年；研发投入 323.6 亿元，同比增长 42%。大规模算力采购和预付款之下，自由现金流为…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机",
+              "link": "http://www.geekpark.net/news/374299",
+              "source": "极客公园",
+              "publishedAt": "Sat, 21 Nov 2026 08:17:10 +0800",
+              "summary": "传林俊旸 AI 初创公司完成新融资，估值翻倍至 50 亿美元 据彭博社报道，阿里巴巴集团前 AI 负责人林俊旸创办的语用科技 ( Pragmatik Labs)，已完成新一轮融资，估值达 50 亿美元，短短几个月内估值翻了一倍多。 林俊旸曾是阿里的明星研究员，在离职后于今年夏季创立语用科技。据知情人士称，语用科技在最近结束的一轮融资中筹集了数千万美元资金。今年 8 月，该公司在首次融资中筹集了数亿美元，当时估值为 20 亿美元。 知情人士称，语用科技的新投资者包括华业天成资本、鼎晖投资以及汽车制造商吉利汽车。 语用…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」",
+              "link": "http://www.geekpark.net/news/374282",
+              "source": "极客公园",
+              "publishedAt": "Fri, 20 Nov 2026 16:24:30 +0800",
+              "summary": "作者｜宇航猿 编辑｜靖宇 AI 吞掉了软件，现在，它要吞掉工业了。 卸任亚马逊 CEO 五年后，杰夫&middot;贝佐斯没忍住，又给自己找了个班上。 当地时间 2026 年 11 月 17 日，加州门洛帕克的 Semafor「硅谷与世界」峰会现场，贝佐斯和物理学家维克&middot;巴贾杰（Vik Bajaj）罕见同台。 他现在的最新头衔，是 AI 初创公司 Prometheus 的联合创始人兼联席 CEO 。这是自 2021 年交出亚马逊帅印后，这位商业巨头首次重回一线担任 CEO。 早在 2024 年底种子期…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
+              "link": "http://www.geekpark.net/news/374235",
+              "source": "极客公园",
+              "publishedAt": "Fri, 20 Nov 2026 09:04:08 +0800",
+              "summary": "「史上最大 IPO」：Anthropic 上市首日收盘大涨 17%，市值达 1.27 万亿美元 11 月 20 日消息，AI 公司 Anthropic 于当地时间 11 月 19 日在美国纳斯达克上市， 首日股价以 97.17 美元（现汇率约合 649.2 元人民币）收盘，较 83 美元（现汇率约合 554.5 元人民币）的发行价上涨 17.07%。 该股开盘即报 111.5 美元（现汇率约合 744.9 元人民币），较发行价高出约 34.3%；盘中一度突破 115 美元（现汇率约合 768.3 元人民币），随后回…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋",
+              "link": "http://www.geekpark.net/news/374175",
+              "source": "极客公园",
+              "publishedAt": "Wed, 18 Nov 2026 21:40:28 +0800",
+              "summary": "作者｜Techno 之王 编辑｜靖宇 「 基本不可用，不推荐 」。 OpenAI 新模型上线仅仅 8 分钟，硅谷知名创业者 Matt Shumer，就在社交平台上扔下一句毫不留情的评价。 紧接着，拥有大批开发者拥趸的 Theo Browne，发了一篇长文《我为什么讨厌 GPT-6.2 Astra》。向来对前沿模型保持温和耐心的沃顿商学院教授 Ethan Mollick，测完后也给出了罕见的严厉定调，「非常不稳定且古怪」，直言这是「自 GPT-4.5 以来 OpenAI 前沿发布首次未见明显进步」。 这原本该是 Op…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "Claude Opus 5.6 做出了史上最牛的 PPT，直接杀死比赛？",
+              "link": "https://www.ifanr.com/1695831?utm_source=rss&utm_medium=rss&utm_campaign",
+              "source": "爱范儿",
+              "publishedAt": "Fri, 27 Nov 2026 09:06:19 +0000",
+              "summary": "这可能是我们见过最离谱的 AI 生成 PPT。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+              "channelId": "ifanr_ai"
+            },
+            {
+              "title": "Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了",
+              "link": "https://www.ifanr.com/1695671?utm_source=rss&utm_medium=rss&utm_campaign",
+              "source": "爱范儿",
+              "publishedAt": "Fri, 27 Nov 2026 03:49:58 +0000",
+              "summary": "AI 既是一场工业革命，也是一场文艺复兴。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+              "channelId": "ifanr_ai"
+            }
+          ]
+        },
+        {
+          "title": "技术突破",
+          "query": "AI 技术 突破",
+          "items": [
+            {
+              "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+              "link": "https://sspai.com/post/119563",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 15:00:00 +0800",
+              "summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。 查看全文",
+              "channelId": "sspai_ai"
+            },
+            {
+              "title": "瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+              "link": "https://www.infoq.cn/article/zRubhYcrBMTrOvzjlPQN?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 16:15:06 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机",
+              "link": "http://www.geekpark.net/news/374299",
+              "source": "极客公园",
+              "publishedAt": "Sat, 21 Nov 2026 08:17:10 +0800",
+              "summary": "传林俊旸 AI 初创公司完成新融资，估值翻倍至 50 亿美元 据彭博社报道，阿里巴巴集团前 AI 负责人林俊旸创办的语用科技 ( Pragmatik Labs)，已完成新一轮融资，估值达 50 亿美元，短短几个月内估值翻了一倍多。 林俊旸曾是阿里的明星研究员，在离职后于今年夏季创立语用科技。据知情人士称，语用科技在最近结束的一轮融资中筹集了数千万美元资金。今年 8 月，该公司在首次融资中筹集了数亿美元，当时估值为 20 亿美元。 知情人士称，语用科技的新投资者包括华业天成资本、鼎晖投资以及汽车制造商吉利汽车。 语用…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+              "link": "https://www.ithome.com/1/033/812.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:27:31 GMT",
+              "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何时间表。他强调，微软必须先构建未来 AI 应用所需的技术，并证明用户确实认可这些能力的价值，才能“赢得许可”，进而推进下一代系统。 达武卢里表示 Windows …",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+              "link": "https://www.ithome.com/1/033/798.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 01:04:32 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "鞠婧祎代言！荣耀700系列追光之旅新品发布会",
+              "link": "https://news.mydrivers.com/1/1166/1166682.htm",
+              "source": "RSS",
+              "publishedAt": "2026-11-18 15:03:06",
+              "summary": "荣耀700系列追光之旅新品发布会，11月23日14:30准时开启！见证影像大换代，解锁4K电影感Live、AI灵动背屏，全系搭载9000mAh青海湖大电池。 2亿主摄、潜望长焦、绿洲护眼屏、旗舰性能悉数登场，还有全场景新品亮相。 锁定直播间，第一时间看真机、听价格，不错过全部惊喜。",
+              "channelId": "mydrivers_ai"
+            }
+          ]
+        },
+        {
+          "title": "AI-UX",
+          "query": "AI 产品 交互 体验",
+          "items": [
+            {
+              "title": "如何让Agent 记得住、查得准、改得对？",
+              "link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 17:25:02 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+              "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 15:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+              "link": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 13:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
+              "link": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 14:56:46 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
+              "link": "http://www.geekpark.net/news/374235",
+              "source": "极客公园",
+              "publishedAt": "Fri, 20 Nov 2026 09:04:08 +0800",
+              "summary": "「史上最大 IPO」：Anthropic 上市首日收盘大涨 17%，市值达 1.27 万亿美元 11 月 20 日消息，AI 公司 Anthropic 于当地时间 11 月 19 日在美国纳斯达克上市， 首日股价以 97.17 美元（现汇率约合 649.2 元人民币）收盘，较 83 美元（现汇率约合 554.5 元人民币）的发行价上涨 17.07%。 该股开盘即报 111.5 美元（现汇率约合 744.9 元人民币），较发行价高出约 34.3%；盘中一度突破 115 美元（现汇率约合 768.3 元人民币），随后回…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        },
+        {
+          "title": "产品范式",
+          "query": "AI 产品 发布",
+          "items": [
+            {
+              "title": "豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道",
+              "link": "http://www.geekpark.net/news/374438",
+              "source": "极客公园",
+              "publishedAt": "Wed, 25 Nov 2026 08:44:18 +0800",
+              "summary": "豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。 小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是「一个懂你，还能主动帮你办事的豆包」。未来，小豆上的能力与体验也将逐步在豆包 App 上线。（来源：IT 之家） 特斯拉 SpaceX 合并最新进展曝光 据报道，马斯克旗下特斯拉与 SpaceX 的潜在合并…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+              "link": "https://sspai.com/post/116773",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 17:30:00 +0800",
+              "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。 查看全文",
+              "channelId": "sspai_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        },
+        {
+          "title": "推理成本和 Token 经济",
+          "query": "AI 推理 成本 Token",
+          "items": [
+            {
+              "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+              "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 15:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "成本低九成、开源权重：MAGI-2 带动视频模型进入大掀桌时代",
+              "link": "http://www.geekpark.net/news/374532",
+              "source": "极客公园",
+              "publishedAt": "Thu, 26 Nov 2026 16:38:54 +0800",
+              "summary": "作者｜Cynthia 编辑｜郑玄 2026 年的视频大模型圈子，有一个心照不宣的保留节目：无论哪家推出新模型，最终的成绩页上，永远会留一行和 Seedance 2.5 的对标数据。 这款上半年坐稳行业标杆的闭源模型，如今成了整条赛道公认的「基准线」&mdash;&mdash; 快手可灵 Kling 3.0 上线，要比镜头控制与生成时长；阿里 Wan 3.0 推出，主打同画质下的性价比；MiniMax 发 H3 系列，也要在 AA 榜单上标清和 Seedance 的 Elo 分差。 你方唱罢我登场，榜首的排位刷了一轮…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "黄仁勋重返英伟达，市值涨31.48%；马斯克：AI 研发落后对手，出租算力比自研更赚钱；新一代 AI 模型更爱「爆粗口」",
+              "link": "http://www.geekpark.net/news/374375",
+              "source": "极客公园",
+              "publishedAt": "Tue, 24 Nov 2026 08:28:30 +0800",
+              "summary": "黄仁勋重返英伟达 黄仁勋在美国当地时间 11 月 23 日重返英伟达总部，现场员工聚集在大厅高声欢呼，迎接这位创办人回归。黄仁勋在现场表示：「感谢大家给我第二次机会，接下来我一定会成为更优秀的 CEO」。 「我很荣幸能重返英伟达，并在新一轮工业革命伊始领导这家全球最具影响力的科技公司之一，」黄仁勋表示。 「我将以最大的谦逊和焕然一新的承诺肩负起这一重任。我要感谢英伟达董事会在此过程中给予的信任与审慎考量。我尤其感谢哈维 &middot; 琼斯（Harvey Jones）作为董事长所展现的领导力，也感谢科莱特 &mi…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切",
+              "link": "http://www.geekpark.net/news/374301",
+              "source": "极客公园",
+              "publishedAt": "Sun, 22 Nov 2026 09:56:28 +0800",
+              "summary": "&nbsp; 头图来源：ChatGPT 生成 &nbsp; 11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和混元团队的研究员现身 Reddit LocalLLaMA 社区，开启了混元团队史上第一场面向全球开发者的公开 AMA。 图片来源：x 两小时内，姚顺雨和混元团队解答了 300 余条开发者提问，从底层架构取舍到长期路线规划，从量化落地经验到开源生态适配，几乎覆盖了当前开源大模型领域所有核心争议与关切。 过去不到一个月，混元刚刚完成一轮高密度产品发布&mdash;&mdash;11 月 4…",
+              "channelId": "geekpark_ai"
+            }
+          ]
+        },
+        {
+          "title": "代理式 AI",
+          "query": "AI 智能体",
+          "items": [
+            {
+              "title": "如何让Agent 记得住、查得准、改得对？",
+              "link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 17:25:02 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+              "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 15:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+              "link": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 13:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
+              "link": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 14:56:46 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
+              "link": "http://www.geekpark.net/news/374235",
+              "source": "极客公园",
+              "publishedAt": "Fri, 20 Nov 2026 09:04:08 +0800",
+              "summary": "「史上最大 IPO」：Anthropic 上市首日收盘大涨 17%，市值达 1.27 万亿美元 11 月 20 日消息，AI 公司 Anthropic 于当地时间 11 月 19 日在美国纳斯达克上市， 首日股价以 97.17 美元（现汇率约合 649.2 元人民币）收盘，较 83 美元（现汇率约合 554.5 元人民币）的发行价上涨 17.07%。 该股开盘即报 111.5 美元（现汇率约合 744.9 元人民币），较发行价高出约 34.3%；盘中一度突破 115 美元（现汇率约合 768.3 元人民币），随后回…",
+              "channelId": "geekpark_ai"
+            }
+          ]
+        },
+        {
+          "title": "商业 ROI",
+          "query": "AI 商业化 ROI",
+          "items": [
+            {
+              "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+              "link": "https://sspai.com/post/116773",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 17:30:00 +0800",
+              "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。 查看全文",
+              "channelId": "sspai_ai"
+            },
+            {
+              "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+              "link": "https://www.ithome.com/1/033/777.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:04:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "currency": "USD",
+          "price": 150.49000549316406,
+          "previousClose": 186.63999938964844,
+          "changePct": -19.368835198618925
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "currency": "USD",
+          "price": 492.8500061035156,
+          "previousClose": 530.6099853515625,
+          "changePct": -7.116334085388257
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "Alphabet",
+          "currency": "USD",
+          "price": 274.9599914550781,
+          "previousClose": 284.7799987792969,
+          "changePct": -3.448278448736566
+        },
+        {
+          "symbol": "002230.SZ",
+          "name": "科大讯飞",
+          "currency": "CNY",
+          "price": 35.95000076293945,
+          "previousClose": 37.959999084472656,
+          "changePct": -5.295043124369786
+        },
+        {
+          "symbol": "300308.SZ",
+          "name": "中际旭创",
+          "currency": "CNY",
+          "price": 516.1500244140625,
+          "previousClose": 452.0299987792969,
+          "changePct": 14.184904941689977
+        },
+        {
+          "symbol": "688111.SS",
+          "name": "金山办公",
+          "currency": "CNY",
+          "price": 231.11000061035156,
+          "previousClose": 225.60000610351562,
+          "changePct": 2.4423733855342626
+        },
+        {
+          "symbol": "600570.SS",
+          "name": "恒生电子",
+          "currency": "CNY",
+          "price": 20.049999237060547,
+          "previousClose": 21.209999084472656,
+          "changePct": -5.469117857064492
+        },
+        {
+          "symbol": "002415.SZ",
+          "name": "海康威视",
+          "currency": "CNY",
+          "price": 34.2599983215332,
+          "previousClose": 34.66999816894531,
+          "changePct": -1.1825782205531103
+        }
+      ],
+      "channels": [
+        {
+          "channelId": "sspai_ai",
+          "count": 4,
+          "error": null
+        },
+        {
+          "channelId": "infoq_ai",
+          "count": 11,
+          "error": null
+        },
+        {
+          "channelId": "juejin_ai",
+          "count": 0,
+          "error": null
+        },
+        {
+          "channelId": "geekpark_ai",
+          "count": 24,
+          "error": null
+        },
+        {
+          "channelId": "ifanr_ai",
+          "count": 2,
+          "error": null
+        },
+        {
+          "channelId": "ithome_ai",
+          "count": 12,
+          "error": null
+        },
+        {
+          "channelId": "mydrivers_ai",
+          "count": 1,
+          "error": null
+        }
+      ],
+      "diagnostics": []
+    },
+    "30": {
+      "sections": [
+        {
+          "title": "OpenClaw 生态",
+          "query": "OpenClaw 小龙虾 AI 助手",
+          "items": [
+            {
+              "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+              "link": "https://www.ithome.com/1/033/824.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:22:22 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI 无法从运行其 AI 服务的 iPhone 中取得所需数据 。 法德尔曾与艾夫在苹果共事，因被誉为“iPod 之父”以及参与创造 iPhone 而广为人知。他创办了 Build Collective，此前还创立过 Nest Labs。 法德尔认为，OpenAI 之所以执意开发独立硬件，是因为它需要 获取现实物理世…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+              "link": "https://www.ithome.com/1/033/812.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:27:31 GMT",
+              "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何时间表。他强调，微软必须先构建未来 AI 应用所需的技术，并证明用户确实认可这些能力的价值，才能“赢得许可”，进而推进下一代系统。 达武卢里表示 Windows …",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意",
+              "link": "https://www.ithome.com/1/033/810.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:16:13 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 NeoWin 昨日（11 月 27 日）发布博文，报道称微软已搁置为 Edge 浏览器扩展 AI 功能计划， 不再为该浏览器右键菜单加入摘要、引用和翻译功能。 IT之家援引博文介绍，微软于 2025 年 6 月更新 AI at Work 路线图条目 RM497135，规划在 Microsoft Edge 浏览器中，为右键菜单添加 3 项 AI 选项，用户选中文本后右键，可以调用 Copilot 完成摘要、引用和翻译功能。 不过微软近期更新该条目，表示“ 我们已决定取消这项…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+              "link": "https://www.ithome.com/1/033/798.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 01:04:32 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+              "link": "https://www.ithome.com/1/033/795.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 00:50:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，技术博主 @itspdfu 于 11 月 26 日在 X 平台发布长推文， 通过挖掘 iOS 27.3 Beta 2 开发者预览版，发现了苹果 Siri AI 和多项 Apple Intelligence 功能的每日使用限额。 消息源指出根据苹果设定， 设备每向苹果的私密云计算（PCC）发起一次请求，就消耗一个 Token。 而这些 Token 只用来证明用户还有可用额度，不会暴露用户身份。 在请求流程中，用户在 iPhone 端发起的云端 PCC 请求，会先联系 Token 授予…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”",
+              "link": "https://www.ithome.com/1/033/780.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:12:29 GMT",
+              "summary": "IT之家 11 月 28 日消息，《金融时报》昨日（11 月 27 日）发布博文，报道称在苹果公司提起的商业秘密诉讼中，OpenAI 公司已经提出反诉，指控苹果自身窃取了 OpenAI 的商业秘密，并涉嫌胁迫和威胁同时为两家公司供货的供应商。 苹果公司于 2026 年 7 月起诉 OpenAI，称前员工 Tang Tan 和 Chang Liu 离职后，将商业秘密带到了 OpenAI。 OpenAI 在反诉中称，一名员工曾从苹果跳槽至 OpenAI，工作六个月后又返回苹果，并通过个人账户带回了一款 OpenAI 硬…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "英国养老金机构发生网络安全事件，系统紧急暂停运行",
+              "link": "https://www.ithome.com/1/033/779.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:07:06 GMT",
+              "summary": "IT之家 11 月 28 日消息，据彭博社报道，当地时间 11 月 27 日，英国就业和养老金部发现一起网络安全事件，并以“防范风险”为由暂停了系统运行。该国就业和养老金部称，系统中断 不会影响款项发放 。 就业和养老金大臣帕特 · 麦克法登证实，暂停系统运行是因为发生了一起严重事件。IT之家从报道中获悉，该部门负责全英国数千万人福利金和养老金发放工作。 近几周，多个关键系统接连发生引发广泛关注的技术故障，部分故障源于 各机构仓促修复 AI 发现的漏洞、老旧系统升级出错，以及针对企业和政府的网络攻击 。 本月早些时…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+              "link": "https://www.ithome.com/1/033/777.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:04:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "华擎推出旗舰一体式液冷 Taichi AQUA 360 LCD：引入分体式设计",
+              "link": "https://www.ithome.com/1/033/769.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:48:46 GMT",
+              "summary": "IT之家 11 月 27 日消息，华擎 (ASRock) 今日宣布推出旗舰级处理器液冷散热器 Taichi AQUA 360 LCD。该型号总体上来看属于一体式 (AIO) 类型，但又具备一些分体式的特质。 Taichi AQUA 360 LCD 采用双水泵结构 ，提供双倍流量和备份冗余；拥有 CIIR + EPDM 多层水冷管； 搭配 38mm 加厚高密度冷排 ；预装的吹排风扇采用 LCP 商业、双滚珠轴承。 其冷头既可 展现 ARGB 灯光映照下的透明水道 ，也可磁吸固定 3.4\" LCD 屏幕； 冷排预留标准…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "防考生利用 AI 作弊，韩国学校抢购金属探测器",
+              "link": "https://www.ithome.com/1/033/763.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:11:50 GMT",
+              "summary": "IT之家 11 月 27 日消息，据央视新闻报道，为防范考生利用人工智能（AI）设备作弊，韩国教育部近日发布新规，要求所有参加校内考试的学生须在考试前后 接受金属探测器检查 。各地学校加紧采购金属探测器，导致供不应求。 报道提到，一家生产便携式金属探测器的韩国厂商 27 日表示，客户咨询数量较往常增加了约 100 倍，公司大幅提升产量，仍难以满足需求。另一厂商说，如果现在订购，需等待约半个月才能拿到货。一家线上商家也发布公告说，现货已售罄，预计下月初才会补货，目前只接受预订。 在买不到金属探测器的情况下，不少学校转…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "如何让Agent 记得住、查得准、改得对？",
+              "link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 17:25:02 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
+              "link": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 14:56:46 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            }
+          ]
+        },
+        {
+          "title": "国内外大厂动作",
+          "query": "(腾讯 OR 阿里巴巴 OR 百度 OR 字节跳动 OR 华为 OR 京东 OR OpenAI OR Anthropic OR Google OR Microsoft OR Meta OR Amazon OR NVIDIA) AI",
+          "items": [
+            {
+              "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+              "link": "https://www.ithome.com/1/033/777.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:04:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
+              "link": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 15:35:51 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+              "link": "https://www.ithome.com/1/033/824.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:22:22 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI 无法从运行其 AI 服务的 iPhone 中取得所需数据 。 法德尔曾与艾夫在苹果共事，因被誉为“iPod 之父”以及参与创造 iPhone 而广为人知。他创办了 Build Collective，此前还创立过 Nest Labs。 法德尔认为，OpenAI 之所以执意开发独立硬件，是因为它需要 获取现实物理世…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”",
+              "link": "https://www.ithome.com/1/033/780.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:12:29 GMT",
+              "summary": "IT之家 11 月 28 日消息，《金融时报》昨日（11 月 27 日）发布博文，报道称在苹果公司提起的商业秘密诉讼中，OpenAI 公司已经提出反诉，指控苹果自身窃取了 OpenAI 的商业秘密，并涉嫌胁迫和威胁同时为两家公司供货的供应商。 苹果公司于 2026 年 7 月起诉 OpenAI，称前员工 Tang Tan 和 Chang Liu 离职后，将商业秘密带到了 OpenAI。 OpenAI 在反诉中称，一名员工曾从苹果跳槽至 OpenAI，工作六个月后又返回苹果，并通过个人账户带回了一款 OpenAI 硬…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "AI 硬件竞争白热化，OpenAI 反诉苹果窃密；iPhone 18 量产再度推迟；王兴回应美团与小微试点合作",
+              "link": "http://www.geekpark.net/news/374621",
+              "source": "极客公园",
+              "publishedAt": "Sat, 28 Nov 2026 08:53:50 +0800",
+              "summary": "OpenAI 转守为攻：反诉苹果窃密，喊话「不公平竞争」 当地时间周五（27 日），OpenAI 在美国加利福尼亚州圣何塞联邦法院对苹果提起反诉，指控苹果窃取其商业机密，并阻挠其与硬件供应商合作。 今年 7 月，苹果曾以窃取商业机密为由起诉 OpenAI。随着 OpenAI 反诉，这场官司从苹果一方起诉变成了双方互诉。 据报道，OpenAI 正准备推出一系列新的个人设备，并称这些设备有望「在苹果视为自家地盘的领域胜过苹果」。 据报道，OpenAI 在诉状中称，苹果这样做是为了「不择手段地进行不公平竞争」。OpenA…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+              "link": "https://www.ithome.com/1/033/812.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:27:31 GMT",
+              "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何时间表。他强调，微软必须先构建未来 AI 应用所需的技术，并证明用户确实认可这些能力的价值，才能“赢得许可”，进而推进下一代系统。 达武卢里表示 Windows …",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意",
+              "link": "https://www.ithome.com/1/033/810.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:16:13 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 NeoWin 昨日（11 月 27 日）发布博文，报道称微软已搁置为 Edge 浏览器扩展 AI 功能计划， 不再为该浏览器右键菜单加入摘要、引用和翻译功能。 IT之家援引博文介绍，微软于 2025 年 6 月更新 AI at Work 路线图条目 RM497135，规划在 Microsoft Edge 浏览器中，为右键菜单添加 3 项 AI 选项，用户选中文本后右键，可以调用 Copilot 完成摘要、引用和翻译功能。 不过微软近期更新该条目，表示“ 我们已决定取消这项…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+              "link": "https://www.ithome.com/1/033/798.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 01:04:32 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+              "link": "https://www.ithome.com/1/033/795.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 00:50:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，技术博主 @itspdfu 于 11 月 26 日在 X 平台发布长推文， 通过挖掘 iOS 27.3 Beta 2 开发者预览版，发现了苹果 Siri AI 和多项 Apple Intelligence 功能的每日使用限额。 消息源指出根据苹果设定， 设备每向苹果的私密云计算（PCC）发起一次请求，就消耗一个 Token。 而这些 Token 只用来证明用户还有可用额度，不会暴露用户身份。 在请求流程中，用户在 iPhone 端发起的云端 PCC 请求，会先联系 Token 授予…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "英国养老金机构发生网络安全事件，系统紧急暂停运行",
+              "link": "https://www.ithome.com/1/033/779.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:07:06 GMT",
+              "summary": "IT之家 11 月 28 日消息，据彭博社报道，当地时间 11 月 27 日，英国就业和养老金部发现一起网络安全事件，并以“防范风险”为由暂停了系统运行。该国就业和养老金部称，系统中断 不会影响款项发放 。 就业和养老金大臣帕特 · 麦克法登证实，暂停系统运行是因为发生了一起严重事件。IT之家从报道中获悉，该部门负责全英国数千万人福利金和养老金发放工作。 近几周，多个关键系统接连发生引发广泛关注的技术故障，部分故障源于 各机构仓促修复 AI 发现的漏洞、老旧系统升级出错，以及针对企业和政府的网络攻击 。 本月早些时…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "华擎推出旗舰一体式液冷 Taichi AQUA 360 LCD：引入分体式设计",
+              "link": "https://www.ithome.com/1/033/769.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:48:46 GMT",
+              "summary": "IT之家 11 月 27 日消息，华擎 (ASRock) 今日宣布推出旗舰级处理器液冷散热器 Taichi AQUA 360 LCD。该型号总体上来看属于一体式 (AIO) 类型，但又具备一些分体式的特质。 Taichi AQUA 360 LCD 采用双水泵结构 ，提供双倍流量和备份冗余；拥有 CIIR + EPDM 多层水冷管； 搭配 38mm 加厚高密度冷排 ；预装的吹排风扇采用 LCP 商业、双滚珠轴承。 其冷头既可 展现 ARGB 灯光映照下的透明水道 ，也可磁吸固定 3.4\" LCD 屏幕； 冷排预留标准…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "防考生利用 AI 作弊，韩国学校抢购金属探测器",
+              "link": "https://www.ithome.com/1/033/763.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 14:11:50 GMT",
+              "summary": "IT之家 11 月 27 日消息，据央视新闻报道，为防范考生利用人工智能（AI）设备作弊，韩国教育部近日发布新规，要求所有参加校内考试的学生须在考试前后 接受金属探测器检查 。各地学校加紧采购金属探测器，导致供不应求。 报道提到，一家生产便携式金属探测器的韩国厂商 27 日表示，客户咨询数量较往常增加了约 100 倍，公司大幅提升产量，仍难以满足需求。另一厂商说，如果现在订购，需等待约半个月才能拿到货。一家线上商家也发布公告说，现货已售罄，预计下月初才会补货，目前只接受预订。 在买不到金属探测器的情况下，不少学校转…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+              "link": "https://sspai.com/post/119563",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 15:00:00 +0800",
+              "summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。 查看全文",
+              "channelId": "sspai_ai"
+            },
+            {
+              "title": "股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
+              "link": "https://www.infoq.cn/article/FDR8k5bNu9eWklHh9NmI?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 19:56:26 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道",
+              "link": "http://www.geekpark.net/news/374438",
+              "source": "极客公园",
+              "publishedAt": "Wed, 25 Nov 2026 08:44:18 +0800",
+              "summary": "豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。 小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是「一个懂你，还能主动帮你办事的豆包」。未来，小豆上的能力与体验也将逐步在豆包 App 上线。（来源：IT 之家） 特斯拉 SpaceX 合并最新进展曝光 据报道，马斯克旗下特斯拉与 SpaceX 的潜在合并…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "华为星芒O1 Pro，如何把手机 AI 再往前努一小步",
+              "link": "http://www.geekpark.net/news/374417",
+              "source": "极客公园",
+              "publishedAt": "Tue, 24 Nov 2026 15:47:16 +0800",
+              "summary": "随着 iOS 27.2 的更新，中国大陆用户日盼夜盼的苹果智能，终于露出了一小手，但各种原因吧，仍然是犹抱琵琶半遮面。 如果对消费电子看得比较多的同学，可能会感到现在手机 AI 比较割裂。既有大厂在一点点摸索，上了 AI，但是散落在键盘、录音、文字记录、笔记等等各个功能之中；然后也有来自字节、阶跃这样的挑战者，走的是 Rabbit R1 的路子，想用一个 AI 助手，一杆子捅到底，然后被互联网大厂南墙撞得头破血流。 星芒 OSTA O1 Pro 采用了阔直板形式｜图片来源：极客公园 历史肯定是要发展的，但道路无疑注…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "字节，该造手机了",
+              "link": "http://www.geekpark.net/news/374374",
+              "source": "极客公园",
+              "publishedAt": "Mon, 23 Nov 2026 23:47:18 +0800",
+              "summary": "&nbsp; &nbsp; 11 月 19 日，财联社援引供应链人士的消息称，富士康旗下的富智康已经拿到 OpenAI 手机的组装订单，首款产品有望在 2027 年底或 2028 年面市。OpenAI 至今没有确认自己在做手机，但从今年 4 月起，围绕这台手机的供应链消息就没有断过。 而在中国，一家 AI 公司的手机其实已经卖到了第二代，这就是豆包手机。只不过在这台手机上，让助手帮你叫一辆车已经不算难事，但想让它接着给朋友回一条「我上车了」的微信，目前还做不到。 按曹操出行公布的用法，看到想去的地方，按一下手机侧面…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道",
+              "link": "http://www.geekpark.net/news/374304",
+              "source": "极客公园",
+              "publishedAt": "Mon, 23 Nov 2026 09:22:36 +0800",
+              "summary": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限 11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 &middot; 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前，不应突破约定的发展门槛。 他认为，传统 AI 能力评测基准会随着技术进步迅速过时，而困惑度（Perplexity）可以作为衡量模型预训练进…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段",
+              "link": "http://www.geekpark.net/news/374302",
+              "source": "极客公园",
+              "publishedAt": "Sun, 22 Nov 2026 09:58:48 +0800",
+              "summary": "&nbsp; 头图来源：腾讯 &nbsp; 腾讯的 AI 故事，正在进入一个有些沉重的阶段。 11 月 18 日，腾讯发布 2026 年第三季度财报。本季度营收 2073.4 亿元，同比增长 8%；Non-IFRS 经营利润 681 亿元，同比下降 6%；Non-IFRS 归母净利润 665 亿元，同比下降 6%。 图片来源：腾讯财报 本季度，腾讯资本开支达到 814 亿元，同比增长 527%，单季支出已经超过 2025 年全年；研发投入 323.6 亿元，同比增长 42%。大规模算力采购和预付款之下，自由现金流为…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机",
+              "link": "http://www.geekpark.net/news/374299",
+              "source": "极客公园",
+              "publishedAt": "Sat, 21 Nov 2026 08:17:10 +0800",
+              "summary": "传林俊旸 AI 初创公司完成新融资，估值翻倍至 50 亿美元 据彭博社报道，阿里巴巴集团前 AI 负责人林俊旸创办的语用科技 ( Pragmatik Labs)，已完成新一轮融资，估值达 50 亿美元，短短几个月内估值翻了一倍多。 林俊旸曾是阿里的明星研究员，在离职后于今年夏季创立语用科技。据知情人士称，语用科技在最近结束的一轮融资中筹集了数千万美元资金。今年 8 月，该公司在首次融资中筹集了数亿美元，当时估值为 20 亿美元。 知情人士称，语用科技的新投资者包括华业天成资本、鼎晖投资以及汽车制造商吉利汽车。 语用…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」",
+              "link": "http://www.geekpark.net/news/374282",
+              "source": "极客公园",
+              "publishedAt": "Fri, 20 Nov 2026 16:24:30 +0800",
+              "summary": "作者｜宇航猿 编辑｜靖宇 AI 吞掉了软件，现在，它要吞掉工业了。 卸任亚马逊 CEO 五年后，杰夫&middot;贝佐斯没忍住，又给自己找了个班上。 当地时间 2026 年 11 月 17 日，加州门洛帕克的 Semafor「硅谷与世界」峰会现场，贝佐斯和物理学家维克&middot;巴贾杰（Vik Bajaj）罕见同台。 他现在的最新头衔，是 AI 初创公司 Prometheus 的联合创始人兼联席 CEO 。这是自 2021 年交出亚马逊帅印后，这位商业巨头首次重回一线担任 CEO。 早在 2024 年底种子期…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
+              "link": "http://www.geekpark.net/news/374235",
+              "source": "极客公园",
+              "publishedAt": "Fri, 20 Nov 2026 09:04:08 +0800",
+              "summary": "「史上最大 IPO」：Anthropic 上市首日收盘大涨 17%，市值达 1.27 万亿美元 11 月 20 日消息，AI 公司 Anthropic 于当地时间 11 月 19 日在美国纳斯达克上市， 首日股价以 97.17 美元（现汇率约合 649.2 元人民币）收盘，较 83 美元（现汇率约合 554.5 元人民币）的发行价上涨 17.07%。 该股开盘即报 111.5 美元（现汇率约合 744.9 元人民币），较发行价高出约 34.3%；盘中一度突破 115 美元（现汇率约合 768.3 元人民币），随后回…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋",
+              "link": "http://www.geekpark.net/news/374175",
+              "source": "极客公园",
+              "publishedAt": "Wed, 18 Nov 2026 21:40:28 +0800",
+              "summary": "作者｜Techno 之王 编辑｜靖宇 「 基本不可用，不推荐 」。 OpenAI 新模型上线仅仅 8 分钟，硅谷知名创业者 Matt Shumer，就在社交平台上扔下一句毫不留情的评价。 紧接着，拥有大批开发者拥趸的 Theo Browne，发了一篇长文《我为什么讨厌 GPT-6.2 Astra》。向来对前沿模型保持温和耐心的沃顿商学院教授 Ethan Mollick，测完后也给出了罕见的严厉定调，「非常不稳定且古怪」，直言这是「自 GPT-4.5 以来 OpenAI 前沿发布首次未见明显进步」。 这原本该是 Op…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "Claude Opus 5.6 做出了史上最牛的 PPT，直接杀死比赛？",
+              "link": "https://www.ifanr.com/1695831?utm_source=rss&utm_medium=rss&utm_campaign",
+              "source": "爱范儿",
+              "publishedAt": "Fri, 27 Nov 2026 09:06:19 +0000",
+              "summary": "这可能是我们见过最离谱的 AI 生成 PPT。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+              "channelId": "ifanr_ai"
+            },
+            {
+              "title": "Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了",
+              "link": "https://www.ifanr.com/1695671?utm_source=rss&utm_medium=rss&utm_campaign",
+              "source": "爱范儿",
+              "publishedAt": "Fri, 27 Nov 2026 03:49:58 +0000",
+              "summary": "AI 既是一场工业革命，也是一场文艺复兴。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+              "channelId": "ifanr_ai"
+            }
+          ]
+        },
+        {
+          "title": "技术突破",
+          "query": "AI 技术 突破",
+          "items": [
+            {
+              "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+              "link": "https://sspai.com/post/119563",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 15:00:00 +0800",
+              "summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。 查看全文",
+              "channelId": "sspai_ai"
+            },
+            {
+              "title": "瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+              "link": "https://www.infoq.cn/article/zRubhYcrBMTrOvzjlPQN?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 16:15:06 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机",
+              "link": "http://www.geekpark.net/news/374299",
+              "source": "极客公园",
+              "publishedAt": "Sat, 21 Nov 2026 08:17:10 +0800",
+              "summary": "传林俊旸 AI 初创公司完成新融资，估值翻倍至 50 亿美元 据彭博社报道，阿里巴巴集团前 AI 负责人林俊旸创办的语用科技 ( Pragmatik Labs)，已完成新一轮融资，估值达 50 亿美元，短短几个月内估值翻了一倍多。 林俊旸曾是阿里的明星研究员，在离职后于今年夏季创立语用科技。据知情人士称，语用科技在最近结束的一轮融资中筹集了数千万美元资金。今年 8 月，该公司在首次融资中筹集了数亿美元，当时估值为 20 亿美元。 知情人士称，语用科技的新投资者包括华业天成资本、鼎晖投资以及汽车制造商吉利汽车。 语用…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+              "link": "https://www.ithome.com/1/033/812.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 02:27:31 GMT",
+              "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何时间表。他强调，微软必须先构建未来 AI 应用所需的技术，并证明用户确实认可这些能力的价值，才能“赢得许可”，进而推进下一代系统。 达武卢里表示 Windows …",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+              "link": "https://www.ithome.com/1/033/798.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 01:04:32 GMT",
+              "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦…",
+              "channelId": "ithome_ai"
+            },
+            {
+              "title": "鞠婧祎代言！荣耀700系列追光之旅新品发布会",
+              "link": "https://news.mydrivers.com/1/1166/1166682.htm",
+              "source": "RSS",
+              "publishedAt": "2026-11-18 15:03:06",
+              "summary": "荣耀700系列追光之旅新品发布会，11月23日14:30准时开启！见证影像大换代，解锁4K电影感Live、AI灵动背屏，全系搭载9000mAh青海湖大电池。 2亿主摄、潜望长焦、绿洲护眼屏、旗舰性能悉数登场，还有全场景新品亮相。 锁定直播间，第一时间看真机、听价格，不错过全部惊喜。",
+              "channelId": "mydrivers_ai"
+            },
+            {
+              "title": "首发6秒4K超清长实况！OPPO Reno17系列新品发布会",
+              "link": "https://news.mydrivers.com/1/1164/1164330.htm",
+              "source": "RSS",
+              "publishedAt": "2026-11-09 16:55:59",
+              "summary": "OPPO Reno17系列新品发布会11月16日19:00开启直播，重磅首发6秒4K超清长实况，突破传统实况时长限制，完整留住动态画面与原声，轻松定格舞台、聚会、日常高光。 全系搭载潜望长焦，全焦段4K影像拉满，搭配全新潮流配色，颜值与影像同步升级。直播间同步揭晓Reno17、Reno17 Pro完整配置、定价，还有OPPO Watch5、Pad Air6等生态新品亮相。 锁定直播，第一时间上手体验长实况新玩法，不错过所有新机重磅信息。",
+              "channelId": "mydrivers_ai"
+            }
+          ]
+        },
+        {
+          "title": "AI-UX",
+          "query": "AI 产品 交互 体验",
+          "items": [
+            {
+              "title": "如何让Agent 记得住、查得准、改得对？",
+              "link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 17:25:02 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+              "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 15:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+              "link": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 13:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
+              "link": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 14:56:46 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
+              "link": "http://www.geekpark.net/news/374235",
+              "source": "极客公园",
+              "publishedAt": "Fri, 20 Nov 2026 09:04:08 +0800",
+              "summary": "「史上最大 IPO」：Anthropic 上市首日收盘大涨 17%，市值达 1.27 万亿美元 11 月 20 日消息，AI 公司 Anthropic 于当地时间 11 月 19 日在美国纳斯达克上市， 首日股价以 97.17 美元（现汇率约合 649.2 元人民币）收盘，较 83 美元（现汇率约合 554.5 元人民币）的发行价上涨 17.07%。 该股开盘即报 111.5 美元（现汇率约合 744.9 元人民币），较发行价高出约 34.3%；盘中一度突破 115 美元（现汇率约合 768.3 元人民币），随后回…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        },
+        {
+          "title": "产品范式",
+          "query": "AI 产品 发布",
+          "items": [
+            {
+              "title": "豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道",
+              "link": "http://www.geekpark.net/news/374438",
+              "source": "极客公园",
+              "publishedAt": "Wed, 25 Nov 2026 08:44:18 +0800",
+              "summary": "豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。 小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是「一个懂你，还能主动帮你办事的豆包」。未来，小豆上的能力与体验也将逐步在豆包 App 上线。（来源：IT 之家） 特斯拉 SpaceX 合并最新进展曝光 据报道，马斯克旗下特斯拉与 SpaceX 的潜在合并…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+              "link": "https://sspai.com/post/116773",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 17:30:00 +0800",
+              "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。 查看全文",
+              "channelId": "sspai_ai"
+            },
+            {
+              "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+              "link": "https://www.ithome.com/1/033/822.htm",
+              "source": "RSS",
+              "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+              "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        },
+        {
+          "title": "推理成本和 Token 经济",
+          "query": "AI 推理 成本 Token",
+          "items": [
+            {
+              "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+              "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 15:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "成本低九成、开源权重：MAGI-2 带动视频模型进入大掀桌时代",
+              "link": "http://www.geekpark.net/news/374532",
+              "source": "极客公园",
+              "publishedAt": "Thu, 26 Nov 2026 16:38:54 +0800",
+              "summary": "作者｜Cynthia 编辑｜郑玄 2026 年的视频大模型圈子，有一个心照不宣的保留节目：无论哪家推出新模型，最终的成绩页上，永远会留一行和 Seedance 2.5 的对标数据。 这款上半年坐稳行业标杆的闭源模型，如今成了整条赛道公认的「基准线」&mdash;&mdash; 快手可灵 Kling 3.0 上线，要比镜头控制与生成时长；阿里 Wan 3.0 推出，主打同画质下的性价比；MiniMax 发 H3 系列，也要在 AA 榜单上标清和 Seedance 的 Elo 分差。 你方唱罢我登场，榜首的排位刷了一轮…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "黄仁勋重返英伟达，市值涨31.48%；马斯克：AI 研发落后对手，出租算力比自研更赚钱；新一代 AI 模型更爱「爆粗口」",
+              "link": "http://www.geekpark.net/news/374375",
+              "source": "极客公园",
+              "publishedAt": "Tue, 24 Nov 2026 08:28:30 +0800",
+              "summary": "黄仁勋重返英伟达 黄仁勋在美国当地时间 11 月 23 日重返英伟达总部，现场员工聚集在大厅高声欢呼，迎接这位创办人回归。黄仁勋在现场表示：「感谢大家给我第二次机会，接下来我一定会成为更优秀的 CEO」。 「我很荣幸能重返英伟达，并在新一轮工业革命伊始领导这家全球最具影响力的科技公司之一，」黄仁勋表示。 「我将以最大的谦逊和焕然一新的承诺肩负起这一重任。我要感谢英伟达董事会在此过程中给予的信任与审慎考量。我尤其感谢哈维 &middot; 琼斯（Harvey Jones）作为董事长所展现的领导力，也感谢科莱特 &mi…",
+              "channelId": "geekpark_ai"
+            },
+            {
+              "title": "关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切",
+              "link": "http://www.geekpark.net/news/374301",
+              "source": "极客公园",
+              "publishedAt": "Sun, 22 Nov 2026 09:56:28 +0800",
+              "summary": "&nbsp; 头图来源：ChatGPT 生成 &nbsp; 11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和混元团队的研究员现身 Reddit LocalLLaMA 社区，开启了混元团队史上第一场面向全球开发者的公开 AMA。 图片来源：x 两小时内，姚顺雨和混元团队解答了 300 余条开发者提问，从底层架构取舍到长期路线规划，从量化落地经验到开源生态适配，几乎覆盖了当前开源大模型领域所有核心争议与关切。 过去不到一个月，混元刚刚完成一轮高密度产品发布&mdash;&mdash;11 月 4…",
+              "channelId": "geekpark_ai"
+            }
+          ]
+        },
+        {
+          "title": "代理式 AI",
+          "query": "AI 智能体",
+          "items": [
+            {
+              "title": "如何让Agent 记得住、查得准、改得对？",
+              "link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 17:25:02 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+              "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 15:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+              "link": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 13:00:00 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
+              "link": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 14:56:46 GMT",
+              "summary": "点击查看原文>",
+              "channelId": "infoq_ai"
+            },
+            {
+              "title": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
+              "link": "http://www.geekpark.net/news/374235",
+              "source": "极客公园",
+              "publishedAt": "Fri, 20 Nov 2026 09:04:08 +0800",
+              "summary": "「史上最大 IPO」：Anthropic 上市首日收盘大涨 17%，市值达 1.27 万亿美元 11 月 20 日消息，AI 公司 Anthropic 于当地时间 11 月 19 日在美国纳斯达克上市， 首日股价以 97.17 美元（现汇率约合 649.2 元人民币）收盘，较 83 美元（现汇率约合 554.5 元人民币）的发行价上涨 17.07%。 该股开盘即报 111.5 美元（现汇率约合 744.9 元人民币），较发行价高出约 34.3%；盘中一度突破 115 美元（现汇率约合 768.3 元人民币），随后回…",
+              "channelId": "geekpark_ai"
+            }
+          ]
+        },
+        {
+          "title": "商业 ROI",
+          "query": "AI 商业化 ROI",
+          "items": [
+            {
+              "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+              "link": "https://sspai.com/post/116773",
+              "source": "RSS",
+              "publishedAt": "Thu, 26 Nov 2026 17:30:00 +0800",
+              "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。 查看全文",
+              "channelId": "sspai_ai"
+            },
+            {
+              "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+              "link": "https://www.ithome.com/1/033/777.htm",
+              "source": "RSS",
+              "publishedAt": "Fri, 27 Nov 2026 23:04:37 GMT",
+              "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用…",
+              "channelId": "ithome_ai"
+            }
+          ]
+        }
+      ],
+      "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA",
+          "currency": "USD",
+          "price": 150.49000549316406,
+          "previousClose": 217.22999572753906,
+          "changePct": -30.72319272062395
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft",
+          "currency": "USD",
+          "price": 492.8500061035156,
+          "previousClose": 539.4400024414062,
+          "changePct": -8.636733673259837
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "Alphabet",
+          "currency": "USD",
+          "price": 274.9599914550781,
+          "previousClose": 349.2200012207031,
+          "changePct": -21.264535108541367
+        },
+        {
+          "symbol": "002230.SZ",
+          "name": "科大讯飞",
+          "currency": "CNY",
+          "price": 35.95000076293945,
+          "previousClose": 36,
+          "changePct": -0.1388867696126302
+        },
+        {
+          "symbol": "300308.SZ",
+          "name": "中际旭创",
+          "currency": "CNY",
+          "price": 516.1500244140625,
+          "previousClose": 670,
+          "changePct": -22.96268292327425
+        },
+        {
+          "symbol": "688111.SS",
+          "name": "金山办公",
+          "currency": "CNY",
+          "price": 231.11000061035156,
+          "previousClose": 231.44000244140625,
+          "changePct": -0.14258634098408904
+        },
+        {
+          "symbol": "600570.SS",
+          "name": "恒生电子",
+          "currency": "CNY",
+          "price": 20.049999237060547,
+          "previousClose": 19.950000762939453,
+          "changePct": 0.50124546514734
+        },
+        {
+          "symbol": "002415.SZ",
+          "name": "海康威视",
+          "currency": "CNY",
+          "price": 34.2599983215332,
+          "previousClose": 33.65999984741211,
+          "changePct": 1.7825266691652217
+        }
+      ],
+      "channels": [
+        {
+          "channelId": "sspai_ai",
+          "count": 4,
+          "error": null
+        },
+        {
+          "channelId": "infoq_ai",
+          "count": 11,
+          "error": null
+        },
+        {
+          "channelId": "juejin_ai",
+          "count": 0,
+          "error": null
+        },
+        {
+          "channelId": "geekpark_ai",
+          "count": 24,
+          "error": null
+        },
+        {
+          "channelId": "ifanr_ai",
+          "count": 2,
+          "error": null
+        },
+        {
+          "channelId": "ithome_ai",
+          "count": 11,
+          "error": null
+        },
+        {
+          "channelId": "mydrivers_ai",
+          "count": 2,
+          "error": null
+        }
+      ],
+      "diagnostics": []
+    }
+  },
+  "weeklyHighlights": [
+    {
+      "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+      "link": "https://www.ithome.com/1/033/822.htm",
+      "source": "RSS",
+      "publishedAt": "Sat, 28 Nov 2026 03:18:23 GMT",
+      "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S…",
+      "channelId": "ithome_ai",
+      "section": "OpenClaw 生态",
+      "sourceCount": 1,
+      "itemCount": 4,
+      "importance": 14
+    },
+    {
+      "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+      "link": "https://www.ithome.com/1/033/812.htm",
+      "source": "RSS",
+      "publishedAt": "Sat, 28 Nov 2026 02:27:31 GMT",
+      "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何时间表。他强调，微软必须先构建未来 AI 应用所需的技术，并证明用户确实认可这些能力的价值，才能“赢得许可”，进而推进下一代系统。 达武卢里表示 Windows …",
+      "channelId": "ithome_ai",
+      "section": "OpenClaw 生态",
+      "sourceCount": 1,
+      "itemCount": 3,
+      "importance": 13
+    },
+    {
+      "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+      "link": "https://www.ithome.com/1/033/798.htm",
+      "source": "RSS",
+      "publishedAt": "Sat, 28 Nov 2026 01:04:32 GMT",
+      "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦…",
+      "channelId": "ithome_ai",
+      "section": "OpenClaw 生态",
+      "sourceCount": 1,
+      "itemCount": 3,
+      "importance": 13
+    },
+    {
+      "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+      "link": "https://www.ithome.com/1/033/777.htm",
+      "source": "RSS",
+      "publishedAt": "Fri, 27 Nov 2026 23:04:37 GMT",
+      "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用…",
+      "channelId": "ithome_ai",
+      "section": "OpenClaw 生态",
+      "sourceCount": 1,
+      "itemCount": 3,
+      "importance": 13
+    },
+    {
+      "title": "如何让Agent 记得住、查得准、改得对？",
+      "link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+      "source": "RSS",
+      "publishedAt": "Fri, 27 Nov 2026 17:25:02 GMT",
+      "summary": "点击查看原文>",
+      "channelId": "infoq_ai",
+      "section": "OpenClaw 生态",
+      "sourceCount": 1,
+      "itemCount": 3,
+      "importance": 13
+    },
+    {
+      "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+      "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+      "source": "RSS",
+      "publishedAt": "Fri, 27 Nov 2026 15:00:00 GMT",
+      "summary": "点击查看原文>",
+      "channelId": "infoq_ai",
+      "section": "AI-UX",
+      "sourceCount": 1,
+      "itemCount": 3,
+      "importance": 13
+    },
+    {
+      "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
+      "link": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article",
+      "source": "RSS",
+      "publishedAt": "Thu, 26 Nov 2026 14:56:46 GMT",
+      "summary": "点击查看原文>",
+      "channelId": "infoq_ai",
+      "section": "OpenClaw 生态",
+      "sourceCount": 1,
+      "itemCount": 3,
+      "importance": 13
+    },
+    {
+      "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+      "link": "https://www.ithome.com/1/033/824.htm",
+      "source": "RSS",
+      "publishedAt": "Sat, 28 Nov 2026 03:22:22 GMT",
+      "summary": "IT之家 11 月 28 日消息，当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI 无法从运行其 AI 服务的 iPhone 中取得所需数据 。 法德尔曾与艾夫在苹果共事，因被誉为“iPod 之父”以及参与创造 iPhone 而广为人知。他创办了 Build Collective，此前还创立过 Nest Labs。 法德尔认为，OpenAI 之所以执意开发独立硬件，是因为它需要 获取现实物理世…",
+      "channelId": "ithome_ai",
+      "section": "OpenClaw 生态",
+      "sourceCount": 1,
+      "itemCount": 2,
+      "importance": 12
+    },
+    {
+      "title": "Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意",
+      "link": "https://www.ithome.com/1/033/810.htm",
+      "source": "RSS",
+      "publishedAt": "Sat, 28 Nov 2026 02:16:13 GMT",
+      "summary": "IT之家 11 月 28 日消息，科技媒体 NeoWin 昨日（11 月 27 日）发布博文，报道称微软已搁置为 Edge 浏览器扩展 AI 功能计划， 不再为该浏览器右键菜单加入摘要、引用和翻译功能。 IT之家援引博文介绍，微软于 2025 年 6 月更新 AI at Work 路线图条目 RM497135，规划在 Microsoft Edge 浏览器中，为右键菜单添加 3 项 AI 选项，用户选中文本后右键，可以调用 Copilot 完成摘要、引用和翻译功能。 不过微软近期更新该条目，表示“ 我们已决定取消这项…",
+      "channelId": "ithome_ai",
+      "section": "OpenClaw 生态",
+      "sourceCount": 1,
+      "itemCount": 2,
+      "importance": 12
+    },
+    {
+      "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+      "link": "https://www.ithome.com/1/033/795.htm",
+      "source": "RSS",
+      "publishedAt": "Sat, 28 Nov 2026 00:50:37 GMT",
+      "summary": "IT之家 11 月 28 日消息，技术博主 @itspdfu 于 11 月 26 日在 X 平台发布长推文， 通过挖掘 iOS 27.3 Beta 2 开发者预览版，发现了苹果 Siri AI 和多项 Apple Intelligence 功能的每日使用限额。 消息源指出根据苹果设定， 设备每向苹果的私密云计算（PCC）发起一次请求，就消耗一个 Token。 而这些 Token 只用来证明用户还有可用额度，不会暴露用户身份。 在请求流程中，用户在 iPhone 端发起的云端 PCC 请求，会先联系 Token 授予…",
+      "channelId": "ithome_ai",
+      "section": "OpenClaw 生态",
+      "sourceCount": 1,
+      "itemCount": 2,
+      "importance": 12
+    }
+  ],
+  "health": {
+    "totalNewsItems": 280,
+    "emptySections": [],
+    "totalStocks": 40,
+    "stocksWithPrice": 40,
+    "channels": {
+      "sspai_ai": 16,
+      "infoq_ai": 53,
+      "juejin_ai": 0,
+      "geekpark_ai": 81,
+      "ifanr_ai": 9,
+      "ithome_ai": 57,
+      "mydrivers_ai": 3
+    },
+    "diagnostics": []
+  }
+}
